@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "1d4042a0-c9ff-11ea-ab22-9cb6d013a4a3",
+    "deck_config_uuid": "345a05e2-ca05-11ea-ab22-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "1d4042a0-c9ff-11ea-ab22-9cb6d013a4a3",
+            "crowdanki_uuid": "345a05e2-ca05-11ea-ab22-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -142,7 +142,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "<div style='font-family: IPAGothic; font-size: 20px;'>{{kanji}}</div>\n<hr>\n<b><div style='font-family: Helvetica; font-size: 20px;'>{{meaning}}</div></b>\n<hr>\n\n\n<div style='font-family: Helvetica; font-size: 20px;'>{{explanation}}</div>\n<hr>\n\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>",
+                    "afmt": "<div style='font-family: IPAGothic; font-size: 20px;'>{{kanji}}</div>\n<hr>\n<b><div style='height:10vh;font-family: Helvetica; font-size: 20px;'>{{meaning}}</div></b>\n<hr>\n<div style='height:20vh; font-family: Helvetica; font-size: 20px;'>{{explanation}}</div>\n<hr>\n\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -150,10 +150,10 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "\n\n<div style='font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>\n<div id=\"bottom-compounds\"><div style='font-family: IPAGothic; font-size: 20px;'>{{compounds}}</div></div>"
+                    "qfmt": "\n\n<div style='height:40vh;font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>\n<div id=\"bottom-compounds\"><div style='font-family: IPAGothic; font-size: 20px;'>{{compounds}}</div></div>"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n<div style='font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<hr>\n\n<div style='font-family: Helvetica; font-size: 20px;'>{{explanation}}</div>\n\n<hr>\n\n\n<div id=\"bottom-center\">{{no}}</div>\n",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n<div style='height:20vh; font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<hr>\n\n<div style='height:20vh;font-family: Helvetica; font-size: 20px;'>{{explanation}}</div>\n\n<hr>\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\">{{no}}</div>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
