@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "85d3ca06-ca74-11ea-bb4b-9cb6d013a4a3",
+    "deck_config_uuid": "61b0a112-ca92-11ea-ac4d-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "85d3ca06-ca74-11ea-bb4b-9cb6d013a4a3",
+            "crowdanki_uuid": "61b0a112-ca92-11ea-ac4d-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -322,7 +322,7 @@
                 "九",
                 "neun",
                 "",
-                "",
+                "Kegel, Kegelbahn, kegeln",
                 "",
                 ""
             ],
@@ -339,7 +339,7 @@
                 "十",
                 "zehn",
                 "",
-                "",
+                "zehn, Nadel",
                 "",
                 ""
             ],
@@ -356,7 +356,7 @@
                 "口",
                 "Mund",
                 "",
-                "",
+                "Mund, Mündung, Öffnung",
                 "",
                 ""
             ],
@@ -373,9 +373,9 @@
                 "日",
                 "Tag",
                 "",
-                "",
+                "Sonne, Tag, plappernde/trällendere Zunge",
                 "日曜日",
-                ""
+                "Sonntag"
             ],
             "flags": 0,
             "guid": "qCoi9dp;*>",
@@ -390,7 +390,7 @@
                 "月",
                 "Monat",
                 "",
-                "",
+                "Mond, Körperteil, Fleisch",
                 "",
                 ""
             ],
@@ -407,7 +407,7 @@
                 "田",
                 "Reisfeld",
                 "",
-                "",
+                "Reisfeld, Gehirn",
                 "",
                 ""
             ],
@@ -611,7 +611,7 @@
                 "早",
                 "früh",
                 "",
-                "",
+                "Sonnenblume",
                 "",
                 ""
             ],
@@ -781,7 +781,7 @@
                 "自",
                 "selbst",
                 "",
-                "Nase",
+                "Nase, Nüstern",
                 "",
                 ""
             ],
@@ -798,7 +798,7 @@
                 "白",
                 "weiß",
                 "",
-                "",
+                "weiß, weißer Vogel, weiße Taube",
                 "",
                 ""
             ],
@@ -917,7 +917,7 @@
                 "丸",
                 "rund",
                 "",
-                "",
+                "Dickwanst",
                 "",
                 ""
             ],
@@ -934,7 +934,7 @@
                 "寸",
                 "Längenmaß",
                 "",
-                "",
+                "Leim, geleimt, aneinander geleimt",
                 "",
                 ""
             ],
@@ -985,7 +985,7 @@
                 "博",
                 "Dr.",
                 "",
-                "",
+                "Akupunkteur (ohne Nadel links)",
                 "",
                 ""
             ],
@@ -1070,7 +1070,7 @@
                 "朝",
                 "Morgen",
                 "",
-                "",
+                "links: Sprühregen",
                 "",
                 ""
             ],
@@ -1087,7 +1087,7 @@
                 "嘲",
                 "Hohn",
                 "Mund,Morgen -&gt; durchzechte Nacht<br>",
-                "",
+                "Kopf (vorzugweise abgetrennt von Körper)",
                 "",
                 ""
             ],
@@ -1121,7 +1121,7 @@
                 "貝",
                 "Muschel",
                 "",
-                "",
+                "Muschel, Geld",
                 "",
                 ""
             ],
@@ -1529,7 +1529,7 @@
                 "工",
                 "Handwerk",
                 "",
-                "",
+                "Handwerk, Stahlträger, künstlich",
                 "",
                 ""
             ],
@@ -1648,7 +1648,7 @@
                 "刀",
                 "Shwert",
                 "",
-                "",
+                "Dolch, Säbel falls geschrieben wie in 則",
                 "",
                 ""
             ],
@@ -1699,7 +1699,7 @@
                 "召",
                 "locken",
                 "",
-                "",
+                "locken",
                 "",
                 ""
             ],
@@ -1784,7 +1784,7 @@
                 "丁",
                 "Häuserblock",
                 "",
-                "",
+                "Nagel, Reißzwecke",
                 "",
                 ""
             ],
@@ -1852,7 +1852,7 @@
                 "子",
                 "Kind",
                 "",
-                "",
+                "Kind (jedoch in einem etwas älteren Kontext)",
                 "",
                 ""
             ],
@@ -1903,7 +1903,7 @@
                 "女",
                 "Frau",
                 "",
-                "",
+                "Frau",
                 "",
                 ""
             ],
@@ -1954,7 +1954,7 @@
                 "母",
                 "Mama",
                 "",
-                "",
+                "Mama, Brüste",
                 "",
                 ""
             ],
@@ -1988,7 +1988,7 @@
                 "兄",
                 "älterer Bruder",
                 "",
-                "",
+                "Teenager",
                 "",
                 ""
             ],
@@ -2073,7 +2073,7 @@
                 "大",
                 "groß",
                 "",
-                "",
+                "grosser Hund/Bernardiner",
                 "",
                 ""
             ],
@@ -2107,7 +2107,7 @@
                 "タ",
                 "Abend",
                 "",
-                "",
+                "Abend",
                 "",
                 ""
             ],
@@ -2175,7 +2175,7 @@
                 "石",
                 "Stein",
                 "",
-                "",
+                "Stein, Gestein",
                 "",
                 ""
             ],
@@ -2192,7 +2192,7 @@
                 "肖",
                 "gleichen",
                 "",
-                "",
+                "Funken, Kerze",
                 "",
                 ""
             ],
@@ -2447,7 +2447,7 @@
                 "川",
                 "Fluss",
                 "",
-                "",
+                "Fluss, Flut",
                 "",
                 ""
             ],
@@ -2549,7 +2549,7 @@
                 "泉",
                 "Springquell",
                 "",
-                "",
+                "gleiche Bedeutung, jedoch wird 水 zu 小 abgekürzt",
                 "",
                 ""
             ],
@@ -2906,7 +2906,7 @@
                 "土",
                 "Erde",
                 "",
-                "",
+                "Erde, Lehm, Dreck",
                 "",
                 ""
             ],
@@ -3008,7 +3008,7 @@
                 "圭",
                 "eckiger Edelstein",
                 "",
-                "",
+                "Efeu",
                 "",
                 ""
             ],
@@ -3110,7 +3110,7 @@
                 "火",
                 "Feuer",
                 "",
-                "",
+                "Kamin, Feuerstelle, Brand",
                 "",
                 ""
             ],
@@ -3314,7 +3314,7 @@
                 "里",
                 "Ri",
                 "",
-                "",
+                "Computer",
                 "",
                 ""
             ],
@@ -3433,7 +3433,7 @@
                 "同",
                 "identisch",
                 "",
-                "",
+                "Mönch",
                 "",
                 ""
             ],
@@ -3654,7 +3654,7 @@
                 "富",
                 "Reichtum",
                 "",
-                "",
+                "Reichtum (nur der Teil ohne Dach)",
                 "",
                 ""
             ],
@@ -3688,7 +3688,7 @@
                 "木",
                 "Baum",
                 "",
-                "",
+                "Baum, Holz, mit den letzten Beiden Strichen getrennt: Holzpfahl, Pfahl",
                 "",
                 ""
             ],
@@ -4419,7 +4419,7 @@
                 "兆",
                 "Vorzeichen",
                 "",
-                "",
+                "Vorzeichen, wenn abgekürzt und links wie in 状 bedeutet es Schildkröte",
                 "",
                 ""
             ],
@@ -4470,7 +4470,7 @@
                 "犬",
                 "Hund",
                 "",
-                "",
+                "sehr kleiner Hund, wenn wie links in 猫 bedeutet es Rudel Wildhunde",
                 "",
                 ""
             ],
@@ -4589,7 +4589,7 @@
                 "牛",
                 "Kuh",
                 "",
-                "",
+                "Kuh, jedoch ohne Schwanz falls über anderen Zeichen",
                 "",
                 ""
             ],
