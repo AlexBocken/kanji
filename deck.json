@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "af8055ac-ca08-11ea-ae9f-9cb6d013a4a3",
+    "deck_config_uuid": "9753a846-ca51-11ea-b214-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "af8055ac-ca08-11ea-ae9f-9cb6d013a4a3",
+            "crowdanki_uuid": "9753a846-ca51-11ea-b214-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
