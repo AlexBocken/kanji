@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "9753a846-ca51-11ea-b214-9cb6d013a4a3",
+    "deck_config_uuid": "85d3ca06-ca74-11ea-bb4b-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "9753a846-ca51-11ea-b214-9cb6d013a4a3",
+            "crowdanki_uuid": "85d3ca06-ca74-11ea-bb4b-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -33,7 +33,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 30
+                "perDay": 10
             },
             "replayq": true,
             "rev": {
@@ -42,7 +42,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 30
             },
             "timer": 0
         }
@@ -98,7 +98,7 @@
                 {
                     "font": "Helvetica",
                     "media": [],
-                    "name": "compounds",
+                    "name": "primitive",
                     "ord": 4,
                     "rtl": false,
                     "size": 20,
@@ -107,8 +107,17 @@
                 {
                     "font": "Helvetica",
                     "media": [],
-                    "name": "compounds_meaning",
+                    "name": "compounds",
                     "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "compounds_meaning",
+                    "ord": 6,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -125,7 +134,7 @@
                     [
                         0,
                         1,
-                        4
+                        5
                     ]
                 ],
                 [
@@ -142,7 +151,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "<div style='font-family: IPAGothic; font-size: 20px;'>{{kanji}}</div>\n<hr>\n<b><div style='height:10vh;font-family: Helvetica; font-size: 20px;'>{{meaning}}</div></b>\n<hr>\n<div style='height:20vh; font-family: Helvetica; font-size: 20px;'>{{explanation}}</div>\n<hr>\n\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>",
+                    "afmt": "<div style='font-family: IPAGothic; font-size: 20px;'>{{kanji}}</div>\n<hr>\n<b><div style='height:10vh;font-family: Helvetica; font-size: 25px;'>{{meaning}}</div></b>\n<hr>\n<div style='height:20vh; font-family: Helvetica; font-size: 10px;'>{{explanation}}</div>\n<div style='height=10vgh; font-family: Helvetica; font-size: 12px;' >{{primitive}}</div>\n<hr>\n\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -153,7 +162,7 @@
                     "qfmt": "\n\n<div style='height:40vh;font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>\n<div id=\"bottom-compounds\"><div style='font-family: IPAGothic; font-size: 20px;'>{{compounds}}</div></div>"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n<div style='height:20vh; font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<hr>\n\n<div style='height:20vh;font-family: Helvetica; font-size: 20px;'>{{explanation}}</div>\n\n<hr>\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\">{{no}}</div>\n",
+                    "afmt": "\n<div style='font-family: Helvetica; font-size: 20px;'>{{meaning}}</div>\n\n<hr id=answer>\n\n\n<div style='height:20vh; font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<hr>\n\n<div style='height:20vh;font-family: Helvetica; font-size: 20px;'>{{explanation}}</div>\n\n<hr>\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\">{{no}}</div>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -161,7 +170,7 @@
                     "did": null,
                     "name": "Card 2",
                     "ord": 1,
-                    "qfmt": "\n<div style='font-family: Helvetica; font-size: 20px;'>{{meaning}}</div>\n\n\n"
+                    "qfmt": "\n<div style='font-family: Helvetica; font-size: 30px;'>{{meaning}}</div>\n\n\n"
                 }
             ],
             "type": 0,
@@ -176,6 +185,7 @@
                 "1",
                 "一",
                 "eins",
+                "",
                 "",
                 "",
                 ""
@@ -194,6 +204,7 @@
                 "zwei",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -208,6 +219,7 @@
                 "3",
                 "三",
                 "drei",
+                "",
                 "",
                 "",
                 ""
@@ -226,6 +238,7 @@
                 "vier",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -240,6 +253,7 @@
                 "5",
                 "五",
                 "fünf",
+                "",
                 "",
                 "",
                 ""
@@ -258,6 +272,7 @@
                 "sechs",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -272,6 +287,7 @@
                 "7",
                 "七",
                 "sieben",
+                "",
                 "",
                 "",
                 ""
@@ -290,6 +306,7 @@
                 "acht",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -304,6 +321,7 @@
                 "9",
                 "九",
                 "neun",
+                "",
                 "",
                 "",
                 ""
@@ -322,6 +340,7 @@
                 "zehn",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -338,6 +357,7 @@
                 "Mund",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -352,6 +372,7 @@
                 "12",
                 "日",
                 "Tag",
+                "",
                 "",
                 "日曜日",
                 ""
@@ -370,6 +391,7 @@
                 "Monat",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -384,6 +406,7 @@
                 "14",
                 "田",
                 "Reisfeld",
+                "",
                 "",
                 "",
                 ""
@@ -402,6 +425,7 @@
                 "Auge",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -416,6 +440,7 @@
                 "16",
                 "古",
                 "alt",
+                "",
                 "",
                 "",
                 ""
@@ -434,6 +459,7 @@
                 "ich",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -448,6 +474,7 @@
                 "18",
                 "冒",
                 "riskieren",
+                "",
                 "",
                 "",
                 ""
@@ -466,6 +493,7 @@
                 "Gefährte<br>",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -480,6 +508,7 @@
                 "20",
                 "明",
                 "hell",
+                "",
                 "",
                 "",
                 ""
@@ -498,6 +527,7 @@
                 "Gesang",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -512,6 +542,7 @@
                 "22",
                 "晶",
                 "Kristall",
+                "",
                 "",
                 "",
                 ""
@@ -530,6 +561,7 @@
                 "Waren",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -544,6 +576,7 @@
                 "24",
                 "呂",
                 "Rückgrat",
+                "",
                 "",
                 "",
                 ""
@@ -562,6 +595,7 @@
                 "gedeihen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -576,6 +610,7 @@
                 "26",
                 "早",
                 "früh",
+                "",
                 "",
                 "",
                 ""
@@ -594,6 +629,7 @@
                 "aufgehende Sonne",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -608,6 +644,7 @@
                 "28",
                 "世",
                 "Generation",
+                "",
                 "",
                 "",
                 ""
@@ -626,6 +663,7 @@
                 "Magen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -642,6 +680,7 @@
                 "Morgendämmerung",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -656,6 +695,7 @@
                 "31",
                 "胆",
                 "Gallenblase",
+                "Das Fleisch tut am Magen weh weil die Gallenblase streikt",
                 "",
                 "",
                 ""
@@ -674,6 +714,7 @@
                 "Spanne",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -688,6 +729,7 @@
                 "33",
                 "凹",
                 "konkav",
+                "",
                 "",
                 "",
                 ""
@@ -706,6 +748,7 @@
                 "konvex",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -720,6 +763,7 @@
                 "35",
                 "旧",
                 "alte Zeiten",
+                "",
                 "",
                 "",
                 ""
@@ -737,6 +781,7 @@
                 "自",
                 "selbst",
                 "",
+                "Nase",
                 "",
                 ""
             ],
@@ -752,6 +797,7 @@
                 "37",
                 "白",
                 "weiß",
+                "",
                 "",
                 "",
                 ""
@@ -770,6 +816,7 @@
                 "hundert",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -784,6 +831,7 @@
                 "39",
                 "中",
                 "in",
+                "",
                 "",
                 "",
                 ""
@@ -802,6 +850,7 @@
                 "tausend",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -816,6 +865,7 @@
                 "41",
                 "舌",
                 "Zunge",
+                "",
                 "",
                 "",
                 ""
@@ -834,6 +884,7 @@
                 "Messkästchen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -848,6 +899,7 @@
                 "43",
                 "昇",
                 "aufsteigen",
+                "Sake (serviert in einem Messkästchen) trinken bis die Sonne aufsteigt",
                 "",
                 "",
                 ""
@@ -866,6 +918,7 @@
                 "rund",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -882,6 +935,7 @@
                 "Längenmaß",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -896,6 +950,7 @@
                 "46",
                 "肘",
                 "Ellenbogen",
+                "Der Ellenbogen ist ein Stück Fleisch, dass wenn mit Leim bestrichen einem schnell den Weg bahnen kann.",
                 "",
                 "",
                 ""
@@ -914,6 +969,7 @@
                 "Spezialgebiet",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -928,6 +984,7 @@
                 "48",
                 "博",
                 "Dr.",
+                "",
                 "",
                 "",
                 ""
@@ -946,6 +1003,7 @@
                 "wahrsagen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -960,6 +1018,7 @@
                 "50",
                 "上",
                 "auf",
+                "",
                 "",
                 "",
                 ""
@@ -978,6 +1037,7 @@
                 "unter",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -992,6 +1052,7 @@
                 "52",
                 "卓",
                 "hervorragend",
+                "",
                 "",
                 "",
                 ""
@@ -1010,6 +1071,7 @@
                 "Morgen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1024,6 +1086,7 @@
                 "54",
                 "嘲",
                 "Hohn",
+                "Mund,Morgen -&gt; durchzechte Nacht<br>",
                 "",
                 "",
                 ""
@@ -1040,6 +1103,7 @@
                 "55",
                 "只",
                 "nur",
+                "Das gibts <u>nur</u> einmal",
                 "",
                 "",
                 ""
@@ -1058,6 +1122,7 @@
                 "Muschel",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1072,6 +1137,7 @@
                 "57",
                 "唄",
                 "Schlager",
+                "Mit Schlager kann man viel Geld verdienen",
                 "",
                 "",
                 ""
@@ -1088,6 +1154,7 @@
                 "58",
                 "貞<br>",
                 "keusch",
+                "Muschen wird von Partner mit Zauberstab verschlossen",
                 "",
                 "",
                 ""
@@ -1104,6 +1171,7 @@
                 "59",
                 "員",
                 "Mitglied",
+                "Das Mitglied hört auf die höher gestellten.<div>Der Mund der Neuen wird mit einer Muschel zugehalten.</div>",
                 "",
                 "",
                 ""
@@ -1122,6 +1190,7 @@
                 "aufkleben",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1136,6 +1205,7 @@
                 "61",
                 "見",
                 "sehen",
+                "",
                 "",
                 "",
                 ""
@@ -1154,6 +1224,7 @@
                 "Säugling",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1168,6 +1239,7 @@
                 "63",
                 "元",
                 "Anfang",
+                "Am Anfang war Adam und Eva (2 Menschen)",
                 "",
                 "",
                 ""
@@ -1186,6 +1258,7 @@
                 "Buchseite",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1200,6 +1273,7 @@
                 "65",
                 "頑",
                 "hartnäckig",
+                "Am im Anfang ausgelegten Plan auf der Buchseite bestehen",
                 "",
                 "",
                 ""
@@ -1218,6 +1292,7 @@
                 "durchschnittlich",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1234,6 +1309,7 @@
                 "unterliegen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1248,6 +1324,7 @@
                 "68",
                 "万",
                 "zehntausend",
+                "beachte Reihenfolge",
                 "",
                 "",
                 ""
@@ -1266,6 +1343,7 @@
                 "Ausdruck",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1282,6 +1360,7 @@
                 "Oberfläche",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1296,6 +1375,7 @@
                 "71",
                 "旬",
                 "Zeitraum von zehn Tagen",
+                "Napoleon fesselte die Tage",
                 "",
                 "",
                 ""
@@ -1314,6 +1394,7 @@
                 "Kelle",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1328,6 +1409,7 @@
                 "73",
                 "的",
                 "Zielscheibe",
+                "weißer Vogel in einer rostigen Kelle",
                 "",
                 "",
                 ""
@@ -1344,6 +1426,7 @@
                 "74",
                 "首",
                 "Hals",
+                "Bulle mit Hörner. Augen schauen wie er am Hals an der Wand hängt.",
                 "",
                 "",
                 ""
@@ -1362,6 +1445,7 @@
                 "delikat",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1376,6 +1460,7 @@
                 "76",
                 "乱",
                 "Aufruhr",
+                "Pnaik -&gt; Zungen werden zu Widerhaken",
                 "",
                 "",
                 ""
@@ -1392,6 +1477,7 @@
                 "77",
                 "直",
                 "direkt",
+                "Nadel ins Auge, rausholen durch Angelhaken",
                 "",
                 "",
                 ""
@@ -1410,6 +1496,7 @@
                 "Werkzeug",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1424,6 +1511,7 @@
                 "79",
                 "真",
                 "wahr",
+                "",
                 "",
                 "",
                 ""
@@ -1442,6 +1530,7 @@
                 "Handwerk",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1456,6 +1545,7 @@
                 "81",
                 "左",
                 "links",
+                "",
                 "",
                 "",
                 ""
@@ -1474,6 +1564,7 @@
                 "rechts",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1488,6 +1579,7 @@
                 "83",
                 "有",
                 "besitzen",
+                "Ich wandere durch das Land mit all meinem Besitz an der Seite meines Fleisches.",
                 "",
                 "",
                 ""
@@ -1506,6 +1598,7 @@
                 "Bestechung",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1520,6 +1613,7 @@
                 "85",
                 "貢",
                 "Abgabe",
+                "",
                 "",
                 "",
                 ""
@@ -1538,6 +1632,7 @@
                 "Abschnitt",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1552,6 +1647,7 @@
                 "87",
                 "刀",
                 "Shwert",
+                "",
                 "",
                 "",
                 ""
@@ -1570,6 +1666,7 @@
                 "Klinge",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1584,6 +1681,7 @@
                 "89",
                 "切",
                 "schneiden",
+                "",
                 "",
                 "",
                 ""
@@ -1602,6 +1700,7 @@
                 "locken",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1616,6 +1715,7 @@
                 "91",
                 "昭",
                 "gleissend",
+                "",
                 "",
                 "",
                 ""
@@ -1634,6 +1734,7 @@
                 "Regel",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1648,6 +1749,7 @@
                 "93",
                 "副",
                 "Vize",
+                "",
                 "",
                 "",
                 ""
@@ -1666,6 +1768,7 @@
                 "getrennt",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1680,6 +1783,7 @@
                 "95",
                 "丁",
                 "Häuserblock",
+                "",
                 "",
                 "",
                 ""
@@ -1698,6 +1802,7 @@
                 "Stadt",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1712,6 +1817,7 @@
                 "97",
                 "可",
                 "möglich",
+                "",
                 "",
                 "",
                 ""
@@ -1730,6 +1836,7 @@
                 "auf den Kopf",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1744,6 +1851,7 @@
                 "99",
                 "子",
                 "Kind",
+                "",
                 "",
                 "",
                 ""
@@ -1762,6 +1870,7 @@
                 "Ritze",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1776,6 +1885,7 @@
                 "101",
                 "了",
                 "fertig",
+                "",
                 "",
                 "",
                 ""
@@ -1794,6 +1904,7 @@
                 "Frau",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1808,6 +1919,7 @@
                 "103",
                 "好",
                 "mögen",
+                "Eine Mutter und ihr Kind mögen sich.",
                 "",
                 "",
                 ""
@@ -1826,6 +1938,7 @@
                 "als ob",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1840,6 +1953,7 @@
                 "105",
                 "母",
                 "Mama",
+                "",
                 "",
                 "",
                 ""
@@ -1858,6 +1972,7 @@
                 "durchbohren",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1872,6 +1987,7 @@
                 "107",
                 "兄",
                 "älterer Bruder",
+                "",
                 "",
                 "",
                 ""
@@ -1890,6 +2006,7 @@
                 "Fluch",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1904,6 +2021,7 @@
                 "109",
                 "克",
                 "überwinden",
+                "",
                 "",
                 "",
                 ""
@@ -1922,6 +2040,7 @@
                 "klein",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1936,6 +2055,7 @@
                 "111",
                 "少",
                 "wenig",
+                "",
                 "",
                 "",
                 ""
@@ -1954,6 +2074,7 @@
                 "groß",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -1968,6 +2089,7 @@
                 "113",
                 "多",
                 "viele",
+                "",
                 "",
                 "",
                 ""
@@ -1986,6 +2108,7 @@
                 "Abend",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2000,6 +2123,7 @@
                 "115",
                 "汐",
                 "abendliche Gezeiten",
+                "",
                 "",
                 "",
                 ""
@@ -2018,6 +2142,7 @@
                 "draußen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2032,6 +2157,7 @@
                 "117",
                 "名",
                 "Name",
+                "",
                 "",
                 "",
                 ""
@@ -2050,6 +2176,7 @@
                 "Stein",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2066,6 +2193,7 @@
                 "gleichen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2080,6 +2208,7 @@
                 "120",
                 "硝",
                 "Salpeter",
+                "Stein, Kerze/Funken",
                 "",
                 "",
                 ""
@@ -2098,6 +2227,7 @@
                 "zerschmettern",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2114,6 +2244,7 @@
                 "Sand",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2128,6 +2259,7 @@
                 "123",
                 "妬",
                 "eifersüchtig",
+                "Frauen sind oft eifersüchtig auf den Stein am Finger",
                 "",
                 "",
                 ""
@@ -2144,6 +2276,7 @@
                 "124",
                 "削",
                 "hobeln",
+                "Funken-gleiche Spähne mit Messer abgelöst",
                 "",
                 "",
                 ""
@@ -2160,6 +2293,7 @@
                 "125",
                 "光",
                 "Licht<br>",
+                "(kleiner) Staub tanzt im Licht",
                 "",
                 "",
                 ""
@@ -2178,6 +2312,7 @@
                 "dick",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2192,6 +2327,7 @@
                 "127",
                 "器",
                 "Geschirr",
+                "Bernardiner liegt auf dem Tisch, gegahrt und bereit gegessen zu werden. Vier Leute warten eifrig auf das Geschirr",
                 "",
                 "",
                 ""
@@ -2208,6 +2344,7 @@
                 "128",
                 "臭",
                 "übel riechend",
+                "Bernardiner erschnüffelt mit seiner Nase den Ursprung des übel richenden Objekts.",
                 "",
                 "",
                 ""
@@ -2224,6 +2361,7 @@
                 "129",
                 "嗅",
                 "schnüffeln",
+                "schlechten Mundgeruch erschnüffeln",
                 "",
                 "",
                 ""
@@ -2240,6 +2378,7 @@
                 "130",
                 "妙",
                 "bezaubernd",
+                "nur wenig Frauen sind bezaubernd",
                 "",
                 "",
                 ""
@@ -2256,6 +2395,7 @@
                 "131",
                 "省",
                 "sich besinnen auf",
+                "Das Auge auf weniges richten",
                 "",
                 "",
                 ""
@@ -2274,6 +2414,7 @@
                 "dicht",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2288,6 +2429,7 @@
                 "133",
                 "奇",
                 "seltsam",
+                "",
                 "",
                 "",
                 ""
@@ -2306,6 +2448,7 @@
                 "Fluss",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2320,6 +2463,7 @@
                 "135",
                 "州",
                 "Staat",
+                "",
                 "",
                 "",
                 ""
@@ -2338,6 +2482,7 @@
                 "gehorchen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2352,6 +2497,7 @@
                 "137",
                 "水",
                 "Wasser",
+                "",
                 "",
                 "",
                 ""
@@ -2370,6 +2516,7 @@
                 "Eiszapfen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2384,6 +2531,7 @@
                 "139",
                 "永",
                 "Ewigkeit",
+                "",
                 "",
                 "",
                 ""
@@ -2402,6 +2550,7 @@
                 "Springquell",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2416,6 +2565,7 @@
                 "141",
                 "腺",
                 "Drüse",
+                "",
                 "",
                 "",
                 ""
@@ -2434,6 +2584,7 @@
                 "Wiese",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2448,6 +2599,7 @@
                 "143",
                 "願",
                 "Gesuch",
+                "",
                 "",
                 "",
                 ""
@@ -2466,6 +2618,7 @@
                 "schwimmen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2480,6 +2633,7 @@
                 "145",
                 "沼",
                 "Morast",
+                "",
                 "",
                 "",
                 ""
@@ -2498,6 +2652,7 @@
                 "offenes Meer",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2512,6 +2667,7 @@
                 "147",
                 "汎",
                 "pan-",
+                "",
                 "",
                 "",
                 ""
@@ -2530,6 +2686,7 @@
                 "Meeresarm",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2544,6 +2701,7 @@
                 "149",
                 "汰",
                 "aussortieren",
+                "",
                 "",
                 "",
                 ""
@@ -2562,6 +2720,7 @@
                 "Sandkörner<br>",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2576,6 +2735,7 @@
                 "150",
                 "汁",
                 "Suppe",
+                "zehn Ingredienzen gehören zu einer Suppe",
                 "",
                 "",
                 ""
@@ -2592,6 +2752,7 @@
                 "152",
                 "潮",
                 "Gezeiten",
+                "Gegenstück zu abendliche Gezeiten",
                 "",
                 "",
                 ""
@@ -2610,6 +2771,7 @@
                 "Quelle",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2626,6 +2788,7 @@
                 "lebendig",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2640,6 +2803,7 @@
                 "155",
                 "消",
                 "löschen",
+                "Wasser + Kerze",
                 "",
                 "",
                 ""
@@ -2656,6 +2820,7 @@
                 "156",
                 "況",
                 "Zustand",
+                "Teenager der duschen muss",
                 "",
                 "",
                 ""
@@ -2674,6 +2839,7 @@
                 "Strom",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2688,6 +2854,7 @@
                 "158",
                 "泊",
                 "übernachten",
+                "",
                 "",
                 "",
                 ""
@@ -2706,6 +2873,7 @@
                 "See",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2720,6 +2888,7 @@
                 "160",
                 "測",
                 "ausloten",
+                "Wasser + Regel<div>Man will die Regel des Wasserstands ausloten.</div>",
                 "",
                 "",
                 ""
@@ -2738,6 +2907,7 @@
                 "Erde",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2752,6 +2922,7 @@
                 "162",
                 "吐",
                 "ausspucken",
+                "",
                 "",
                 "",
                 ""
@@ -2770,6 +2941,7 @@
                 "Druck",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2784,6 +2956,7 @@
                 "165",
                 "垣",
                 "Hecke",
+                "",
                 "",
                 "",
                 ""
@@ -2802,6 +2975,7 @@
                 "Kap",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2816,6 +2990,7 @@
                 "166",
                 "填",
                 "einlegen",
+                "",
                 "",
                 "",
                 ""
@@ -2834,6 +3009,7 @@
                 "eckiger Edelstein",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2848,6 +3024,7 @@
                 "168",
                 "封",
                 "Siegel",
+                "Brief wird versiegelt mit Efeu der auf den geklebt wird.",
                 "",
                 "",
                 ""
@@ -2866,6 +3043,7 @@
                 "Horizont",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2880,6 +3058,7 @@
                 "170",
                 "寺",
                 "buddhistischer Tempel",
+                "",
                 "",
                 "",
                 ""
@@ -2898,6 +3077,7 @@
                 "Zeit",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2912,6 +3092,7 @@
                 "172",
                 "均",
                 "ebnen",
+                "",
                 "",
                 "",
                 ""
@@ -2930,6 +3111,7 @@
                 "Feuer",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2946,6 +3128,7 @@
                 "Entzündung",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2960,6 +3143,7 @@
                 "175",
                 "煩",
                 "Sorgen",
+                "Kopf steht in Brand",
                 "",
                 "",
                 ""
@@ -2978,6 +3162,7 @@
                 "blass",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -2992,6 +3177,7 @@
                 "177",
                 "灯",
                 "Lampe",
+                "festegenageltes Feuer",
                 "",
                 "",
                 ""
@@ -3008,6 +3194,7 @@
                 "178",
                 "畑",
                 "Acker",
+                "Brandrodung",
                 "",
                 "",
                 ""
@@ -3024,6 +3211,7 @@
                 "179",
                 "災",
                 "Katastrophe",
+                "Wasser + Feuer<div>alles Schlechte</div>",
                 "",
                 "",
                 ""
@@ -3040,6 +3228,7 @@
                 "180",
                 "灰",
                 "Asche",
+                "Asche ist das Fauer dass die Klipper hinunter geworfen wird.",
                 "",
                 "",
                 ""
@@ -3058,6 +3247,7 @@
                 "Punkt",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3072,6 +3262,7 @@
                 "182",
                 "照",
                 "scheinen",
+                "",
                 "",
                 "",
                 ""
@@ -3090,6 +3281,7 @@
                 "Fisch",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3104,6 +3296,7 @@
                 "184",
                 "漁",
                 "Fischfang",
+                "",
                 "",
                 "",
                 ""
@@ -3122,6 +3315,7 @@
                 "Ri",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3136,6 +3330,7 @@
                 "186",
                 "黒",
                 "schwarz",
+                "",
                 "",
                 "",
                 ""
@@ -3154,6 +3349,7 @@
                 "Tusche",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3170,6 +3366,7 @@
                 "Karpfen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3184,6 +3381,7 @@
                 "189",
                 "量",
                 "Menge",
+                "Eine gemessene Menge Zeit &amp; Länge seit der Morgendämmerung",
                 "",
                 "",
                 ""
@@ -3202,6 +3400,7 @@
                 "Rin",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3216,6 +3415,7 @@
                 "191",
                 "埋",
                 "begraben",
+                "",
                 "",
                 "",
                 ""
@@ -3234,6 +3434,7 @@
                 "identisch",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3250,6 +3451,7 @@
                 "Grotte",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3264,6 +3466,7 @@
                 "194",
                 "胴",
                 "Rumpf",
+                "Rümpfe wie Bäume fällen, identisch machen damit sie nicht verkeilen",
                 "",
                 "",
                 ""
@@ -3280,6 +3483,7 @@
                 "195",
                 "向",
                 "gerichtet an",
+                "Alien richtet Bitte an Sie, letzter Tropfen Treibstoff",
                 "",
                 "",
                 ""
@@ -3296,6 +3500,7 @@
                 "196",
                 "尚",
                 "Werschätzung",
+                "kleiner Schrumpfkopf des Vorfahren wird wertgeschätzt",
                 "",
                 "",
                 ""
@@ -3314,6 +3519,7 @@
                 "Schriftzeichen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3330,6 +3536,7 @@
                 "Wache",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3344,6 +3551,7 @@
                 "199",
                 "完",
                 "vollendet",
+                "Das Haus steht vom Fundament (Anfang) bis zum Dach. Es ist vollendet.",
                 "",
                 "",
                 ""
@@ -3362,6 +3570,7 @@
                 "verkünden",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3376,6 +3585,7 @@
                 "202",
                 "安",
                 "ruhig",
+                "",
                 "",
                 "",
                 ""
@@ -3394,6 +3604,7 @@
                 "bis in die Puppen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3408,6 +3619,7 @@
                 "203",
                 "宴",
                 "Festmahl",
+                "",
                 "",
                 "",
                 ""
@@ -3426,6 +3638,7 @@
                 "sich nähern",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3440,6 +3653,7 @@
                 "205",
                 "富",
                 "Reichtum",
+                "",
                 "",
                 "",
                 ""
@@ -3458,6 +3672,7 @@
                 "Ersparnisse",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3472,6 +3687,7 @@
                 "207",
                 "木",
                 "Baum",
+                "",
                 "",
                 "",
                 ""
@@ -3490,6 +3706,7 @@
                 "Hain",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3504,6 +3721,7 @@
                 "209",
                 "森",
                 "Wald",
+                "",
                 "",
                 "",
                 ""
@@ -3522,6 +3740,7 @@
                 "Katsura",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3536,6 +3755,7 @@
                 "211",
                 "柏",
                 "Eiche",
+                "",
                 "",
                 "",
                 ""
@@ -3554,6 +3774,7 @@
                 "Rahmen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3568,6 +3789,7 @@
                 "213",
                 "梢",
                 "Wipfel",
+                "",
                 "",
                 "",
                 ""
@@ -3586,6 +3808,7 @@
                 "Regal",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3600,6 +3823,7 @@
                 "215",
                 "杏",
                 "Aprikose",
+                "",
                 "",
                 "",
                 ""
@@ -3618,6 +3842,7 @@
                 "Paulownie",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3632,6 +3857,7 @@
                 "217",
                 "植",
                 "pflanzen",
+                "",
                 "",
                 "",
                 ""
@@ -3650,6 +3876,7 @@
                 "Stuhl",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3664,6 +3891,7 @@
                 "219",
                 "枯",
                 "verdorren",
+                "",
                 "",
                 "",
                 ""
@@ -3682,6 +3910,7 @@
                 "schlicht",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3696,6 +3925,7 @@
                 "221",
                 "村",
                 "Dorf",
+                "",
                 "",
                 "",
                 ""
@@ -3714,6 +3944,7 @@
                 "einander",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3728,6 +3959,7 @@
                 "223",
                 "机",
                 "Schreibtisch",
+                "",
                 "",
                 "",
                 ""
@@ -3746,6 +3978,7 @@
                 "Buch",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3760,6 +3993,7 @@
                 "225",
                 "札",
                 "Etikett",
+                "",
                 "",
                 "",
                 ""
@@ -3778,6 +4012,7 @@
                 "Kalender",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3792,6 +4027,7 @@
                 "227",
                 "案",
                 "Vorhaben",
+                "",
                 "",
                 "",
                 ""
@@ -3810,6 +4046,7 @@
                 "dörren",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3824,6 +4061,7 @@
                 "229",
                 "未",
                 "noch nicht",
+                "",
                 "",
                 "",
                 ""
@@ -3842,6 +4080,7 @@
                 "schliesslich",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3856,6 +4095,7 @@
                 "231",
                 "昧",
                 "unklar",
+                "",
                 "",
                 "",
                 ""
@@ -3874,6 +4114,7 @@
                 "Gischt",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3888,6 +4129,7 @@
                 "233",
                 "味",
                 "Geschmack",
+                "",
                 "",
                 "",
                 ""
@@ -3906,6 +4148,7 @@
                 "jüngere Schwester",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3920,6 +4163,7 @@
                 "235",
                 "朱",
                 "zinnoberrot",
+                "",
                 "",
                 "",
                 ""
@@ -3938,6 +4182,7 @@
                 "Aktie",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3952,6 +4197,7 @@
                 "237",
                 "若",
                 "jung",
+                "",
                 "",
                 "",
                 ""
@@ -3970,6 +4216,7 @@
                 "Gras",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -3984,6 +4231,7 @@
                 "239",
                 "苦",
                 "leiden",
+                "",
                 "",
                 "",
                 ""
@@ -4002,6 +4250,7 @@
                 "Schikane",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4016,6 +4265,7 @@
                 "241",
                 "寛",
                 "nachsichtig",
+                "",
                 "",
                 "",
                 ""
@@ -4034,6 +4284,7 @@
                 "verdünnen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4048,6 +4299,7 @@
                 "243",
                 "葉",
                 "Blatt",
+                "",
                 "",
                 "",
                 ""
@@ -4066,6 +4318,7 @@
                 "Imitation",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4080,6 +4333,7 @@
                 "245",
                 "漠",
                 "vage",
+                "",
                 "",
                 "",
                 ""
@@ -4098,6 +4352,7 @@
                 "Grab",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4112,6 +4367,7 @@
                 "247",
                 "暮",
                 "Lebensunterhalt",
+                "",
                 "",
                 "",
                 ""
@@ -4130,6 +4386,7 @@
                 "Membran",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4144,6 +4401,7 @@
                 "249",
                 "苗",
                 "Setzling",
+                "",
                 "",
                 "",
                 ""
@@ -4162,6 +4420,7 @@
                 "Vorzeichen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4176,6 +4435,7 @@
                 "251",
                 "桃",
                 "Pfirisch",
+                "",
                 "",
                 "",
                 ""
@@ -4194,6 +4454,7 @@
                 "anstarren",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4208,6 +4469,7 @@
                 "253",
                 "犬",
                 "Hund",
+                "",
                 "",
                 "",
                 ""
@@ -4226,6 +4488,7 @@
                 "die Umstände",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4240,6 +4503,7 @@
                 "255",
                 "黙",
                 "schweigen",
+                "",
                 "",
                 "",
                 ""
@@ -4258,6 +4522,7 @@
                 "-artig",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4272,6 +4537,7 @@
                 "257",
                 "萩",
                 "Schilf",
+                "",
                 "",
                 "",
                 ""
@@ -4290,6 +4556,7 @@
                 "jagen",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4304,6 +4571,7 @@
                 "259",
                 "猫",
                 "Katze",
+                "",
                 "",
                 "",
                 ""
@@ -4322,6 +4590,7 @@
                 "Kuh",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4336,6 +4605,7 @@
                 "261",
                 "特",
                 "speziell",
+                "",
                 "",
                 "",
                 ""
@@ -4354,6 +4624,7 @@
                 "Ansage",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4370,6 +4641,7 @@
                 "voran",
                 "",
                 "",
+                "",
                 ""
             ],
             "flags": 0,
@@ -4384,6 +4656,7 @@
                 "264",
                 "洗",
                 "waschen",
+                "",
                 "",
                 "",
                 ""
