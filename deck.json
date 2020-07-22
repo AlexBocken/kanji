@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "ab2f4aac-cbf3-11ea-bfc8-9cb6d013a4a3",
+    "deck_config_uuid": "a2938f0e-cc0a-11ea-bfc8-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ab2f4aac-cbf3-11ea-bfc8-9cb6d013a4a3",
+            "crowdanki_uuid": "a2938f0e-cc0a-11ea-bfc8-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -42,7 +42,8 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 0
+                "perDay": 50,
+                "useGeneralTimeoutSettings": false
             },
             "timer": 0
         }
@@ -50,7 +51,7 @@
     "desc": "",
     "dyn": 0,
     "extendNew": 10,
-    "extendRev": 50,
+    "extendRev": 40,
     "media_files": [],
     "name": "Kanji",
     "note_models": [
@@ -695,7 +696,7 @@
                 "31",
                 "胆",
                 "Gallenblase",
-                "Das Magen tut im Morgen weh (erst wenn man aufwacht spürt man die Schmerzen) wenn man Probleme mit der Gallen Käse hat. ",
+                "Das Magen schmerzt während der Morgendämmerung (erst wenn man aufwacht spürt man die Schmerzen) wenn man Probleme mit der Gallenblase hat. ",
                 "",
                 "",
                 ""
@@ -967,7 +968,7 @@
                 "47",
                 "専",
                 "Spezialgebiet",
-                "",
+                "10 Felder aneinder geleimt. Oft breiten sich Leute von einem Spezislgebiet auf weitere Felder aus",
                 "",
                 "",
                 ""
@@ -5513,6 +5514,482 @@
             ],
             "flags": 0,
             "guid": "reuq~aKs:-",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "冖",
+                "Krone",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m<X2|O#/k[",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "321",
+                "冗",
+                "überflüssig",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mt2XhoTk0?",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "322",
+                "冥",
+                "Unterwelt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g7I~I*,so8",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "323",
+                "軍",
+                "Armee",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x+-/QEbxkP",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "324",
+                "輝",
+                "leuchten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xcL>yk$o[=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "325",
+                "運",
+                "tragen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mKjZ(?6E@A",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "326",
+                "冠",
+                "Krone",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u!F31+Fa~W",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "327",
+                "夢",
+                "Traum",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x<eBeDDfnu",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "亠",
+                "Zylinderhut",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oY&;<0e4=`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "亢",
+                "Wirbelwind",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kO^-o4%:1s",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "328",
+                "坑",
+                "Grube",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sUq><X`y<%",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "329",
+                "高",
+                "hoch",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kr<50DE+kR",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "330",
+                "享",
+                "genießen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i+2wLNKvag",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "331",
+                "塾",
+                "Nachhilfeschule",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jLmT$@t#@h",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "332",
+                "熟",
+                "reifen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m|r%<5sNmM",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "333",
+                "亭",
+                "Pavillon",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r;YL50KY[m",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "334",
+                "京",
+                "Hauptstadt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t1RWL|aH|l",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "335",
+                "涼",
+                "erfrischend",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gBtv8F`$[g",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "336",
+                "景",
+                "Landschaft",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d8c?TkF@HS",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "337",
+                "鯨",
+                "Wal",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M7t`bZ]H]]",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "338",
+                "舎",
+                "Hütte",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g]S(}?9Ez`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "339",
+                "周",
+                "Umfang",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I1|oW;zPBB",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "340",
+                "週",
+                "Woche",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lc!GK,0_^z",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "341",
+                "士",
+                "Samurai",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JJyCwy4?t6",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "342",
+                "吉",
+                "Glück",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EN-x%e}Uw1",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "343",
+                "壮",
+                "beste Mannesjahre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IZ(.aei5&h",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "344",
+                "荘",
+                "Villa",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fhD0S3tJ-Z",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "345",
+                "売",
+                "verkaufen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f3j=R,z]%t",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
