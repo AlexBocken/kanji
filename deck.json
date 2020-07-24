@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "94f6d540-cddb-11ea-a59c-9cb6d013a4a3",
+    "deck_config_uuid": "cb8972f0-cde7-11ea-831b-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "94f6d540-cddb-11ea-a59c-9cb6d013a4a3",
+            "crowdanki_uuid": "cb8972f0-cde7-11ea-831b-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -9681,6 +9681,108 @@
             ],
             "flags": 0,
             "guid": "rU_`/u~tG~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "548",
+                "染",
+                "färben",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gg|O(a0d2^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "549",
+                "燃",
+                "brennen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wF6*Cy[@nx",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "550",
+                "賓",
+                "Ehrengast",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q)^!pX+klN",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "551",
+                "歳",
+                "Jahresende",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OE8zd#k1#h",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "552",
+                "県",
+                "Präfektur",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x&Z8E=R%Fi",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "553",
+                "栃",
+                "Rosskastanie",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J_iW^Utqb>",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
