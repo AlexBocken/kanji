@@ -10,4 +10,4 @@ Feel free to base your vocab list off of mine via a fork, that's probably the be
 
 This deck is still heavily in developement, I will be adding new cards and hints from time to time, see the commits for more details.
 
-Currently I'm using this [Kanji recognition site](https://kanji.sljfaq.org/). Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
+Currently I'm using this [Kanji recognition site](https://kanji.sljfaq.org/draw-canvas.html). Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
