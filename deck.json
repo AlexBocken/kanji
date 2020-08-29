@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "fca70f4c-e70e-11ea-b726-9cb6d013a4a3",
+    "deck_config_uuid": "312bb444-e9fc-11ea-b514-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "fca70f4c-e70e-11ea-b726-9cb6d013a4a3",
+            "crowdanki_uuid": "312bb444-e9fc-11ea-b514-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -2976,7 +2976,7 @@
                 "164",
                 "埼",
                 "Kap",
-                "",
+                "Man stelle sich ein Spukhaus auf der Spitze eines Kaps vor. Ein Stück Erde voller Seltsamkeiten.",
                 "",
                 "",
                 ""
@@ -2993,7 +2993,7 @@
                 "166",
                 "填",
                 "einlegen",
-                "",
+                "Die Kosmischen Wahrheiten werden in die Erde eingelegt.",
                 "",
                 "",
                 ""
@@ -3044,7 +3044,7 @@
                 "169",
                 "涯",
                 "Horizont",
-                "",
+                "Man sieht am Horizont ein fernes Land erscheinen, an dem Efeu an einer Klippe hochwächst.",
                 "",
                 "",
                 ""
@@ -3095,7 +3095,7 @@
                 "172",
                 "均",
                 "ebnen",
-                "",
+                "Man will Erde mit einer Kelle glatt streichen und somit ebnen. Dabei fällt ein Tropfen Erde herunter.",
                 "",
                 "",
                 ""
@@ -17025,6 +17025,1128 @@
             ],
             "flags": 0,
             "guid": "Cg^&zr5y|U",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "禾",
+                "Weizen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E.bUeKg[Qj",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "958",
+                "稿",
+                "Manuskript",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jep(`x~BAE",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "959",
+                "稼",
+                "Einkünfte",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NSK>]<hw7T",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "960",
+                "程",
+                "Ausmaß",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uzvlO{]+O:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "961",
+                "税",
+                "Steuern",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gS>:>1H&11",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "962",
+                "稚",
+                "kindlich",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d+k&s45>o5",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "963",
+                "和",
+                "Harmonie",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z49AS?`}A5",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "964",
+                "移",
+                "verlagern",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fK7`NBhxf|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "965",
+                "秒",
+                "Sekunde",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l%(tZuKyw4",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "966",
+                "秋",
+                "Herbst",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pyyL>X1i(B",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "967",
+                "愁",
+                "Kummer",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j^@keuI<iq",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "968",
+                "私",
+                "privat",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Edh`)58t&:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "969",
+                "秩",
+                "Ordnung",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z#^Ma^vfEs",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "970",
+                "秘",
+                "Geheimnis",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cwVVD@!3Yj",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "971",
+                "称",
+                "Bezeichnung",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c4f%.h|8@{",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "972",
+                "利",
+                "Vorteil",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L<cm<20~`~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "973",
+                "梨",
+                "Birnbaum",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eeQ~hd}8Uk",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "974",
+                "穫",
+                "Ernte",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xsU9cD~uE3",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "975",
+                "穗",
+                "Ähre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GuW$kR)NT^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "976",
+                "稲",
+                "Reispflanze",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cb)Y/N_~|=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "978",
+                "季",
+                "Jahreszeit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qoW*Fj>Fm5",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "977",
+                "香",
+                "Weihrauch",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C!A^CI7OuF",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "979",
+                "委",
+                "Komitee",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I0t(L!4<c|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "980",
+                "秀",
+                "übertreffen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h{kv)mOFa)",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "981",
+                "透",
+                "durchsichtig",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cAs`pkAA@o",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "982",
+                "誘",
+                "verleiten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v1x<r)p6JO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "983",
+                "稽",
+                "Übung",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s}BqTBWSPB",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "984",
+                "穀",
+                "Getreide",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GEF,C_{ot`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "985",
+                "菌",
+                "Bakterie",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i?n$Baw7Al",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "986",
+                "萎",
+                "schlaff",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Bktx<;qKo@",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "987",
+                "米",
+                "Reis",
+                "",
+                "Reis(korn), USA",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xN>R;d?1AR",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "988",
+                "粉",
+                "Mehl",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o}jJZj#;uZ",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "989",
+                "粘",
+                "klebrig",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A,8!#|*JPI",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "990",
+                "粒",
+                "Korn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I]..3PfaYo",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "991",
+                "粧",
+                "schminken",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BK<*wZd|I>",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "992",
+                "迷",
+                "verirrt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dOX7|_Q{==",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "993",
+                "粋",
+                "chic",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yGcgWKqAe|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "994",
+                "謎",
+                "Rätsel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f(i%s~T`+E",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "995",
+                "糧",
+                "Proviant",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fU4edjoP,",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "996",
+                "菊",
+                "Chrysantheme",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MS&Va1yprs",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "997",
+                "奥",
+                "Tiefe",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gw7{rn;6qv",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "998",
+                "数",
+                "Zahl",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "co#J_J}]r4",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "999",
+                "楼",
+                "Wachturm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qR8tegNZCY",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1000",
+                "類",
+                "Sorte",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I6tk=cF]q0",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1001",
+                "漆",
+                "Lack",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QGNvESW8_j",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1002",
+                "膝",
+                "Knie",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DP8d0AO4ZF",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1003",
+                "様",
+                "Gnädigste",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nK~So:c_R}",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1004",
+                "求",
+                "fordern",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F8-=nv<uj%",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1005",
+                "球",
+                "Ball",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m%OH`n3XNk",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1006",
+                "救",
+                "retten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ec[zZYrf>L",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1007",
+                "竹",
+                "Bambus",
+                "",
+                "Gleiche Bedeuung, jedoch deutlich gekürzt wie bei Blumen",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B{N/E0_d8>",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1008",
+                "笑",
+                "lachen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eIN#K)!TAD",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1009",
+                "笠",
+                "Bambushut",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AEhx}<,m4N",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1010",
+                "笹",
+                "Bambusgras",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wOO~YwQ,i)",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1011",
+                "箋",
+                "Briefpapier",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DytP%j(A<Z",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1012",
+                "筋",
+                "Muskel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NwFUkJ)]wH",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1013",
+                "箱",
+                "Schachtel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gt;G~48vTP",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1014",
+                "筆",
+                "Schreibpinsel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KhAeg8d]6_",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1015",
+                "筒",
+                "Röhre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bDO6!qi==(",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1016",
+                "等",
+                "usw.",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yqq/*]45oi",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1017",
+                "算",
+                "rechnen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BZVy=.znz_",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1018",
+                "答",
+                "Antwort",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JjL$ru!dGw",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1019",
+                "策",
+                "Strategie",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H&6)~Z/{l.",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1020",
+                "簿",
+                "Verzeichnis",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wCj?@.;uYD",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1021",
+                "築",
+                "bauen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A%0j!L.mxH",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1022",
+                "篭",
+                "Käfig",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "klBjY+I:aA",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
