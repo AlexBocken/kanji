@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "312bb444-e9fc-11ea-b514-9cb6d013a4a3",
+    "deck_config_uuid": "07c50284-eac6-11ea-8d39-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "312bb444-e9fc-11ea-b514-9cb6d013a4a3",
+            "crowdanki_uuid": "07c50284-eac6-11ea-8d39-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -3248,7 +3248,7 @@
                 "181",
                 "点",
                 "Punkt",
-                "",
+                "Starrt man lange genug ins Feuer und schaut schnell weg so erscheint ein Punkt im Blickfeld. Man stelle sich eine Hexe vor, die diesen Punkt zum wahrsagen verwendet nachdem dem sie minutenlang ins Feuer gestarrt hat.",
                 "",
                 "",
                 ""
@@ -3265,7 +3265,7 @@
                 "182",
                 "照",
                 "scheinen",
-                "",
+                "Der Schein eines Feuers. Man stelle einen glassierten Topf in ein Ofenfeuer.&nbsp;",
                 "",
                 "",
                 ""
@@ -3316,7 +3316,7 @@
                 "185",
                 "里",
                 "Ri",
-                "",
+                "Ein Längenmaß für Erde. Wie bei Katasterparzellen wird dies auch für Reisfelder verwendet.",
                 "Computer",
                 "",
                 ""
@@ -3333,7 +3333,7 @@
                 "186",
                 "黒",
                 "schwarz",
-                "",
+                "Wenn ein Copmuter ins Feuer geworfen wird wird dessen Oberfläche komplett verkokelt und schwarz.",
                 "",
                 "",
                 ""
@@ -3350,7 +3350,7 @@
                 "187",
                 "墨",
                 "Tusche",
-                "",
+                "Man stelle sich vor wie man mit einem in Tusche getränkten Faden den weißen Untergrund der Erde markiert.",
                 "",
                 "",
                 ""
@@ -18147,6 +18147,1400 @@
             ],
             "flags": 0,
             "guid": "klBjY+I:aA",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1023",
+                "人",
+                "",
+                "",
+                "Mensch (hier aber nicht im allgemeneinen oder sogar plural Sinne, sondern eine explizites Individuum)",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Mk7n_G6r_W",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1024",
+                "佐",
+                "Assistent",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n;!MGuLSc1",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1025",
+                "侶",
+                "Partner",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h.%(*k-wZ`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1026",
+                "但",
+                "jedoch",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PlwXK>!I-D",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1027",
+                "住",
+                "wohnen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q=?%|/W)YO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1028",
+                "位",
+                "Rang",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PNr_~*t%cg",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1029",
+                "仲",
+                "Verhältnis",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N51uUk4_iD",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1030",
+                "体",
+                "Körper",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h$Ki=f$hge",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1031",
+                "悠",
+                "gelassen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p4i8DKps_=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1032",
+                "件",
+                "Angelegenheit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l6{_[zrBmC",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1033",
+                "仕",
+                "bedienen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dPn3gvl7d8",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1034",
+                "他",
+                "anderes",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tsH!AN@-|;",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1035",
+                "伏",
+                "sich niederwerfen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AVj-knsdr,",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1036",
+                "伝",
+                "übermitteln",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Cr9RfUp_-M",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1037",
+                "仏",
+                "Buddha",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cgLh`z^vob",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1038",
+                "休",
+                "ausruhen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e4!2yk@hW`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1039",
+                "仮",
+                "vorläufig",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uzW]w@KZ,j",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1040",
+                "伎",
+                "Bühnenkünstler",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t_@K:8QrZ&",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1041",
+                "伯",
+                "Graf",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Du!s*.a)8h",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1042",
+                "俗",
+                "volkstümlich",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JheZ=toWJR",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1043",
+                "信",
+                "Glaube",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J4[G?RPx~a",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1044",
+                "佳",
+                "exzellent",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I8w5QF^DS=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1045",
+                "依",
+                "abhängig",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ju9nOw)pXC",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1046",
+                "例",
+                "Beispiel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QNJH{Qh+:b",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1047",
+                "個",
+                "Individuum",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c#M:M$4a2$",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1048",
+                "健",
+                "gesund",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PnBLuR5H)`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1049",
+                "側",
+                "Seite",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q9!Rfx[TI$",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1050",
+                "侍",
+                "aufwarten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I&&V96d2<~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1051",
+                "停",
+                "anhalten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oxiH~,9w|,",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1052",
+                "値",
+                "Preis",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w5>2w&JD-:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1053",
+                "倣",
+                "nacheifern",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fWuwjylnJg",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1054",
+                "傲",
+                "Arroganz",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Jgs[mrjftu",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1055",
+                "倒",
+                "umstürzen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "{~~>QT.Mh",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1056",
+                "偵",
+                "auskundschaften",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b?,N<}ZogL",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1057",
+                "僧",
+                "buddhistischer Priester",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tK}n<k.CYN",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1058",
+                "億",
+                "hundert Millionen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xvm`b6kUVa",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1059",
+                "儀",
+                "Zeremonie",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r7l@5EUV6:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1060",
+                "償",
+                "Wiedergutmachung",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kToodPMD$v",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1061",
+                "仙",
+                "Einsiedler",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BO0EG3,`S]",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1062",
+                "催",
+                "veranstalten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "foS*#8.2([",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1063",
+                "仁",
+                "Menschlichkeit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h<@B+bVm8r",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1064",
+                "侮",
+                "verachten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lL]r1GkC$c",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1065",
+                "使",
+                "benutzen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q0XDZng@uL",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1066",
+                "便",
+                "Bequemlichkeit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q5*<W9<LNG",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1067",
+                "倍",
+                "doppelt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e;<h2$-Rk7",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1068",
+                "優",
+                "liebenswürdigkeit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z9c_njp@B@",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1069",
+                "伐",
+                "fällen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JY-Y!WYLuM",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1070",
+                "宿",
+                "Herberge",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iy^2KqzdCd",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1071",
+                "傷",
+                "Wunde",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IzDFX:ilxd",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1072",
+                "保",
+                "bewahren",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xNn$_fx.ip",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1073",
+                "褒",
+                "loben",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u@dll3(iG<",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1074",
+                "傑",
+                "meisterhaft",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t-_@`lM=qm",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1075",
+                "付",
+                "anhaften",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PxJ>{@@L<U",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1076",
+                "符",
+                "Zeichen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qQcH=|+RxD",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1077",
+                "府",
+                "Stadtpräfektur",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KiKhZd$tm8",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1078",
+                "任",
+                "Verantwortung",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HtU@nEOE^3",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1079",
+                "賃",
+                "Fahrgeld",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jBX~QVk7{&",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1080",
+                "代",
+                "Ersatz",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wcODqgxzj`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1081",
+                "袋",
+                "Sack",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f^~vWOn~H+",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1082",
+                "貸",
+                "Verleih",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eq#ukvULw*",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1083",
+                "化",
+                "verwandeln",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vL/cRN0P#v",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1084",
+                "花",
+                "Blume",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lS@gJmKWim",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1085",
+                "貨",
+                "Fracht",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o]mU1TO0]-",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1086",
+                "傾",
+                "sich neigen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gl=8&$`:|,",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1087",
+                "何",
+                "was",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bJ/Xs*wQ95",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1088",
+                "荷",
+                "Gepäck",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p)#=K0rc<i",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1089",
+                "俊",
+                "hochbegabt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EB7Do~T7|c",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1090",
+                "傍",
+                "Außenstehender",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kj+^~Q=c,G",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1091",
+                "俺",
+                "icke (Ich)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ATXhvk,qae",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1092",
+                "久",
+                "lange Zeit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p-cLjM;bj?",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1093",
+                "畝",
+                "Furche",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x@%~uW%3ey",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1094",
+                "囚",
+                "Häftling",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L>e]48|S5H",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1095",
+                "内",
+                "innerhalb",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BD%$hZ4{@O",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1096",
+                "丙",
+                "drittklassig",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xgnh{=W|{0",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1097",
+                "柄",
+                "Gestaltung",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KA~b&XKTb.",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1098",
+                "肉",
+                "Fleisch",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "opyTS{/nu_",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1099",
+                "腐",
+                "verfaulen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L|ZE,.Vs5j",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "从",
+                "Fließband",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vvg,?e2XZX",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1100",
+                "座",
+                "sitzen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p6q:|Rsnc=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1101",
+                "挫",
+                "verstauchen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CM`aNS+6eQ",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1102",
+                "卒",
+                "Abschluss",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n4^jxcGds2",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1103",
+                "傘",
+                "Schirm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lb>.8`|G^]",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
