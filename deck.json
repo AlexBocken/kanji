@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "07c50284-eac6-11ea-8d39-9cb6d013a4a3",
+    "deck_config_uuid": "d82dbdec-ef82-11ea-83dd-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "07c50284-eac6-11ea-8d39-9cb6d013a4a3",
+            "crowdanki_uuid": "d82dbdec-ef82-11ea-83dd-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -33,7 +33,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 15
+                "perDay": 20
             },
             "replayq": true,
             "rev": {
@@ -53,7 +53,7 @@
     "extendNew": 5,
     "extendRev": 15,
     "media_files": [],
-    "mid": 1595177823327,
+    "mid": 1591437929655,
     "name": "Kanji",
     "note_models": [
         {
@@ -2024,7 +2024,7 @@
                 "109",
                 "克",
                 "überwinden",
-                "",
+                "Teenager muss Drogen (Nadel) überwinden",
                 "",
                 "",
                 ""
@@ -3401,7 +3401,7 @@
                 "190",
                 "厘",
                 "Rin",
-                "",
+                "1/1000 eines Yen. Wenn man einen Computer eine Klippe hinunterwirft wird er wohl kaum mehr wert sein als ein Rin.",
                 "",
                 "",
                 ""
@@ -3537,7 +3537,7 @@
                 "198",
                 "守",
                 "Wache",
-                "",
+                "Die Wache ist fest an seinen Posten in Wachturm direkt unter dem Dach geklebt.",
                 "",
                 "",
                 ""
@@ -3571,7 +3571,7 @@
                 "200",
                 "宣",
                 "verkünden",
-                "",
+                "Wie das Missionarsziel: Welt<i>umspannend</i> die freudige Nachricht von den <i>Hausdächern</i> <b>verkünden</b>.",
                 "",
                 "",
                 ""
@@ -3588,7 +3588,7 @@
                 "202",
                 "安",
                 "ruhig",
-                "",
+                "Ganz nach dem fiktionalen Sprichwort: \"Eine Frau ist ruhig und zufrieden im eigenen Haus\"",
                 "",
                 "",
                 ""
@@ -3605,7 +3605,7 @@
                 "201",
                 "宵",
                 "bis in die Puppen",
-                "",
+                "Die Kerzen bleiben die ganz Nacht an im Haus. Bis in die Puppen eben.",
                 "",
                 "",
                 ""
@@ -3639,7 +3639,7 @@
                 "204",
                 "寄",
                 "sich nähern",
-                "",
+                "Man sieht ein gruseliges, <i>seltsames Haus</i>&nbsp;dem man <b>sich</b> langsam <b>nähert</b>.",
                 "",
                 "",
                 ""
@@ -3741,7 +3741,7 @@
                 "210",
                 "桂",
                 "Katsura",
-                "",
+                "Katsura ist eine Zimtbaumart. Man stelle sich vor wie ein Haufen Zimtpulver gewonnen von der Baumrinde auf einen Erdahaufen fällt und kaum von diesem zu unterscheiden ist.",
                 "",
                 "",
                 ""
@@ -3775,7 +3775,7 @@
                 "212",
                 "枠",
                 "Rahmen",
-                "",
+                "Man stelle sich einen dünen Holzrahmen vor. Die Ecken sind in 90 Grad winkeln angeordnet.<br>",
                 "",
                 "",
                 ""
@@ -3826,7 +3826,7 @@
                 "215",
                 "杏",
                 "Aprikose",
-                "",
+                "Aprikosen werden so gerne gegessen dass man unter einem Baum mit offnenem Mund steht und nur darauf wartet dass diese einem in den Mund fallen.",
                 "",
                 "",
                 ""
@@ -3843,7 +3843,7 @@
                 "216",
                 "桐",
                 "Paulownie",
-                "",
+                "Verknüpfen mit der fiktiven Bruderschaft der hl. Paulownie. Somit steht der Baum für die Mönche.",
                 "",
                 "",
                 ""
@@ -3860,7 +3860,7 @@
                 "217",
                 "植",
                 "pflanzen",
-                "",
+                "I'm Gegensatz zu der Verkrüppelung von Bonsai wollen wir einen Baum einpflanzen der direkt nach oben wächst. ",
                 "",
                 "",
                 ""
@@ -3911,7 +3911,7 @@
                 "220",
                 "朴",
                 "schlicht",
-                "",
+                "Man stelle sich einen so schlicht geformten Baum vor, dass man direkt einen zauberstab von ihm pflücken kann. ",
                 "",
                 "",
                 ""
@@ -3928,7 +3928,7 @@
                 "221",
                 "村",
                 "Dorf",
-                "",
+                "Früher wurden bei Dörfern die Schutzwälle aus Baumstämmen gebaut. Man muss sich jetzt nur auf das bindende Mittel zwischen diesen Stämmen fokussieren. ",
                 "",
                 "",
                 ""
@@ -3945,7 +3945,7 @@
                 "222",
                 "相",
                 "einander",
-                "",
+                "Man soll einander nicht den Spiess im Auge kritisieren wenn im eigenen doch noch ein ganzer Baum im Weg ist. ",
                 "",
                 "",
                 ""
@@ -3996,7 +3996,7 @@
                 "225",
                 "札",
                 "Etikett",
-                "",
+                "Die Etiketten die in Japan an den Bäumen hängen sind sehr hilfreich. Diese werden mit einem Stück Draht, quasi einem Angelhaken, befestigt. ",
                 "",
                 "",
                 ""
@@ -4013,7 +4013,7 @@
                 "226",
                 "暦",
                 "Kalender",
-                "",
+                "Ein Kalender dokumentiert im Zeitraffer wie ein Hain durch die Erde eine Klippe hervorwächst. Zuerst also unter der Klippe ist. ",
                 "",
                 "",
                 ""
@@ -4064,7 +4064,7 @@
                 "229",
                 "未",
                 "noch nicht",
-                "",
+                "Ein Baum der noch nicht ausgewachsen ist. ",
                 "",
                 "",
                 ""
@@ -4080,7 +4080,7 @@
             "fields": [
                 "230",
                 "末",
-                "schliesslich",
+                "schließlich",
                 "",
                 "",
                 "",
@@ -4098,7 +4098,7 @@
                 "231",
                 "昧",
                 "unklar",
-                "",
+                "die <b>unklarsten</b> Gedanken sind diejenigen bei denen die <i>Sonne</i> der Vernunft <i>noch nicht</i> aufgegangen ist.",
                 "",
                 "",
                 ""
@@ -4251,7 +4251,7 @@
                 "240",
                 "苛",
                 "Schikane",
-                "",
+                "Ein <i>Blumen</i>strauß aus Brenneseln ist es <i>möglich</i>&nbsp;als <b>Schikane</b>&nbsp;zu kategorisieren.",
                 "",
                 "",
                 ""
@@ -4268,7 +4268,7 @@
                 "241",
                 "寛",
                 "nachsichtig",
-                "",
+                "Wer im&nbsp;<i>Haus</i>&nbsp;der <i>Blumen</i>&nbsp;- ein Glashaus - sitzt sollte bekanntlichermaßen <b>Nach</b><i style=\"font-weight: bold;\">sicht</i>&nbsp;zeigen.",
                 "",
                 "",
                 ""
@@ -4285,7 +4285,7 @@
                 "242",
                 "薄<br>",
                 "verdünnen",
-                "",
+                "Lebenswichtige Körper<i>flüssigkeiten</i>&nbsp;werden <b>verdünnt</b>&nbsp;durch einen Akupunkteur der statt Nadeln <i>Blumen</i>&nbsp;verwendet.",
                 "",
                 "",
                 ""
@@ -4302,7 +4302,7 @@
                 "243",
                 "葉",
                 "Blatt",
-                "",
+                "<i>Blüte...Generation...Baum</i><br>Die <i>Blüten</i>&nbsp;des <i>Baumes</i>&nbsp;werden durch dessen <b>Blätter</b>&nbsp;gespeist. Damit kommen mit jeder <i>Generation</i>&nbsp;die Blüten wieder.",
                 "",
                 "",
                 ""
@@ -4319,7 +4319,7 @@
                 "244",
                 "模",
                 "Imitation",
-                "",
+                "<i>Baum...Friedhof</i><br>Moderne Friedhöfe haben lauter Imitationen überall. Dies wird so weit zur Spitze getrieben dass selbst die Bäume jetzt nur noch Imitationen sind.",
                 "",
                 "",
                 ""
@@ -4336,7 +4336,7 @@
                 "245",
                 "漠",
                 "vage",
-                "",
+                "Man sieht den Friedhof aus der Entfernung nur vage durch den ganzen Dunst in der Luft.",
                 "",
                 "",
                 ""
@@ -4370,7 +4370,7 @@
                 "247",
                 "暮",
                 "Lebensunterhalt",
-                "",
+                "Seinen Lebensunterhalt als Friedhofwächter verdienen. Man ist als den ganzen Tag <i>auf</i>&nbsp;dem Friedhof.",
                 "",
                 "",
                 ""
@@ -4404,7 +4404,7 @@
                 "249",
                 "苗",
                 "Setzling",
-                "",
+                "Ideen wie <b>Setzlinge</b>&nbsp;in <i>Gehirne</i>&nbsp;einfplanzen. Dann muss man sich nur noch vorstellen wie diese <b>Setzlinge</b>&nbsp;wurzeln schlagen und man die <i>Blüten</i>&nbsp;begutachten kann wie sie durch die Schädeldecke sprießen.",
                 "",
                 "",
                 ""
@@ -19541,6 +19541,397 @@
             ],
             "flags": 0,
             "guid": "Lb>.8`|G^]",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1104",
+                "匁",
+                "Monme",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l>:B~&[M2J",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1105",
+                "以",
+                "mittels",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Fj2]2{/8xo",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "以 (nur links)",
+                "Pflug",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "X41vja4E=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1106",
+                "似",
+                "ähnlich",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i<mB|S)4)m",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "并",
+                "Puzzle",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wGcFb~l~~n",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1107",
+                "併",
+                "zusammenfügen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f(n/_=knoH",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1108",
+                "瓦",
+                "Ziegel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qNCZ,b]~nb",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1109",
+                "瓶",
+                "Flasche",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vWzs7%w*YA",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1110",
+                "宮",
+                "Schinto-Schrein",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NS;x3yMav",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1111",
+                "営",
+                "Betrieb",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i`|_h/BAax",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1112",
+                "善",
+                "das Gute",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A~Jl|T-h6o",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1113",
+                "膳",
+                "Esstischchen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F+ASA0Gc56",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1114",
+                "年",
+                "Jahr",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IX(,#+{>>Y",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1115",
+                "夜",
+                "Nacht",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Cj]UrYh+oV",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1116",
+                "液",
+                "Flüssigkeit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uA#fD(41Gf",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1117",
+                "塚",
+                "Haufen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u_]2wmnoK^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "敝",
+                "Reißwolf",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ESH(x%IU8z",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1118",
+                "幣",
+                "Geldschein",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mo#T&o4Xk1",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1119",
+                "蔽",
+                "bedecken",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g7!Be[W0Ni",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1120",
+                "弊",
+                "Unsitte",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oT7AI4~wI",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1121",
+                "喚",
+                "kreischen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h$~m=mk%_M",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1122",
+                "換",
+                "austauschen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h0MusC?w7%",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1123",
+                "融",
+                "auflösen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GqpwEg*^Xs",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
