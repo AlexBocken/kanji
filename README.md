@@ -17,3 +17,10 @@ Feel free to base your vocab list off of mine via a fork, that's probably the be
 This deck is still heavily in developement, I will be adding new cards and hints from time to time, see the commits for more details.
 
 Currently I'm using this [Kanji recognition site](https://kanji.sljfaq.org/draw-canvas.html). Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
+
+I've been adding the seperately listed primitives as well, although that has some issues connected with it: Some/most of the primitives listed seperately do not have a unicode character associated with them. Thus I've been using two strategies:
+
+1. Choosing a simple kanji which uses this primitive and stating with part of this kanji is meant
+2. Misusing another unicode chrakter which looks pretty much the same. For example for "Besen" as used in "雪" uses the charakter "ヨ" ("yo" from Katakana).
+
+Both of these strategies are not optimal and I'm currently looking into other options. Inserting pictures does not seem optimal to me as well since those are heavily font-dependent. Reccommendations on how to solve this issue are always welcome.
