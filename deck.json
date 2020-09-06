@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "4787807a-f054-11ea-a9a7-9cb6d013a4a3",
+    "deck_config_uuid": "74982530-f05c-11ea-a9a7-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "4787807a-f054-11ea-a9a7-9cb6d013a4a3",
+            "crowdanki_uuid": "74982530-f05c-11ea-a9a7-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -23859,6 +23859,941 @@
             ],
             "flags": 0,
             "guid": "m(9P%sK${*",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1337",
+                "身",
+                "Leib",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qzSBr++j4j",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1338",
+                "射",
+                "schießen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KuoQ7GJe:f",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1339",
+                "謝",
+                "sich entschuldigen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D#i{NLCY|z",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1340",
+                "老",
+                "alter Mann",
+                "",
+                "alter Mann, aber geschrieben wie:&nbsp;耂",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jIU56]@jO)",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1341",
+                "考",
+                "erwägen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mXNJuXyBbl",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1342",
+                "孝",
+                "Kindespflicht",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lm08KWjzCf",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1343",
+                "教",
+                "lehren",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Isph(LyG_:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1344",
+                "拷",
+                "foltern",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sVy]QzjbBf",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1345",
+                "者",
+                "Person",
+                "",
+                "Marionette, Handpuppe",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j(LnOn;b2u",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1346",
+                "煮",
+                "brodeln",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cE($Ymk/|2",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1347",
+                "著",
+                "auffallend",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A/&ulhGG.5",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1348",
+                "箸",
+                "Essstäbchen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w_aW,Qc(zI",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1349",
+                "署",
+                "unterschreiben",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k77WJI1cBp",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1350",
+                "暑",
+                "drückend (heiß)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I7mmi`Q^#C",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1351",
+                "諸",
+                "allerlei",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d:j%g?!!!X",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1352",
+                "猪",
+                "Wildschwein",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "COjD$9S/,m",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1353",
+                "渚",
+                "Strand",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u&Irb8HZ`}",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1354",
+                "賭",
+                "wetten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eQ_x6[u%B;",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "峡 (nur rechts)",
+                "Schere",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kVeVm_<XO+",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1355",
+                "峡",
+                "Schlucht",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m?sD0~Z<,m",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1356",
+                "狭",
+                "eng",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e?`B1aZN{f",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1357",
+                "挟",
+                "eingeklemmt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DX@*LSfCs4",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1358",
+                "頬",
+                "Wange",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j9RfT;)%v3",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "追 (ohne&nbsp;辶)",
+                "Dirigent",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OKF|;htOsN",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1359",
+                "追",
+                "verfolgen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l`$N4Y1tV:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1360",
+                "阜",
+                "Bühl",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Hyg`=8kdA!",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1361",
+                "師",
+                "Meister",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BwNj8j<_Ba",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1362",
+                "帥",
+                "Oberbefehl",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nZaU9^6[pb",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1363",
+                "官",
+                "Bürokrat",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Dj2;%Tyy,a",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1364",
+                "棺",
+                "Sarg",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k1GM1nhy,v",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1365",
+                "管",
+                "Rohr",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ldm-=c!t]z",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1366",
+                "父",
+                "Vater",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s/=Px994HO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1367",
+                "釜",
+                "Kessel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D[>!e9d_[&",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1368",
+                "交",
+                "Umgang",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zNNU9yMm)4",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1369",
+                "効",
+                "Wirkung",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ri?e%/=^Dd",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1370",
+                "較",
+                "gegenüberstellen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A<:xCg#*[s",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1371",
+                "校",
+                "Schule",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e?Ks)tP`[|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1372",
+                "足",
+                "Bein",
+                "",
+                "Holzbein (geschrieben wie in&nbsp;趾 links)",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pY`/auF`rA",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1373",
+                "促",
+                "anregen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nQup9y!1Bp",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1374",
+                "捉",
+                "erwischen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hE}Ts:aNrA",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1375",
+                "距",
+                "Distanz",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "poD3>#(m)w",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1376",
+                "路",
+                "Pfad",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fxWvOBSgl1",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1377",
+                "露",
+                "Tautropfen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bVlgS4?(ui",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1378",
+                "跳",
+                "hüpfen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EwKq&#HMJi",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1379",
+                "躍",
+                "springen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kq(8S|)xe~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1380",
+                "践",
+                "besteigen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t?#1yKJ%xs",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1381",
+                "踏",
+                "betreten",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GYr<qy{_#2",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1382",
+                "踪",
+                "Fußspuren",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bD!9uBr>Py",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1383",
+                "骨",
+                "Gebeine",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G@2GvA3bJz",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1384",
+                "滑",
+                "glatt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rHnlrGAC17",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "咼",
+                "Unterkiefer",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L64%dN]kx=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1386",
+                "禍",
+                "Unheil",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nY.`;trXRW",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1387",
+                "渦",
+                "Strudel",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j-/:tZ7.P0",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1388",
+                "鍋",
+                "Topf",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fI>O%n,BYn",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1389",
+                "過",
+                "übertreiben",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dNs_=j:7A~",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
