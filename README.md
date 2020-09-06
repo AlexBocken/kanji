@@ -1,8 +1,8 @@
 # kanji
 
-<img src="/../assets/kanji_front.png" alt="Front side with kanji displayed" width="300"> <img src="/../assets/kanji_back.png" alt="Back side revealing meaning of kanji" width="300">
+<img src="/../assets/kanji_front.png" alt="Front side with kanji displayed" width="49%"> <img src="/../assets/kanji_back.png" alt="Back side revealing meaning of kanji" width="49%">
 
-<img src="/../assets/german_front.png" alt="Front side with german word displayed" width="300"> <img src="/../assets/german_back.png" alt="Back side revealing kanji with that meaning" width="300">
+<img src="/../assets/german_front.png" alt="Front side with german word displayed" width="49%"> <img src="/../assets/german_back.png" alt="Back side revealing kanji with that meaning" width="49%">
 
 This is my personal vocab list to learn the Japanese Kanji which is using J.W. Heisig/R. Rauther's [__"Die Kanji - lernen und behalten 1"__](https://www.amazon.de/Bedeutung-Schreibweise-japanischen-Schriftzeichen-behalten/dp/3465041577/ref=sr_1_2?crid=2LX7RDRS8FEGW&dchild=1&keywords=die+kanji+lernen+und+behalten&qid=1595191168&sprefix=Die+kanji+lern%2Caps%2C154&sr=8-2)
 
