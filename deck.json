@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "3cf4ab34-efa9-11ea-8755-9cb6d013a4a3",
+    "deck_config_uuid": "967dc1b8-f044-11ea-911b-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "3cf4ab34-efa9-11ea-8755-9cb6d013a4a3",
+            "crowdanki_uuid": "967dc1b8-f044-11ea-911b-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -42,7 +42,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 75,
+                "perDay": 100,
                 "useGeneralTimeoutSettings": false
             },
             "timer": 0
@@ -4421,7 +4421,7 @@
                 "250",
                 "兆",
                 "Vorzeichen",
-                "",
+                "Am Schildkrötenpanzer wird die Zukunft vorhergesagt, insbesondere also Dinge die ein schlechtes Vorzeichen bedeuten.",
                 "Vorzeichen, wenn abgekürzt und links wie in 状 bedeutet es Schildkröte",
                 "",
                 ""
@@ -4438,7 +4438,7 @@
                 "251",
                 "桃",
                 "Pfirisch",
-                "",
+                "Die japanische Sage von <i>Momo Taro</i>&nbsp;- dem <b>Pfirisch</b>kind - welches ein Held werden sollte. Er enstprang also von einem <i>Baum</i> und diente aber auch als ein <i>Vorzeichen</i>&nbsp;für kommende schlechte Zeiten. Wie sonnst kann er ein Held werden können?",
                 "",
                 "",
                 ""
@@ -4455,7 +4455,7 @@
                 "252",
                 "眺",
                 "anstarren",
-                "",
+                "Jemanden Böse <i>Blicke</i>&nbsp;zuwerfen und Unheil wünschen - <b>anstarren</b>. Ein <i>Vorzeichen.</i>",
                 "",
                 "",
                 ""
@@ -4473,7 +4473,7 @@
                 "犬",
                 "Hund",
                 "",
-                "sehr kleiner Hund, wenn wie links in 猫 bedeutet es Rudel Wildhunde",
+                "sehr kleiner Hund, wenn&nbsp;犭 bedeutet es Rudel Wildhunde",
                 "",
                 ""
             ],
@@ -4489,7 +4489,7 @@
                 "254",
                 "状",
                 "die Umstände",
-                "",
+                "Die Fabel der <i>Schildkröte</i> die sich in einen <i>Chihuahua</i> verliebt und damit <b>die</b>&nbsp;herrschenden <b>Umstände</b>&nbsp;ins Wanken bringt.",
                 "",
                 "",
                 ""
@@ -4506,7 +4506,7 @@
                 "255",
                 "黙",
                 "schweigen",
-                "",
+                "Ein <i>schwarzer Chihuahua</i>&nbsp;ist viel zu klein um in der Nacht Einbrecher zu verjagen. Gott sei Dank kann er sich gut im Dunkeln verstecken, jetzt muss man ihn nur noch zum <b>schweigen</b>&nbsp;bringen.",
                 "",
                 "",
                 ""
@@ -4523,7 +4523,7 @@
                 "256",
                 "然",
                 "-artig",
-                "",
+                "Man stelle sich eine Zeit/Region vor, bei der die Hunde noch im Kochtopf landen. Der Koch bereitet als das <i>Fleisch</i>&nbsp;eines&nbsp;<i>Chihuahuas</i>&nbsp;in einem Kochtopf über lodernde Flamme vor. Für unsere Verhältnisse ist das ganze doch schon etwas ab<b>-artig</b>.",
                 "",
                 "",
                 ""
@@ -4540,7 +4540,7 @@
                 "257",
                 "荻",
                 "Schilf",
-                "",
+                "Man vesteck sich vor einem <i>wilden Rudel Hunde</i>&nbsp;unter den <b>Schilf</b><i>blüten</i>. Um sie auch ja komplett abzuschütteln setzt man danach alles hinter sich in <i>Brand.</i>",
                 "",
                 "",
                 ""
@@ -4557,7 +4557,7 @@
                 "258",
                 "狩",
                 "jagen",
-                "",
+                "Bei der <b>Jagd</b>&nbsp;muss man die Beute von den <i>wilden Hunden bewachen</i>.",
                 "",
                 "",
                 ""
