@@ -6,7 +6,7 @@
 
 This is my personal vocab list to learn the Japanese Kanji which is using J.W. Heisig/R. Rauther's [__"Die Kanji - lernen und behalten 1"__](https://www.amazon.de/Bedeutung-Schreibweise-japanischen-Schriftzeichen-behalten/dp/3465041577/ref=sr_1_2?crid=2LX7RDRS8FEGW&dchild=1&keywords=die+kanji+lernen+und+behalten&qid=1595191168&sprefix=Die+kanji+lern%2Caps%2C154&sr=8-2)
 
-I'm using Anki as my vocab program with the Addon __CrowdAnki__ to export in a diff-friendly json-file.
+I'm using Anki as my vocab program with the Addon [CrowdAnki](https://github.com/Stvad/CrowdAnki) to export in a diff-friendly json-file. You can easily add it to yout Anki setup via the code given on [it's AnkiWeb page](https://ankiweb.net/shared/info/1788670778)
 
 Since I'm using the German version of the book (and my native language is German) the cards are Japanese-German.
 I'm following the guide of the book, only implementing hints if I have troubles with memorizing the words.
