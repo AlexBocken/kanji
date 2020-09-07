@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "3896f400-f122-11ea-b578-9cb6d013a4a3",
+    "deck_config_uuid": "6d55e1d2-f123-11ea-9a13-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "3896f400-f122-11ea-b578-9cb6d013a4a3",
+            "crowdanki_uuid": "6d55e1d2-f123-11ea-9a13-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -32499,6 +32499,177 @@
             ],
             "flags": 0,
             "guid": "lv+KJz94yY",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1596",
+                "平",
+                "flach",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "39"
+            ],
+            "flags": 0,
+            "guid": "yt,C]/@0K8",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "287",
+                "金",
+                "Gold",
+                "",
+                "Metall",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "O{tYK$!PFY",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "288",
+                "銑",
+                "Roheisen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "rK;mTW&,!a",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "289",
+                "鉢",
+                "Schüssel",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "yr=G5]B6[0",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "290",
+                "銅",
+                "Kupfer",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "b8p.c*+0}%",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "291",
+                "釣",
+                "angeln",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "u!!{B2}fx0",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "292",
+                "針",
+                "Nadel",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "l1sT4ft=j|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "293",
+                "銘",
+                "Inschrift",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "qRHjQM!0br",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "294",
+                "鎮",
+                "beruhigen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "12"
+            ],
+            "flags": 0,
+            "guid": "D8*2DwHSTT",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
