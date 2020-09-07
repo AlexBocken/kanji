@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "d3f839da-f119-11ea-8d8c-9cb6d013a4a3",
+    "deck_config_uuid": "3896f400-f122-11ea-b578-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "d3f839da-f119-11ea-8d8c-9cb6d013a4a3",
+            "crowdanki_uuid": "3896f400-f122-11ea-b578-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -32290,6 +32290,215 @@
             ],
             "flags": 0,
             "guid": "t+Ui0NAZ}`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "帯",
+                "Schürze",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;丗",
+                "18"
+            ],
+            "flags": 0,
+            "guid": "O6yf;ue%uT",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "冂",
+                "Gürtel",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "18"
+            ],
+            "flags": 0,
+            "guid": "fUP:prs80G",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "芸",
+                "Schwaden",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;艹",
+                "18"
+            ],
+            "flags": 0,
+            "guid": "xzdCp?0P{a",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "嫡",
+                "Antiquität",
+                "",
+                "",
+                "",
+                "",
+                "ohne 女",
+                "18"
+            ],
+            "flags": 0,
+            "guid": "ioEU~.fM^4",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "渇",
+                "Nickerchen",
+                "",
+                "",
+                "",
+                "",
+                "ohne 氵",
+                "18"
+            ],
+            "flags": 0,
+            "guid": "K0*.sTS{eo",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "腹",
+                "umkehren",
+                "",
+                "",
+                "",
+                "",
+                "ohne 月",
+                "18"
+            ],
+            "flags": 0,
+            "guid": "F(=J@WQr;J",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "賠",
+                "Maulkorb",
+                "",
+                "",
+                "",
+                "",
+                "ohne 貝",
+                "19"
+            ],
+            "flags": 0,
+            "guid": "l%Imt{(,W`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "識",
+                "Tröte",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;言",
+                "19"
+            ],
+            "flags": 0,
+            "guid": "INqh[>cEUA",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "脱",
+                "Teufel",
+                "",
+                "",
+                "",
+                "",
+                "ohne 月",
+                "19"
+            ],
+            "flags": 0,
+            "guid": "JwlSvS:<vA",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "囗",
+                "eingepfercht",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "22"
+            ],
+            "flags": 0,
+            "guid": "H(w-s3eG[v",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "宛",
+                "Briefkasten",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;宀",
+                "37"
+            ],
+            "flags": 0,
+            "guid": "lv+KJz94yY",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
