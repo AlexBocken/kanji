@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "3996852a-f080-11ea-9926-9cb6d013a4a3",
+    "deck_config_uuid": "6eb2e25a-f0fb-11ea-8d8c-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "3996852a-f080-11ea-9926-9cb6d013a4a3",
+            "crowdanki_uuid": "6eb2e25a-f0fb-11ea-8d8c-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -4642,7 +4642,7 @@
                 "263",
                 "先",
                 "voran",
-                "",
+                "Bei einer <i>Kuh</i> mit <i>Menschenbeinen</i> haltet es sich wohl um zwei Menschen im Kuhkostüm. Wichtig dabei ist, dass der Kopf <b>voran</b>&nbsp;geht, und nicht die Hinterbeine.",
                 "",
                 "",
                 ""
@@ -4659,7 +4659,7 @@
                 "264",
                 "洗",
                 "waschen",
-                "",
+                "Um den Ab<b>wasch</b>&nbsp;zu machen muss das <i>Wasser voran</i>&nbsp;eingegossen werden.",
                 "",
                 "",
                 ""
@@ -4676,7 +4676,7 @@
                 "265",
                 "介",
                 "dazwischen",
-                "",
+                "Ein <i>Spazierstock</i>&nbsp;ist <b>zwischen</b>&nbsp;die Streben eines <i>Regenschirms</i>&nbsp;geraten.",
                 "",
                 "",
                 ""
@@ -4727,7 +4727,7 @@
                 "268",
                 "脊",
                 "Wirbelsäule",
-                "",
+                "Die eigene <b>Wirbelsäule </b>wurde aus seinem eigenen <i>Fleisch</i>&nbsp;gerissen und nun als <i>Schirm</i>&nbsp;verwendet. Die&nbsp;二 dienen dabei als Bilder für die Rippen des <i>Schirm</i>s<i>.</i>",
                 "",
                 "",
                 ""
@@ -4744,7 +4744,7 @@
                 "269",
                 "合",
                 "passen",
-                "",
+                "Eine <i>Zusammenkunft</i>&nbsp;der <i>Münder</i>. Ein recht nüchterne Art einen Kuss zu formulieren. Wohl müssen die Teilnehmer nicht zueinander <b>passen</b>.",
                 "",
                 "",
                 ""
