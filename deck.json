@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "80fd1ef8-f209-11ea-90ff-9cb6d013a4a3",
+    "deck_config_uuid": "0222167e-f213-11ea-9dc3-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "80fd1ef8-f209-11ea-90ff-9cb6d013a4a3",
+            "crowdanki_uuid": "0222167e-f213-11ea-9dc3-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -37876,6 +37876,994 @@
             ],
             "flags": 0,
             "guid": "A@j]xASlQB",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "彡",
+                "Form",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "C!6nrS>`aW",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1846",
+                "彫",
+                "bildhauern",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "up.QkCxzJt",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1847",
+                "形",
+                "Form",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "hbgk@w?qf&",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1848",
+                "影",
+                "Schatten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "bR@Th?uLQE",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1849",
+                "杉",
+                "Zeder",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "xg9tSQ?YT1",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1850",
+                "彩",
+                "kolorieren",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "nozjX}&b{c",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1851",
+                "彰",
+                "deutlich",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "dw`.9%4uBy",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1852",
+                "彦",
+                "Knabe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Aj0gtEQ)Yh",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1853",
+                "顔",
+                "Gesich",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "d2Vpu1M.<Y",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1854",
+                "須",
+                "müssen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Q?nd~<Hoqq",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1855",
+                "膨",
+                "schwellen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "A#;E/qm9H>",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1856",
+                "参",
+                "aufsuchen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "xN9b(A*mM_",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1857",
+                "惨",
+                "elend",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "LcEPZG/{[c",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1858",
+                "修",
+                "sich beherrschen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "En$*<HZad$",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1859",
+                "珍",
+                "selten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "dM48K8k^7O",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1860",
+                "診",
+                "Diagnose",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "bq~D)xyZh&",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1861",
+                "文",
+                "Text",
+                "",
+                "kariert",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Ih/_M4AH9w",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1862",
+                "対",
+                "gegen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "txRQjZJDh]",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1863",
+                "紋",
+                "Familienwappen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "E{.B.n-bm~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1864",
+                "蚊",
+                "Mücke",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "k!VsEMt0N]",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1865",
+                "斑",
+                "gesprenkelt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "I+-shcQUFE",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "斉",
+                "Zaunpfähle",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;文 und&nbsp;二",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "dxxc8(>>*`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1866",
+                "斉",
+                "gleichmäßig",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "+BqJLH|6m",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1867",
+                "剤",
+                "Mittel",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "rsEL.~|1%i",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1868",
+                "済",
+                "beenden",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "o<nQ5xO6ll",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1869",
+                "斎",
+                "rituelle Reinigung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "m<jsk~Bgg0",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1870",
+                "粛",
+                "feierlich",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "qMnA7^GATz",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "塁",
+                "Wunderkerze",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;田 und&nbsp;土",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "DWdOalY1p2",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1871",
+                "塁",
+                "Baseball-Male (Bases)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "D:<uk$a/PR",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1872",
+                "楽",
+                "Musik",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "FU1ROdh*)X",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1873",
+                "薬",
+                "Arznei",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "uu|y$0/)8h",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1874",
+                "率",
+                "Rate",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Fo87DKx,Go",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1875",
+                "渋",
+                "herb",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "LFJm8QWlJG",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1876",
+                "摂",
+                "in sich aufnehmen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "gcU_Lm?YqE",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1877",
+                "央",
+                "Zentrum",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "cXnS42H^[i",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1878",
+                "英",
+                "England",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "DI]LLJ0$;7",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1879",
+                "映",
+                "reflektieren",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Q;t{qHcEcz",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1880",
+                "赤",
+                "rot",
+                "",
+                "rot, Apfel (die abgekürzte Version)",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "vs,,f5%{k<",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1881",
+                "赦",
+                "vergeben",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "e|K*cv;f!V",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1882",
+                "変",
+                "anders",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "E+*X@cMOhF",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1883",
+                "跡",
+                "Spuren",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Lk<SHf3}I$",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1884",
+                "蛮",
+                "Barbar",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Cq:2a5@V@S",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1885",
+                "恋",
+                "Liebschaft",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "rJ^4TDH51o",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1886",
+                "湾",
+                "Meerbusen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "px{A#a,->m",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1887",
+                "黄",
+                "gelb",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "D|aV3UR{]d",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1888",
+                "横",
+                "waagrecht",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "or^>Da+GSw",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "巴",
+                "Mosaik",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "BQ@r~N5>=4",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1889",
+                "把",
+                "fassen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "Qawhu)JR<R",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1890",
+                "色",
+                "Farbton",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "brPuZ<O5AZ",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1891",
+                "絶",
+                "unterbrechen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "l}xLM4#EhG",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1892",
+                "艶",
+                "glänzend",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "s_lXtYc&Km",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1893",
+                "肥",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "45"
+            ],
+            "flags": 0,
+            "guid": "wPOlqLn5RQ",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
