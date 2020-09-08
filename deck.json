@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "a4b9bfc8-f1fe-11ea-9bcb-9cb6d013a4a3",
+    "deck_config_uuid": "80fd1ef8-f209-11ea-90ff-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "a4b9bfc8-f1fe-11ea-9bcb-9cb6d013a4a3",
+            "crowdanki_uuid": "80fd1ef8-f209-11ea-90ff-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -36466,7 +36466,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "rS.)*VNm~M",
@@ -36485,7 +36485,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "PbELc9@p~>",
@@ -36504,7 +36504,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "k1S(32E;_W",
@@ -36523,7 +36523,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "e:>^v0$$Ui",
@@ -36542,7 +36542,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "nYxXVE7VX1",
@@ -36561,7 +36561,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "lH!jn[JrB:",
@@ -36580,7 +36580,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "x|G~?:b>06",
@@ -36599,7 +36599,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "Ierep%,kf*",
@@ -36618,7 +36618,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "IqzkRm=3?",
@@ -36637,7 +36637,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "Ggmf7|!7tR",
@@ -36656,7 +36656,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "zI?y|(,XyJ",
@@ -36675,7 +36675,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "d*50}cN%@x",
@@ -36694,7 +36694,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "Oq+.I35qeH",
@@ -36713,7 +36713,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "Pc(x$@g;|D",
@@ -36732,7 +36732,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "l!E(f(VXbS",
@@ -36751,7 +36751,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "paw7lMg?b,",
@@ -36770,7 +36770,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "m*P(.[BHJz",
@@ -36789,7 +36789,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "I*gS=QKBn(",
@@ -36808,7 +36808,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "nt4%mX8HR1",
@@ -36827,7 +36827,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "t(PGci:G|w",
@@ -36846,7 +36846,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "B+8Fs,VurV",
@@ -36865,7 +36865,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "nYF_rfMafZ",
@@ -36884,7 +36884,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "joW8qUh/f~",
@@ -36903,7 +36903,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "rn(s4xSmSk",
@@ -36922,7 +36922,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "E,ZYU8;t1A",
@@ -36941,7 +36941,7 @@
                 "",
                 "",
                 "ohne 刂",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "e27DfcM7A4",
@@ -36960,7 +36960,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "B/8T(Fp=(.",
@@ -36979,7 +36979,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "j1a<Fp!}Yd",
@@ -36998,7 +36998,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "qkKm9UYNY>",
@@ -37017,7 +37017,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "q/1f#cOT,@",
@@ -37036,7 +37036,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "FVAqi|r6:E",
@@ -37055,7 +37055,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "GPn(R3Qq94",
@@ -37074,7 +37074,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "OMf[SIrH2G",
@@ -37093,7 +37093,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "w~8];e~bO3",
@@ -37112,7 +37112,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "b:*t0PG)j%",
@@ -37131,7 +37131,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "gxb0:Z;:MV",
@@ -37150,7 +37150,7 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "v^4;JeiE->",
@@ -37169,10 +37169,713 @@
                 "",
                 "",
                 "",
-                ""
+                "43"
             ],
             "flags": 0,
             "guid": "z~JW!yF;21",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "疒",
+                "Krankheit",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "i+IM$=Y5f=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1813",
+                "病",
+                "krank",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "A;H/3;V43j",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1814",
+                "痴",
+                "dumm",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "A*s^n5)&H_",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1815",
+                "痘",
+                "Pocken",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "k~RM?=/f(V",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1816",
+                "症",
+                "Symptome",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "f_+nv9+jpP",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1817",
+                "瘍",
+                "Geschwür",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "t<K*n]()!{",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1818",
+                "痩",
+                "abmagern",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "G96N[i;>I7",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1819",
+                "疾",
+                "geschwind",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "B6_$n~t|Ts",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1820",
+                "嫉",
+                "missgünstig",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "E-=}7V.[?Q",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1821",
+                "痢",
+                "Durchfall",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "BB@Ae;u`l.",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1822",
+                "痕",
+                "Narbe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "CP2KwRc_>D",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1823",
+                "疲",
+                "müde",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "A@Y<<7/Eb;",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1824",
+                "疫",
+                "Epidemie",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "v[x%*N(%z*",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1825",
+                "痛",
+                "Schmerz",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "FHu$LDFV9k",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1826",
+                "癖",
+                "Eigenart",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "J)Bc&qE?|7",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "匚",
+                "Kiste",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "K%6?EKYE-8",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1827",
+                "匿",
+                "verstecken",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "w}`&zPwrZn",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1828",
+                "匠",
+                "Zimmermann",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "c;mL6`QZ9c",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1829",
+                "医",
+                "Arzt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "d.7VNWcp*I",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1830",
+                "匹",
+                "ebenbürtig",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "szhv(l{d@b",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1831",
+                "区",
+                "Distrikt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "jt&;HvXxQx",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1832",
+                "枢",
+                "Angelpunkt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "H9PU9BL(da",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1833",
+                "殴",
+                "prügeln",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "kn4k[{Sz@?",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1834",
+                "欧",
+                "Europa",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "JK/81tw1CD",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1835",
+                "抑",
+                "unterdrücken",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "AGX$Z]NNMj",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1836",
+                "仰",
+                "aufblicken",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "sk=R-dOB^5",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "癶",
+                "Tipi",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "k4#DL0ZW7e",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1838",
+                "登",
+                "erklimmen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "v(&Sz..1`I",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1839",
+                "澄",
+                "klar",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "n8M,t]`/yB",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1837",
+                "迎",
+                "willkommen heißen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "HVjs>bU12{",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1840",
+                "発",
+                "hervorbringen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "pH5WdStE4a",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1841",
+                "廃",
+                "abgeschafft",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "D<y}^*R_aA",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "寮",
+                "Zelt",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;宀",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "m/j0yb)Jt@",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1842",
+                "僚",
+                "Kollege",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "dB[mCyUK|~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1843",
+                "瞭",
+                "offensichtlich",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "pHnfq~C>EL",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1844",
+                "寮",
+                "Wohnheim",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "wX^KMUbrkv",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1845",
+                "療",
+                "therapieren",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "44"
+            ],
+            "flags": 0,
+            "guid": "A@j]xASlQB",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
