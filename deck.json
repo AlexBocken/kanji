@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "36d048fc-f2b6-11ea-84c7-9cb6d013a4a3",
+    "deck_config_uuid": "d3d2de78-f2dc-11ea-acd7-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "36d048fc-f2b6-11ea-84c7-9cb6d013a4a3",
+            "crowdanki_uuid": "d3d2de78-f2dc-11ea-acd7-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -41543,6 +41543,538 @@
             ],
             "flags": 0,
             "guid": "r_ag=1^(ip",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2025",
+                "繭",
+                "Kokon",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "pfhR/SEria",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2026",
+                "益",
+                "Gewinn",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "gY?$Zn*zXF",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2027",
+                "暇",
+                "Freizeit",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "t5V}hP;Aey",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2028",
+                "敷",
+                "ausbreiten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "yu3&.6Si7g",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2029",
+                "来",
+                "kommen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "cf$/W}6[&_",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2030",
+                "気",
+                "Geist",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "nnwwuhq3F1",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2031",
+                "汽",
+                "Dampf",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "h0f(rqaw)[",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2032",
+                "飛",
+                "fliegen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "F=s3=yJRZO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2033",
+                "沈",
+                "sinken",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "jB&tAD3<v<",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2034",
+                "枕",
+                "Kopfkissen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "ML[m%gNeaK",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2035",
+                "妻",
+                "Ehefrau",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "KSYuYhmgr?",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2036",
+                "凄",
+                "verblüffend",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "GONAwu?~Ko",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2037",
+                "衰",
+                "verfallen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "GfHy[_6G:b",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2038",
+                "衷",
+                "innig",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "cKa)5/6iJE",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2039",
+                "面",
+                "Maske",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "Evu)Tn-kO>",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2040",
+                "麺",
+                "Nudeln",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "d}6?(&3xVP",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2041",
+                "革",
+                "Leder",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "qws%$eSOx<",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2042",
+                "靴",
+                "Schuhe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "@<qZKz|US",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2043",
+                "覇",
+                "Vorherrschaft",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "mbw((`Vmow",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2044",
+                "声",
+                "Stimme",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "K{/,`G`i1j",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2045",
+                "眉",
+                "Augenbraue",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "wsXk3W1y^v",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2046",
+                "呉",
+                "geben",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "b/DipoYN%=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2047",
+                "娯",
+                "Erholung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "G:=WNYX58>",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2048",
+                "誤",
+                "Fehler",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "zKCbPbev`l",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2049",
+                "蒸",
+                "Dunst",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "z01Trvd>EP",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2050",
+                "承",
+                "hinnehmen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "O#,c/pVpHS",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2051",
+                "函",
+                "Kasten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "u:4_VXCyBj",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2052",
+                "極",
+                "Pol",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "51"
+            ],
+            "flags": 0,
+            "guid": "vI?qH36VJn",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
