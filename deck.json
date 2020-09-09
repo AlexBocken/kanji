@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "0222167e-f213-11ea-9dc3-9cb6d013a4a3",
+    "deck_config_uuid": "48270846-f281-11ea-8711-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "0222167e-f213-11ea-9dc3-9cb6d013a4a3",
+            "crowdanki_uuid": "48270846-f281-11ea-8711-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -5510,7 +5510,7 @@
                 "280",
                 "呈",
                 "darbieten",
-                "",
+                "<i>Mund</i>&nbsp;des <i>Königs</i>&nbsp;steht offen wegen den tollen <b>Darbietungen.</b>",
                 "",
                 "",
                 "",
@@ -5587,7 +5587,7 @@
                 "主",
                 "Herr",
                 "",
-                "",
+                "Kerzenständer",
                 "",
                 "",
                 "",
