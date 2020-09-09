@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "f92d277a-f28f-11ea-93ac-9cb6d013a4a3",
+    "deck_config_uuid": "b11c2d18-f295-11ea-93ac-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "f92d277a-f28f-11ea-93ac-9cb6d013a4a3",
+            "crowdanki_uuid": "b11c2d18-f295-11ea-93ac-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -39282,6 +39282,633 @@
             ],
             "flags": 0,
             "guid": "hGd7wrQohr",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "且",
+                "Vitrine",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "JP75Bbd9lG",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1914",
+                "組",
+                "Zusammensetzung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "z#1]]FA!?B",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1915",
+                "粗",
+                "rau",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "A=|}l)T{Ri",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1916",
+                "租",
+                "Zehnt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "tSo$Il[oJ`",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1917",
+                "狙",
+                "zielen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "n$$QlD?Jid",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1918",
+                "祖",
+                "Vorfahre",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "K:7|X%7~Gq",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1919",
+                "阻",
+                "vereiteln",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "eM5u&jgg,[",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1920",
+                "査",
+                "untersuchen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "d%6]1g:MV8",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1921",
+                "助",
+                "helfen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "gsSUs>n=63",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1922",
+                "宜",
+                "schöne Grüße",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "i%T0]{gTv,",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1923",
+                "畳",
+                "Tatami-Matten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "c]29xI]+vN",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1924",
+                "並",
+                "Reihe",
+                "",
+                "verschiedene Schreibweisen möglich, siehe Buch",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "H<?GT5)NJ{",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1925",
+                "普",
+                "universal",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "m#xs~CmL%n",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1926",
+                "譜",
+                "Noten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "Oyr^v*k^bt",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1927",
+                "湿",
+                "feucht",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "cC?NKsLnrX",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1928",
+                "顕",
+                "offenkundig",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "BSR~Kh9oXm",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1929",
+                "繊",
+                "dünn",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "dU${K0G&^G",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1930",
+                "霊",
+                "geistlich",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "d~C3VsL%iT",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1931",
+                "業",
+                "Gewerbe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "ot4F9MZjNF",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1932",
+                "撞",
+                "hauen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "uk/P&~Na?6",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1933",
+                "僕",
+                "meiner einer",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "A|)z<IJ.H|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1934",
+                "共",
+                "zusammen",
+                "",
+                "zusammen, auffädeln (jedoch nicht \"in einer Reihe\", eher \"nebeneinander\")",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "s&:lJYJV}R",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1935",
+                "供",
+                "darbringen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "gE7Pl1Op>/",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1936",
+                "異",
+                "ungewöhnlich",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "mjF7^J=!tl",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1937",
+                "翼",
+                "Flügel",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "F2ha9hTcC;",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1938",
+                "戴",
+                "demütig entgegennehmen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "v(YRF{yEdO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1939",
+                "洪",
+                "Überschwemmung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "MFz;%5S~X^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1940",
+                "港",
+                "Hafen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "bLp]*|KA4H",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1941",
+                "暴",
+                "toben",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "L0*SdAr}9@",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1942",
+                "爆",
+                "explodieren",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "qOs@9TZv_^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1943",
+                "恭",
+                "respektvoll",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "J03{gF2v:G",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1944",
+                "選",
+                "Auslese",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "ccc!QHMS;U",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1945",
+                "殿",
+                "Hr. (wie Mr. in Englisch)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "47"
+            ],
+            "flags": 0,
+            "guid": "w?xcy.M4#L",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
