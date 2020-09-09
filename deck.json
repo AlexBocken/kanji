@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "c0788070-f2a6-11ea-bfac-9cb6d013a4a3",
+    "deck_config_uuid": "36d048fc-f2b6-11ea-84c7-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c0788070-f2a6-11ea-bfac-9cb6d013a4a3",
+            "crowdanki_uuid": "36d048fc-f2b6-11ea-84c7-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -40973,6 +40973,576 @@
             ],
             "flags": 0,
             "guid": "NC)]c+2=k|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "盾",
+                "schleppen",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;十 und&nbsp;目",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "uzMu8E~NuT",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1997",
+                "盾",
+                "Schild",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "W{Kk,Zfj4",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1998",
+                "循",
+                "Kreislauf",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "N$BpLibh#b",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1999",
+                "派",
+                "Fraktion",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "hlJ^=T;O#^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2000",
+                "脈",
+                "Ader",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "G3u-~4u1V^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2001",
+                "衆<br>",
+                "Massen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "5ngOU4;XO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2002",
+                "逓",
+                "Kurierdienst",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "eI7>~yEgV5",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2003",
+                "段",
+                "Stufe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "uO&Js/5%ce",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2004",
+                "鍛",
+                "schmieden",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "ES/K5N#-6U",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2005",
+                "后",
+                "Kaiserin",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "xQqU,x=~RG",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "司",
+                "Kleiderbügel",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;一 und 口",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "obKb:{jg`(",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2006",
+                "幻",
+                "Trugbild",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "s}}b^Y6laN",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2007",
+                "司",
+                "Direktor",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "Pwg/_(6mv~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2008",
+                "伺",
+                "Höflichkeitsbesuch",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "w+Ek*zy;al",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2009",
+                "詞",
+                "Wortart",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "w}L;Z/)ps0",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2010",
+                "飼",
+                "Tierhaltung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "sF?4?Em3Vw",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2011",
+                "嗣",
+                "Erbe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "OCvF&R:EjC",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2012",
+                "舟",
+                "Boot",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "AYq*sj9q+e",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2013",
+                "舶",
+                "Frachter",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "dZwMgH$;;Y",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2014",
+                "航",
+                "Seefahrt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "KtlWH)<e(g",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2015",
+                "舷",
+                "Dollbord",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "DnE^gk6Bk>",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2016",
+                "般",
+                "allgemein",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "i54%-2MLoj",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2017",
+                "盤",
+                "Platte",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "x*ng`lY1.O",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2018",
+                "搬",
+                "befördern",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "jVRqQ]Mz.x",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2019",
+                "船",
+                "Schiff",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "QhSB8e`k&y",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2020",
+                "艦",
+                "Kriegsschiff",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "LbYu)$$[5P",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2021",
+                "艇",
+                "Kahn",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "J16odMNk]A",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2022",
+                "瓜",
+                "Melone",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "xR]$>?,rM?",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2023",
+                "弧",
+                "Kreisbogen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "Lq?8W&*!-K",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2024",
+                "孤",
+                "Waise",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "r_ag=1^(ip",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
