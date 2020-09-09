@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "48270846-f281-11ea-8711-9cb6d013a4a3",
+    "deck_config_uuid": "f92d277a-f28f-11ea-93ac-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "48270846-f281-11ea-8711-9cb6d013a4a3",
+            "crowdanki_uuid": "f92d277a-f28f-11ea-93ac-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -38864,6 +38864,424 @@
             ],
             "flags": 0,
             "guid": "wPOlqLn5RQ",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1894",
+                "甘<br>",
+                "süß",
+                "",
+                "Weidenkörbchen",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "gxl_BKMve#",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1895",
+                "紺",
+                "dunkelblau",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "Iq<O^MMs*$",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1896",
+                "某",
+                "soundso",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "blr=S+Ec|9",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1897",
+                "謀",
+                "Intrige",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "p54@k`hUN/",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1898",
+                "媒",
+                "Vermittler",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "v[u6soo6;Q",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "其",
+                "Einkaufskorb",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "y/6t_VOx|n",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1899",
+                "欺",
+                "Betrug",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "Mv>LZD19>D",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1900",
+                "棋",
+                "Shogi",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "cBvSQrJH?U",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1901",
+                "旗",
+                "Flagge",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "MW~6#G3KU~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1902",
+                "期",
+                "Periode",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "Gv@JV_64k-",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1903",
+                "碁",
+                "Go",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "N+TTh.(d`]",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1904",
+                "基",
+                "Fundament",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "cLh1;,3x&*",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1905",
+                "甚",
+                "ungemein",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "q?{V<4r#Gc",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1906",
+                "勘",
+                "Intuition",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "n`03hCoEul",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1907",
+                "堪",
+                "aushalten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "IM0aScgIUN",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "貴",
+                "Geldbeutel",
+                "",
+                "",
+                "",
+                "",
+                "ohne 貝",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "MLqgqBe``(",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1908",
+                "貴",
+                "wertvoll",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "KSpHqMp|%V",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1909",
+                "遺",
+                "hinterlassen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "oR/0556TOG",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1910",
+                "遣",
+                "schicken",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "y|uMG5zLnx",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1911",
+                "&nbsp;濆",
+                "zu Schrott verarbeiten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "s;q%dq&YV+",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1912",
+                "舞",
+                "Reigen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "O|W1KJr0:|",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1913",
+                "無",
+                "nichts",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "46"
+            ],
+            "flags": 0,
+            "guid": "hGd7wrQohr",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
