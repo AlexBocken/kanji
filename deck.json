@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "b11c2d18-f295-11ea-93ac-9cb6d013a4a3",
+    "deck_config_uuid": "3961e674-f2a3-11ea-bfac-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "b11c2d18-f295-11ea-93ac-9cb6d013a4a3",
+            "crowdanki_uuid": "3961e674-f2a3-11ea-bfac-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -39909,6 +39909,500 @@
             ],
             "flags": 0,
             "guid": "w?xcy.M4#L",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1946",
+                "井",
+                "Brunnen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "LM.oCp;={f",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1947",
+                "丼",
+                "Donburi",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "PXa@12)gT<",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1948",
+                "囲",
+                "umringen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "yn|;$XnFR^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1949",
+                "耕",
+                "das Feld bestellen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "Jeb/q8<,}.",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1950",
+                "亜",
+                "Asien",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "juc=cO6b~~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1951",
+                "悪",
+                "schlecht",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "v}6,HjwwdO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1952",
+                "円",
+                "Kreis",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "gdf}+rE)g:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1953",
+                "角",
+                "Winkel",
+                "",
+                "Winkelmaß, Geometrie-Dreieck",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "q%3<dwAa;L",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1954",
+                "触",
+                "Kontakt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "re@i41V=B.",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1955",
+                "解",
+                "entwirren",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "x9Ss+8]`oT",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1956",
+                "再",
+                "wieder",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "H>Nx*B%]0{",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "冓",
+                "Entsafter",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "k_oK,sO|0+",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1957",
+                "講",
+                "Vorlesung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "c<|z0,JObO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1958",
+                "購",
+                "abonnieren",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "ECdlYMWzvE",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1959",
+                "構",
+                "Haltung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "mBvf}lCdx&",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1960",
+                "溝",
+                "Rinnstein",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "i0W$)Zq&HC",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "冊",
+                "Sammelalbum",
+                "",
+                "",
+                "",
+                "",
+                "Vertikale steht nicht über",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "qfBs6rj.Yj",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1961",
+                "論",
+                "Argument",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "L{;`{WP:Ne",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1962",
+                "倫",
+                "Ethik",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "y)0Djl3iaS",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1963",
+                "輪",
+                "Rad",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "weocO&D~N2",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1964",
+                "偏",
+                "parteiisch",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "uwZLY5hc7(",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1965",
+                "遍",
+                "überall",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "zeja]d<M`6",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1966",
+                "編",
+                "Zusammenstellung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "Qf%V[~4It7",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1967",
+                "冊",
+                "Buchband",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "h#>C8:OQWp",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1968",
+                "柵",
+                "Palisade",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "u!;n=U}s.*",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1969",
+                "典",
+                "Kodex",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "48"
+            ],
+            "flags": 0,
+            "guid": "eFSH<Efe1A",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
