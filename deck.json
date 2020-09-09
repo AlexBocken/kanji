@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "1d403698-c9ff-11ea-ab22-9cb6d013a4a3",
-    "deck_config_uuid": "3961e674-f2a3-11ea-bfac-9cb6d013a4a3",
+    "deck_config_uuid": "c0788070-f2a6-11ea-bfac-9cb6d013a4a3",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "3961e674-f2a3-11ea-bfac-9cb6d013a4a3",
+            "crowdanki_uuid": "c0788070-f2a6-11ea-bfac-9cb6d013a4a3",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -12330,7 +12330,7 @@
             "fields": [
                 "*",
                 "囗",
-                "eigepfercht",
+                "eingepfercht",
                 "",
                 "",
                 "",
@@ -40403,6 +40403,576 @@
             ],
             "flags": 0,
             "guid": "eFSH<Efe1A",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1970",
+                "氏",
+                "Familienname",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "IOyce2=gn:",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1971",
+                "紙",
+                "Papier",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "DHWmz;h,i~",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1972",
+                "婚",
+                "Heirat",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "PM@LdiZ[v#",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "低",
+                "Visitenkarte",
+                "",
+                "",
+                "",
+                "",
+                "ohne&nbsp;亻",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "raGE?D^p.K",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1973",
+                "低",
+                "niedrig",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "x%nEt{YlKz",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1974",
+                "抵",
+                "widerstehen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "DC.SX$fjgu",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1975",
+                "底",
+                "Boden",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "o~g<J4A*;L",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1976",
+                "民",
+                "Volk",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "KrsMVER0wn",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1977",
+                "眠",
+                "schlafen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "bV8nD#~^@a",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "甫",
+                "Hundemarke",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "Q]xjszrybf",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1978",
+                "捕",
+                "fangen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "GAIIc:6<DF",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1979",
+                "哺",
+                "säugen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "QxCPAh?Ape",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1980",
+                "浦",
+                "Bucht",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "oh8.Dx2}Bx",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1981",
+                "蒲",
+                "Rohrkolben",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "u,6f#nmcRL",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1982",
+                "舖",
+                "Geschäft",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "MSH.)@)Pm3",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1983",
+                "補",
+                "ergänzen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "J+s1ff(/?a",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "*",
+                "阝",
+                "Stadtwall",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "sFOq$_mfXO",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1984",
+                "邸",
+                "Residenz",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "yaVwYek-$t",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1985",
+                "郭",
+                "Stadtviertel",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "gNn[UKMD)#",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1986",
+                "郡",
+                "Landkreis",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "M+rFg^]^,i",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1987",
+                "郊",
+                "Stadtrand",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "bwRj^]g+z^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1988",
+                "部",
+                "Abteilung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "b6oyzp0rm-",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1989",
+                "都",
+                "Metropole",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "::6X5)4kq",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1990",
+                "郵",
+                "Post",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "QtG%O-OzZ$",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1991",
+                "邦",
+                "Vaterland",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "h.d!Z{Y&{i",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1992",
+                "那",
+                "Frage-(partikel)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "w>JXbi9<Bi",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1993",
+                "郷",
+                "Heimatort",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "d)?mng*Hji",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1994",
+                "響",
+                "hallen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "dA*+MV6CIq",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1995",
+                "郎",
+                "Sohn",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "cs)j|p/}Jk",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1996",
+                "廊",
+                "Korridor",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "49"
+            ],
+            "flags": 0,
+            "guid": "NC)]c+2=k|",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
