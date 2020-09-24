@@ -146,7 +146,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Kanji",
+            "name": "Kanji_NT",
             "req": [
                 [
                     0,
@@ -42075,6 +42075,462 @@
             ],
             "flags": 0,
             "guid": "vI?qH36VJn",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2053",
+                "牙",
+                "Stoßzahn",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "Ios@I-j{x)",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2054",
+                "芽",
+                "Knospe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "Ap=J4Pd/JX",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2055",
+                "邪",
+                "böse",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "bTO^wzM#$[",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2056",
+                "雅",
+                "elegant",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "M66BE_$G)<",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2057",
+                "釈",
+                "Erklärung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "H*LnJ>gJ}c",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2058",
+                "番",
+                "dran",
+                "",
+                "Würfelpaar",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "B7}fTQRrK.",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2059",
+                "審",
+                "Vernehmung",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "fZ[Twlb(6_",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2060",
+                "翻",
+                "wenden",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "i{U]?:,jlJ",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2061",
+                "藩",
+                "Clan",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "Ds2H4+DR?o",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2062",
+                "毛",
+                "Fell",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "kK|DPez`iy",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2063",
+                "耗",
+                "verschleißen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "ns1lLc6:/9",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2064",
+                "尾",
+                "Schwanz",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "oY_OHic(8s",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2065",
+                "宅",
+                "Heim",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "G=CjsMaxCp",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2066",
+                "託",
+                "anvertrauen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "AeZ]>_658n",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2067",
+                "為",
+                "tun",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "u!_f)*9-Jh",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2068",
+                "偽",
+                "Falschheit",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "C/;UQCKWmv",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2069",
+                "畏",
+                "scheu",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "xYb7=$VgO^",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2070",
+                "長",
+                "",
+                "",
+                "siehe Buch, mehrere Schreibweisen",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "tTeLdxU528",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2071",
+                "張",
+                "spannen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "k|YjbER~;p",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2072",
+                "帳",
+                "Notizbuch",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "GQ34hoakZ+",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2073",
+                "脹",
+                "sich ausdehnen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "F|q,do;ohU",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2074",
+                "髪",
+                "Haupthaar",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "zk-d[aL,)2",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2075",
+                "展",
+                "entfalten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "z:GIj&R|;J",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2076",
+                "喪",
+                "vermissen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "52"
+            ],
+            "flags": 0,
+            "guid": "ne*Ti2z/j]",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
