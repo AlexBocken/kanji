@@ -42595,6 +42595,63 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "2079",
+                "戦",
+                "Krieg",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "53"
+            ],
+            "flags": 0,
+            "guid": "p7(vt[u6|S",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2080",
+                "褝",
+                "Zen",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "53"
+            ],
+            "flags": 0,
+            "guid": "LKy}A4azB=",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2081",
+                "弾",
+                "Gewehrkugel",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "53"
+            ],
+            "flags": 0,
+            "guid": "sU$QLyJQn$",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "2082",
                 "桜",
                 "Kirschbaum",
