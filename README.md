@@ -14,9 +14,11 @@ I'm following the guide of the book, only implementing hints if I have troubles 
 Feel free to base your vocab list off of mine via a fork, that's probably the best way to go ahead.
 
 ## Disclaimer
-This deck is still heavily in developement, I will be adding new cards and hints from time to time, see the commits for more details.
+All cards have now been added.
+Hints are only sporadically used and can only be expected for difficult kanjis in the first few hundred cards for now.
 
-Currently I'm using this [Kanji recognition site](https://kanji.sljfaq.org/draw-canvas.html). Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
+To get the Kanji unicode characters I used this [Kanji recognition site](https://kanji.sljfaq.org/draw-canvas.html).
+Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
 
 ## Primitves
 I've been adding the seperately listed primitives as well, although that has some issues connected with it: Some/most of the primitives listed seperately do not have a unicode character associated with them. Thus I've been using two strategies:
