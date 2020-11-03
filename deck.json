@@ -183,7 +183,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "\n\n<div style='height:20vh;font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<div style='height:40vh;font-family: IPAGothic; font-size: 15px;'>{{primitive_correction}}</div>\n<div id=\"bottom-compounds\"><div style='font-family: IPAGothic; font-size: 20px;'>{{compounds}}</div></div>\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>\n<div id=\"bottom-left\"><div style='font-family: Helvetica; font-size: 20px;'>Lektion {{lesson}}</div></div>"
+                    "qfmt": "<div style='height:20vh;font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<div style='height:40vh;font-family: IPAGothic; font-size: 15px;'>{{primitive_correction}}</div>\n<div id=\"bottom-compounds\"><div style='font-family: IPAGothic; font-size: 20px;'>{{compounds}}</div></div>\n<div id=\"bottom-center\"><div style='font-family: Helvetica; font-size: 20px;'>{{no}}</div></div>\n<div id=\"bottom-left\"><div style='font-family: Helvetica; font-size: 20px;'>Lektion {{lesson}}</div></div>"
                 },
                 {
                     "afmt": "\n<div style='font-family: Helvetica; font-size: 20px;'>{{meaning}}</div>\n\n<hr id=answer>\n\n\n<div style='height:20vh; font-family: IPAGothic; font-size: 70px;'>{{kanji}}</div>\n<div style='height:2vh; font-family: IPAGothic; font-size: 15px;'>{{primitive_correction}}</div>\n<hr>\n\n<div style='height:15vh;font-family: Helvetica; font-size: 10px;'>{{explanation}}</div>\n<div style='height=10vgh; font-family: Helvetica; font-size: 12px;' >{{primitive}}</div>\n<hr>\n<div style='height:5vh; font-family: IPAGothic; font-size: 20px;'>{{compounds}}</div>\n<hr>\n<div style='font-family: Helvetica; font-size: 20px;'>{{compounds_meaning}}</div>\n\n\n<div id=\"bottom-center\">{{no}}</div>\n<div id=\"bottom-left\"><div style='font-family: Helvetica; font-size: 20px;'>Lektion {{lesson}}</div></div>\n",
@@ -616,7 +616,7 @@
                 "25",
                 "昌",
                 "gedeihen",
-                "Wie gut würden Pflanzen gedeihen wenn zwei Sonnen da wären? ",
+                "Wie gut würden Pflanzen <b>gedeihen</b>,&nbsp;wenn <i>zwei Sonnen</i> da wären? ",
                 "",
                 "",
                 "",
@@ -905,7 +905,7 @@
                 "42",
                 "升",
                 "Messkästchen",
-                "Mit tausend nägeln bestückt - der Albtraum jedes Trinkers",
+                "Mit <i>tausend Nägeln</i> bestückt - der Albtraum eines <b>Messkästchens</b>&nbsp;für jeden Trinker.",
                 "",
                 "",
                 "",
@@ -922,7 +922,7 @@
                 "43",
                 "昇",
                 "aufsteigen",
-                "Sake (serviert in einem Messkästchen) trinken bis die Sonne aufsteigt",
+                "Sake (serviert in einem <i>Messkästchen</i>) trinken bis die <i>Sonne</i> <b>aufsteigt</b>.",
                 "",
                 "",
                 "",
@@ -2350,7 +2350,7 @@
                 "127",
                 "器",
                 "Geschirr",
-                "Bernardiner liegt auf dem Tisch, gegahrt und bereit gegessen zu werden. Vier Leute warten eifrig auf das Geschirr",
+                "<i>Bernardiner</i> liegt auf dem Tisch, gegahrt und bereit gegessen zu werden. <i>Vier Leute warten eifrig</i> auf das <b>Geschirr</b>",
                 "",
                 "",
                 "",
@@ -3608,7 +3608,7 @@
                 "202",
                 "安",
                 "ruhig",
-                "Ganz nach dem fiktionalen Sprichwort: \"Eine Frau ist ruhig und zufrieden im eigenen Haus\"",
+                "Ganz nach dem fiktionalen Sprichwort: \"Eine <i>Frau</i> ist <b>ruhig</b> und zufrieden <i>im</i> eigenen <i>Haus</i>\"",
                 "",
                 "",
                 "",
@@ -5801,7 +5801,7 @@
                 "333",
                 "亭",
                 "Pavillon",
-                "",
+                "<b>Pavillons</b>&nbsp;wie sie bei einer Weltaustellung zu finden sind. Dann ist der Messeturm wie eine <i>krönende Nadel</i>&nbsp;auf deren Spitze, quasi als <i>Zylinderhut</i>, ein Drehrestaurant zu finden ist.",
                 "",
                 "",
                 "",
@@ -6244,7 +6244,7 @@
                 "言",
                 "sagen",
                 "",
-                "",
+                "sagen, Worte/Wörter",
                 "",
                 "",
                 "",
@@ -37741,6 +37741,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "*",
+                "釆",
+                "Fährten",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "HeW1){PWnX",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "2057",
                 "釈",
                 "Erklärung",
@@ -37877,6 +37894,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "*",
+                "宅",
+                "Locke",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "dCG*K||K-G",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "2065",
                 "宅",
                 "Heim",
@@ -37911,6 +37945,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "*",
+                "為",
+                "Schwanzfedern",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Hhe$^KFoa{",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "2067",
                 "為",
                 "tun",
@@ -37939,6 +37990,23 @@
                 "52"
             ],
             "guid": "C/;UQCKWmv",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "*",
+                "畏",
+                "Haarspange",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uo|+Yamf`V",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         },
