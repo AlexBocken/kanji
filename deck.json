@@ -397,8 +397,8 @@
                 "Tag",
                 "",
                 "Sonne, Tag, plappernde/trällendere Zunge (曰)",
-                "日曜日",
-                "Sonntag",
+                "",
+                "",
                 "",
                 "1"
             ],
@@ -6398,8 +6398,8 @@
                 "Woche",
                 "",
                 "",
-                "",
-                "",
+                "週末",
+                "Wochenende",
                 "",
                 "14"
             ],
@@ -11685,8 +11685,8 @@
                 "Wochentag",
                 "",
                 "",
-                "",
-                "",
+                "日曜日",
+                "Sonntag",
                 "",
                 "21"
             ],
