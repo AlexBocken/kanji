@@ -27,3 +27,7 @@ I've been adding the seperately listed primitives as well, although that has som
 2. Misusing another unicode character which looks pretty much the same. For example for "Besen" as used in "雪" uses the charakter "ヨ" ("yo" from Katakana).
 
 Both of these strategies are not optimal and I'm currently looking into other options. Inserting pictures does not seem optimal to me as well since those are heavily font-dependent. Reccommendations on how to solve this issue are always welcome.
+
+## Compounds
+Compounds are added to the last kanji learned to completely understand the compound.
+E.g. "週末" (Wochenende) is added at "週" (no. 340), not "末" (no. 230).
