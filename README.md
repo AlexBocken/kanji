@@ -1,6 +1,6 @@
 # kanji
 
-<img src="/../assets/kanji_front.png" alt="Front side with kanji displayed" width="49%"> <img src="/../assets/kanji_back.png" alt="Back side revealing meaning of kanji" width="49%">
+<img src="/../assets/reveal_stroke_order.gif" alt="Front side with kanji displayed" width="49%"> <img src="/../assets/kanji_back.png" alt="Back side revealing meaning of kanji" width="49%">
 
 <img src="/../assets/german_front.png" alt="Front side with german word displayed" width="49%"> <img src="/../assets/german_back.png" alt="Back side revealing kanji with that meaning" width="49%">
 
