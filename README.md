@@ -20,6 +20,18 @@ Hints are only sporadically used and can only be expected for difficult kanjis i
 To get the Kanji unicode characters I used this [Kanji recognition site](https://kanji.sljfaq.org/draw-canvas.html).
 Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
 
+## Contributing
+
+If you find a mistake, or have other ideas on how to improve the deck, please don't hesitate to [open a new issue](https://github.com/blinry/anki-fonts/issues)!
+
+This deck is maintained using the [CrowdAnki](https://github.com/Stvad/CrowdAnki) add-on. If you want to contribute corrections or improvements yourself, follow these steps:
+
+1. Make changes to the deck.
+2. Install the [CrowdAnki add-on](https://ankiweb.net/shared/info/1788670778).
+3. Fork and clone this repository.
+4. Use `Export -> CrowdAnki Json representation` on the deck and chose the repository's base directory.
+5. Commit the changes, and submit a pull request to this repository.
+
 ## Primitves
 I've been adding the seperately listed primitives as well, although that has some issues connected with it: Some/most of the primitives listed seperately do not have a unicode character associated with them. Thus I've been using two strategies:
 
@@ -31,3 +43,20 @@ Both of these strategies are not optimal and I'm currently looking into other op
 ## Compounds
 Compounds are added to the last kanji learned to completely understand the compound.
 E.g. "週末" (Wochenende) is added at "週" (no. 340), not "末" (no. 230).
+
+## Fonts
+For Kanjis I'm using the IPAGothic font, for the stroke order I'm using Timothy Eyre's great font I found on [his website](https://www.nihilist.org.uk/). Please notice the license he has listed for this font.
+
+### Importing via apkg
+
+I've included an apkg file with the font files included as well as one apkg file without these font files.
+Choose the one you prefer, the one with fonts has the additional benefit of synchronising the fonts with other devices.
+
+### Importing via CrowdAnki
+
+Either install these fonts seperately or add the ttfs to your `collection.media` Anki folder as `_ipag.ttf` and `_KanjiStrokeOrders.ttf`.
+The latter method has the benefit of synchronising these fonts to your other devices as well.
+
+## License
+
+MIT
