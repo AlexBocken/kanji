@@ -62,7 +62,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
-            "css": "@font-face {\n   font-family: 'kanji_strokeorder';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_KanjiStrokeOrders.ttf) format('truetype');\n }\n\n@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\nbody {\nmargin: 0;\n}\n.container {\ndisplay: flex;\nflex-direction: column;\nheight: 100vh;\n}\n.card-content {\nflex: 1;\npadding: 20px;\npadding-top:0;\n}\n.footer {\n\tpadding: 20px;\n\tpadding-bottom: 10px;\n\tpadding-top:0px;\n}\n.card {\n\tmargin-top: 0px;\n\theight: 100%;\n\tfont-family:  Helvetica, \"IPAGothic\", Arial,Verdana,sans-serif;\n}\n.card p {\n\tpadding: 0;\n\tposition: relative;\n}\n.card p.kanji{\n\tpadding-top:60px;\n\tfont-size: 70px;\n   \tfont-family: IPAGothic;\n\tcolor:#5E81AC;\n\theight:20vh;\n\tline-height:0px;\n}\n.card p.kanji i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 20px;\n\tpadding-left: 5px;\n\tfont-style: normal;\n}\n.card p.kanji_card2{\n\tpadding-top:30px;\n\tfont-size: 70px;\n\tline-height:0;\n   \tfont-family:IPAGothic;\n\tcolor:#5E81AC;\n}\n.card p.kanji_card2 i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 16px;\n\tpadding-left: 5px;\n\tfont-style: normal;\n}\n.card p.kanji_back{\n\tfont-size: 20px;\n   \tfont-family: IPAGothic;\n\tcolor: #8FBCBB;\n\theight:5vh;\n}\n.card p.kanji_back i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 16px;\n\tfont-style: normal;\n}\n.card p.primitive_correction before {\n\tcontent: \"- \";\n\tpadding-left: 5px;\n\tcolor:#4C566A;\n}\n.card #compounds {\n\tfont-size: 20px;\n\ttext-decoration: none;\n\tcolor: #8FBCBB;\n}\n.card #compounds i{\n\tfont-style: normal;\n\tfont-size: 22px;\n\ttext-decoration: none;\n\tcolor: #5E81AC;\n}\n.card #explanation{\n\tmin-height:15vh;\n\tfont-size: 20px;\n\ttext-align:left;\n\tcolor:#2E3440;\n}\n.card #explanation i{\n\tfont-style:normal;\n\tcolor: #BF616A;\n}\n.card #explanation b{\n\tfont-style:normal;\n\tcolor:#5E81AC;\n}\n.card #notes {\n\tfont-size:16px;\n\tcolor:#4C566A;\n}\n.card #notes u{\n\tfont-size:20px;\n\ttext-decoration: none;\n}\n.card p.meaning {\n\tfont-size: 40px;\n\tcolor:#5E81AC;\n\tline-height:30px;\n}\n.card p.meaning i {\n\tfont-style: normal;\n \tfont-size: 12px;\n\tcolor:#2E3440;\n\theight:5vgh;\n}\n.card p.meaning_back{\n\tfont-size: 20px;\n\tfont-family: Helvetica, Arial;\n\tcolor: #5E81AC;\n\tmax-height:1vh;\n}\n.card p.meaning_back i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 16px;\n\tfont-style: normal;\n}\n#no {\n\tcolor:#4C566A;\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n}\n#JDIC a{\n\ttext-style:normal;\n\ttop:0;\n\tcolor:#4C566A;\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n\tpadding-top:0px;\n}\n#lesson {\n\tcolor:#4C566A;\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:left;\n\tfloat:left;\n}\n\n/* NIGHT MODE THEMING*/\n.card.night_mode p.kanji{\n\tcolor:#8FBCBB;\n}\n.card.night_mode p.kanji i {\n\tcolor:#4C566A;\n}\n.card.night_mode p.kanji_card2{\n\tcolor:#8FBCBB;\n}\n.card.night_mode p.kanji_card2 i {\n\tcolor:#4C566A;\n}\n.card.night_mode p.kanji_back{\n\tcolor: #5E81AC;\n}\n.card.night_mode p.kanji_back i {\n\tcolor:#4C566A;\n}\n.card.night_mode p.primitive_correction before {\n\tcolor:#4C566A;\n}\n.card.night_mode #compounds {\n\tcolor: #5E81AC;\n}\n.card.night_mode #compounds i{\n\tcolor: #8FBCBB;\n}\n.card.night_mode #explanation{\n\tcolor:#ECEFF4;\n}\n.card.night_mode #explanation i{\n\tcolor: #D08770;\n}\n.card.night_mode #explanation b{\n\tcolor:#8FBCBB;\n}\n.card.night_mode #notes {\n\tcolor:#4C566A;\n}\n.card.night_mode p.meaning {\n\tcolor:#8FBCBB;\n}\n.card.night_mode p.meaning i {\n\tcolor:#E5E9F0;\n}\n.card.night_mode p.meaning_back{\n\tcolor: #5E81AC;\n}\n.card.night_mode p.meaning_back i {\n\tcolor:#4C566A;\n}\n.card.night_mode #no {\n\tcolor:#4C566A;\n}\n.card.night_mode #lesson {\n\tcolor:#4C566A;\n}\n/* ANDROID SETTINGS */\n.android .card p.kanji{\n\tfont-size:120px;\n\t/*color:#000000;*/\n}\n.android.card.night_mode {\n\tbackground-color:#000000;\n}\n.android .card p.kanji_card2{\n\tfont-size:120px;\n}\n",
+            "css": "@font-face {\n   font-family: 'kanji_strokeorder';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_KanjiStrokeOrders.ttf) format('truetype');\n }\n\n@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\nbody {\nmargin: 0;\n}\n.container {\ndisplay: flex;\nflex-direction: column;\nheight: 100vh;\n}\n.card-content {\nflex: 1;\npadding: 20px;\npadding-top:0;\n}\n.footer {\n\tpadding: 20px;\n\tpadding-bottom: 10px;\n\tpadding-top:0px;\n}\n.card {\n\tmargin-top: 0px;\n\theight: 100%;\n\tfont-family:  Helvetica, \"IPAGothic\", Arial,Verdana,sans-serif;\n}\n.card p {\n\tpadding: 0;\n\tposition: relative;\n}\n.card p.kanji{\n\tpadding-top:60px;\n\tfont-size: 70px;\n   \tfont-family: IPAGothic;\n\tcolor:#5E81AC;\n\theight:20vh;\n\tline-height:0px;\n}\n.card p.kanji i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 20px;\n\tpadding-left: 5px;\n\tfont-style: normal;\n}\n.card p.kanji_card2{\n\tpadding-top:30px;\n\tfont-size: 70px;\n\tline-height:0;\n   \tfont-family:IPAGothic;\n\tcolor:#5E81AC;\n}\n.card p.kanji_card2 i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 16px;\n\tpadding-left: 5px;\n\tfont-style: normal;\n}\n.card p.kanji_back{\n\tfont-size: 20px;\n   \tfont-family: IPAGothic;\n\tcolor: #8FBCBB;\n\theight:5vh;\n}\n.card p.kanji_back i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 16px;\n\tfont-style: normal;\n}\n.card p.primitive_correction before {\n\tcontent: \"- \";\n\tpadding-left: 5px;\n\tcolor:#4C566A;\n}\n.card #compounds {\n\tfont-size: 20px;\n\ttext-decoration: none;\n\tcolor: #8FBCBB;\n}\n.card #compounds i{\n\tfont-style: normal;\n\tfont-size: 22px;\n\ttext-decoration: none;\n\tcolor: #5E81AC;\n}\n.card #explanation{\n\tmin-height:15vh;\n\tfont-size: 20px;\n\ttext-align:left;\n\tcolor:#2E3440;\n}\n.card #explanation i{\n\tfont-style:normal;\n\tcolor: #BF616A;\n}\n.card #explanation b{\n\tfont-style:normal;\n\tcolor:#5E81AC;\n}\n.card #notes {\n\tfont-size:16px;\n\tcolor:#4C566A;\n}\n.card #notes u{\n\tfont-size:20px;\n\ttext-decoration: none;\n}\n.card p.meaning {\n\tfont-size: 40px;\n\tcolor:#5E81AC;\n\tline-height:30px;\n}\n.card p.meaning i {\n\tfont-style: normal;\n \tfont-size: 12px;\n\tcolor:#2E3440;\n\theight:5vgh;\n}\n.card p.meaning_back{\n\tfont-size: 20px;\n\tfont-family: Helvetica, Arial;\n\tcolor: #5E81AC;\n\tmax-height:1vh;\n}\n.card p.meaning_back i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:#4C566A;\n\tfont-size: 16px;\n\tfont-style: normal;\n}\n#no {\n\tcolor:#4C566A;\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n}\n#JDIC a{\n\ttext-style:normal;\n\ttop:0;\n\tcolor:#4C566A;\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n\tpadding-top:10px;\n}\n#lesson {\n\tcolor:#4C566A;\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:left;\n\tfloat:left;\n}\n\n/* NIGHT MODE THEMING*/\n.card.night_mode p.kanji{\n\tcolor:#8FBCBB;\n}\n.card.night_mode p.kanji i {\n\tcolor:#4C566A;\n}\n.card.night_mode p.kanji_card2{\n\tcolor:#8FBCBB;\n}\n.card.night_mode p.kanji_card2 i {\n\tcolor:#4C566A;\n}\n.card.night_mode p.kanji_back{\n\tcolor: #5E81AC;\n}\n.card.night_mode p.kanji_back i {\n\tcolor:#4C566A;\n}\n.card.night_mode p.primitive_correction before {\n\tcolor:#4C566A;\n}\n.card.night_mode #compounds {\n\tcolor: #5E81AC;\n}\n.card.night_mode #compounds i{\n\tcolor: #8FBCBB;\n}\n.card.night_mode #explanation{\n\tcolor:#ECEFF4;\n}\n.card.night_mode #explanation i{\n\tcolor: #D08770;\n}\n.card.night_mode #explanation b{\n\tcolor:#8FBCBB;\n}\n.card.night_mode #notes {\n\tcolor:#4C566A;\n}\n.card.night_mode p.meaning {\n\tcolor:#8FBCBB;\n}\n.card.night_mode p.meaning i {\n\tcolor:#E5E9F0;\n}\n.card.night_mode p.meaning_back{\n\tcolor: #5E81AC;\n}\n.card.night_mode p.meaning_back i {\n\tcolor:#4C566A;\n}\n.card.night_mode #no {\n\tcolor:#4C566A;\n}\n.card.night_mode #lesson {\n\tcolor:#4C566A;\n}\n/* ANDROID SETTINGS */\n.android .card p.kanji{\n\tfont-size:120px;\n\t/*color:#000000;*/\n}\n.android.card.night_mode {\n\tbackground-color:#000000;\n}\n.android .card p.kanji_card2{\n\tfont-size:120px;\n}\n",
             "flds": [
                 {
                     "font": "Helvetica",
@@ -171,7 +171,6 @@
                     0,
                     "any",
                     [
-                        0,
                         1,
                         5,
                         7,
@@ -183,7 +182,6 @@
                     1,
                     "any",
                     [
-                        0,
                         2,
                         9,
                         10
@@ -196,7 +194,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "<div class=\"container\">\n<div class=\"card-content\">\n<div id=\"JDIC\">\n\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">\n\t\tJDIC\n\t</a>\n</div>\n<P class='kanji_back'>{{kanji}} \n\t{{#primitive_correction}}\n\t\t<i>- {{primitive_correction}}</i>\n\t{{/primitive_correction}}\n</P>\n\n<P class='meaning'>{{meaning}}<br>\n\t{{#primitive}} \n\t\t<i>Primitive: {{primitive}}</i>\n\t{{/primitive}}\n</P>\n{{#explanation}}\n\t<hr>\n{{/explanation}}\n\n<div id='explanation'>\n\t{{explanation}}\n</div>\n\n{{#notes}}\n<div id='notes'>\n\t<u>Notiz:</u>\n\t{{notes}}\n</div>\n{{/notes}}\n\n\n<div id=\"compounds\">\n{{#compounds}}\n\t<i>Komposita:</i><br>\n\t{{compounds}}<br>\n\t{{compounds_meaning}}\n{{/compounds}}\n</div>\n</div>\n<div class=\"footer\">\n<div id=\"lesson\">Lektion {{lesson}}</div>\n<div id=\"no\">{{no}}</div>\n</div>",
+                    "afmt": "<div class=\"container\">\n<div class=\"card-content\">\n{{#EUC-JP}}\n\t<div id=\"JDIC\">\n\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t</div>\n{{/EUC-JP}}\n<P class='kanji_back'>{{kanji}} \n\t{{#primitive_correction}}\n\t\t<i>- {{primitive_correction}}</i>\n\t{{/primitive_correction}}\n</P>\n\n<P class='meaning'>{{meaning}}<br>\n\t{{#primitive}} \n\t\t<i>Primitive: {{primitive}}</i>\n\t{{/primitive}}\n</P>\n\n{{#explanation}}\n\t<hr>\n{{/explanation}}\n\n<div id='explanation'>\n\t{{explanation}}\n</div>\n\n{{#notes}}\n<div id='notes'>\n\t<u>Notiz:</u>\n\t{{notes}}\n</div>\n{{/notes}}\n\n\n<div id=\"compounds\">\n{{#compounds}}\n\t<i>Komposita:</i><br>\n\t{{compounds}}<br>\n\t{{compounds_meaning}}\n{{/compounds}}\n</div>\n\n</div> <!-- card-content-->\n<div class=\"footer\">\n<div id=\"lesson\">Lektion {{lesson}}</div>\n<div id=\"no\">\n\t{{#EUC-JP}}\n\t\t\t{{no}}\n\t{{/EUC-JP}}\n\t{{^EUC-JP}}\n\t\t\t*\n\t{{/EUC-JP}}\n</div>\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -204,10 +202,10 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "<div class=\"container\">\n<div class=\"card-content\">\n<div id=\"JDIC\"><a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a></div>\n<P class='kanji'>\n\t<span onclick=\"ShowStrokeOrder();\" id=\"Kanji\">\n\t\t{{kanji}}\n\t</span>\n{{#primitive_correction}}\t\n\t<i><br>- {{primitive_correction}}</i>\n{{/primitive_correction}}\n</P>\n\n<div id=\"compounds\">{{compounds}}</div>\n</div>\n\n<div class=\"footer\">\n<div id=\"no\">{{no}}</div>\n<div id=\"lesson\">Lektion {{lesson}}</div>\n</div>\n<script>\nfunction ShowStrokeOrder() {\n   /* document.getElementById(\"HiddenOrder\").style.display = \"block\";*/\n\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t}\n\telse{\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t}\n}\n</script>"
+                    "qfmt": "<div class=\"container\">\n<div class=\"card-content\">\n{{#EUC-JP}}\n\t<div id=\"JDIC\">\n\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t</div>\n{{/EUC-JP}}\n<P class='kanji'>\n\t<span onclick=\"ShowStrokeOrder();\" id=\"Kanji\">\n\t\t{{kanji}}\n\t</span>\n{{#primitive_correction}}\t\n\t<i><br>- {{primitive_correction}}</i>\n{{/primitive_correction}}\n</P>\n\n<div id=\"compounds\">{{compounds}}</div>\n</div>\n\n<div class=\"footer\">\n<div id=\"no\">\n\t{{#EUC-JP}}\n\t\t\t{{no}}\n\t{{/EUC-JP}}\n\t{{^EUC-JP}}\n\t\t\t*\n\t{{/EUC-JP}}\n</div>\n<div id=\"lesson\">Lektion {{lesson}}</div>\n</div>\n<script>\nfunction ShowStrokeOrder() {\n   /* document.getElementById(\"HiddenOrder\").style.display = \"block\";*/\n\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t}\n\telse{\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t}\n}\n</script>"
                 },
                 {
-                    "afmt": "<div class=\"container\">\n<div class=\"card-content\">\n<div id=\"JDIC\"><a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a></div>\n<P class='meaning_back'>{{meaning}}<br>\n\t{{#primitive}} \n\t\t<i>Primitive: {{primitive}}</i>\n\t{{/primitive}}\n</P>\n\n<P class='kanji_card2'>\n\t<span onclick=\"ShowStrokeOrder();\" id=\"Kanji\">\n\t\t{{kanji}}\n\t</span>\n{{#primitive_correction}}\n\t<i><br>- {{primitive_correction}}</i>\n{{/primitive_correction}}\n</P>\n\n{{#explanation}}\n\t<hr>\n{{/explanation}}\n\n<div id='explanation'>\n\t{{explanation}}\n</div>\n\n{{#notes}}\n<div id='notes'>\n\t<u>Notiz:</u>\n\t{{notes}}\n</div>\n{{/notes}}\n\n<div id=\"compounds\">\n{{#compounds}}\n\t<i>Komposita:</i><br>\n\t{{compounds}}<br>\n\t{{compounds_meaning}}\n{{/compounds}}\n</div>\n</div>\n\n<div class=\"footer\">\n<div id=\"no\">{{no}}</div>\n<div id=\"lesson\">Lektion {{lesson}}</div>\n</div>\n\n<script>\nfunction ShowStrokeOrder() {\n   /* document.getElementById(\"HiddenOrder\").style.display = \"block\";*/\n\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t}\n\telse{\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t}\n}\n</script>\n\n",
+                    "afmt": "<div class=\"container\">\n<div class=\"card-content\">\n{{#EUC-JP}}\n\t<div id=\"JDIC\">\n\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t</div>\n{{/EUC-JP}}\n<P class='meaning_back'>{{meaning}}<br>\n\t{{#primitive}} \n\t\t<i>Primitive: {{primitive}}</i>\n\t{{/primitive}}\n</P>\n\n<P class='kanji_card2'>\n\t<span onclick=\"ShowStrokeOrder();\" id=\"Kanji\">\n\t\t{{kanji}}\n\t</span>\n{{#primitive_correction}}\n\t<i><br>- {{primitive_correction}}</i>\n{{/primitive_correction}}\n</P>\n\n{{#explanation}}\n\t<hr>\n{{/explanation}}\n\n<div id='explanation'>\n\t{{explanation}}\n</div>\n\n{{#notes}}\n<div id='notes'>\n\t<u>Notiz:</u>\n\t{{notes}}\n</div>\n{{/notes}}\n\n<div id=\"compounds\">\n{{#compounds}}\n\t<i>Komposita:</i><br>\n\t{{compounds}}<br>\n\t{{compounds_meaning}}\n{{/compounds}}\n</div>\n</div>\n\n<div class=\"footer\">\n<div id=\"no\">\n\t{{#EUC-JP}}\n\t\t\t{{no}}\n\t{{/EUC-JP}}\n\t{{^EUC-JP}}\n\t\t\t*\n\t{{/EUC-JP}}\n</div>\n<div id=\"lesson\">Lektion {{lesson}}</div>\n</div>\n\n<script>\nfunction ShowStrokeOrder() {\n   /* document.getElementById(\"HiddenOrder\").style.display = \"block\";*/\n\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t}\n\telse{\n\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t}\n}\n</script>\n\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -215,7 +213,7 @@
                     "did": null,
                     "name": "Card 2",
                     "ord": 1,
-                    "qfmt": "<div class=\"container\">\n<div class=\"card-content\">\n<div id=\"JDIC\"><a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a></div>\n<P class=meaning>{{meaning}}</P>\n\n</div>\n\n<div class=\"footer\">\n<div id=\"no\">{{no}}</div>\n<div id=\"lesson\">Lektion {{lesson}}</div>\n</div>"
+                    "qfmt": "<div class=\"container\">\n<div class=\"card-content\">\n{{#EUC-JP}}\n\t<div id=\"JDIC\">\n\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t</div>\n{{/EUC-JP}}\n<P class=meaning>{{meaning}}</P>\n\n</div>\n\n<div class=\"footer\">\n<div id=\"no\">\n\t{{#EUC-JP}}\n\t\t\t{{no}}\n\t{{/EUC-JP}}\n\t{{^EUC-JP}}\n\t\t\t*\n\t{{/EUC-JP}}\n</div>\n<div id=\"lesson\">Lektion {{lesson}}</div>\n</div>"
                 }
             ],
             "type": 0,
@@ -11006,7 +11004,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;言",
+                "ohne 言",
                 "",
                 "19",
                 ""
@@ -12526,7 +12524,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;工",
+                "ohne 工",
                 "",
                 "21",
                 ""
@@ -17143,7 +17141,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;月",
+                "ohne 月",
                 "",
                 "23",
                 ""
@@ -17808,7 +17806,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;氵",
+                "ohne氵",
                 "",
                 "24",
                 ""
@@ -18870,8 +18868,8 @@
                 "Eisen",
                 "",
                 "",
-                "",
-                "",
+                "銑鉄",
+                "Roheisen",
                 "",
                 "",
                 "25",
@@ -23052,7 +23050,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;也",
+                "ohne 也",
                 "",
                 "29",
                 ""
@@ -25294,7 +25292,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;勹",
+                "ohne 勹",
                 "",
                 "31",
                 ""
@@ -26111,7 +26109,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;灬",
+                "ohne 灬",
                 "",
                 "32",
                 ""
@@ -26453,7 +26451,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;手",
+                "ohne 手",
                 "",
                 "32",
                 ""
@@ -27384,7 +27382,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;一",
+                "ohne 一",
                 "",
                 "33",
                 ""
@@ -27878,7 +27876,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;辶",
+                "ohne 辶",
                 "",
                 "34",
                 ""
@@ -30975,7 +30973,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;犭",
+                "ohne犭",
                 "",
                 "37",
                 ""
@@ -31089,7 +31087,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;宀",
+                "ohne 宀",
                 "",
                 "37",
                 ""
@@ -31184,7 +31182,7 @@
                 "",
                 "",
                 "",
-                "mitte",
+                "Mitte",
                 "",
                 "37",
                 ""
@@ -31298,7 +31296,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;卩",
+                "ohne卩",
                 "",
                 "37",
                 ""
@@ -32704,7 +32702,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;刂",
+                "ohne刂",
                 "",
                 "39",
                 ""
@@ -33616,7 +33614,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;辶",
+                "ohne 辶",
                 "",
                 "39",
                 ""
@@ -33730,7 +33728,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;言",
+                "ohne 言",
                 "",
                 "39",
                 ""
@@ -33825,7 +33823,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;毋",
+                "ohne 毋",
                 "",
                 "40",
                 ""
@@ -34889,7 +34887,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;氵",
+                "ohne氵",
                 "",
                 "40",
                 ""
@@ -37758,7 +37756,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;宀",
+                "ohne 宀",
                 "",
                 "44",
                 ""
@@ -38252,7 +38250,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;文 und&amp;nbsp;二",
+                "ohne 文 und 二",
                 "",
                 "45",
                 ""
@@ -38366,7 +38364,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;田 und&amp;nbsp;土",
+                "ohne 田 und 土",
                 "",
                 "45",
                 ""
@@ -40437,7 +40435,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;亻",
+                "ohne亻",
                 "",
                 "49",
                 ""
@@ -40950,7 +40948,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;十 und&amp;nbsp;目",
+                "ohne 十 und 目",
                 "",
                 "50",
                 ""
@@ -41140,7 +41138,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;一 und 口",
+                "ohne 一 und 口",
                 "",
                 "50",
                 ""
@@ -42584,7 +42582,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;早",
+                "ohne 早",
                 "",
                 "53",
                 ""
@@ -43230,7 +43228,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;辶",
+                "ohne 辶",
                 "",
                 "53",
                 ""
@@ -44465,7 +44463,7 @@
                 "",
                 "",
                 "",
-                "ohne&amp;nbsp;辶",
+                "ohne 辶",
                 "",
                 "55",
                 ""
