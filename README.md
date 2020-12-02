@@ -52,6 +52,11 @@ Both of these strategies are not optimal and I'm currently looking into other op
 Composites are added to the last kanji learned to completely understand the composite.
 E.g. "週末" (Wochenende) is added at "週" (no. 340), not "末" (no. 230).
 
+## Readings
+I've pulled all available On- Kun- and Nanori-readings from http://nihongo.monash.edu/ using a script.
+These readings are not yet displayed on the cards themselves but are listed in the notes.
+If you want to see my awful coding practices for such one off stuff which just needs to generate a file once, look into the other branches of this git repository.
+
 ## Fonts
 For Kanjis I'm using the IPAGothic font, for the stroke order I'm using Timothy Eyre's (or is it Ulrich Apel's? It's not quite clear to me.) great font I found on [his website](https://www.nihilist.org.uk/).
 The licenses for these fonts can also be found in the `licenses` folder of this git repository.
