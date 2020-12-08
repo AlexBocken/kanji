@@ -74,12 +74,12 @@
                     "sticky": false
                 },
                 {
-                    "font": "Helvetica",
+                    "font": "IPAGothic",
                     "media": [],
                     "name": "Kanji",
                     "ord": 1,
                     "rtl": false,
-                    "size": 20,
+                    "size": 40,
                     "sticky": false
                 },
                 {
@@ -137,7 +137,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "Helvetica",
                     "name": "Notiz",
                     "ord": 8,
                     "rtl": false,
@@ -154,7 +154,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "Helvetica",
                     "name": "EUC-JP",
                     "ord": 10,
                     "rtl": false,
@@ -162,7 +162,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "Helvetica",
                     "name": "Englische_Bedeutung",
                     "ord": 11,
                     "rtl": false,
@@ -170,7 +170,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "Helvetica",
                     "name": "Strichanzahl",
                     "ord": 12,
                     "rtl": false,
@@ -178,7 +178,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "IPAGothic",
                     "name": "ON-Lesung",
                     "ord": 13,
                     "rtl": false,
@@ -186,7 +186,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "IPAGothic",
                     "name": "KUN-Lesung",
                     "ord": 14,
                     "rtl": false,
@@ -194,7 +194,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Liberation Sans",
+                    "font": "IPAGothic",
                     "name": "Nanori-Lesung",
                     "ord": 15,
                     "rtl": false,
@@ -16663,8 +16663,8 @@
                 "Gruppe",
                 "Die schlimmste <b>Gruppe</b> der Gefangenen wird doppelt abgesichert: nicht nur <i>eigepfercht</i>, sondern dort auch noch <i>angeleimt</i>.",
                 "",
-                "",
-                "",
+                "布団",
+                "Futon",
                 "",
                 "",
                 "22",
@@ -17741,7 +17741,7 @@
                 "669",
                 "悟",
                 "Erleuchtung",
-                "Alle fünf Öffnungen zu bedecken reicht vielleicht nicht zur Erleuchtung, aber zumindest verbessert es (vielleicht wegen des dann eintretenden Sauerstoffmangels) den Gemütszustand.",
+                "Alle <i>fünf Öffnungen</i> zu bedecken reicht vielleicht nicht zur <b>Erleuchtung</b>, aber zumindest verbessert es (vielleicht wegen des dann eintretenden Sauerstoffmangels) den <i>Gemütszustand</i>.",
                 "",
                 "",
                 "",
@@ -17765,7 +17765,7 @@
                 "670",
                 "怖",
                 "schrecklich",
-                "Bei manchem \"Stoff\" führt die falsche Dosierung zu gar schrecklichen Gemütszuständen.",
+                "Bei manchem \"<i>Stoff</i>\" führt die falsche Dosierung zu gar <b>schrecklichen</b> <i>Gemütszuständen</i>.",
                 "",
                 "",
                 "",
@@ -17789,7 +17789,7 @@
                 "671",
                 "慌",
                 "überstürzt",
-                "Wer überstürzt aufbricht, versetzt sich in genervten Gemütszustand und verwüstet so manche Gelegenheit.",
+                "Wer <b>überstürzt</b> aufbricht, versetzt sich in genervten <i>Gemütszustand</i> und <i>verwüstet</i> so manche Gelegenheit.",
                 "",
                 "",
                 "",
@@ -17813,7 +17813,7 @@
                 "672",
                 "悔",
                 "bereuen",
-                "Wer Knoblauch isst, findet sich jedes Mal im Gemütszustand der Reue wieder.",
+                "Wer Knoblauch isst, findet sich <i>jedes Mal</i> im <i>Gemütszustand</i> der <b>Reue</b> wieder.",
                 "",
                 "",
                 "",
@@ -17837,7 +17837,7 @@
                 "673",
                 "憎",
                 "hassen",
-                "Hassen ist der Gemütszustand, der als einziger durch bloßes Nichtstun vermehrt werden kann.",
+                "<b>Hassen</b> ist der <i>Gemütszustand</i>, der als einziger durch bloßes Nichtstun <i>vermehrt</i> werden kann.",
                 "",
                 "",
                 "",
@@ -17861,7 +17861,7 @@
                 "674",
                 "慣",
                 "Gewohnheit",
-                "Aus Gewohnheit (reine Routinearbeit) durchbohrt der Detektiv andere Menschen, um deren Gemütszustand zu erforschen.",
+                "Aus <b>Gewohnheit</b> (reine Routinearbeit) <i>durchbohrt</i> der Detektiv andere Menschen, um deren <i>Gemütszustand</i> zu erforschen.",
                 "",
                 "",
                 "",
@@ -17885,7 +17885,7 @@
                 "675",
                 "愉",
                 "Vergnügen",
-                "Die Zusammenkunft von Schlachtern wirbt auf der Messe mit einem ganz neuen Gemütszustand für die von der Schlachterzunft organisierte Gruppenreise: Reise, Reise, Schlachtvergnügen!",
+                "Die <i>Zusammenkunft von Schlachtern</i> wirbt auf der Messe mit einem ganz neuen <i>Gemütszustand</i> für die von der Schlachterzunft organisierte Gruppenreise: Reise, Reise, Schlacht<b>vergnügen</b>!",
                 "",
                 "",
                 "",
@@ -17909,7 +17909,7 @@
                 "676",
                 "惰",
                 "faul",
-                "Der Gemütszustand des Faulen sieht vor, dass er nur das mit links erreichbares Fleisch zu sich nimmt.",
+                "Der <i>Gemütszustand</i> des <b>Faulen</b> sieht vor, dass er nur das mit <i>links</i> erreichbares <i>Fleisch</i> zu sich nimmt.",
                 "",
                 "",
                 "",
@@ -17933,7 +17933,7 @@
                 "677",
                 "慎",
                 "Bescheidenheit",
-                "Wenn man sich klar macht, was alles wahr ist am eigenen Leben, gerät man oft in den Gemütszustand der Bescheidenheit.",
+                "Wenn man sich klar macht, was alles <i>wahr</i> ist am eigenen Leben, gerät man oft in den <i>Gemütszustand</i> der <b>Bescheidenheit</b>.",
                 "",
                 "",
                 "",
@@ -17957,7 +17957,7 @@
                 "678",
                 "憾",
                 "Bedauern",
-                "Das andauernde Gefühl, dass etwas mit den Gefühlen der anderen nicht stimmt, führt langfristig zu Bedauern.",
+                "Das andauernde <i>Gefühl</i>, dass etwas mit den <i>Gemütszuständen</i> der anderen nicht stimmt, führt langfristig zu <b>Bedauern</b>.",
                 "",
                 "",
                 "",
