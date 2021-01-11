@@ -36,7 +36,7 @@ This deck is maintained using the [CrowdAnki](https://github.com/Stvad/CrowdAnki
 ### Disclaimer
 
 Hints are now implemented, but need correct formatting to highlight meaning and primitives in the sentences.
-The correct formatting is as of today (20201222) at no.810 and will gain roughly ten new correctly formatted hints per day.
+The correct formatting is as of today (20210111) at no.1005 and will gain roughly ten new correctly formatted hints per day.
 To get the Kanji unicode characters I used this [Kanji recognition site](https://kanji.sljfaq.org/draw-canvas.html).
 Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
 
