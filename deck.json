@@ -56,7 +56,7 @@
         "_KanjiStrokeOrders.ttf",
         "_ipag.ttf"
     ],
-    "mid": 1607452508468,
+    "mid": 1605541432231,
     "name": "Kanji",
     "note_models": [
         {
@@ -231,9 +231,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "<div class=\"container\">\n<div class=\"card-content\">\n{{#EUC-JP}}\n<div id=\"links\">\n\t\t<a  href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t</div>\n{{/EUC-JP}}\n\n<P class='kanji_back' id=Kanji>\n\t<span onclick=\"ShowStrokeOrder();\" >\n\t\t{{Kanji}}<b>[{{Strichanzahl}}]</b>\n\t</span> \n\t{{#Primitivkorrektur}}\n\t\t<i>- {{Primitivkorrektur}}</i>\n\t{{/Primitivkorrektur}}\n</P>\n\n<span onclick=\"ToggleLanguage();\" style=\"display:block;\" id=German>\n\t<div class='meaning_back_card1' id=Meaning>{{Bedeutung}}\n</div>\n</span>\n<span onclick=\"ToggleLanguage();\" id=English style=\"display:none;\">\n\t<div class='meaning_back_card1' id=Meaning>\n{{^Englische_Bedeutung}}{{Bedeutung}}{{/Englische_Bedeutung}}{{#Englische_Bedeutung}}{{Englische_Bedeutung}}{{/Englische_Bedeutung}}\n\t</div>\n</span>\n\t\t{{#Primitive}} \n\t\t\t<div class='primitives_back'>\n\t\t\t\tPrimitive: {{Primitive}}\n\t\t\t</div>\n\t\t{{/Primitive}}\n{{#Merksatz}}\n\t<hr>\n\t<div id='explanation'>\n\t\t{{Merksatz}}\n\t</div>\n{{/Merksatz}}\n\n\n{{#Notiz}}\n<div id='notes'>\n\t<u>Notiz:</u>\n\t{{Notiz}}\n</div>\n{{/Notiz}}\n\n\n<div id=\"compounds\">\n{{#Komposita}}\n\t<i>Komposita:</i><br>\n\t{{furigana:Komposita}}<br>\n\t{{Kompositabedeutung}}\n{{/Komposita}}\n</div>\n\n</div> <!-- card-content-->\n<div class=\"footer\">\n<div id=\"lesson\">Lektion {{Lektion}}</div>\n<div id=\"no\">\n\t{{#EUC-JP}}\n\t\t\t{{Index}}\n\t{{/EUC-JP}}\n\t{{^EUC-JP}}\n\t\t\t*\n\t{{/EUC-JP}}\n</div><!--no-->\n</div><!--footer-->\n\n<script>\n{{^EUC-JP}}\tdocument.getElementById(\"Kanji\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\ndocument.getElementById(\"Meaning\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n{{/EUC-JP}}\nfunction ToggleLanguage() {\n{{#Englische_Bedeutung}} <!-- only switch to english meaning if there is one available (primitives don't have it sometimes)-->\n\tif(document.getElementById(\"English\").style.display == 'none'){\n\t\tdocument.getElementById(\"English\").style.display = \"block\";\n\t\tdocument.getElementById(\"German\").style.display = \"none\";\n\t}\n\telse{\n\t\tdocument.getElementById(\"German\").style.display = \"block\";\n\t\tdocument.getElementById(\"English\").style.display = \"none\";\n\t}\n{{/Englische_Bedeutung}}\n}\n</script>",
@@ -54578,7 +54576,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "2110",
+                "2109",
                 "逆",
                 "umgekehrt",
                 "Die Grundaufgabe beim Modellieren ist zunächst einmal das klassische Motiv: aus einem Stück Erde eine Bergziege formen, die begeistert den Mond anschaut (sie ist so gebannt davon, dass die Modellierschüler sich in aller Seelenruhe neben sie setzen und nach dem Modell arbeiten können, weil sie sich ohnehin nicht bewegt).",
@@ -54602,7 +54600,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "2111",
+                "2110",
                 "塑",
                 "modellieren",
                 "Wenn der Mond sich zeigt und die unwillige Bergziege ihn gebannt anstarrt, muss man die Gelegenheit nutzen und die sonst so störrische Ziege schnell gegen ihre Natur (vgl umgekehrt) stromaufwärts ziehen, um die halbwegs gangbare Straße zu erreichen.",
@@ -54626,7 +54624,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "2112",
+                "2111",
                 "遡",
                 "stromaufwärts gehen",
                 "Eine Bergziege auf einer Anhöhe, gefangen unter einer Glasglocke, als Schneekugel.",
@@ -54650,7 +54648,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "2113",
+                "2112",
                 "岡",
                 "Anhöhe",
                 "Im Krieg gewinnt oft, wer - strategisch günstig - sein Metall flink wie Windhunde auf eine Anhöhe schaffen kann und von dort aus - hart wie Kruppstahl - den Gegner besiegen kann.",
@@ -54676,7 +54674,7 @@
             "fields": [
                 "2114",
                 "綱",
-                "Kabeltau",
+                "Tau",
                 "Will man aus Fäden Taue machen - so etwa auf der Hamburger Reeperbahn die damaligen Reepschläger - kann man stattdessen auch eine genügend steile Anhöhe suchen.",
                 "",
                 "",
@@ -56930,24 +56928,24 @@
         {
             "__type__": "Note",
             "fields": [
-                "2109",
-                "逆",
-                "umgekehrt",
-                "Weil ihre Beine eigentlich nur für richtig gebirgiges Gelände geeignet sind, steht die Bergziege (Tierhörner + Berge) auf der Landstraße immer umgekehrt.",
+                "2113",
+                "鋼",
+                "Stahl",
+                "Hochhäuser kann man als eine&nbsp;<i>Anhöhe</i>&nbsp;aus&nbsp;<i>Metall</i> und Beton ansehen. Das verwendete Metall ist i.d.R.&nbsp;<b>Stahl</b>.",
                 "",
                 "",
                 "",
                 "",
                 "",
                 "53",
-                "%B5%D5",
-                "inverted",
-                "9",
-                "ギャク、ゲキ",
-                "さか、さか.さ、さか.らう",
+                "%B9%DD",
+                "steel",
+                "16",
+                "コウ",
+                "はがね",
                 ""
             ],
-            "guid": "Fu<i%x8u|h",
+            "guid": "BJkZ![@yI!",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
