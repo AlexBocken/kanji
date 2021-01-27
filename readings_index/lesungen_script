@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for n in {1..2000}; do
+	printf "index of reading no. L-%s?" "$n"
+	read -r index
+	line="$(grep -P "^$index\t" lesungen)"
+	printf '%s\t%s\n' "$line" "$n" | tee -ai test
+done
