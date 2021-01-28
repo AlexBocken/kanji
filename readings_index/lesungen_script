@@ -3,13 +3,22 @@ if [ -n "$1" ]; then
 	printf "start at reading no. L-"
 	read -r start_no
 else
-	start_no="$(tail -n1 readings_index | cut -f3)"
+	last_line="$(tail -n1 readings_index)"
+	echo "$last_line"
+	start_no="$( echo "$last_line" | cut -f3)"
 fi
-for ((n=$start_no;n<=4000;n++)); do
+for ((n=start_no;n<=4000;n++)); do
 	printf "index of reading no. L-%s:" "$n"
 	read -r index
 	if [ "$index" = "" ]; then
 		continue
+	elif [ "$index" = "d" ]; then
+		echo "deleting last line"
+		grep -v "$(tail -n1 readings_index)" readings_index > tmp$$
+		mv tmp$$ readings_index
+		last_line="$(tail -n1 readings_index)"
+		echo "$last_line"
+		n="$(( n - 2 ))";
 	elif [ "$index" -gt 2200 ]; then
 		echo "Kanji from third book. Just adding index and reading index for now"
 		printf '%s\t\t%s\n' "$index" "$n" | tee -ai readings_index
