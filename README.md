@@ -48,6 +48,10 @@ I've been adding the seperately listed primitives as well, although that has som
 
 Both of these strategies are not optimal and I'm currently looking into other options. Inserting pictures does not seem optimal to me as well since those are heavily font-dependent. Reccommendations on how to solve this issue are always welcome.
 
+Update: I've considered to modify the used IPAGothic font to add these Primitives in unused locations.
+This means that the Kanji displayed in Browse mode is incorrect for primitives but there will be no need for a "Kanji Correction field anymore".
+This plan will be implemented in the coming weeks.
+
 ## Composites
 Composites are added to the last kanji learned to completely understand the composite.
 E.g. "週末" (Wochenende) is added at "週" (no. 340), not "末" (no. 230).
