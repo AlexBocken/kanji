@@ -41,16 +41,9 @@ To get the Kanji unicode characters I used this [Kanji recognition site](https:/
 Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
 
 ## Primitves
-I've been adding the seperately listed primitives as well, although that has some issues connected with it: Some/most of the primitives listed seperately do not have a unicode character associated with them. Thus I've been using two strategies:
-
-1. Choosing a simple kanji which uses this primitive and stating with part of this kanji is meant
-2. Misusing another unicode character which looks pretty much the same. For example for "Besen" as used in "雪" uses the charakter "ヨ" ("yo" from Katakana).
-
-Both of these strategies are not optimal and I'm currently looking into other options. Inserting pictures does not seem optimal to me as well since those are heavily font-dependent. Reccommendations on how to solve this issue are always welcome.
-
-Update: I've considered to modify the used IPAGothic font to add these Primitives in unused locations.
-This means that the Kanji displayed in Browse mode is incorrect for primitives but there will be no need for a "Kanji Correction field anymore".
-This plan will be implemented in the coming weeks.
+I'm mapping primitives which cannot be found in the Unicode standard to a section of the Ethiopian Alphabet.
+My custom fonts then display these primitives instead of the ethiopian letters.
+This means that the symbol displayed in Browse mode is incorrect for primitives.
 
 ## Composites
 Composites are added to the last kanji learned to completely understand the composite.
@@ -65,6 +58,10 @@ If you want to see my awful coding practices for such one off stuff which just n
 For Kanjis I'm using the IPAGothic font, for the stroke order I'm using Timothy Eyre's (or is it Ulrich Apel's? It's not quite clear to me.) great font I found on [his website](https://www.nihilist.org.uk/).
 The licenses for these fonts can also be found in the `licenses` folder of this git repository.
 I believe me distributing these fonts with this project is not a breach of contract, but I am also not a lawyer.
+
+Note: These fonts have been slightly alterated by me.
+This is mostly done to add support for Heisig's primitives-system.
+Otherwise sometimes a Kanji might slightly differ from the original font to more accurately reflect the idea in the Merkhilfe.
 
 ## License
 
