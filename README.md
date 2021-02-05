@@ -48,6 +48,7 @@ This means that the symbol displayed in Browse mode is incorrect for primitives.
 ## Composites
 Composites are added to the last kanji learned to completely understand the composite.
 E.g. "週末" (Wochenende) is added at "週" (no. 340), not "末" (no. 230).
+This system will be alterated once the 2nd book about readings will be adressed.
 
 ## Readings
 I've pulled all available On- Kun- and Nanori-readings from http://nihongo.monash.edu/ using a script.
