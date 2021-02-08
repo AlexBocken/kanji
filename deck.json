@@ -2925,7 +2925,7 @@
                 "105",
                 "母",
                 "Mama",
-                "Piktogramm von <i>Brüsten</i> (\"mamma\").",
+                "<i>Piktogramm</i> von <i>Brüsten</i> (\"<b>mamma</b>\").",
                 "Mama, Brüste",
                 "",
                 "",
@@ -5295,7 +5295,7 @@
                 "富",
                 "Reichtum",
                 "Der ganze <b>Reichtum</b> verwahrt im <i>Haus</i> (<i>mit einem Mund ein Reisfeld vertilgen</i>)",
-                "Reichtum (ohne 宀)",
+                "Reichtum (ህ)",
                 "",
                 "",
                 "",
@@ -8833,7 +8833,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "26*",
+                "27*",
                 "聿",
                 "Pinsel",
                 "",
@@ -8902,7 +8902,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "27*",
+                "28*",
                 "攵",
                 "Zuchtmeister",
                 "",
@@ -9523,7 +9523,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "28*",
+                "29*",
                 "弋",
                 "Pfeil",
                 "",
@@ -9592,7 +9592,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "29*",
+                "30*",
                 "ሊ",
                 "Köcher",
                 "",
@@ -9638,7 +9638,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "30*",
+                "31*",
                 "戈",
                 "Straßenfest",
                 "",
@@ -9730,7 +9730,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "31*",
+                "32*",
                 "ላ",
                 "Erntedankfest",
                 "",
@@ -9776,7 +9776,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "32*",
+                "33*",
                 "戊",
                 "Parade",
                 "",
@@ -9871,7 +9871,7 @@
                 "387",
                 "城",
                 "Burg",
-                "<i>Erde</i> <i>wird</i> zB unter den Händen spielender Kinder <i>zur</i> <b>Burg</b>. Alternativ: Eine japanische <b>Burg</b>, anderst wie europäische, ist nichts anderes als umgeformte <i>Erde</i>haufen die dadurch <i>zu</i> einer <b>Burg</b> <i>wurden</i>.",
+                "<i>Erde</i> <i>wird</i> zB unter den Händen spielender Kinder <i>zur</i> <b>Burg</b>. Alternativ: Eine japanische <b>Burg</b>, anderst wie europäische, ist nichts anderes als umgeformte <i>Erd</i>haufen die dadurch <i>zu</i> einer <b>Burg</b> <i>wurden</i>.",
                 "",
                 "",
                 "",
@@ -9914,7 +9914,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "33*",
+                "34*",
                 "戌",
                 "Marsch",
                 "",
@@ -10029,7 +10029,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "34*",
+                "35*",
                 "ሌ",
                 "Festwagen",
                 "",
@@ -10397,7 +10397,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "35*",
+                "36*",
                 "ል",
                 "flicken",
                 "",
@@ -10542,7 +10542,7 @@
                 "",
                 "",
                 "",
-                "Man beachte den Haken beim ersten Strich von Parade. Dies ist das einzige Mal dass das Zeichen Parade so verwendet wird für die ersten 2200 Kanjis.",
+                "Man beachte den Haken beim ersten Strich von Parade. Dies ist das einzige Mal, dass das Zeichen Parade so verwendet wird für die ersten 2200 Kanjis.",
                 "17",
                 "%B1%DB",
                 "surpass",
@@ -10627,7 +10627,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "36*",
+                "37*",
                 "廴",
                 "strecken",
                 "",
@@ -10742,7 +10742,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "37*",
+                "38*",
                 "疋",
                 "Zoo",
                 "",
@@ -11294,7 +11294,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "38*",
+                "39*",
                 "ሎ",
                 "Schürze",
                 "",
@@ -11363,7 +11363,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "39*",
+                "30*",
                 "冂",
                 "Gürtel",
                 "",
@@ -11455,7 +11455,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "40*",
+                "41*",
                 "ሏ",
                 "Schwaden",
                 "",
@@ -11639,7 +11639,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "41*",
+                "42*",
                 "冫",
                 "Eis",
                 "",
@@ -11754,7 +11754,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "42*",
+                "43*",
                 "喬",
                 "Engel",
                 "",
@@ -12053,7 +12053,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "43*",
+                "44*",
                 "ሐ",
                 "Antiquität",
                 "",
@@ -24638,7 +24638,7 @@
                 "米",
                 "Reis",
                 "<i>Piktogramm</i> von einer Anzahl von <b>Reiskörnern</b>, die sternförmig auf einem Teller liegen.",
-                "Reis, USA,氺: Reiskörner",
+                "Reis, USA, Reiskörner (氺)",
                 "",
                 "",
                 "",
@@ -31376,7 +31376,7 @@
                 "1267",
                 "備",
                 "ausrüsten",
-                "Mr T wird mit Blumen ausgerüstet, um sich getarnt bis an die Klippe heranzuschleichen, und dort mit einem Schraubenzieher den Übeltäter zu töten.",
+                "<i>Mr. T</i> wird mit <i>Blumen</i> <b>ausgerüstet</b>, um sich getarnt bis an die <i>Klippe</i> heranzuschleichen, und dort mit einem <i>Schraubenzieher</i> den Übeltäter zu töten.",
                 "",
                 "",
                 "",
@@ -31399,7 +31399,7 @@
                 "1268",
                 "昔",
                 "Es war einmal...",
-                "Es war einmal eine Zeit, da gingen die Fischstäbchen an Land unter einer Sonne aus Salat.",
+                "<b>Es war einmal</b> eine Zeit, da gingen die Fischstäbchen an Land unter einer <i>Sonne</i> aus <i>Salat</i>.",
                 "",
                 "",
                 "",
@@ -31422,7 +31422,7 @@
                 "91*",
                 "ሦ",
                 "Salat",
-                "",
+                "Ein <i>Teller</i> voller <i>Blüten</i>, ein etwas seltsamer <b>Salat</b>.",
                 "",
                 "",
                 "",
@@ -31445,7 +31445,7 @@
                 "1269",
                 "錯",
                 "verworren",
-                "Es war einmal eine Zeit, da waren die Metalle in den Bergen verworren (heute hat man die meisten aus den Bergen herausgeholt).",
+                "<i>Es war einmal</i> eine Zeit, da waren die <i>Metalle</i> in den Bergen <b>verworren</b> (heute hat man die meisten aus den Bergen herausgeholt).",
                 "",
                 "",
                 "",
@@ -31468,7 +31468,7 @@
                 "1270",
                 "借",
                 "entleihen",
-                "Es war einmal eine Zeit, da entliehen die Menschen alle ihre Kenntnisse von der Natur.",
+                "<i>Es war einmal</i> eine Zeit, da <b>entliehen</b> die <i>Menschen</i> alle ihre Kenntnisse von der Natur.",
                 "",
                 "",
                 "",
@@ -31491,7 +31491,7 @@
                 "1271",
                 "惜",
                 "schade",
-                "Der Gemütszustand des Heimatvertriebenen, der in der Vergangenheit lebt: \"Wie schade, was einmal alles war...\"",
+                "Der <i>Gemütszustand</i> des Heimatvertriebenen, der in der Vergangenheit lebt: \"Wie <b>schade</b>, <i>was einmal alles war...</i>\"",
                 "",
                 "",
                 "",
@@ -31514,7 +31514,7 @@
                 "1272",
                 "措",
                 "beiseite legen",
-                "Es war einmal eine Zeit (nach dem Krieg), da legte man von jedem noch so schlechten Braten vorsichtshalber einen Finger beiseite, für noch schlechtere Zeiten.",
+                "<i>Es war einmal</i> eine Zeit (nach dem Krieg), da <b>legte</b> man von jedem noch so schlechten Braten vorsichtshalber einen <i>Finger</i> <b>beiseite</b>, für noch schlechtere Zeiten.",
                 "",
                 "",
                 "",
@@ -31537,7 +31537,7 @@
                 "1273",
                 "散",
                 "zerstreuen",
-                "Der Zuchtmeister lässt die Zöglinge die leicht zu meisternden Speisen Salat und Fleisch essen (statt der schwierigen Suppe), um sie vor der bevorstehenden Prüfung noch ein wenig zu zerstreuen.",
+                "Der <i>Zuchtmeister</i> lässt die Zöglinge die leicht zu meisternden Speisen <i>Salat</i> und <i>Fleisch</i> essen (statt der schwierigen Suppe), um sie vor der bevorstehenden Prüfung noch ein wenig zu <b>zerstreuen</b>.",
                 "",
                 "",
                 "",
@@ -31560,7 +31560,7 @@
                 "1274",
                 "廿",
                 "zwanzig",
-                "Zwei miteinander verbundene zehnen.",
+                "<i>Zwei</i> miteinander verbundene <i>zehnen</i>.",
                 "",
                 "",
                 "",
@@ -31583,7 +31583,7 @@
                 "92*",
                 "ሧ",
                 "Labyrinth",
-                "",
+                "Man Stelle sich das <b>Labyrinth</b> von alten Minenschächten in <i>zwanzig Höhlen</i> vor.",
                 "",
                 "",
                 "",
@@ -42004,8 +42004,8 @@
                 "Wirklichkeit",
                 "Die graue, triste Wirklichkeit für den Bonsai sieht so aus, dass er unter einem Hausdach steht.",
                 "",
-                "",
-                "",
+                "誠実",
+                "ehrlich　「せいじつ」",
                 "",
                 "40",
                 "%BC%C2",
@@ -52635,7 +52635,7 @@
                 "",
                 "53",
                 "",
-                "",
+                "skunk",
                 "7",
                 "",
                 "",
@@ -53777,7 +53777,7 @@
             "fields": [
                 "163*",
                 "ቓ",
-                "goldenes",
+                "goldenes Kalb",
                 "",
                 "",
                 "",
@@ -53785,7 +53785,7 @@
                 "",
                 "55",
                 "",
-                "",
+                "golden calf",
                 "3",
                 "",
                 "",
@@ -54574,6 +54574,29 @@
                 ""
             ],
             "guid": "BJkZ![@yI!",
+            "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "26*",
+                "ቢ",
+                "Schulhaus",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "15",
+                "",
+                "schoolhouse",
+                "5",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Fk`j<+tXPQ",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
             "tags": []
         }
