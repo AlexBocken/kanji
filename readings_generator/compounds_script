@@ -8,8 +8,6 @@ while read -r line; do
 	ON="$(hxnormalize -i 0 -x raw_html | hxselect 'table' | awk 'BEGIN {printout=100000000000}; NR==printout+2 {print $0}; /ON reading/ {printout=NR}'| sed 's/<td><b>//; s/<\/b><\/td>//' )"
 	KUN="$(hxnormalize -i 0 -x raw_html | hxselect 'table' | awk 'BEGIN {printout=100000000000}; NR==printout+2 {print $0}; /KUN reading/ {printout=NR}'| sed 's/<td><b>//; s/<\/b><\/td>//')"
 	NAN="$(hxnormalize -i 0 -x raw_html | hxselect 'table' | awk 'BEGIN {printout=100000000000}; NR==printout+2 {print $0}; /Nanori reading/ {printout=NR}'| sed 's/<td><b>//; s/<\/b><\/td>//')"
-	printf '%s\t%s\t%s\t%s\n' "$index" "$ON" "$KUN" "$NAN"
+	printf '%s\t%s\t%s\t%s\n' "$index" "$ON" "$KUN" "$NAN" | sed 's/ /、/g' | sed 's/、\t/\t/g; s/、$//'
 	rm raw_html
 done<index_kanji
-
-#curl -s http://nihongo.monash.edu/cgi-bin/wwwjdic?1MKJ%B4%D6# | hxnormalize -i 0 -x | hxselect 'table' | awk 'BEGIN {printout=100000000000}; NR==printout+2 {print $0}; /ON reading/ {printout=NR}' | sed 's/<td><b>//; s/<\/b><\/td>//'
