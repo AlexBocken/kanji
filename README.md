@@ -4,7 +4,9 @@
 
 <img src="/../assets/german_front.png" alt="Front side with german word displayed" width="49%"> <img src="/../assets/german_back.png" alt="Back side revealing kanji with that meaning" width="49%">
 
-This is my personal vocab list to learn the Japanese Kanji which is using J.W. Heisig/R. Rauther's [__"Die Kanji - lernen und behalten 1"__](https://www.amazon.de/Bedeutung-Schreibweise-japanischen-Schriftzeichen-behalten/dp/3465041577/ref=sr_1_2?crid=2LX7RDRS8FEGW&dchild=1&keywords=die+kanji+lernen+und+behalten&qid=1595191168&sprefix=Die+kanji+lern%2Caps%2C154&sr=8-2)
+This is my personal vocab list to learn the Japanese Kanji which is using J.W. Heisig/R. Rauther's [__"Die Kanji - lernen und behalten 1"__](https://www.amazon.de/Bedeutung-Schreibweise-japanischen-Schriftzeichen-behalten/dp/3465041577/ref=sr_1_2?crid=2LX7RDRS8FEGW&dchild=1&keywords=die+kanji+lernen+und+behalten&qid=1595191168&sprefix=Die+kanji+lern%2Caps%2C154&sr=8-2) as well as for the third book in the series.
+All in all it includes 3000 Kanjis and 171 primitives.
+
 Since I'm using the German version of the book (and my native language is German) the cards are Japanese-German.
 Most of the hints I have gotten from [another Deck for the same book](https://ankiweb.net/shared/info/1354129669) (probably should have looked for something like this earlier).
 A big thanks to the contributors of that deck for sharing their work.
