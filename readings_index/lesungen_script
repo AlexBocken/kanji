@@ -18,9 +18,6 @@ for ((n=start_no;n<=4000;n++)); do
 		mv tmp$$ readings_index
 		tail -n1 readings_index
 		n="$(( n - 2 ))";
-	elif [ "$index" -gt 2200 ]; then
-		echo "Kanji from third book. Just adding index and reading index for now"
-		printf '%s\t\t%s\n' "$index" "$n" | tee -ai readings_index
 	elif [ "$index" -gt 0 ]; then
 		line="$(grep -P "^$index\t" lesungen)"
 		printf '%s\t%s\n' "$line" "$n" | tee -ai readings_index

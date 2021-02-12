@@ -1,0 +1,12 @@
+#!/bin/bash
+counter=0
+for i in {1..3000}; do
+	readings="$(grep -P "^$i\t" readings_index | cut -f3 | sed 's/^/L-/' | tr '\n' ',' | sed 's/,$/\n/; s/,/, /g')"
+	if [ -z "$readings" ]; then
+		(( counter++ ))
+		summary="$(printf "missing reading for Kanji no:%s\n%s" "$i" "$summary")"
+	fi
+	printf '%s\t%s\n' "$i" "$readings"
+done
+echo "$summary"
+printf 'Kanjis without readings index: %d\n' "$counter"
