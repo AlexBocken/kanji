@@ -1,0 +1,2092 @@
+1	イチ、イツ	一日、一緒	いちにち、いっしょ	1 Tag、zusammen
+2	二、二	二世、十二	にせい、じゅうに	zweite Generation、Zwölf
+3	ミ(さん)、サン	三つ子、三画	みつご、さんかく	dreijähriges Kind; Drillinge、drei Striche (wie in einem Kanji)
+4	シ	四月	しがつ	April
+5	ゴ	五人	ごにん	5 Leute
+6	ロク	十六	じゅうろく	sechzehn
+7	シチ	七月	しちがつ	Juli
+8	ハチ	尺八	しゃくはち	Shakuhachi-Flöte
+9	キュウ、ク	九人、九時	きゅうにん、くじ	9 Personen/Leute、9 Uhr
+10	ジュウ、ジッ	十六、十本	じゅうろく、じっぽん	sechzehn、10 (lange, gerade Objekte)
+11	コウ、ク	人口、口伝	じんこう、くでん	Bevölkerung、Mündliche Überlieferung
+12	ニチ、ジツ	一日、休日	いちにち、きゅうじつ	1 Tag、Feiertag; Ruhetag
+13	ゲツ、ガツ	三ヶ月、四月	三 ヶ月[さんかげつ]、しがつ	3 Monate、April
+14	デン	水田	みずでん	geflutete Reisfelder
+15	モク、ボク	目的、面目	もくてき、めんぼく	Ziel; Absicht、Gesicht; Ehre
+16	コ	古語	こご	veraltetes Wort; altes Sprichwort
+17	ゴ	吾人	ごじん	wir [selten]
+18	ボウ	冒険	ぼうけん	Abenteuer
+19	ホウ	朋友	ほうゆう	Freund; Gefährte
+20	メイ、ミョウ	説明、明日	せつめい、みょうにち	Erläuterung; Erklärung、morgen; der morgige Tag
+21	ショウ	唱歌	しょうか	Singen
+22	ショウ	水晶	すいしょう	(Berg-)Kristall
+23	ヒン	事務用品	じむようひん	Büroartikel
+24	ロ	風呂	ふろ	Heißes japanisches Bad
+26	サッ、ソウ	早速、早々	さっそく、そうそう	sofort; auf der Stelle、eilig; hastig
+28	セ、セイ	世界、二世	せかい、にせい	Welt、zweite Generation
+29	イ	胃腸	いちょう	Magen-Darm-Trakt
+30	タン、ダン	元旦、旦那	がんたん、だんな	Neujahrstag (1. januar)、(Ehe-)mann; Patron
+31	タン	大胆	だいたん	mutig; kühn
+33	オウ	凹面鏡	おうめんきょう	konkaver Spiegel
+34	トツ	凸面鏡	とつめんきょう	konvexer Spiegel
+35	キュウ	復旧	ふっきゅう	Restauration; Wiederherstellung
+36	ジ、シ	自分、自然	じぶん、しぜん	man (selbst)、Natur
+37	ハク、ビャク	白人、黒白	はくじん、こくびゃく	Weißer; Kaukasier、Schwarz und Weiß; Gut und Böse
+38	ヒャク	二百	にひゃく	200 (zweihundert)
+39	チュウ、ジュウ	中国、一日中	ちゅうごく、一日中[いちにちじゅう]	China、den ganzen Tag
+40	チ(セン)、セン	千島、千円	ちしま、せんえん	Kurileninseln (im Norden Japans)、￥1,000
+41	ぜツ	弁舌	べんぜつ	Eloquenz
+42	ショウ	一升	いっしょう	1 Maß (Sake)
+43	ショウ	上昇	じょうしょう	Aufstieg
+44	ダン	弾丸列車	だんがんれっしゃ	Schnellzug
+45	す(スン)	寸波	すんぱう	Maß; Ausmaß
+47	セン	専門家	せんもんか	Fachmann
+48	ハク、バク	賭博、博愛	とばく、はくあい	Glücksspiel、Philantrophie (Menschenliebendes Verhalten)
+49	セン	独占	ひとりじめ	Monopol
+50	ジョウ、ショウ	以上、上人	いじょう、しょうにん	über; ... und mehr; obig、Heiliger
+51	カ、ゲ	地下鉄、下駄	ちかてつ、げた	U-Bahn、Holzpantoffeln
+52	タク	食卓塩	しょくたくえん	Tafelsalz
+53	チョウ	朝食	ちょうしょく	Frühstück
+54	チョウ	嘲罵	ちょうば	Verunglimpfung; Beleidigung
+58	テイ	貞操	ていそう	Keuschheit
+59	イン	船員	せんいん	Matrose; Mannschaftsmitglieg
+60	チュウ	貼付	ちょうふ	Aufkleben; Einkleben
+61	ケン	見物	けんぶつ	Besichitgung; Besuch
+62	ジ、二	児童、小児	じどう、しょうに	Kind、Kleinkind
+63	ガン、ゲン	元日、元気	がんじつ、げんき	Neujahrstag、Gesundheit; Lebenskraft
+65	ガン	頑固	がんこ	Hartnäckigkeit; Starrsinn
+66	ハン、ボン	凡例、平凡	はんれい、へいぼん	einleitende Bemerkung、Gewöhnlichkeit; Alltäglichkeit
+67	フ	負担	ふたん	Last; Bürder; Verantwortung
+68	マン、バン	壱万円、万歳	いちまんえん、まんざい	￥10,000 (z.B. auf Quittingen)、"Hipp, hipp, hurra!"
+69	ク	文句	もんく	Ausdruck; Beschwerde
+71	じゅん、シュン	中旬、旬の野菜	ちゅうじゅん、しゅんのやさい	mittlere zehn Tage des Monats、Gemüse der Saison
+72	シャク	一勺	いっしゃく	1 shaku (ca. 1,8 cl)
+73	テキ	目的	もくてき	Ziel; Absicht
+74	シュ	首相	しゅしょう	Premieminister
+75	オツ	甲乙兵	こうおつへい	A, B, C (alte Aufzählweise)
+76	ラン	乱暴	らんぼう	Wildheit; Gewalttätigkeit
+77	チョク・ジキ、チョク・ジキ	直面、正直	ちょくめん、しょうじき	Konfrontation、Aufrichtigkeit; Ehrlichkeit
+78	グ	家具	かぐ	Möbel
+79	シン	真実	しんじつ	Wahrheit; Tatsache
+80	コウ、ク	人工、大工	じんこう、だいく	Menschenwerk; Künstlichkeit、Zimmermann
+81	さ、サ	左右	さゆう	Rechts und Links; Beeinflussung、rechts und links; Beeinflussung
+82	ウ、ユウ	右翼、左右	うよく、さゆう	Rechter Flügel (Politisch)、rechts und links; Beeinflussung
+83	ユウ、ウ	有名、有無	ゆうめい、ゆうむ	Berühmtheit; Berühmtsein、Sein und Nichtsein
+84	ワイ	収賄	しゅうわい	Sich-bestechen-Lassen
+85	コウ、ク	貢献、年貢	こうけん、ねんぐ	Beitrag; Dienst、jährlicher Tribut
+86	コウ	項目	こうもく	Gliederungspunkt; Posten
+87	トウ	日本刀	にほんとう	Japanisches Schwert
+88	ジン	自刃	じじん	sich-ins-eigene-Schwer-stürzen
+89	セツ、サイ	親切、一切	しんせつ、いっさい	freundlich; liebenswürdig、Gänze; alles; völlig
+90	ショウ	召喚	しょうかん	Vorladung
+91	ショウ	昭和	しょうわ	Name einer Jap. Ära, 1926-1989
+92	ソク	反則	はんそく	Foul; Regelverstoß
+93	フク	副詞	ふくし	Adverb
+94	ベツ	特別	とくべつ	besonders; spezial
+95	テイ、チョウ	丁寧、二丁目	ていねい、にちょうめ	Höflichkeit; Zuvorkommenkeit、Häuserblock Nr. 2
+96	チョウ	町人	ちょうにん	Händler (gesellschaftl. Stand)
+97	カ	可能	かのう	Möglichkeit
+98	チョウ	頂点	ちょうてん	Gipfel; Scheitelpunkt
+99	シ、ス	帽子、様子	ぼうし、ようす	Hut; Mütze、Zustand; Lage; Umstände
+100	コウ	孔子	こんつー	Konfuzius
+101	リョウ	終了	しゅうりょう	Abschluss; Beendigung
+102	め・メ(ジョ)、ジョ、ニョウ、ニョ	女神、女性、女房、天女	めがみ、じょせい、にょうぼう、てんにょ	Göttin、Frau; weibliches Geschlecht、(eigene) Ehefrau、Himmlisches Mädchen; Fee
+103	コウ	好評	こうひょう	positive Kritik
+104	ジョ、ニョ	如才、如来	じょさい、にょらい	(welt)gewandt、der Tatagatha (ein Titel Buddhas)
+105	ボ	祖母	そぼ	Großmutter
+106	カン	貫通	かんつう	Durchbohren; Durchdringen
+107	ケイ・キョウ、ケイ・キョウ	父兄、兄弟	ふけい、きょうだい	der Vater und die älteren Brüder、Geschwister
+108	ジュ	呪術	じゅじゅつ	Magie
+109	コク	克己	こっき	Selbstüberwindung
+110	ショウ	小学校	しょうがっこう	Grundschule
+111	ショウ	少年	しょうねん	Knabe; Jugendlicher
+112	ダイ、タイ	大学、大変	だいがく、たいへん	Universität、ungeheuer; schrecklich; schlimm
+113	タ	多少	たしょう	mehr oder weniger
+114	セキ	今夕	こんせき	heutiger Abend
+116	ガイ、ゲ	外国人、外科	がいこくじん、げか	Ausländer、Chirurgie
+117	メイ、ミョウ	有名、大名	ゆうめい、だいみょう	Berühmtheit; Berühmtsein、Feudalherr
+118	セキ、シャク、コク	岩石、磁石、一石	がんせき、じしゃく、いっこく	Felsen; Steine、Magnet、1 Koku (Reis, ca. 0,18m³)
+119	ショウ	肖像画	しょうぞうが	Porträt
+120	ショウ	硝煙	しょうえん	Pulverdampf
+121	サイ	砕石	さいせき	Schotter
+122	サ、シヤ	砂糖、土砂崩壊	さとう、どしゃほうかい	Zucker、Erdrutsch
+123	ト	嫉妬	しっと	Eifersucht; Neid
+124	サク	削減	さくげん	Kürzung; Abstrich
+125	コウ	日光	にっこう	Nikkō (Stadtname); Sonnenlicht
+126	た(タ)、タイ	丸太、太陽	まるた、たいよう	Holzstamm、Sonne
+127	キ	陶器	とうき	Töpferwaren; Keramik
+128	ジュウ	悪臭	あくしゅう	Gestank; übler Geruch
+129	キュウ	嗅覚	きゅうかく	Geruchssinng
+130	ミョウ	奇妙	きみょう	Seltsamkeit; Merkwürdigkeit
+131	ショウ、ショウ、せい und Erziehungs Ministerium、Selbstreflektion; -kritik
+132	コウ	厚生	こうせい	Wohlfahrtswesen
+133	キ	奇数	きすう	ungerade Zahl
+134	セン	川上の嘆	せんじょうのたん	"Alles fließt"
+135	シュウ	本州	ほんしゅう	Hauptinsel (Japans)
+136	ジュン	順法	じゅんぽう	Dienst nach Vorschrift
+137	スイ	水曜日	すいようび	Mittwoch
+138	ヒョウ	氷山	ひょうざん	Eisberg
+139	エイ	永遠	えいえん	Ewigkeit
+140	セン	泉水	せんすい	Springquell
+141	セン	汗腺	かんせん	Schweißdrüße
+142	ゲン	高原	こうげん	Hochebene
+143	ガン	志願	しがん	Freiwilligenmeldung
+144	エイ	水泳	すいえい	Schwimmen
+145	ショウ	湖沼	こしょう	Seen und Teiche
+146	チュウ	沖天	ちゅうてん	Aufstieg in den Himmel
+147	ハン	汎アメリカ	ハンアメリカ	Pan-Amerika
+148	え(コウ)、コウ	江戸、長江	えど、ちょうこう	Edo (alter Name Tokios)、Jangtsekiang (Fluss in China)
+149	タ	無沙汰	ぶさた	langes Sich-nicht-melden (Üblich als Entschuldigung)
+150	ジュウ	果汁	かじゅう	Fruchtsaft
+151	サ、サ	無沙汰、沙汰	ぶさた、さた	langes Sich-nicht-melden (Üblich als Entschuldigung)、Nachricht; Meldung
+152	チョウ	満潮	みちしお	Flut
+153	セン	源泉	げんせん	Urquelle
+154	カツ	生活	せいかつ	(alltägliches) Leben
+155	ショウ	消化	しょうか	Verdauung
+156	キョウ	概況	がいきょう	die allgemeine Lage
+157	カ	河川	かせん	Flüsse; Flüsse und Ströme
+158	ハク	一泊	いっぱく	1 Übernachtung
+159	コ	湖畔	こはん	Seeufer; an einem See
+160	ソク	測量	そくりょう	(Ver-)Messung
+161	ド、ト	土曜日、土地	どようび、とち	Sonnabend, Samstag、Grundstück
+162	ト	吐露	とろ	Das-Herz-Ausschütten
+163	アツ	圧迫	あっぱく	Unterdrückung
+166	テン	填補	てんぽ	Ausgleichen (Fehlbetrag)
+167	ケイ	圭子	けいこ	Keiko (weiblicher Vorname)
+168	フウ・ホウ、フウ・ホウ	封筒、封建	ふうとう、ほうけん	Umschlag、Feudalismus
+169	ガイ	生涯	しょうがい	Lebensdauer; das Leben
+170	ジ	寺内	じない	Innerhalb eines Tempelbezirks
+171	ジ、ジ	九時、時間	くじ、じかん	9 Uhr、Zeit; Stunde
+172	キン	平均	へいきん	Durchschnitt
+173	カ	火曜日	かようび	Dienstag
+174	エン	火炎	かえん	Flammen
+175	ハン、ボン	煩雑、煩悩	はんざつ、ぼんのう	Umständlichkeit; Lästigkeit、Weltliche Begierde
+176	タン	淡々	たんたん	gleichgültig; nüchtern
+177	トウ	電灯	でんとう	elektrisches Licht
+179	サイ	災害	さいがい	Unglücksfall; Katastrophe
+180	カイ	灰白色	かいはくしょく	aschfahl
+181	テン	終点	しゅうてん	Endstation; Endbahnhof
+182	ショウ	照明	しょうめい	Beleuchtung
+183	ギョ	金魚鉢	きんぎょばち	Goldfischglas
+184	ギョ、リョウ	漁業、漁師	ぎょぎょう、りょうし	Fischfang; Fischerei、Fischer
+185	リ	七里	しちり	7 <i>Ri</i>
+186	コク、コク	外国人、黒板	がいこくじん、こくばん	Ausländer、Schultafel
+187	ボク	白墨	はくぼく	Kreide
+189	リョウ	測量	そくりょう	(Ver-)Messung
+190	リン	一厘	いちりん	das kleinste bisschen
+191	マイ	埋葬	まいそう	Begräbnis
+192	ドウ	同時	どうじ	zur gleichen Zeit
+193	ドウ	洞察	どうさつ	Einblick; Einsicht
+194	ドウ	胴体	どうたい	Rumpf; Torso
+195	コウ	意向	いこう	Absicht
+196	ショウ	和尚	おしょう	respektvoller Mönchstitel
+197	ジ	漢字	かんじ	Kanji
+198	シュ、ス	保守的、留守	ほしゅてき、るす	konservativ、Abwesenheit; Ausbleiben (von zu Hause oder der Arbeit)
+199	カン	完全	かんぜん	vollkommen; vollständig
+200	セン	宣伝	せんでん	Reklame; Propaganda
+201	ショウ	徹宵	てっしょう	die ganze Nacht hindurch
+202	アン	安心	あんしん	Seelenruhe; Beruhigung
+203	エン	宴会	えんかい	Festmahl; Bankett
+204	キ	寄付	きふ	Spende
+205	フ、フウ	富士山、富貴	ふじさん、ふうき	Der (Berg) Fuji、Reichtum und Ansehen
+206	チョ	貯金	ちょきん	Ersparnisse (auf der Bank)
+207	モク、ボク	木曜日、大木	もくようび、たいぼく	Donnerstag、großer Baum
+208	リン	森林	しんりん	Wald; Forst
+209	シン	森林	しんりん	Wald; Forst
+210	ケイ	桂皮	けいひ	Zimt
+216	トウ	桐油	とうゆ	Kaiserbaumöl
+217	ショク	植物園	しょくぶつえん	botanischer Garten
+218	イ	椅子	いす	Stuhl
+219	コ	枯淡	こたん	Eleganz; Einfachheit
+220	ボク	純朴	じゅんぼく	Schlichtheit; Natürlichkeit
+221	ソン	町村	ちょうそん	Stadt und Land; Gemeinde
+222	ソウ、ショウ	相談、首相	そうだん、しゅしょう	Besprechung、Premieminister
+223	キ	机上	きじょう	auf dem Schreibtisch
+224	ホン	日本	にほん	Japan
+225	サツ	改札口	かいさつぐち	Fahrkartenkontrolleur
+226	レキ	還暦	かんれき	der 60. Geburtstag
+227	アン	案内	あんない	Führung; Information
+228	ソウ	乾燥	かんそう	Trockenheit
+229	ミ	未知	みち	Unbekanntheit
+230	マツ、バツ	粗末、末子	そまつ、ばっし	einfach; ungeschliffen、jüngstes Kind
+231	マイ	三昧	さんまい	Samaadhi; tiefe Versenkung
+232	マツ	泡沫	ほうまつ	Schaum
+233	ミ	薬味	やくみ	Gewürze
+234	マイ	義妹	ぎまい	jüngere (Schwägerin)
+235	シュ	朱筆	しゅひつ	Korrekturpinsel; Rotstift
+237	ニャク、ジャク	老若、若干	ろうにゃく、じゃっかん	Jung und Alt、einige; ein paar
+238	ソウ	草々	そうそう	"Mit eiligen Grüßen"
+239	ク	苦悩	くのう	Qual; Leiden
+240	カ	苛酷	かこく	Härte; Strenge
+241	カン	寛容	かんよう	Toleranz
+242	ハク	薄荷	はっか	Pfefferminze
+243	ヨウ	黄葉	こうよう	Herbstfarben
+244	ボ、モ	規模、模範	きぼ、もはん	Ausmaß; Dimension、Muster; Beispiel
+245	バク	漠然	ばくぜん	vage
+246	ボ	墓地	ぼち	Friedhof
+247	ボ	歳暮	せいぼ	Geschenk zum Jahresende
+248	マク	膜状	まくじょう	filmartig; membranartig
+249	ビョウ	種苗	しゅびょう	Saat und Setzling
+250	チョウ	兆候	ちょうこう	Anzeichen; Symptom
+251	トウ	桃源郷	とうげんきょう	Himmel auf Erden; Eden
+252	チョウ	眺望	ちょうぼう	Ausblick; Aussicht
+253	ケン	愛犬	あいけん	Haushund
+254	ジョウ	賀状	がじょう	Neujahrskarte
+255	モク	沈黙	ちんもく	Schweigen; Stille
+256	ネン、ゼン	天然、自然	てんねん、しぜん	natürlich (nicht künstlich)、Natur
+258	シュ	狩猟	しゅりょう	Jagd (auf wild)
+259	ビョウ	愛猫	あいびょう	Schmusekatze
+260	ギュウ	牛乳	ぎゅうにゅう	(Kuh-)Milch
+261	トク	特別	とくべつ	besonders, Spezial...
+262	コク	広告	こうこく	Werbung; Anzeige
+263	セン	先生	せんせい	Lehrer
+264	セン	洗車	せんしゃ	Autowäsche
+265	カイ	仲介	ちゅうかい	Vermittlung
+266	カイ	世界	せかい	Welt
+267	チャ、サ	紅茶、喫茶店	こうちゃ、きっさてん	schwarzer Tee、Café
+268	セキ	脊髄	せきずい	Rückenmark
+269	ゴウ、カッ	都合、合戦	つごう、かっせん	Umstände; Gelegenheit、Schlacth; Kampf
+270	トウ	金字塔	きんじとう	Pyramide; Monumentalwerk
+271	オウ	王子	おうじ	Prinz
+272	ギョク	宝玉	ほうぎょく	Edelsteine; Juwelen
+273	ホウ	宝石	ほうせき	Juwelen
+274	シュ	真珠	しんじゅ	Perle
+275	ゲン	現在	げんざい	die Gegenwart
+276	ガン	玩具	がんぐ	Spielzeug
+277	キョウ	読書狂	どくしょきょう	Lesefanatiker; "Bücherwurm"
+278	オウ	旺盛	おうせい	Frisch und Munter
+279	ノウ、コウ	天皇、皇居	すめらみこと、こうきょ	(Japans) Kaiser、Kaiserpalast
+280	テイ	謹呈	きんてい	"mit Grüßen vom Autor" (demütiges Überreichen)
+281	ゼン	安全	あんぜん	Sicherheit
+282	セン	消火栓	しょうかせん	Hydrant
+283	リ	料理	りょうり	Kochen; (Speise-)Gericht
+284	シュ、シュ、ス	主人、坊主	しゅじん、ぼうず	Ehemann; Hausherr、buddh. Priester; Bronze
+285	チュウ、チュウ	注意、注射	ちゅうい、ちゅうしゃ	Vorsicht; Aufmerksamkeit、Spritze; Injektion
+286	チュウ	電柱	でんちゅう	Telefon-, Telegrafenmast
+287	キン、コン	金曜日、黄金	きんようび、おうごん	Freitag、Gold
+288	セン	銑鉄	ずくてつ	Roheisen
+289	バチ、ハツ	火鉢、衣鉢	ひばち、いはつ	Kohlenbecken、Übergang von Robe und Schüssel (symbolisiert die Weitergabe der Tradition bei der Nachfolge eines Meisters)
+290	ドウ	青銅	せいどう	Bronze
+291	チョウ	釣艇	ちょうてい	Fischerboot
+292	シン	方針	ほうしん	Richtschnur; Politik
+293	メイ	碑銘	ひめい	Inschrift; Epitaph
+294	チン	鎮圧	ちんあつ	Niederschlagung (eines Aufstandes)
+295	ドウ、トウ	華道、神道	かどう、しんとう	jap. "Der Weg der Blumen" (Ikebana)、Shinto
+296	ドウ	指導	しどう	(An-)leitung; Führung
+298	ジン	迅速	じんそく	Schnelligkeit; Behändigkeit
+299	ゾウ	構造	こうぞう	Struktur
+300	ハク	切迫	せっぱく	Angespanntheit; Dringlichkeit
+301	トウ	逃走	とうそう	Flucht
+302	ヘン	辺	へん	Umgebung; Gegend
+303	ジュン	巡回	じゅんかい	Runde; Patrouille
+304	シャ	電車	でんしゃ	(elektrische) Stadtbahn
+305	レン	連邦	れんぽう	Bundesstaat
+306	キ	軌道に乗る	きどうにのる	in Gang kommen; abheben
+307	ユ	輸出	ゆしゅつ	Ausfuhr; Export
+308	ユ	比喩	ひゆ	Metapher
+309	ゼン	午前	ごぜん	Morgen; Vormittag
+310	セン	煎餅	せんべい	Reiswaffel, -keks
+311	カク	各自	かくじ	jede(r)
+312	カク、コウ	性格、格子	せいかく、こうし	Charakter; Natur、Gitter
+313	ロ	賄賂	まいない	Bestechung
+314	リャク	略語	りゃくご	Abkürzung
+315	キャク、キャク・カク、キャク・カク	客、お客さん、旅客	きゃく、おきゃくさん、りょかく	Gast、Gast (höflich)、Fahrgast
+316	ガク	全額	ぜんがく	Gesamtbetrag (Geld)
+317	カ、ゲ	夏期、夏至	かき、げし	Sommerszeit、Sommersonnenwende
+318	ショ	処分	しょぶん	Handhabung; Beharrlich
+319	ジョウ	条約	じょうやく	Vertrag; Abkommen
+320	ラク	落語	らくご	komische Erzählweise
+321	ジョウ	冗談	じょうだん	Scherz; Witz
+322	ミョウ、メイ	冥利、冥王星	みょうり、めいおうせい	himmlische Gunst; Vorsehung、Pluto (Zwergplanet)
+323	グン	海軍	かいぐん	Marine
+324	キ	光輝	こうき	Glanz; Strahlender Schein
+325	ウン	運動	うんどう	Bewegung; Sport
+326	カン	冠婚葬祭	かんこんそうさい	feierliche Zeremonien
+327	ム	夢中	むちゅう	Versunkensein; Hingerissenheit
+328	コウ	坑道	こうどう	Minenschacht
+329	コウ	高校	こうこう	Oberschule
+330	キョウ	享楽主義	きょうらくしゅぎ	Hedonismus
+331	ジュク	塾長	じゅくちょう	Direktor einer Paukschule
+332	ジュク	成熟	せいじゅく	Reife
+333	テイ	料亭	りょうてい	Restaurant im Japanischen Stil
+334	キョウ、クイ	東京、京浜線	とうきょう、けいひんせん	Tokio、Tokyo-Yokohama-Linie (Bahn)
+335	リョウ	爽涼	そうりょう	Kühle; Frische
+336	ケイ	景気	けいき	Konjunktur
+337	ゲイ	鯨飲馬食	げいいんばしょく	Fressen und saufen wie ein Tier
+338	シャ	宿舎	しゅくしゃ	Wohnheim; Quartier
+339	シュウ	円周	えんしゅう	Kreisumfang
+340	シュウ、シュウ	今週、週間	こんしゅう、しゅうかん	diese Woche、Woche
+341	シ	士官	しかん	Offizier
+342	キチ、キツ	吉日、不吉	きちじつ、ふきつ	Glückstag、Zeichen von Unheil, Unglück
+343	ソウ	壮大	そうだい	Großartigkeit; Herrlichkeit
+344	ソウ	別荘	べっそう	Ferienhaus; Landhaus
+345	バイ	商売	しょうばい	Geschäfte; Handel
+346	ガク	大学	だいがく	Universität
+347	カク	覚醒剤	かくせいざい	Aufputschmittel
+348	エイ	光栄	こうえい	Ehre; Ruhm
+349	ショ	図書館	としょかん	Bibliothek
+350	シン	興味津々	きょうみしんしん	hochinteressiert/- interessant
+351	ボク	牧師	ぼくし	Pastor (Prostestantisch)
+352	コウ	専攻	せんこう	Berühmtheit, Berühmtsein
+353	ハイ	失敗	しっぱい	Scheitern; Versagen
+354	マイ	二枚	にまい	zwei (Blatt ...)
+355	コ	事故	じこ	Unfall
+356	ケイ	敬意	けいい	Verehrung; Achtung
+357	ゲン、ゴン	言明、遺言	げんめい、ゆいごん	Erkläurung; Stellungnahme、Testament; letzter Wille
+358	クイ	警察	けいさつ	Polizei
+359	け(ケイ)	計画	けいかく	Plan; Projekt
+360	セン	詮議	せんぎ	Parlamentarische Beratung
+361	ゴク	地獄	じごく	Hölle
+362	テイ	訂正	ていせい	Korrektur; Verbesserung
+363	フ	訃報	ふほう	Todesnachricht
+364	トウ	討議	とうぎ	Debatte; Diskussion
+365	クン	訓練	くんれん	Drill; Training
+366	ショウ	詔書	しょうしょ	Erlass; Reskript des Kaisers
+367	キツ	詰問	きつもん	Kreuzverhör
+368	ワ	電話	でんわ	Telefon
+369	エイ	詠歌	えいか	Verfassen eines Gedichtes
+370	シ	詩人	しじん	Dichter; Poet
+371	ゴ	日本語	にほんご	Japanisch
+372	トク、ドク、トウ	読本、読書狂、句読点	とくほん、どくしょきょう、くとうてん	Lesebuch; "<i>Reader</i>"、Lesefanatiker; "Bücherwurm"、Satz- und Lesezeichen
+373	チョウ	調子	ちょうし	Zustand; Kondition
+374	ダン	冗談	じょうだん	Scherz; Witz
+375	ダク	承諾	しょうだく	Einverständnis
+376	ユ	教諭	きょうゆ	Lehrer (Berufsbezeichnung)
+377	シキ	形式	けいしき	Form; Formalität
+378	シ	試験	しけん	Prüfung; Examen
+379	二	弐万円	にまんえん	¥20.000
+380	イキ	境域	きょういき	Gebiet; Bereich
+381	ゾク	海賊版	かいぞくばん	Raubkopie
+382	サイ	栽培	さいばい	Kultivierung; Anbau
+383	サイ	記載	きさい	Bericht; Notiz (in der Presse)
+384	モ	繁茂	はんも	üppiges Wachstum (bei Bäumen)
+385	セキ	親戚	しんせき	Verwandte
+386	ジョウ・セイ、ジョウ・セイ	成功、成仏	せいこう、じょうぶつ	Erfolg、Erlangen der "Buddhaschaft"
+387	ジョウ	城内	じょうない	innerhalb einer Burg
+388	セイ	忠誠	ちゅうせい	Treue; Loyalität
+389	イ	威圧的	いあつてき	überwältigend
+390	メツ	滅亡	めつぼう	Untergang; Zusammenbruch
+391	ゲン	削減	さくげん	Kürzung; Abstrich
+392	ベツ	軽蔑	けいべつ	Geringschätzung; Verachtung
+393	サン	桟橋	さんばし	Kai; Landungsbrücke
+394	セン	金銭	きんせん	(Bar-)Geld
+395	セン	浅学	せんがく	Oberflächliches; Halbwissen
+396	と(シ)、シ	止まる、廃止	とまる、はいし	anhalten; stehen bleiben、Abschaffung; Aufhebung
+397	ホ、ブ、フ	歩道、歩合、歩	ほどう、ぶあい、ふ	Gehweg、-satz; verhältnis、"Bauer" im jap. Schach (Schōgi)
+398	ショウ	交渉	こうしょう	Verhandlungen
+399	ヒン	頻度	ひんど	Häufigkeit; Frequenz
+400	コウ	肯定	こうてい	Bejahung
+401	キ	企業	きぎょう	(Wirtschafts-)Unternehmen
+402	レキ	歴史	れきし	Geschichte; Historie
+403	む(ム)、ブ	武者、武士	むしゃ、ぶし	Krieger、(Samurai-)Krieger
+404	フ	月賦	げっぷ	Monatsrate
+405	ショウ・セイ、ショウ・セイ	正月、正義	しょうがつ、せいぎ	Januar; Neujahrstag、Gerechtigkeit
+406	ショウ	保証	ほしょう	Garantie
+407	セイ、ショウ	政府、摂政	せいふ、せっしょう	Regierung、Regent(-schaft)
+408	ジョウ、テイ	定紋、指定席	じょうもん、していせき	Familienwappen、reservierter Platz
+409	ジョウ	錠	じょう	(Vorhänge-)Schloss
+411	チョウ	超過	ちょうか	Überschuss; Überschreitung
+412	フ	赴任	ふにん	Antreten neuer Beschäftigung
+413	エツ	超越	ちょうえつ	Transzendenz
+414	ゼ	是非	ぜひ	unbedingt; auf jeden Fall、umbedingt; auf jeden Fall
+415	ダイ	問題	もんだい	Problem; Frage
+416	テイ	堤防	ていぼう	Deich; Damm
+417	ケン、コン	建議、建立	けんぎ、こんりゅう	Einreichen eines Vorschlages、Errichtung; Bauen
+418	ケン	鍵盤	けんばん	Tastatur
+419	エン	延期	えんき	Verschiebung; Vertagung
+420	タン	誕生日	たんじょうび	Geburtstag
+421	ソ	基礎	きそ	Fundament; Grundlage
+422	セイ	女婿	じょせい	Schwiegersohn
+423	え(エ)、イ	白衣、衣類	はくい、いるい	weißes Gewand、Kleidung (generell)
+424	サイ	裁縫	さいほう	Nähen; Schneiden
+425	ソウ、ショウ	服装、装束	ふくそう、しょうぞく	Kleidung; Aufmachung、Kleidung; Gewand
+426	リ	表裏	ひょうり	Vorder- und Rückseite
+427	カイ	崩壊	ほうかい	Zusammenbruch; Zerfall
+428	アイ	可哀想	かわいそう	bemitleidenswert; arm dran
+429	を、エン	久遠、永遠	くおん、えいえん	Ewigkeit
+430	エン	野猿	やえん	Wildaffe
+431	ショ	最初	さいしょ	das erste; Anfang
+432	キン	布巾	ふきん	Geschirrtuch
+433	フ	毛布	もうふ	(Woll-)Decke
+434	ハン	帆船	ほぶね	Segelboot
+435	フク	全幅	ぜんぷく	voller Umfang; alles
+436	ボウ	帽子	ぼうし	Hut; Mütze
+437	バク・マク、バク・マク	幕府、幕開	ばくふ、かいまく	Shogunat、Hochziehen des Vorhangs
+439	キン	錦鶏	きんけい	Goldfasan
+440	シ	市長	しちょう	Bürgermeister
+442	シ	姉妹	しまい	Schwestern
+443	ハイ	肺病	はいびょう	Lungenkrankheit
+444	タイ	地帯	ちたい	Zone; Gebiet
+445	タイ	滞貨	たいか	Fracht- oder Warenstauf
+446	シ	名刺	めいし	Visitenkarte
+447	セイ	制度	せいど	System
+448	セイ	製靴	せいか	Schuhmacherhandwerk
+449	テン	自転車	じてんしゃ	Fahrrad
+450	ゲイ	芸者	げいしゃ	Geisha
+451	ウ	梅雨	ばいう	Japans Regenzeit (Juni/Juli)
+452	ウン	雲水	うんすい	(Zen-)Mönchsnovize
+453	ドン	曇天	どんてん	bewölkter Himmel
+454	ライ	落雷	らくらい	Blitz (fallender Donner)
+455	ソウ	霜害	そうがい	Frostschaden
+456	トウ	冬眠	とうみん	Winterschlaf
+457	テン	天国	てんごく	Himmelreich; Paradies
+458	ヨウ	妖精	ようせい	Elfe; Naturgeist
+459	ヨク	肥沃	ひよく	Fruchtbarkeit (des Bodens)
+460	キョウ	鉄橋	てっきょう	Eisenbrücke
+461	キョウ	愛嬌	あいきょう	Charme; Liebreiz
+462	リツ、リュウ	独立、建立	どくりつ、こんりゅう	Unabhängigkeit、Errichtung; Bauen
+463	キュウ	感泣	かんきゅう	zu tränen gerührt sein
+464	ショウ	文章	ぶんしょう	Abhandlung; Geschriebenes
+465	ケイ・キョウ、ケイ・キョウ	競馬、競争	けいば、きょうそう	Pferderennen、Konkurrenz; Wettbewerb
+466	テイ	帝国	ていこく	Kaiserreich
+467	テイ	諦観	ていかん	Resignation; Einsicht
+469	ドウ	瞳孔	どうこう	Pupille
+470	ショウ	半鐘	はんしょう	Feuerglocke; Alarmglocken
+471	ショウ	商店	しょうてん	Geschäft; Laden
+472	チャク	廃嫡	はいちゃく	Enterbung
+473	テキ	適切	てきせつ	passend; treffend
+474	テキ	一滴	いってき	1 Tropfen
+475	テキ	敵地	てきち	Feindesland
+477	シツ	叱声	しっせい	schimpfende Stimme
+480	ホク	北海道	ほっかいどう	Hokkaidō
+481	ハイ	背景	はいけい	Hintergrund; Kulisse
+482	ヒ	比較	ひかく	Vergleich
+483	コン	昆虫	こんちゅう	Insekten
+484	カイ	皆無	かいむ	überhaupt nichts
+485	カイ	楷書	かいしょ	Blockschrift
+486	カイ	諧調	かいちょう	Melodie; Einklang
+487	コン	混乱	こんらん	Unordnung; Verwirrung
+488	カツ	渇水	かっすい	Dürre; Trockenheit
+489	エツ	謁見	えっけん	Audienz; Empfang
+490	カツ	褐色	かっしょく	braun
+491	カツ	一喝	いっかつ	donnerndes Schimpfen
+492	カツ	葛藤	かっとう	Konflickt; Verwicklung
+493	シ	要旨	ようし	das Wesentliche; der Kern
+494	シ	脂肪	しぼう	Fett
+495	ケイ	参詣	さんけい	Besuch eines Shinto-Schrein
+496	イチ	壱万円	いちまんえん	￥10,000 (z.B. auf Quittingen)
+497	マイ	毎日	まいにち	jeden Tag
+498	ビン	敏速	びんそく	Schnelligkeit; Raschheit
+499	バイ	梅花	ばいか	Pflaumenblüte
+500	カイ	北海道、海岸	ほっかいどう、かいがん	Hokkaidō、Küste
+502	カン	乾杯	かんぱい	"Prost!"
+503	フク	空腹	くうふく	leerer Magen
+504	フク	複雑	ふくざつ	kompliziert
+505	ケツ	欠点	けってん	Fehler; Schwachpunkt
+506	スイ	吹奏	すいそう	Spielen eines Blasinstruments
+507	スイ	自炊	じすい	Für-sich-selbst-kochen
+508	カ	校歌	こうか	Schulhymne
+509	ナン	軟化	なんか	(Ab-)Schwächung
+510	シ、ジ	次第、次元	しだい、じげん	nach und nach; allmählich、Dimension
+512	シ	資本	しほん	Kapital; Geldmittel
+513	シ	姿勢	しせい	Haltung; Einstellung
+514	シ	諮問	しもん	Beratung; Rücksprache
+515	バイ	賠償	ばいしょう	Entschädigung; Kompensation
+516	バイ	培養	ばいよう	Anbau; Kultur
+517	ボウ	解剖	かいぼう	Autopsie
+518	オン、イン	音楽、福音	おんがく、ふくいん	Musik、Evangelium
+519	アン	暗記	あんき	Auswendiglernen
+520	イン	音韻	おんいん	Phonem; Stimmlaut
+521	シキ	知識	ちしき	Wissen; Kenntnis
+522	キョウ	鏡台	きょうだい	Spiegeltisch; Frisierkommode
+523	キョウ、ケイ	境界、境内	きょうかい、けいだい	Grenze、Anlage; Bezirk
+524	ボウ・モウ、ボウ・モウ	死亡、亡者	しぼう、毛じゃ	Tod、die Toten
+525	モウ	盲目	もうもく	Blindheit
+526	モウ、ボウ	妄想、妄言	もうそう、ぼうげん	Wahn(vorstellung; -idee)、Geschwätz
+527	コウ	荒野	こうや	Ödnis
+528	ボウ・モウ、ボウ・モウ	希望、本望	きぼう、ほんもう	Hoffnung、lang gehegter Wunsch
+529	ホウ	方面	はうめん	Richtung
+530	ボウ	妨害	ぼうがい	Störung; Behinderung
+531	ボウ・ボツ、ボウ・ボツ	坊主、坊ちゃん	ぼうず、ぼうちゃん	buddh. Priester; Bonze、junger Herr; grüner Junge
+532	ホウ	芳志	ほうし	"ihre Liebenswürdigkeit"
+533	ボウ	脂肪	しぼう	Fett
+534	ホウ	訪問	ほうもん	Besuch; Aufwartung
+535	ホウ	放射	ほうしゃ	Strahlung
+536	ゲキ	感激	かんげき	tief empfundene Rührung
+537	ダツ	脱税	だつぜい	Steuerhinterziehung
+538	セツ、ゼイ	説明、遊説	せつめい、ゆうぜい	Erklärung; Erläuterung、Wahlkampf
+539	エイ	鋭敏	えいびん	Scharfsinn; Gewitztheit
+540	そ、ソ、ゾ	中曽根、未曽有	中曽根、みぞう、なかそね	Nakasone (Nachname)、Noch-Nie-Dagewesenes
+541	ゾウ	増加	ぞうか	Wachstum; Vermehrung
+542	ソウ、ゾウ	奇贈、贈呈	きそう、ぞうてい	Gabe; Schenkung、Überreichung; Darbringung
+543	トウ、トウ	東北、東京	とうほく、とうきょう	der Nordosten、Tokio
+544	トウ	病棟	びょうとう	Krankenstation
+545	トウ	凍結	とうけつ	Einfrieren
+546	ニン	妊娠	にんしん	Schwangerschaft
+547	テイ	出廷	しゅってい	Erscheinen vor Gericht
+549	ネン	可燃性	かねんせい	Brennbarkeit
+550	ヒン	賓客	まろうど	Ehrengast
+551	サイ、セイ	十二歳、歳暮	じゅうにさい、せいぼ	12 Jahre alt、Geschenk zum Jahresende
+552	ケン	県庁	けんちょう	Präfekturbehörde
+554	チ、ジ	地図、地震	ちず、じしん	Landkarte; (Stadt-)Plan、Erdbeben、Erbeben
+555	チ	電池	でんち	Batterie
+556	チュウ	昆虫	こんちゅう	Insekten
+composite likely in composites_kana for no.557
+composite_kana: 蛍光[けいこう] 電灯[でんとう]
+557	ケイ	蛍光電灯	蛍光[けいこう] 電灯[でんとう]	fluoreszierende Elektrolampe
+558	ジャ、ダ	蛇の目、蛇足	じゃのめ、だそく	Zielscheibe (Ringmuster)、Überschuss; Zuviel
+560	チョウ	蝶々夫人	ちょうちょうふじん	Madame Butterfly
+561	ドク	独立	どくりつ	Unabhängigkeit
+562	サン	養蚕	ようさん	Seidenanbau; Raupenzucht
+563	フウ、フ	台風、風呂	たいふう、ふろ	Taifun、heißes japanisches Bad
+564	コ、キ・コ	自己、知己	じこ、ちき	eigene Person; das Selbst、Bekanntschaft
+565	キ	起源	きげん	Ursprung; Quelle
+566	ヒ	王妃	おうひ	Königin
+567	カイ	改革	かいかく	Reform; Reformation
+568	キ	記者	きしゃ	Journalist; Reporter
+569	ホウ	包丁	ほうちょう	Großes Küchenmesser; Hackbeil
+570	ホウ	同胞	きょうだい	Landsmänner; Landsleute
+571	ホウ	鉄砲	てっぽう	Kanone
+572	ホウ	水泡	すいほう	(Wasser-)Blasen; Schaum
+573	キ	亀鑑	きかん	Muster(-beispiel)
+574	デン	電話	でんわ	Telefon
+575	リュウ	竜頭	りゅうとう	(Aufzieh- und Stell)krone einer Taschenuhr
+577	トン	豚カツ	トンカツ	Schweinekotelett
+578	チク	逐一	ちくいち	Wort für Wort; ausführlich
+579	スイ	自殺未遂	じさつみすい	Selbstmordversuch
+580	カ、ケ	家庭、福田家	かてい、ふくだけ	Haushalt、Familie Fukuda
+581	カ	転嫁	てんか	erneute Heirat (altertümlich)
+582	ゴウ	豪遊	ごうゆう	Ausschweifung; Saus und Braus (grandioses Spiel)
+583	チョウ	大腸	だいちょう	Dickdarm
+584	ジョウ	工場	こうじょう	Fabrik
+585	トウ	熱湯	ねっとう	kochendes Wasser
+586	ヨウ	羊毛	ようもう	Wolle
+587	ミ、ビ	新美、美人	にいみ、びじん	Niimi (Nachname)、Schönheit; schöne Frau、eine Schönheit; schöne Frau
+588	ヨウ	西洋	せいよう	der Westen; Okzident
+589	ショウ	詳細	しょうさい	Details; Einzelheiten
+590	セン	新鮮	しんせん	Frische
+591	タツ	達人	たつじん	Meister (seines Fachs)
+592	セン	羨望	せんぼう	Neid
+593	サ	差別	しゃべつ	Diskriminierung
+594	チャク、ジャク	到着、執着	とうちゃく、しゅhじゃく	Ankunft (Flugzeug, Zug, etc.)、Hängen an den Dingen (buddh.)
+595	ユイ、イ	唯物論、唯々諾々	ゆいぶつろん、いいだくだく	Materialismus、extreme, sklavische Folgsamkeit
+596	タイ	堆積	たいせき	Anhäufung; Haufen
+597	ツイ	椎骨	ついこつ	Wirbel (anat.)
+599	ショウ	焦燥	しょうそう	Ungeduld; Unruhe
+600	ショウ	岩礁	がんしょう	Riff
+601	シュウ	募集	ぼしゅう	Anwerbung; Ausschreibung; Rekrutierung
+602	ジュン	批准	ひじゅん	Ratifizierung
+603	シン	進行	しんこう	Fortschreiten
+604	ザッ、ゾウ	雑誌、雑煮	ざっし、ぞうに	Zeitschrift; Magazin、in Gemüsebrühe gekochter Reiskuchen
+605	シ	雌雄	しゆう	Männchen und Weibchen
+606	ジュン	準備	じゅんび	Vorbereitungl Vorkehrung
+607	フン	興奮	こうふん	Aufregung
+608	ダツ	換骨奪胎	かんこつだったい	Adaption, Modifikation
+609	カク	確実	かくじつ	Gewissheit
+610	ゴ	午後	ごご	Nachmittag
+611	キョ	許可	きょか	Erlaubnis; Gestattung
+612	カン	交歓	こうかん	Austausch von Grüßen
+613	ケン、ゴン 権利、権現	Berechtigung、Avatar
+614	カン	観察	かんさつ	Beobachtung
+615	ウ	羽毛	うもう	Daunen
+616	シュウ	練習	れんしゅう	Übung; Training
+617	ヨク	翌日	よくじつ	folgender, nächster Tag
+618	ヨウ	火曜日	かようび	Dienstag
+619	タク	洗濯	せんたく	Wäsche; Waschen
+621	コン	困難	こんなん	Not; Schwierigkeit
+622	コ	頑固	がんこ	Hartnäckigkeit; Starrsinn
+623	コ	痼疾	こしつ	chronische Krankheit
+625	ダン、トン	団地、布団	だんち、ふとん	Wohnsiedlung、Futon; jap. Bettbezug
+626	イン	原因	げんいん	Ursache; Anlass
+627	イン	婚姻	こんいん	Eheschließung
+628	イン	咽喉	いんこう	Kehle
+629	エン	庭園	ていえん	(jap.) Garten
+630	カイ、エ	一回、回心	いっかい、かいしん	einmal (ein Mal)、Bekehrung zu Buddha
+631	タン、ダン	土壇場、花壇	どたんば、かだん	Hinrichtungsstätte、Blumenbeet; Blumengarten
+632	テン	商店	しょうてん	Geschäft; Laden
+633	コ、ク	冷蔵庫、庫裏	れいぞうこ、くり	Kühlschrank、Wohnbereich eines Priesters im Tempel
+634	テイ	校庭	こうてい	Schulhof; Campus
+635	チョウ	県庁	けんちょう	Präfekturbehörde
+636	ショウ	起床	きしょう	Aufstehen; verlassen des Bettes
+637	マ	麻薬	まやく	Rauschgift
+638	マ	研磨	けんま	"Schleifen; Polieren; ""Büffeln"""
+639	シン	安心	あんしん	Seelenruhe; Beruhigung
+640	ボウ	忘年会	ぼうねんかい	Jahresendfeier
+641	シ	恣意	しい	Willkür; Eigensinn
+642	ニン	忍者	にんじゃ	Ninja-Spion
+643	ニン	否認	ひにん	Verneinung; Bestreiten
+644	キ	忌中	きちゅう	Trauer(periode)
+645	シ	寸志	すんし	kleine Aufmerksamkeit
+646	シ	雑誌	ざっし	Zeitschrift
+647	シン	芯	しん	Docht
+648	チュウ	忠告	ちゅうこく	Ratschlag; Warnung
+650	カン	患者	かんじゃ	Patient
+651	シ	思想	しそう	Gedanke; Idee
+652	オン	謝恩	しゃおん	Ausdruck des Dankes
+653	オウ	慶応大学	けいおうだいがく	Keiō-Universität (in Tokio)
+654	イ	用意	ようい	Vorbereitungen
+655	オク	臆病	おくびょう	Feigheit
+656	ソウ、ソ	思想、愛想	しそう、あいそ	Gedanke; Idee、Liebenswürdigkeit; Artigkeit
+657	ソク	休息	きゅうそく	Atempause; Rast
+658	ケイ	休憩	きゅうけい	Pause; Rast
+659	ゑ・え、ケイ	知恵、互恵	ちえ、ごけい	Weisheit、Gegenseitigkeit; Wechselseitigkeit
+660	キョウ	恐妻家	きょうさいか	Pantoffelheld
+661	ワク	迷惑	めいわく	Belästigung; Störung
+662	カン	感謝	かんしゃ	Dankbarkeit
+663	ユウ	憂愁	ゆうしゅう	Schwermut; Melancholie
+664	カ	多寡	たか	Betrag; Quantität
+665	ボウ	多忙	たぼう	schwer beschäftigt
+666	エツ	満悦	まんえつ	Vergnügen; Befriedigung
+667	コウ	恒久	こうきゅう	Permanenz; Dauerhaftigkeit
+668	トウ	追悼	ついとう	Trauer
+669	ゴ	覚悟	かくご	Entschlossenheit; Bereitschaft
+670	フ	恐怖	きょうふ	Furcht
+671	コウ	恐慌	きょうこう	Panik; Krise
+672	カイ	後悔	こうかい	Reue
+composite likely in composites_kana for no.673
+composite_kana: 憎心[ぞうしん]
+673	ゾウ	憎心	憎心[ぞうしん]	Hass; Boshaftigkeit
+674	カン	習慣	しゅうかん	Gewohnheit
+675	ユ	愉楽	ゆらく	Freude; Vergnügen
+676	ダ	惰気	だき	Trägheit; Faulheit
+677	シン	謹慎	きんしん	Besonnenheit; Mäßigung
+678	カン	遺憾	いかん	bedauerlich
+679	オク	記憶	きおく	Gedächtnis; Speicher
+680	グ	絶滅危惧種	ぜつめつきぐしゅ	gefährdete Art
+681	ショウ	憧憬	しょうけい	Sehnsucht
+682	ケイ	憧憬	しょうけい	Sehnsucht
+683	ボ	思慕	しぼ	Sehnsucht; Verlangen; Zuneigung
+684	テン	添付	てんぷ	Anlage; Anhang
+685	ヒツ	必要	ひつよう	Notwendigkeit; Erfordernis
+686	ヒ、ヒツ	泌尿、分泌	ひにょう、ぶんぴつ	Urin; Harn (wie in Urologie)、Sekretion; Absonderung
+687	セン	選手	せんしゅ	Sportler
+688	カン	看護師	かんごし	Krankenschwester/-pfleger
+689	マ	摩天楼	まてんろう	Wolkenkratzer
+690	ガ	自我	じが	das Ich
+691	ギ	義理	ぎり	Verpflichtung; Pflichtgefühl
+692	ギ	会議	かいぎ	Sitzung; Konferenz
+693	ギ	犠牲	ぎせい	Opfer
+694	マツ	抹殺	まっさつ	Auslöschung; Ausmerzung
+695	ショク	払拭	ふっしょく	Wegwischen; Auswerten
+696	ラ	拉致	らち	Abführung; Verschleppung
+697	ホウ	介抱	かいほう	Pflege; Wartung
+698	トウ	搭乗	とうじょう	An-Bord-gehen
+699	ショウ	抄録	しょうろく	Auswahl; Exzerpt
+700	コウ	抵抗	ていこう	Wiederstand
+701	ヒ	批判	ひはん	Kritik
+702	ショウ	招請	しょうせい	Einladung
+703	タク	開拓	かいたく	Besiedelung; Erschließung
+704	ハク、ヒョウ	拍手、拍子	はくしゅ、ひょうし	Beifall; Applaus、Takt; Rythmus
+705	ダ	打倒	だとう	Sturz (von der Macht)
+706	コウ	拘束	こうそく	Einschränkung; Beschränkung
+707	シャ	取捨	しゅしゃ	Annahme oder Ablehnung
+708	カイ	誘拐	ゆうかい	Entführung; Kidnapping
+709	テキ	指摘	してき	Hinweis; Fingerzeig
+710	チョウ	挑戦	ちょうせん	Herausforderung
+711	シ	指導	しどう	(An-)Leitung; Führung
+712	ジ	支持	しじ	Unterstützung
+713	サツ	挨拶	あいさつ	Gruß; Begrüßung
+714	カツ	包括	ほうかつ	Umfassung; Einschluss
+715	キ	指揮者	しきしゃ	Dirigent
+716	スイ	推薦	すいせん	Empfehlung
+717	ヨウ	掲揚	けいよう	Hissen
+718	テイ	提案	ていあん	Vorschlag; Antrag
+719	ソン	損失	そんしつ	Verlust; Schaden
+720	シュウ、ジュウ	拾遺、拾万円	しゅうい、じゅうまんえん	Nachlese, Auslese (auflesen und hinterlassen)、100.000￥ (auf fömlichen Quittungen)
+721	タン	担架	たんか	Trage; Bahre
+722	キョ、コ	根拠、証拠	こんきょ、しょうこ	Basis; Grundlage、Beweis (jur.)
+723	ビョウ	点描	てんびょう	Skizze
+724	ソウ	操縦	そうじゅう	Steuern; Lenken
+725	セツ	直接	ちょくせつ	Direktheit; Unmittelbarkeit
+726	ケイ	掲示板	けいじばん	Schwarzes Brett
+728	チョク	進捗	しんちょく	Fortschritt; Fortentwicklung
+729	ケン	研学	けんがく	vertiefendes Studium
+730	カイ	戒律	かいりつ	(buddhistische) Gebote
+731	ロウ	嘲弄	ちょうろう	Hohn; Verspottung
+732	カイ	機械	きかい	Maschine; Mechanismus
+733	ビ、	鼻音、	びおん、	Nasallaut、
+734	ケイ	死刑	しけい	Todesstrafe
+735	ケイ	原型	げんけい	Modell; Prototyp
+736	サイ、キ	天才、指揮者	てんさい、しきしゃ	Genie、Dirigent
+737	サイ、ザイ	財布、財産	さいふ、ざいさん	Portmonnaie; Geldbeutel、Vermögen; Hab und Gut
+738	シュ	取材	しゅざい	Daten; Materialsammlung
+739	ゾン、ソン	保存、存在理由	ほぞん、そんざいりゆう	Erhaltung; Bewahrung; Sichern、<i>raison d'être</i>; Daseinsberechtigung
+740	ザイ	現在	げんざい	die Gegenwart
+741	の(ナイ)、ナイ	乃木坂、一乃至十	のぎさか、いちないしじゅう	Nogisaka (Ortsname)、von 1 bis 10
+742	ケイ	携帯	けいたい	Mitführen
+743	キュウ	普及	ふきゅう	Ausbreitung; Verbreitung
+744	キュウ	吸収	きゅうしゅう	Absorption; Aufsaugen
+746	ジョウ	大丈夫	だいじょうぶ	alles in Ordnung
+747	シ	歴史	れきし	Geschichte; Historie
+748	リ	官吏	かんり	Beamter
+749	コウ	更生	こうせい	Wiedergeburt
+750	コウ	硬貨	こうか	Hartgeld
+751	コウ	梗概	こうがい	Übersicht; Resümee
+753	ソウ	双方	そうほう	beide Seiten
+754	ソウ	桑園	そうえん	Maulbeerbaum Anpflanzung
+755	セキ	一隻	いっせき	1 Schiff (Zählwort für Schiffe)
+756	ゴ	保護	ほご	Schutz; Protektion
+757	カク	捕獲	ほかく	Fange (eines Tiers)
+758	ぬ(ド)、ド	奴田、奴隷	ぬだ、どれい	Nuda (Nachname)、Sklave
+759	ド	怒気	どき	Ärger; Zorn
+760	ユウ	友人	ゆうじん	Freund
+761	バツ	抜群	ばつぐん	Unübertrefflichkeit
+762	トウ	投票	とうひょう	Abstimmung; Wahl
+763	ボツ	埋没	まいぼつ	begraben und vergessen
+764	コ	股関節	こかんせつ	Hüftgelenk
+765	セツ	建設	けんせつ	Hausbau
+766	ゲキ	攻撃	こうげき	Angriff
+767	カク	甲殻	こうかく	Schale; Kruste; Panzer
+768	シ	支店	してん	Zweigniederlassung
+769	ギ	技能	ぎのう	Technische Fertigkeit
+770	シ	枝葉	しよう	Zweige und Blätter; Nebensächlichkeiten
+771	シ	肢体	したい	Gliedmaßen
+772	ケイ	花茎	かけい	Blumenstengel
+773	カイ	奇怪	きかい	Seltsamkeit; Befremdlichkeit
+774	ケイ	軽食	けいしょく	Imbiss; leichte Mahlzeit
+775	シュク	叔父	しゅくふ	Onkel
+776	トク	監督	かんとく	Regisseur; Trainer
+777	ジャク・セキ、ジャク・セキ	静寂、寂静	せいじゃく、せきせい	Stille; Abgeschiedenheit、sich in Stille begeben
+778	シュク	貞淑	ていしゅく	(weibliche) Keuschheit
+779	ハン・ホン・タン、ハン・ホン・タン、ハン・ホン・タン	反感、謀反、反物	はんかん、むほん、たんもの	Abneigung; Antipathie、Verschwörung; Rebellion、Stoff; Textilien
+780	ハン	急坂	きゅうはん	Steiler Hügel
+781	ハン・バン	鉄板	てっぱん	Eisenplatte; -blech
+782	ヘン	返事	へんじ	Erwiderung; Antwort
+783	ハン	販売	はんばい	Verkauf; Absatz
+785	ダ	妥当	だとう	Angemessenheit
+786	ニュウ	牛乳	ぎゅうにゅう	(Kuh-)Milch
+787	フ	浮力	ふりょく	Auftrieb
+788	イン	淫欲	いんよく	(Fleisches-)Lust
+789	ショウ	将軍	しょうぐん	General; Shogun
+790	ショウ	奨学金	しょうがくきん	Stipendium
+791	サイ	采地	さいち	Lehen; Domäne
+792	サイ	採点	さいてん	Benotung; Zensierung
+793	サイ	野菜	やさい	Gemüse
+794	ジュ	受験	じゅけん	Examen machen; ablegen
+795	ジュ	教授	きょうじゅ	Professor
+796	アイ	可愛い	かわいい	niedlich
+797	アイ	曖昧	あいまい	unbestimmt; doppeldeutig
+798	フツ	払底	ふってい	Knappheit; Spärrlichkeit
+799	コウ	広義	こうぎ	der weitere, breite Sinn
+800	コウ	勾引状	こういんじょう	Vorführungsfall
+801	カク	拡大	かくだい	Vergrößerung
+802	コウ	鉱山	こうざん	Mine; Bergwerk
+803	ベン	弁当	べんとう	mitgebrachtes Essen; Brotzeit
+804	ユウ	雌雄を決する	しゆうをけっする	Entscheidungsschlacht schlagen
+805	タイ、ダイ	台風、三台、台湾	たいふう、さんだい、たいわん	Taifun、3 (Wagen)、Taiwan
+806	タイ	怠業	たいぎょう	Bummelstreik; Dienst nach Vorschrift
+807	ジ、チ	明治時代、治安	めいじじだい、じあん	die Meiji-Ära (1866-1912)、öffentliche Sicherheit
+808	ヤ	冶金	やきん	Metallurgie
+809	シ	原始的	げんしてき	primitiv
+810	タイ	母胎	ぼたい	Matrix (Keimschicht)
+811	ソウ	同窓	どうそう	Kommilitionenschaft
+812	キョ、コ	去年、過去	きょねん、かこ	letztes Jahr、Vergangenheit
+813	ホウ、ハツ、ホッ	文法、法度、法身	ぶんぽう、はっと、ほうしん	Grammatik、(strenge) Untersagung、ein Dharma-Körper (Buddhas)
+814	カイ、エ	会計、会釈	かいけい、えしゃく	(Ab-)rechnung、Begrüßung; Verbeugung
+815	シ	至当	しとう	Angebracht-; Angemessenheit
+816	シツ	教室	きょうしつ	Klassenzimmer; Hörsaal
+817	トウ	到底	とうてい	überhaupt nicht; gar nicht
+818	チ	一致	いっち	Einigkeit
+819	ゴ	互恵	ごけい	Gegenseitigkeit; Wechselseitigkeit
+820	キ	棄権	きけん	Enthaltung (in Abstimmungen)
+821	イク	教育	きょういく	Erziehung; Ausbildung
+822	テツ	撤回	てっかい	Rückzieher; Wiederruf
+823	ジュウ	補充	ほじゅう	Ergänzung
+824	ジュウ	銃砲	じゅうほう	Feuerwaffen
+825	リュウ	硫安	りゅうあん	Ammoniumsulfat
+826	ル、リュウ	流転、流動	るてん、りゅうどう	Seelenwanderung、im Fluss, Fließen
+827	イン	允許	いんきょ	Erlaubnis; Genehmigung
+828	サ	示唆	しさ	Andeutung
+829	シュツ、スイ	出勤、出納	しゅっきん、すいとう	Zur-Arbeit-Gehen、Kassenführung; Einnahmen und Ausgaben
+830	サン	富士山	ふじさん	der (Berg) Fuji
+831	セツ	拙劣	せつれつ	Unbeholfenheit; Ungeschicktheit
+832	ガン	岩石	がんせき	Felsen; Steine
+833	タン	石炭	せきたん	Steinkohle
+834	キ	岐路	きろ	Weggabelung
+836	ホウ	崩壊	ほうかい	Zusammenbruch; Zerfall
+837	ミツ	秘密	ひみつ	Geheimnis
+838	ミツ	蜜房	みつぼう	Honigwabe
+841	ガイ	断崖	だんがい	Abgrund
+842	ニュウ	入院	にゅういん	Aufnahme in ein Krankenhaus
+844	ブン、ブ、フン、フン・ブン・ブ	自分、大分、五分五秒、五分	じぶん、だいぶ、ごふんごびょう、ごふん	man (selbst)、erheblich; beträchtlich、5 Minuten, 5 sekunden、fünf Minuten
+845	ビン、ビン・ヒン	貧乏、貧富	びんぼう、ひんぷ	Armut; Mittellosigkeit、Arm(ut) und Reich(tum)
+846	ハン	頒布	はんぷ	Verteilung; Verbreitung
+847	コウ	公園	こうえん	(öffentlicher) Park
+848	ショウ	松竹梅	しょうちくばい	Kiefer; Bambus und Pflaume
+849	オウ	老翁	ろうおう	alter Mann (höflich)
+850	ショウ	訴訟	そしょう	Prozess; Rechtsstreit
+851	コク	幽谷	ゆうこく	tiefe Schlucht
+852	ヨク	浴室	よくしつ	Badezimmer
+853	ヨウ	内容	ないよう	Gehalt; Substanz
+854	ヨウ	溶解	ようかい	Schmelzen
+855	ヨク	欲望	よくぼう	Begierde; Verlangen
+856	ユウ	余裕	よゆう	Überschüssiges; Spielraum
+857	エン	鉛管	えんかん	Bleirohr
+858	エン	沿線	えんせん	entlang einer Bahntrasse
+859	ショウ	懸賞	けんしょう	Preis; Auszeichnung
+860	トウ	与党	よとう	Regierungspartei
+861	ドウ	食堂	しょくどう	Speisesaal; Refektorium
+862	ジョウ	非常	ひじょう	Notfall; Sonderfall
+863	ショウ	衣裳	いしょう	Kleid; Gewand [selten]
+864	ショウ	車掌	しゃしょう	Schaffner (im Bus oder Zug)
+865	ヒ	皮肉	ひにく	Sarkasmus
+866	ハ	電波、点波	でんぱ	Radiowellen; elektrische Wellen
+867	バ	老婆	ろうば	alte Frau
+868	ヒ	披露宴	ひろうえん	Hochzeitsempfang
+869	ハ	破産	はさん	Bankrott
+870	ヒ	被害	ひがい	Schaden; Verletzung
+871	ザン	残念	ざんねん	"Wie schade!"
+872	じゅん	殉死	じゅんし	Märtyrertod
+873	シュ	特殊	とくしゅ	Spezialität; Eigentümlichkeit
+874	ショク	生殖	せいしょく	Fortpflanzung
+875	レツ	列車	れっしゃ	Zug (Eisenbahn)
+876	レツ	分裂	ぶんれつ	Spaltung; Teilung
+877	レツ	壮烈	そうれつ	Heldenhaftigkeit; Heldentum
+878	シ	死亡	しぼう	Tod
+879	ソウ	冠婚葬祭	かんこんそうさい	feierliche Zeremonien
+880	シュン	瞬間	しゅんかん	Moment; Augenblick
+881	ジ	耳目	じもく	Aufmerksamkeit
+882	シュ	取捨	しゅしゃ	Annahme oder Ablehnung
+883	シュ	趣味	しゅみ	Hobby; Liebhaberei
+884	サイ	最新	さいしん	Neustes; Letztes
+885	サツ	撮影	さつえい	Fotografieren
+886	チ	羞恥	しゅうち	Scham(gefühl)
+887	ショク	職員	しょくいん	Angestellter
+888	セイ	聖書	せいしょ	Heilige Schrift; Die Bibel
+889	カン	敢闘賞	かんとうしょう	Kampfgeist
+890	チョウ	公聴会	こうちょうかい	öffentliche Anhörung
+891	カイ	述懐	じゅっかい	Erzählen von Erinnerung
+892	マン	我慢	がまん	Geduld; Toleranz
+893	マン	漫画	まんが	Comic; Bildergeschichte
+894	バイ	買収	ばいしゅう	Bestechung; Erkaufung
+895	チ	放置	ほうち	Zurücklassen; Liegenlassen
+896	バチ、バツ	罰当たり、罰金	ばちあたり、ばっきん	Verfluchtsein; Verdammtsein、Bußgeld; Geldstrafe
+897	ネイ	丁寧	ていねい	Höflichkeit; Zuvorkommenkeit
+898	ダク	濁音	だくおん	Stimmhafter Laut (Zwei Punkte über dem Zeichen: Trüber Laut)
+899	カン	循環	じゅんかん	Kreislauf; Zirkulation
+900	カン	還元	かんげん	Reduktion; Wiederherstellen
+901	フ、フウ	夫人、夫婦	ふじん、みょうと	Frau (Gattin)、Mann und Frau; Ehepaar
+902	フ	扶養	ふよう	Unterstützung; Unterhalt
+903	ケイ	渓谷	けいこく	Tal; Schlucht
+904	キ	規則	きそく	Regel; Vorschrift
+905	タイ	交替	こうたい	Abwechslung; Ablösung
+906	サン	賛成	さんせい	Zustimmung; Befürworten
+907	セン	潜伏	せんぷく	Sich-Verstecken
+908	シツ、シツ	失敗、失礼	しっぱい、しつれい	Scheitern; Versagen、Unhöflichkeit; Unverschämtheit
+909	テツ	地下鉄	ちかてつ	U-Bahn
+910	テツ	更迭	こうてつ	Wechsel; Umbildung
+911	ジン、シン	大臣、臣下	だいじん、しんか	Minister、Gefolgsmann; Untertan
+913	ゾウ	蔵書	ぞうしょ	Büchersammlung; Bibliothek
+914	ゾウ	心臓	しんぞう	Herz (anatomisch)
+915	ケン	賢明	けんめい	Klugheit; Weisheit
+916	ジン	腎臓	じんぞう	Niere
+917	ケン	中堅	ちゅうけん	Hauptstütze; Rückgrat
+918	リン	臨時	りんじ	außergewöhnlich; besonders
+919	ラン	ご覧	ごらん	"Sehen sie bitte!"
+920	キョ	巨人	きょじん	Riese
+921	キョ	拒否	きょひ	Ablehnung; Zurückweisung
+922	リキ、リョク	馬力、協力	ばりき、きょうりょく	Pferdestärke、Zusammenarbeit; Kooperation
+923	ダン、ナン	男性、長男	だんせい、ちょうなん	Mann; männliches Geschlecht、ältester Sohn
+924	ロウ	苦労	くろう	Mühe; Plackerei
+925	ボ	募集	ぼしゅう	Anwerbung
+926	レツ	劣等感	れっとうかん	Minderwertigkeitskomplex
+927	コウ、ク	成功、功徳	せいこう、くどく	Erfolg、Akt der Barmherzigkeit
+928	カン	勧奨	かんしょう	Ermunterung
+929	ド	努力	どりょく	Anstrengung; Mühe
+930	ボツ	勃発	ぼっぱつ	Ausbruch; plötzliches Auftreten
+931	レイ	奨励金	しょうれいきん	Subvention
+932	か・カ、カ	加入、加入　かにゅう	かにゅう、Eintritt; Beitritt	Eintritt; Beitritt、
+933	ガ	祝賀会	しゅくがかい	festliche Versammlung
+934	カ	架空	かくう	Fiktion; aus der Luft
+936	キョウ	脅迫	きょうはく	Erpressung
+937	キョウ	協力	きょうりょく	Zusammenarbeit; Kooperation
+938	コウ、ギョウ、アン	銀行、行政、行脚	ぎんこう、ぎょうせい、あんぎゃ	Bank、Verwaltung、Wallfahrt
+939	リチ、リツ	律義、法律	りちぎ、ほうりつ	Rechtschaffenheit; Integrität、Recht; Gesetz
+940	フク	復習	ふくしゅう	Repetition (von Gelerntem)
+941	トク	所得	しょとく	Einkommen
+942	ジュウ、ジュ、ショウ	従事、従三位、従容	じゅうじ、じゅさんみ、しょうよう	Sich-Beschäftigen mit etwas.、dritter (Hof-)Rank, zweiter Grad、Ruhe; Gelassenheit
+943	ト	生徒	せいと	Schüler; Student
+944	タイ	招待	しょうたい	Einladung
+945	オウ	往復	おうふく	Hin- und Rückfahrt
+946	セイ	征伐	せいばつ	Unterwerfun; Feldzug
+947	ケイ	径路	けいろ	Route; Kurs
+948	ヒ	彼岸	ひがん	Tag-Und-Nach-Gleiche
+949	ヤク、エキ	市役所、懲役	しやくしょ、ちょうえき	Rathaus、Zuchthaus mit Zwangsarbeit
+950	トク	徳川時代	とくがわじだい	Tokugawa Ära
+951	テツ	徹底的	てっていてき	gründlich; vollständig
+952	チョウ	象徴	しょうちょう	Symbol; Sinnbild
+953	チョウ	懲罰	ちょうばつ	Disziplinarstrafe; Bestrafung
+954	ビ	微笑	びしょう	ein Lächeln
+955	ガイ・カイ、ガイ・カイ	商店街、街道	しょうてんがい、かいどう	Einkaufsstraße、Fernstraße; Überlandstraße
+957	コウ	均衡	きんこう	Balance
+958	コウ	原稿	げんこう	Manuskript
+959	カ	稼動	かどう	Betrieb (einer Maschine); Arbeit
+960	テイ	程度	ていど	Ausmaß; Grad
+961	ゼイ	税金	ぜいきん	Steuern (Tribut)
+962	チ	幼稚園	ようちえん	Kindergarten
+963	わ・ワ、オ	平和、和尚	へいわ、おしょう	Friede、respektvoller Mönchstitel
+964	イ	移民	いみん	Auswandere; Einwanderer
+965	ビョウ、ビョウ	五分五秒、五秒	ごふんごびょう、ごびょう	5 Minuten, 5 sekunden、5 Sekunden
+966	シュウ	秋季	しゅうき	herbstliche Jahreszeit
+967	シュウ	憂愁	ゆうしゅう	Schwermut; Melancholie
+968	シ	私立	しりつ	Privat(besitz)
+969	チツ	秩序	ちつじょ	Ordnung; Disziplin
+970	ヒ	秘密	ひみつ	Geheimnis
+971	ショウ	愛称	あいしょう	Kosename
+972	リ	利用	りよう	Benutzung; Gebrauch
+974	カク	収穫	しゅうかく	Ernte
+975	スイ	穂状	すいじょう	Ährenförmigkeit
+976	トウ	水稲	すいとう	Reispflanze auf Nass-reisfeld
+977	コウ、キョウ	線香、香車	せんこう、きょうしゃ	Weihrauch、"Speer"　im jap. Schach (Shōgi)
+978	キ	四季	しき	die vier Jahreszeiten
+979	イ	委員会	いいんかい	Komitee; Ausschuss
+980	シュウ	秀逸	しゅういつ	Exzellenz
+981	トウ	透明	とうめい	Transparenz
+982	ユウ	誘拐	ゆうかい	Entführung; Kidnapping
+983	ケイ	稽古	けいこ	Übung; Schulung
+984	コク	米穀	べいこく	Reis (Getreide)
+985	キン	殺菌	さっきん	Pasteurisierung; Sterilisierung
+986	イ	萎縮	いしゅく	Einschrumpfen; Atrophie
+987	ベイ、マイ	米国、新米	べいこく、しんまい	die USA、neuer Reis
+988	フン	粉末	ふんまつ	Pulver
+989	ネン	粘土	ねんど	Lehm; Ton
+990	リュウ	粒々	りゅうりゅう	emsig; mühselig (Korn für Korn)
+991	ショウ	化粧室	けしょうしつ	das "stille Örtchen"
+992	メイ	迷惑	めいわく	Belästigung; Störung
+993	スイ	粋人	すいじん	Lebemann; Mann von Welt
+995	リョウ、ロウ	糧食、兵糧	りょうしょく、ひょうろう	Proviant; Lebensmittel、Feldverpflegung; Proviant
+996	キク	菊	きく	Chrysantheme
+997	オウ	深奥	しんおう	Tiefgründigkeit; Mysterien
+998	スウ、ス	数学、数寄	すうがく、すき	Mathematik、exquisiter Geschmack
+999	ロウ	摩天楼	まてんろう	Wolkenkratzer
+1000	ルイ	衣類	いるい	Kleidung (generell)
+1001	シツ	漆黒	しっこく	Tiefschwarz
+1003	ヨウ	様相	ようそう	Anblick; Bild
+1004	キュウ	要求	ようきゅう	(An-)forderungen; Anspruch
+1005	キュウ	野球	やきゅう	Baseball
+1006	キュウ	救急車	きゅうきゅうしゃ	Rettungswagen
+1007	チク	松竹梅	しょうちくばい	Kiefer; Bambus und Pflaume
+1008	ショウ	微笑	びしょう	ein Lächeln
+1011	セン	便箋	びんせん	Briefpapier
+1012	キン	筋肉労働	きんにくろうどう	körperliche Arbeit
+1014	ヒツ	鉛筆	えんぴつ	Bleistift
+1015	トウ	水筒	すいとう	Reiseflasche; Feldflasche
+1016	トウ	劣等	れっとう	Minderwertigkeit
+1017	サン	予算	よさん	Budget
+1018	トウ	回答	かいとう	Antwort; Erwiderung
+1019	サク	政策	せいさく	(eine bestimmte) Politk
+1020	ボ	簿記	ぼき	Buchführung
+1021	チク	建築	けんちく	Architektur
+1022	ロウ	篭絡	ろうらく	Überredung; Verleitung
+1023	ジン、ニン	外国人、九人	がいこくじん、きゅうにん	Ausländer、9 Personen/Leute
+1024	サ	補佐	ほさ	Assistent
+1025	リョ	伴侶	はんりょ	Gefährte; Partner; Gatte
+1027	ジュウ	住所	じゅうしょ	Adresse; Wohnsitz
+1028	イ	地位	ちい	Stellung; Position
+1029	チュウ	仲介	ちゅうかい	Vermittlung
+1030	タイ、テイ	大体、体裁	たいてい、ていさい	im großen und ganzen、Äußeres Erscheinungsbild
+1031	ユウ	悠然	ゆうぜん	vollkommene Gelassenheit
+1032	ケン	事件	じけん	Angelegenheit; Affäre
+1033	シ、ジ	出仕、給仕	しゅっし、きゅうじ	Sichbegeben an die Arbeit、Laufbursche
+1034	タ	他人	あだびと、たにん	ein anderer; ein Fremder
+1035	フク	潜伏	せんぷく	Sich-Verstecken
+1036	デン	宣伝	せんでん	Reklame; Propaganda
+1037	ブツ	大仏	おさらぎ	große Buddhastatue
+1038	キュウ	休日	きゅうじつ	Feiertag; Ruhetag
+1039	ヘン、ケ	仮面、仮病	かめん、けびょう	Maske、simulierte Krankheit
+1040	キ	歌舞伎	かぶき	Kabuki
+1041	ハク	伯仲	はくちゅう	Ebenbürtigkeit; Gewachsensein
+1042	ゾク	俗語	ぞくご	Umgangssprache; Vulgarismus
+1043	シン	自信	じしん	Selbstvertrauen
+1044	カ	佳作	かさく	hervorragendes Werk
+1045	イ、エ	依頼、帰依	いらい、きえ	Abhängigkeit、Bekehrung des Buddhas
+1046	レイ	例外	れいがい	Ausnahme
+1047	コ	個人	こじん	Individuum
+1048	ケン	保健	ほけん	Gesundheitspflege; Hygiene
+1049	ソク	側面	そくめん	Aspekt; Facette; Seite
+1050	ジ	侍従	じじゅう	Kämmerer
+1051	テイ	停止	ていし	Stoppen; Unterbrechen
+1052	チ	価値	かち	Wert
+1053	ホウ	模倣	もほう	Nachahmung; Imitation
+1054	ゴウ	傲岸	ごうがん	Arroganz
+1055	トウ	卒倒	そっとう	Ohnmacht; Bewusstlos
+1056	テイ	内偵	ないてい	Nachforschungen
+1057	ソウ	禅僧	ぜんそう	Zen-Priester
+1058	オク	一億円	いちおくえん	Hundert Millionen Yen
+1059	ギ	礼儀	れいぎ	Etikette; Höflichkeit
+1060	ショウ	賠償	ばいしょう	Entschädigung; Kompensation
+1061	セン	仙台	せんだい	Sendai (Stadtname)
+1062	サイ	主催	しゅさい	Schirmherrschaft; Förderung
+1063	二、ジン	仁王門、仁義	におうもん、じんぎ	Von zwei grimmigen Deva-Statuen bewachtes Tempeltor、Tempeltor mit Deva-Königen、Menschlich- und Gerechtigkeit
+1064	ブ	侮辱	ぶじょく	Beleidigung; Kränkung
+1065	シ	大使	たいし	Botschafter
+1066	ビン、ベン	郵便、便利	ゆうびん、べんり	Post、praktisch; bequem
+1067	バイ	三倍	さんばい	dreifach; dreimal soviel
+1068	ユウ	俳優	はいゆう	Schauspieler
+1069	バツ	伐採	ばっさい	Abholzen; Abforsten
+1070	シュク	宿泊	しゅくはく	Unterkunft; Logis
+1071	ショウ	傷害	しょうがい	Verwundung; Verletzung
+1072	ほ・ホ	保安	ほあん	Sicherheit; Aufrechterhaltung der öffentlichen Ordnung
+1073	ホウ	過褒	かほう	übertriebenes Lob
+1074	ケツ	傑作	けっさく	Meisterwerk; grober Schnitzer
+1075	フ	付与	ふよ	Verleihung; Erteilung
+1076	フ	符号	ふごう	Chiffre; Marke; Symbol
+1077	フ	政府	せいふ	Regierung
+1078	ニン	責任	せきにん	Verantwortung
+1079	チン	運賃	うんちん	Fahrpreis
+1080	タイ、ダイ	交代、明治時代	こうたい、めいじじだい	Schichtwechsel; Ablösung、die Meiji-Ära (1866-1912)
+1081	タイ	郵袋	ゆうたい	Zustelltasche; Postsack
+1082	タイ	貸与	たいよ	Verleih; Darlehen
+1083	カ、ケ	化学、化粧室	かがく、けしょうしつ	Chemie、das "stille Örtchen"
+1084	カ	花壇	かだん	Blumenbeet; Blumengarten
+1085	カ	貨物	かもつ	Fracht
+1086	ケイ	傾向	けいこう	Tendenz; Neigung
+1087	カ	幾何学	きかがく	Geometrie
+1088	カ	出荷	しゅっか	Versand; Verfrachtung
+1089	シュン	俊才	しゅんさい	Hochbegabter
+1090	ボウ	傍線	ぼうせん	Textkennzeichnung zur Betonung (ähnlich der Kursivschrift in Westlichen Texten)
+1092	キュウ、ク	久遠、恒久	くおん、こうきゅう	Ewigkeit、Permanenz; Dauerhaftigkeit
+1094	シュウ	囚人	しゅうじん	Häftling; Gefangener
+1095	ナイ、ダイ	案内、境内	あんない Führung; Information、けいだい	、Anlage; Bezirk
+1096	ヘイ	甲乙丙	こうおつへい	A, B, C (alte Aufzählweise)
+1097	ヘイ	横柄	おうへい	Hochmut; Arroganz
+1098	ニク	肉親	にくしん	Blutsverwandter
+1099	フ	豆腐	とうふ	Bohnenquark; Tofu
+1100	ザ	座席	ざせき	Sitz
+1101	ザ	捻挫	ねんざ	Verstauchung
+1102	ソツ	卒業	そつぎょう	Schulabschluss
+1103	サン	傘下	さんか	unter Schirmherrschaft von
+1105	い(イ)	以上	いじょう	über; mehr als; obig
+1106	ジ	酷似	こくじ	zum verwechseln ähnlich; grausam ähnlich
+1107	ヘイ	併用	へいよう	gemeinsame Benutzung
+1108	ガ	瓦解	がかい	Zusammenbruch; Untergang
+1109	ビン	花瓶	かびん	Blumenvase
+1110	グウ、キュウ、ク	神宮、宮殿、宮内庁	じんぐう、きゅうでん、くないちょう	großer Schinto-Schrein、Palast; Schloss、kaiserliches Haushaltsamt
+1111	エイ	営業中	えいぎょうちゅう	"Geöffnet"
+1112	ゼン	慈善	じぜん	Wohltätigkeit; Mildtätigkeit
+1113	ゼン	お膳	おぜん	Esstischchen; Tablett mit Beinen
+1115	ヤ	通夜	つや	Totenwache
+1116	エキ	液体	えきたい	Flüssigkeit
+1118	ヘイ	紙幣	しへい	Papiergeld
+1119	ヘイ	隠蔽	いんぺい	Verheimlichung; Geheimhaltung
+1120	ヘイ	弊害	へいがい	Übel; Missstand
+1121	カン	召喚	しょうかん	Vorladung
+1122	カン	交換	こうかん	Tausch
+1123	ユウ	金融	きんゆう	Geldwesen; Finanz...
+1124	シ・セ、シ・セ	施行、布施	しこう、ふせ	Vollstreckung; Ausführung、Almosen; Kollekte
+1125	セン	旋回	せんかい	Drehung: Rotation
+1126	ユウ、ユ	遊女、遊山	ゆうじょ、ゆさん	Prostituierte、Ausflug im Gebirge
+1127	リョ	旅行	りょこう	Reise, Fahrt
+1128	モチ	勿論	もちろん	selbstverständlich; selbstredend
+1129	モツ、ブツ	食物、見物	しょくもつ、けんぶつ	Speisen; Nahrung、Besichitgung; Besuch
+1130	エキ、イ	貿易会社、容易	ぼうえきかいしゃ、ようい	Handelsfirma、Einfachheit; Leichtigkeit
+1131	シ	下賜	かし	Schenkung; Verleihung
+1132	ニョウ	糖尿病	とうにょうびょう	Diabetes
+1133	二	尼僧	にそう	Buddhistische Nonne
+1135	デイ	泥酔	でいすい	Volltrunkenheit; Besoffenheit
+1136	ヘイ	塀	へい	Zaun
+1137	リ	履歴	りれき	Lebenslauf; Vorleben
+1138	オク	屋上屋を架する	おくじょうおくをかする	es übertreiben
+1139	アク	握手	あくしゅ	Handschlag
+1140	クツ	退屈	たいくつ	Langeweile
+1141	クツ	採掘	さいくつ	Bergbau
+1143	キョ	居住	きょじゅう	Wohnung
+composite likely in composites_kana for no.1146
+composite_kana: 知識層[ちしきそう]
+1146	ソウ	知識層	知識層[ちしきそう]	die Intellektuellen; die Intelligenzija
+1147	ヤク	薬局	やっきょく	Apotheke
+1148	チ	遅々	ちち	träge; schwerfällig
+1149	ロウ	漏電	ろうでん	Kurzschluss
+1150	サツ	印刷	いんさつ	Druck(en)
+1151	しゃく	尺八	しゃくはち	<i>Shakuhachi</i>-Flöte
+1152	ジン	一網打尽	いちもうだじん	großer Fang
+1153	タク	沢山	たくさん	viele; zahlreich
+1154	ヤク	翻訳	ほんやく	Übersetzung
+1155	タク	選択	せんたく	(Aus-)Wahl; Option
+1156	チュウ	昼食	ひるげ	Mittagessen
+1157	コ、コ	下戸、上戸	げこ、じょうご	Abstinzler、Zecher
+1158	ケン	比肩	ひけん	Ebenbürtigkeit
+1159	ボウ	官房長	かんぼうちょう	Kabinettssekretär
+1160	セン	扇風機	せんぷうき	Ventilator
+1161	ロ	原子炉	げんしろ	Atomreaktor
+1162	レイ	返戻	へんれい	Rückgabe; Rückerstattung
+1163	ルイ	血涙	けつるい	bittere Tränen
+1164	コ	雇用	こよう	Anstellung; Beschäftigung
+1165	コ	顧問	こもん	Berater
+1166	ケイ	拝啓	はいけい	Sehr geehrte(r) Herr/Frau, (Höfliche Briefanrede)
+1167	ジ、シ	指示、示唆	しじ、しさ	Hinweis; Anweisung、Andeutung
+1168	れ(レイ)、ライ	失礼、礼賛	しつれい、らいさん	Unöflichkeit; Unverschämtheit、Verherrlichung
+1169	ショウ	発祥地	はっしょうち	Wiege; Geburtsort
+1170	シュク・シュウ、シュク・シュウ	祝福、祝儀	しゅくふく、しゅうぎ	Segen、Feier
+1171	フク	福祉	ふくし	soziale Wohlfahrt
+1172	シ	福祉	ふくし	(soziale) Wohlfahrt
+1173	シャ	会社	かいしゃ	Firma; Gesellschaft
+1174	シ	視察	しさつ	Inspektion; Besichtigung
+1175	な・ナ	奈良	なら	Nara (Ortsname)
+1176	イ	尉官	いかん	niederer Kompanieoffiziersrang
+1177	イ	慰安	いあん	Trost; Zerstreuung
+1178	カン	借款	しゃっかん	Darlehen
+1179	キン	禁止	きんし	Verbot
+1180	キン	襟度	きんど	Großmut
+1181	シュウ、ソウ	宗教、宗匠	しゅうきょう、そうしょう	Religion、Meister; Lehrer
+1182	スウ、	崇拝、	すうはい、	Anbetung; Verehrung、
+1183	サイ	司祭	しさい	Priester (kath.)
+1184	サツ	警察	けいさつ	Polizei
+1185	サツ	摩擦	まさつ	Friktion; Reibung
+1186	ユ、ユウ、ユイ	由来、自由、由緒	ゆらい、じゆう、ゆいしょ	Ursprung; Herkunft、Freiheit、Abstammung
+1187	チュウ	抽象	ちゅうしょう	Abstraktion
+1188	ユ、ユ	醬油、石油	しょうゆ、せきゆ	Sojasauce、Öl
+1189	シュウ	袖手	しゅうしゅ	"Hände in den Taschen"
+1190	チュウ	宇宙	うちゅう	Weltall; Universum
+1192	テキ	警笛	けいてき	Alarmsirene
+1193	ジク	車軸	しゃじく	Radachse
+1194	コウ、カン	甲乙丙丁、甲板	こうおつへいてい、かんぱん	A, B, C, D、Schiffsdeck
+1195	オウ	押収	おうしゅう	Beschlagnahme
+1197	ソウ	挿入	そうにゅう	Einfüngung
+1198	シン	申請	しんせい	Antrag; Gesuch
+1199	シン	伸張	しんちょう	(Er-)streckung; Ausdehnung
+1200	シン、ジン	精神、神社	せいしん、じんじゃ	Geist; Psyche、Shinto-Schrein
+1201	ソウ	捜索	そうさく	Durchsuchung; Suchaktion
+1202	カ	果汁	かじゅう	Fruchtsaft
+1203	カ	菓子	かし	Konfekt
+1204	カ	課長	かちょう	Abteilungsleiter
+1205	ラ	裸身	ちしん	nackter Körper
+1206	キン	一斤	きん	1 Kin (ca. 600g)
+1207	セキ	分析	ぶんせき	Analyse
+1208	ショ	住所	じゅうしょ	Adresse; Wohnsitz
+1209	キ	祈願	きがん	Gebet; (Für-)Bitte
+1210	キン	付近	ふきん	Umgebung; Nachbarschaft
+1211	セツ	折衝	せっしょう	Verhandlungen
+1212	テツ	哲学	てつがく	Philosophie (westliche)
+1213	セイ	逝去	せいきょ	Ableben; Tod
+1214	ザン、セイ	斬首、宣誓	ざんしゅ、せんせい	Enthauptung、Eid; Schwur
+1216	ザン	暫定	ざんてい	vorläufig; provisorisch
+1217	ゼン	漸次	ぜんじ	allmählich; Schritt für Schritt
+1218	ダン	断食	だんじき	Fasten
+composite likely in composites_kana for no.1219
+composite_kana: しつもん、しちや、げんち]
+1219	シツ 、シチ、チ	質問、質屋、言質	しつもん、しちや、げんち]	Frage、Pfandleihhaus、Versprechen; Wortgeben
+1220	セキ	排斥	はいせき	Ächtung; Boykott; Ausschluss
+1221	ソ	起訴	きそ	Anklage
+1222	サク	昨年	さくねん	Vergangenes Jahr
+1223	サ	詐欺	さぎ	Betrug; Schwindel
+1224	サク、サ	作文、作業	さくぶん、さぎょう	Aufsatz、Arbeit
+1225	セツ	積雪	せきせつ	liegender Schnee
+1226	ロク	記録	きろく	Aufzeichnung; Chronik
+1227	ハク	剝奪	はくだつ	Wegnahme
+1228	ジン	尋問	じんもん	Verhör; Vernehmung
+1229	キュウ	急行	きゅうこう	Express-(zug)
+1230	オン	穏和	おんわ	Gemäßigtheit; Milde
+1231	シン	侵入	しんにゅう	Invasion
+1232	シン	浸水	しんすい	Überschwemmung
+1233	シン	寝室	しんしつ	Schlafzimmer
+1234	フ	夫婦	みょうと	Mann und Frau; Ehepaar
+1235	ソウ	掃除	そうじ	Putzen; Saubermachen
+1236	トウ	弁当	べんとう	mitgebrachtes Essen; Brotzeit
+1237	イ	語彙	ごい	Wortschatz
+1238	ソウ	争議	そうぎ	Streit; Zwist
+1239	ジョウ	清浄	しょうじょう	Reinheit; Unschuld
+1240	ジ、ズ	火事、好事家	かじ、こうずか	Feuer; Brand、Freund schöner Dinge; Dilletant
+1241	トウ	唐突	とうとつ	abrubt; plötzlich
+1242	トウ	砂糖	さとう	Zucker
+1243	コウ	健康	けんこう	Gesundheit; Wohlbefinden
+1244	タイ	逮捕	たいほ	Verhaftung; Festnahme
+1245	イ	伊太利	いたり	Italien
+1246	クン	君主	くんしゅ	Monarch
+1247	グン	大群	たいぐん	große Schar
+1248	タイ	耐水	たいすい	Wasserfestig-; Wasserdichtigkeit
+1249	ジュ	需要	じゅよう	"Nachfrage (zum ""Angebot"")"
+1250	ジュ	儒学	じゅがく	Konfuzianismus
+1251	タン	極端	きょくたん	Extrem; Äußeres
+1252	リョウ	両親	りょうしん	die (eigenen) Eltern
+1253	マン	満開	まんかい	in voller Blüte
+1254	かく、ガ	三画、映画	さんかく、えいが	drei Striche (wie in einem Kanji)、Film; Lichtspiel
+1255	シ	義歯	ぎし	falscher Zahn
+1256	キョク	曲折	きょくせつ	Windung; Krümmung
+1257	ソウ	法曹界	ほうそうかい	Juristische Kreise; Juristenwelt
+1258	ソウ	遭遇	そうぐう	Begegnung
+1259	ソウ	回漕	かいそう	Schiffstransport; Seetransport
+1260	ソウ	水槽	すいそう	Wassertank
+1261	ト	北斗七星	ほくとしちせい	Großer Wagen
+1262	リョウ	料理	りょうり	Kochen; (Speise-)Gericht
+1263	カ	科学	かがく	Wissenschaft
+1264	ズ、ト	地図、図書館	ちず、としょかん	Landkarte; (Stadt-)Plan、Bibliothek
+1265	ヨウ	費用	ひよう	Kosten
+1266	ヨウ	中庸	ちゅうよう	der goldene Mittelweg
+1267	ビ	準備	じゅんび	Vorbereitungl Vorkehrung
+1268	セキ・シャク、セキ・シャク	昔日、今昔	せきじつ、こんじゃく	vergangene Tage、Gegenwart und Vergangenheit
+1269	サク	錯誤	さくご	Versehen; Fehler
+1270	シャク	借金	しゃっきん	Schulden
+1271	セキ	惜敗	せきはい	knappe Niederlage
+1272	ソ	措置	そち	Maßnahmen; Schritte
+1273	サン	散歩	さんぽ	Spaziergang
+1275	ショ	庶民	しょみん	das gemeine Volk
+1276	シャ	遮断	しゃだん	Isolierung
+1277	セキ	指定席	していせき	reservierter Platz
+1278	ト、ド、タク	法度、今度、支度	はっと、こんど、したく	(strenge) Untersagung、nächstes Mal; diesmal、Ausstattungen; Vorkehrungen
+1279	ト	渡航	とこう	Reise; Seefahrt
+1280	ホン	東奔西走	とうほんせいそう	Ständiges Unterwegssein
+1281	フン	噴水	ふんすい	Fontäne; Springbrunnen
+1282	フン	古墳	こふん	Tumulus; alte Grabstätte
+1283	フン	義憤	ぎふん	gerechter Zorn
+1284	ショウ	全焼	ぜんしょう	Ausbrennen; Abbrennen
+1285	ギョウ	暁天	ぎょうてん	Morgenhimmel (Tagesanbruch)
+1286	ハン	半分	はんぶん	Hälfte
+1287	ハン、バン	同伴、伴奏	どうはん、ばんそう	Begleitung; Geleit、(Musik-)Begleitung
+1288	ハン	湖畔	こはん	Seeufer; an einem See
+1289	ハン、バン	判定、裁判	はんてい、さいばん	Urteil; Entscheidung、Gerichts(verhandlung)
+1290	ケン	拳銃	けんじゅう	Handfeuerwaffe
+1291	ケン	食券	しょっけん	Essensmarke
+1292	カン	第一巻	だいいっかん	Bd. 1
+1293	ケン	圏内	けんない	Innerhalb (eines Gebietes)
+1294	ショウ	勝利	しょうり	Sieg
+1295	トウ	葛藤	かっとう	Konflickt; Verwicklung
+1296	トウ	謄本	とうほん	Abschrift; beglaubigte Kopie
+1297	ヘン	断片	だんぺん	Bruchstück; Fragment
+1298	ハン	出版社	しゅっぱんしゃ	Verlag
+1299	し	之字形	しじけい	Zickzack (wie das Kanji 之)
+1300	ボウ	貧乏	びんぼう	Armut; Mittellosigkeit
+1302	ふ・フ、ブ	不安、不用心	ふあん、ふようじん	Angst; Ungewissheit、Nachlässigkeit; Unsicherheit
+1303	ヒ	否定	ひてい	Verneinung; Verleugnung
+1304	ハイ	一杯	いっぱい	1 Becher (voll mit...)
+1305	シ	一矢	いっし	ein einzelner Pfeil
+1306	キョウ	矯正	きょうせい	Verbesserung; Korrektur
+1307	ゾク	家族	かぞく	Familie
+1308	ち(チ)、チ	知人、知恵	ちじん、ちえ	Bekannter、Weisheit
+1309	チ	上智	じょうち	höchste Weisheit
+1310	アイ	挨拶	あいさつ	Gruß; Begrüßung
+1311	ム	矛盾	むじゅん	Widerspruch (logischer)
+1312	ジュウ、ジュウ・ニュウ	柔道、柔和	じゅうどう、にゅうわ	Judo、Sanftheit; Mut
+1313	ム	事務	じむ	Büroarbeit
+1314	ム	霧散	むさん	Zerrinnen; Zerfließen
+1315	ハン	班長	はんちょう	Anführer eines Trupps
+1316	キ	帰国	きこく	Rückkehr ins Heimatland
+1317	キュウ	弓道	きゅうどう	jap. "Weg des Bogen(schießen)s"
+1318	イン	引力	いんりょく	Anziehungskraft
+1319	チョウ	弔電	ちょうでん	Beileidstelegramm
+1320	コウ	弘法大師	こうぼうだいし	postumer Titel des Kūkai, Begründer des japanischen Shingon-Buddhismus
+1321	キョウ、ゴウ	勉強、強盗	べんきょう、がんどう	Studium; Lernen、Raubüberfall
+1323	ジャク	弱肉強食	じゃくにくきょうしょく	Überleben des Geeignetsten
+1324	デキ	溺死	できし	ertrinken
+1325	フツ	沸騰	ふっとう	Kochen; Sieden
+1326	ヒ	費用	ひよう	Kosten
+1327	ダイ	第一	だいいち	Nr. 1
+1328	デ、デイ、ダイ	弟子、子弟、兄弟	でし、してい、きょうだい	Jünger; Anhänger、Jugendliche、Geschwister
+1329	コウ	技巧	ぎこう	Technik; Kunstfertig
+1330	ゴウ	電話番号	でんわばんごう	Telefonnummer
+1331	キュウ	老朽	ろうきゅう	Altersschwäche
+1332	コ	誇張	こちょう	Übertreiben; Prahlerei
+1333	ガク	顎骨	がっこつ	Kieferknochen
+1334	オ	汚染	おせん	Verschmutzung
+1335	よ(ヨ)	与党	よとう	Regierungspartei
+1336	シャ	写真	しゃしん	Fotografie
+1337	シン	自身	じしん	selbst; persönlich
+1338	シャ	放射	ほうしゃ	Strahlung
+1339	シャ	謝礼	しゃれい	Honorar
+1340	ロウ	老人	ろうじん	ein alter Mensch
+1341	コウ	考案	こうあん	Entwurf; Idee
+1342	コウ	孝行	こうこう	Kindesliebe; Kindespflicht
+1343	キョウ	教授	きょじゅ	Professor
+1344	ゴウ	拷問	ごうもん	Folter
+1345	シャ	医者	いしゃ	Arzt
+1346	シャ	煮沸	しゃふつ	Sieden; Kochen
+1347	チョ	著者	ちょしゃ	Autor
+1349	ショ	警察署	けいさつしょ	Polizeirevier
+1350	ショ	残暑	ざんしょ	heißer Spätsommer
+1351	ショ	諸国	しょこく	verschiedene Länder
+1352	チョ	猪勇	ちゃゆう	verwegener Mut
+1354	ト	賭博	とばく	Glücksspiel
+1355	キョウ	海峡	かいきょう	Meerenge; Sund; Kanal
+1356	キョウ	偏狭	へんきょう	Engstirnigkeit;
+1357	キョウ	挟撃	はさみうち	Zangenangriff
+1359	ツイ	追求	ついきゅう	Verfolgung; Anstreben
+1360	フ	岐阜県	ぎふけん	Präfektur gifu
+1361	シ	師匠	ししょう	Lehrmeister
+1362	スイ	統帥	とうすい	Oberkommando
+1363	カン	教官	きょうかん	Lehrer; Dozent
+1364	カン	棺車	かんしゃ	Leichenwagen
+1365	カン	管理	かんり	Verwaltung; Management
+1366	フ	祖父	そふ	Großvater
+1368	コウ	社交	しゃこう	gesellschaftlicher Umgang
+1369	コウ	効力	こうりょく	Wirksamkeit; Gültigkeit
+1370	カク	比較	ひかく	Vergleich
+1371	コウ	校歌	こうか	Schulhymne
+1372	ソク	不足	ふそく	Mangel
+1373	ソク	促進	そくしん	Förderung; Voranbringen
+1374	ソク	捕捉	ほそく	Fangen; fassen
+1375	キョ	距離	きょり	Entfernung
+1376	ロ	道路	どうろ	Straße
+1377	ロ、ロウ	露骨、披露宴	ろこつ、ひろうえん	offen; freimütig、Hochzeitsempfang
+composite likely in composites_kana for no.1378
+composite_kana: 跳躍板[ちょうやくばん]
+1378	チョウ	跳躍板	跳躍板[ちょうやくばん]	Sprungbrett
+1379	ヤク	飛躍	ひやく	Sprung
+1380	セン	実践	じっせん	Praxis (i. Ggs. zur Theorie)
+1381	トウ	踏破	とうは	Durchquerung zu Fuß
+1382	ソウ	踪跡	そうせき	Spuren (hinsichtl. Aufenthalts)
+1383	コツ	骨髄	こつずい	Knochenmark
+1384	コツ、カツ	滑稽、滑走路	こっけい、かっそうろ	lächerlich; komisch、Landebahn
+1385	ズイ	脳髄	のうずい	Gehirn
+1386	カ	禍福	かふく	Glück und Unglück
+1387	カ	渦中	かちゅう	(in einem) Strudel; Sog
+1389	カ	通過	つうか	Durchfahrt; Durchreise
+1390	ハン	阪神	はんしん	Osaka und Kobe
+1391	ア	南無阿弥陀仏	なむあみだぶつ	"Gepriesen sei der Amida-Buddha!"
+1392	サイ	国際	こくさい	international
+1393	ショウ	障子	しょうじ	Japanische Schiebetür aus Papier
+1394	ゲキ	間隙	かんげき	Lücke; Spalt
+1395	ズイ	随分	ずいぶん	ziemlich; wirklich
+1396	バイ	陪食	ばいしょく	Essen mit einem Höhergestellten
+1397	ヨウ	太陽、陽気	たいよう、ようき	Sonne、fröhlich
+1398	チン	陳列	ちんれつ	Auslage; Ausstellen
+1399	ボウ	防衛	ぼうえい	Verteidigung
+1400	フ	附近	ふきん	Umgebung; Nachbarschaft
+1401	イン	病院	びょういん	Krankenhaus
+1402	ジン	出陣	しゅつじん	In-Den-Krieg-Ziehen
+1403	タイ	兵隊	へいたい	Soldaten; Armee
+1404	ツイ	墜落	ついらく	(Flugzeug-)Absturz
+1405	コウ	降誕祭	こうたんさい	Weihnachten
+1406	カイ	階級	かいきゅう	Stand; Klasse; Schicht
+1407	ヘイ	皇后陛下	こうごうへいか	ihre Majestät, die Kaiserin
+1408	リン	隣人	りんじん	Nachbar
+1409	カク	隔年	かくねん	jedes zweite Jahr
+1410	イン	楽隠居	らくいんきょ	ein angenehmes Altenteil
+1411	ダ	堕落	だらく	Verkommenheit; Verderbtheit
+1412	カン	陥没	かんぼつ	Einsturz
+1413	ケツ	穴居人	けっきょじん	Troglodyt (Höhlenbewohner)
+1414	クウ	空気	くうき	Luft; Atmosphäre
+1415	コウ	控訴	こうそ	Berufung (jur.)
+1416	トツ	突破	とっぱ	Durchbrechen; Überschreiten
+1417	キュウ	研究	けんきゅう	Forschung
+1418	チツ	窒息	ちっそく	Ersticken
+1419	セツ	窃取	せっしゅ	Diebstahl
+1420	クツ	洞窟	どうくつ	Höhle; Grotte
+1422	サク	搾取	さくしゅ	Ausbeutung; Auspressen
+1423	ヨウ	窯業	ようぎょう	Keramikherstellung
+1424	キュウ	困窮	こんきゅう	Armut; bedürftigkeit
+1425	タン	探偵	たんてい	Detektiv
+1426	シン	深窓	しんそう	abgeschirmtes Aufwachsen
+1427	キュウ	砂丘	さきゅう	Düne; Sandhügel
+1428	ガク	山岳	さんがく	Berge und Hügel
+1429	ヘイ、ヒョウ	兵隊、兵糧	へいたい、ひょうろう	Soldaten; Armee、Feldverpflegung; Proviant
+1430	ヒン	京浜線	けいひんせん	Tokyo-Yokohama-Linie (Bahn)
+1432	ショク	織機	しょっき	Webstuhl
+1433	ゼン	修繕	しゅうぜん	Reparatur; Ausbesserung
+1434	シュク	縮小	しゅくしょう	Verkleinerung
+1435	ハン	繁栄	はんえい	Wohlstand
+1436	ジュウ	操縦	そうじゅう	Steuern; Lenken
+1437	チ	緻密	ちみつ	Feinheit; Genauigkeit
+1438	セン	線路	せんろ	Gleise; Schiene
+1439	タン	破綻	はたん	Misslingen; Konkurs
+1440	テイ	締結	ていけつ	Vertragsschluss
+1441	イ	明治維新	めいじいしん	Meiji-Restauration
+1442	ラ	羅列	られつ	Aufzählen; Anführen
+1443	レン	練習	れんしゅう	Übung; Training
+1444	ショ、チョ	一緒、情緒	いっしょ、じょうちょ	zusammen、Gemüt; Stimmung
+1445	ゾク	連続	れんぞく	Fortdauer; Fortsetzung
+1446	カイ、エ	絵画、絵本	かいが、えほん	Gemälde; Malerei、Bilderbuch
+1447	トウ	大統領	だいとうりょう	(Staats-)präsident
+1448	コウ	絞殺	こうさつ	Erdrosselung
+1449	キュウ	給料	きゅうりょう	Gehalt; Lohn
+1450	ラク	脈絡	みゃくらく	(logischer) Zusammenhang
+1451	ケツ	結論	けつろん	Schlussfolgerung
+1452	シュウ	終点	しゅうてん	Endstation; Endbahnhof
+1453	キュウ	高級	こうきゅう	Hochrangigkeit; Erstklassigkeit
+1454	キ	世紀	せいき	Jahrhundert
+1455	コウ、ク	紅茶、真紅	こうちゃ、しんく	Schwarzer Tee、Purpurrot
+1456	ナッ、ノウ、トウ、ナ、ナン	納豆、収納、出納、納屋、納戸	なっとう、しゅうのう、すいとう、なや、なんど	vergorene Sojabohnen、Lagern; Speichern、Kassenführung; Einnahmen und Ausgaben、ein Schuppen、Kleiderkammer
+1457	ボウ	紡績	ぼうせき	Spinnen (Stoff)
+1458	フン	紛議	ふんぎ	Dissens; Kontroverse
+1459	ショウ	紹介	しょうかい	(Sich-)Vorstellen
+1460	ケイ、キョウ	経験、華厳経	けいけん、けごんきょう	Erfahrung、Die Avatamska-Sutra, ein insbesondere von der Kegon (huayen)-Sekte verehrter Buddhistischer Text
+1461	シン	紳士	しんし	Gentleman
+1462	ヤク	約束	やくそく	Versprechen
+1463	サイ	詳細	しょうさい	Details; Einzelheiten
+1464	ルイ	累増	るいぞう	Aufwärtsspirale
+1465	サク	捜索	そうさく	Durchsuchung; Suchaktion
+1466	ソウ	総計	そうけい	Gesamtsumme
+1467	メン	綿花	めんか	rohe Baumwolle
+1468	ケン	人絹	じんけん	Viskose; Kunstseide
+1470	ケイ	中継	なかつぎ	(Rundfunk-)Übertragung
+1471	ロク、リョク	緑青、新緑	ろくしょう、しんりょく	Grünspahn、frisches Grün
+1472	エン	縁	ゆかり	vorherbestimmte Beziehung
+1473	モウ	放送網	ほうそうもう	Rundfunknetz
+1474	キン	緊張	きんちょう	(An-)Spannung
+1475	シ	紫外線	しがいせん	ultraviolette Strahlung
+1476	ゴ、バク	午後、束縛	ごご、そくばく	Nachmittag、Einschränkung; Beschränkung
+1477	ジョウ	自縄自縛	じじょうじばく	In-die-eigene-Grube-fallen
+1478	ヨウ	幼稚園	ようちえん	Kindergarten
+1479	コウ	後半	こうはん	zweite Halbzeit
+1480	ユウ	幽玄	ゆうげん	Zauberhaftigkeit; Mystik
+1481	キ	幾何学	きかがく	Geometrie
+1482	キ	機会	きかい	Gelegenheit
+1483	キ	近畿	きんき	Hauptstadtvororte (um Kioto)
+1484	ゲン	玄関	げんかん	Eingang(sbereich)
+1485	チク	家畜	かちく	Haustiere; Vieh
+1486	チク	蓄電池	ちくでんち	Akku(mulator)
+1487	ゲン	正弦	せいげん	Sinus (mathem.)
+1488	ヨウ	抱擁	ほうよう	Umarmung
+1489	ジ	滋養	じよう	Ernährung
+1490	ジ	慈愛	じあい	Liebe und Zärtlichkeit
+1491	ジ	磁気	じき	Magnetismus
+1492	ケイ	系列	けいれつ	Gliederung; Firmengruppe
+1493	ケイ	係争	けいそう	Streitigkeiten
+1494	ソン	子孫	しそん	Abkömmlinge
+1495	ケン、ケ	懸賞、懸念	けんしょう、けねん	Preis; Auszeichnung、Sorge; Angst
+1496	ソン	謙遜	けんそん	Demut
+1497	キャク	返却	へんきゃく	Rückgabe; Zurückbringen
+1498	キャク、キャ	脚本、脚立	きゃくほん、きゃたつ	Drehbuch; Schauspiel、Trittleiter
+1500	ゴ、ギョ	御飯、制御	ごはん、せいぎょ	gekochter Reis; Mahlzeit、Kontrolle; Steuerung
+1501	フク	洋服	ようふく	Westliche Kleidung
+1502	ショウ、ミョウ	一生懸命、寿命	いっしょうけんめい、じゅみょう	mit ganzer Kraft、Lebensdauer; -spanne
+1503	レイ	令嬢	れいじょう	Fräulein
+1504	レイ	零時	れいじ	12 Uhr (Mitternacht)
+1505	レイ	高齢	こうれい	Fortgeschrittenes Alter
+1506	レイ	冷却	れいきゃく	Kühlung
+1507	リョウ	領土	りょうど	Territorium; Domäne
+1508	レイ、リン	電鈴、風鈴	でんれい、ふうりん	Elektrische Klingel、Windspiel,(-glöckchen)
+1509	ユウ	勇気	ゆうき	Mut; Kühnheit
+1510	ユウ	湧出	ゆうしゅつ	Herausströmen
+1511	ツウ、ツ	交通、通夜	こうつう、つや	Verkehr、Totenwache
+1512	ヨウ	舞踊	ぶよう	Tanz
+1513	ギ	容疑	ようぎ	Verdacht
+1514	ギ	模擬	もぎ	Imitation; Schein
+1515	ギョウ	凝固	ぎょうこ	Gerinnung
+1516	ハン	範囲	はんい	Bereich; Sphäre
+1517	ハン	犯人	はんにん	Krimineller; Verbrecher
+1518	ハン	氾濫	はんらん	überflutung; Überschwemmung
+1519	ヤク	厄年	やくどし	Unglücksjahr
+1520	キ	危険	きけん	Gefahr
+1521	エン	宛転	えんてん	geschwungen; beredet
+1522	ワン	腕力	わんりょく	Körper; Muskelkraft
+1523	エン	御苑	ぎょえん	Kaisergarten
+1524	エン、オン	怨声、音量	えんせい、おんりょう	Beschwerde; Murren、Rachegeist
+1525	リュウ	川柳	かわやなぎ	satirisches Gedicht
+1526	ラン	卵巣	らんそう	Eierstock
+1527	る(ル)、リュウ	留守、留学	るす、りゅうがく	Abwesenheit; Ausbleiben (von zu Hause oder der Arbeit)、Auslandsstudium
+1528	ル	瑠璃	るり	Lapislazuli
+1529	ボウ	貿易会社	ぼうえきかいしゃ	Handelsfirma
+1530	イン	印刷	いんさつ	Druck(en)
+1531	キュウ	臼歯	きゅうし	Backenzahn
+1532	キ	廃仏毀釈	はいぶつきしゃく	Anti-Buddhismus Bewegung
+1533	コウ、キョウ	復興、興味	ふっこう、きょうみ	Wiederaufleben; Herstellung、Interesse
+1535	シュ	日本酒	にほんしゅ	jap. Sake
+1536	シャク	媒酌結婚	ばいしゃくけっこん	vermittelte Eheschließung
+1537	チュウ	焼酎	しょうちゅう	jap. Schnaps
+1538	コウ	酵母	こうぼ	Hefe
+1539	コク	残酷	ざんこく	Grausamkeit
+1540	シュウ	応酬	おうしゅう	Entgegnung; Erwiederung
+1541	ラク	酪農	らくのう	Milcherzeugung
+1542	サク	酢酸	さくさん	Acetylsäure
+1543	スイ	泥酔	でいすい	Volltrunkenheit; Besoffenheit
+1544	ハイ	心配	しんぱい	Sorge; Furcht
+1545	サン	硫酸	りゅうさん	Schwefelsäure; Säure
+1546	ユウ	猶予	ゆうよ	Aufschub
+1547	ソン	尊重	そんちょう	Wertschätzung; Respekt
+1548	トウ、ズ	豆腐、大豆	とうふ、だいず	Bohnenquark; Tofu、Sojabohnen
+1549	ズ、トウ、ト	頭痛、先頭、音頭	ずつう、せんとう、おんど	Kopfschmerzen、Anfang; Erster; Spitze、Angeben des Tons (beim Singen)
+1550	タン	短気	たんき	Ungeduld; Reizbarkeit
+1551	ホウ	豊年	ほうねん	Jahr mit guter Ernte
+1552	コ	太鼓判	たいこばん	Sichere Garantie (übertrieben)
+1553	キ	喜寿	きじゅ	77. Geburtstag
+1554	ジュ	樹立	じゅりつ	Errichtung; Gründung
+1556	ケツ	高血圧	こうけつあつ	Bluthochdruck
+1557	ボン	盆栽	ぼんさい	Bonsai-Baum (Topfminiatur)
+1558	メイ	同盟	どうめい	Bündnis; Allianz
+1559	トウ	窃盗	せっとう	Diebstahl
+1560	オン	温泉	おんせん	heiße Quellen; Heilbad
+1561	ガイ	頭蓋	ずがい	Schädel; Cranium
+1562	カン	総監	そうかん	Generalinspektor
+1563	ラン	氾濫	はんらん	Überflutung; Überschwemmung
+1564	カン	年鑑	ねんかん	Jahrbuch; Almanach
+1565	ラン	出藍	しゅつらん	Übertreffen
+1566	モウ	猛犬	もうけん	"Vorsicht, bissiger Hund!"
+1567	ジョウ・セイ、ジョウ・セイ	全盛、繫盛	ぜんせい、はんじょう	Blütezeit; in voller Pracht、Blühen
+1568	エン	食卓塩	しょくたくえん	Tafelsalz
+1569	ギン	銀行	ぎんこう	Bank
+1570	コン	悔恨	かいこん	Bedauern; Reue
+1571	コン	大根	だいこん	großer Rettich
+1572	ソク	一触即発	いっしょくそくはつ	explosive; angespannte Lage
+1573	シャク	男爵	だんしゃく	Baron
+1574	セチ、セツ	お節料理、季節	おせちりょうり、きせつ	(jap.) Neujahrsessen、Jahreszeit; Saison
+1575	タイ	撤退	てったい	Rückzug; Abzug
+1576	ゲン	無限	むげん	Unendlichkeit
+1577	ガン・ゲン、ガン・ゲン	眼球、開眼	がんきゅう、かいげん	Augapfel、buddhistische Weihfeier; öffnen der Augen
+1578	ら・ラ、リョウ	奈良、良心	なら、りょうしん	Nara (Ortsname)、Gewissen
+1579	ロウ	朗読	ろうどく	Vorlesen; Rezitation
+1580	ロウ	流浪	るろう	Umherziehen; Herumwandern
+1582	ショク、ジキ	食堂、断食	しょくどう、だんじき	Speisesaal; Refektorium、Fasten
+composite likely in composites_kana for no.1583
+composite_kana: ごはん、ご 飯[はん] ごはん
+1583	ハン、ハン	御飯、ご飯	ごはん、ご 飯[はん] ごはん	gekocher Reis; Mahlzeit、Reis; Essen
+1584	イン	飲食	いんしょく	Essen und Trinken
+1585	キ	飢餓	きが	Hunger(snot)
+1586	ガ	飢餓	きが	Hunger(snot)
+1587	ショク	装飾	そうしょく	Dekor; Verzierung
+1588	ジ	好餌	こうじ	Köder; Lockmittel
+1589	カン	館長	かんちょう	Gebäudedirektor
+1590	ヘイ	煎餅 	せんべい	Reiswaffel; Keks
+1591	ヨウ	休養	きゅうよう	Ruhe und Erholung
+1592	ホウ	飽食	ほうしょく	Sättigung
+1593	キ	既製	きせい	Vorgefertigtheit
+1594	ガイ	概念	がいねん	Konzept; Vorstellung
+1595	ガイ	憤慨	ふんがい	Entrüstung; Unwille
+1596	ヘイ、ビョウ	平均、平等	へいきん、びょうどう	Durchschnitt、Gleichheit
+1597	コ	点呼	てんこ	Zählappel
+1599	ヒョウ	評論家	ひょうろんか	Kritiker; Kommentator
+1601	サツ、セツ	刹、刹鬼	さつ、せっき	Zentralsäule einer Buddhistischen Pagode、zerstörerischer Dämon
+1602	キ	希望	きぼう	Hoffnung
+1603	キョウ	凶悪	きょうあく	Brutalität; Grausamkeit
+1604	キョウ	度胸	どきょう	Mut; Standhaftigkeit
+1605	リ	離陸	りりく	Abheben (z.B. Flugzeug)
+1606	リ	瑠璃	るり	Lapislazuli
+1607	サツ、セツ、サイ	自殺、殺生会、相殺	じさつ、せっしょうかい、そうさい	Selbstmord、Verbot, zu töten (buddh.)、Aufrechnung
+1608	ソウ	爽涼	そうりょう	Kühle; Frische
+1609	ジュン	純金	じゅんきん	reines Gold
+1610	トン	頓死	とんし	Plötzlicher Tod
+1611	ドン	鈍物	どんぶつ	Dummkopf
+1612	シン	甘酸辛苦	かんさんしんく	süß, sauer, scharf, bitter
+1613	ジ、ジ	英和辞典、辞典	えいわじてん、じてん	Wörterbuch Englisch-Japanisch、Wörterbuch
+1615	サイ	主宰	しゅさい	Vorsitz; Leitung
+1616	ヘキ	壁画	へきが	Wandbild; Wandmalerei
+1617	ヘキ	完璧	かんぺき	Perfektion; Makellosigkeit
+1618	ヒ	不可避	ふかひ	Unvermeidbarkeit
+1619	シン	新聞	しんぶん	Zeitung
+1620	シン	薪水	しんすい	Brennholz und Wasser
+1621	シン	親切	しんせつ	freundlich; liebenswürdig
+1622	コウ	幸福	こうふく	Glück(lichsein)
+1623	シツ、シュウ	執行、我執	しっこう、がしゅう	Vollstreckung; Vollzug、Egoismus; Selbstsucht
+1624	シ	摯獣	しじゅう	wildes Tier
+1625	ホウ	電報	でんぽう	Telegramm
+1626	キョウ	叫喚	きょうかん	Gezeter; Geschrei
+1627	キュウ	糾弾	きゅうだん	Rüge; Anlage
+1628	シュウ	買収	ばいしゅう	Bestechung; Erkaufung
+1629	ヒ	卑屈	ひくつ	Unterwürfigkeit; Kriecherei
+1630	ヒ	碑銘	ひめい	Inschrift; Epitaph
+1631	リク	陸上	りくあげ	an Land; Boden
+1632	ボク	親睦	しんぼく	Freundschaft; Kameradschaft
+1633	セイ	姿勢	しせい	Haltung; Einstellung
+1634	ネツ	熱帯	ねったい	Tropen
+1636	リョウ	陵墓	りょうぼ	kaiserliches Mausoleum
+1638	カク	核心	かくしん	Kern(punkt)
+1639	コク	時刻表	じこくひょう	Fahrplan
+1640	ガイ	該当	がいとう	das Zutreffende, Entsprechende
+1641	コツ	骸骨	がいこつ	Skelett; Gerippe
+1642	ガイ	弾劾	だんがい	Anklage
+1643	ジュツ	叙述	じょじゅつ	Beschreibung; Darstellung
+1644	ジュツ	技術	ぎじゅつ	Technik; Technologie
+1645	カン	寒風	かんぷう	kalter Wind
+1646	ソク、サイ	塞栓症、塞内	そくせんしょう、さいない	Embolie、Innerhalb der Festung
+1647	ジョウ	醸造	じょうぞう	Brauerei; Brennerei
+1648	ジョウ	譲歩	じょうほ	Zugeständnis; Konzession
+1649	ジョウ	土壌	どじょう	Erde; Boden
+1650	ジョウ	嬢	じょう	Tochter; junge Dame
+1651	ドク	お気の毒	おきにどく	"Ich bedaure dich!"
+1652	ス、ソ	素敵、質素	すてき、しっそ	prima; toll; klasse、Schlichtheit; Einfachheit
+1653	バク	麦酒	ぼくしゅ	Bier
+1654	セイ、ショウ	青年、緑青	せいねん、ろくしょう	Jugendlicher; Jugend、Grünspan
+1655	セイ、ショウ	精神、不精	せいしん、ぶしょう	Geist; Psyche、Trägheit; Faulheit
+1656	セイ、シン	申請、普請	しんせい、ふしん	Antrag; Gesuch、Bau(arbeit);-en
+1657	セイ、ジョウ	風情、感情	ふぜい、かんじょう	Aussehen; Armut、Gefühle; Emotionen
+1658	セイ	晴天	せいてん	klarer Himmel
+1659	セイ、ショウ	清潔、清浄	せいけつ、しょうじょう	Sauberlichkeit; Reinlichkeit、Sauberkeit; Reinlichkeit、Reinheit; Unschuld
+1660	セイ、ジョウ	静止、静脈	せいし、じょうみゃく	Stillstand; Regungslosigkeit、Ader; Veine
+1661	セキ	責任	せきにん	Verantwortung
+1662	セキ	成績	せいせき	Ergebnisse; Zensur; Zeugnis
+1663	セキ	積善	せきぜん	Ansammlung guter Taten
+1664	サイ	公債	こうさい	öffentliche Anleihe
+1666	ヒョウ	表装	ひょうそう	Aufziehen (Bild); Binden (Buch)
+1667	ヒョウ	土俵	どひょう	Sandsäcke; Sumoring
+1668	ケツ	潔白	けっぱく	Integrität; Unschuld
+1669	ケイ	契約	けいやく	Vertrag; Kontrakt
+1670	キツ	喫茶店	きっさてん	Café
+1671	ガイ	損害	そんがい	Schaden; Verlust
+1672	カツ	管轄	かんかつ	Zuständigkeit
+1673	カツ	割礼	かつれい	Beschneidung
+1674	ケン	憲法	けんぽう	Verfassung; Grundgesetz
+1675	セイ、ショウ	先生、一生懸命、一生	せんせい、いっしょうけんめい、いっしょう	Lehrer、mit ganzer Kraft、lebenslang; auf Lebenszeit
+1676	セイ、ショウ	星座、明星	せいざ、みょうじょう	Sternbild; Konstellation、Sternbild; -konstellation、Venus; Morgenstern
+1677	セイ	覚醒剤	かくせいざい	Aufputschmittel
+1678	セイ、ショウ	姓名、百姓	せいめい、ひゃくせい	voller Name、Bauer, gemeines Volk
+1679	セイ、ショウ	女性、性分	じょせい、しょうぶん	Frau; weibliches Geschlecht、Natur; Veranlagung
+1680	セイ	犠牲	ぎせい	Opfer
+1681	サン	不動産	ふどうさん	Immobilien
+1682	リュウ	隆起	りゅうき	Erhebung; Vorsprung
+1683	ホウ	高峰	たかみね	hoher Gipfel
+1684	ホウ	蜂起	ほうき	Aufstand; Revolte
+1685	ホウ	縫合	ぬいあわせ	Wundnaht
+1686	ハイ	拝見	はいけん	Betrachten (ehrerbietig)
+1687	ジュ	喜寿	きじゅ	77. Geburtstag
+1688	チュウ	鋳鉄	ちゅうてつ	Gusseisen
+1689	セキ	戸籍	こせき	Personenstandsregister
+1690	シュン	売春	ばいしゅん	Prostitution
+1692	タイ	泰国	たいこく	Thailand
+1693	ソウ	伴奏	ばんそう	(musikalische) Begleitung
+1694	ジツ	事実	じじつ	Tatsache
+1695	ホウ、ブ	奉仕、奉行	ほうし、ぶぎょう	Dienst(leistung); Bedienung、Stadtkommissar
+1696	ホウ	年俸	ねんぽう	Jahresgehalt
+1697	ボウ	鉄棒	かなぼう	Eisenstange
+1698	キン	謹呈	きんてい	"mit Grüßen vom Autor" (demütiges Überreichen)
+1699	キン	僅々	きんきん	lediglich; nicht mehr als
+1700	キン、ゴン	出勤、勤行	しゅっきん、ごんぎょう	Zur-Arbeit-Gehen、Buddhistischer Gottesdienst
+1701	カン	漢字	かんじ	Kanji
+1702	タン	川上の嘆	せんじょうのたん	"Alles fließt"
+1703	ナン	困難	こんなん	Not; Schwierigkeit
+1704	カ、ケ	中華料理、華厳経	ちゅうかりょうり、けごんきょう	chinesisches Essen、Die Avatamska-Sutra, ein insbesondere von der Kegon (huayen)-Sekte verehrter Buddhistischer Text
+1705	スイ	懸垂	けんすい	Klimmzug
+1706	ダ	唾液	だえき	Speichel
+1707	スイ	睡眠	すいみん	Schlaf
+1708	スイ	紡錘	ぼうすい	Spindel
+1709	ジョウ	乗車	じょうしゃ	Einsteigen (Autos, Bus, Bahn, etc.)
+1710	ジョウ	過剰	かじょう	Überschuss; ein Zuviel
+1711	コン、キン	今週、今上	こんしゅう、きんじょう	diese Woche、Regierender Kaiser
+1712	ガン	含蓄	がんちく	tiefere bedeutung
+1713	ドン	貪欲	どんよく	Habgier
+1714	ギン	詩吟	しぎん	Rezitation (chines.) Gedichte
+1715	ネン	記念	きねん	Gedenken
+1716	ネン	捻挫	ねんざ	Verstauchung
+1717	キン	琴線	きんせん	"Herz-Saiten" (tiefste Gefühle)
+1718	イン	陰気	いんき	Düsternis
+1719	ヨ、ヨ	天気予報、予約	てんきよほう、よやく	Wettervorhersage、Reservierung
+1720	ジョ	序文	じょぶん	Vorwort
+1721	ヨ	預金	よきん	Bankguthaben
+1722	ヤ	野球	やきゅう	Baseball
+1723	ケン	兼任	けんにん	Doppelfunktion; zwei Ämter
+1724	ケン・ゲン、ケン・ゲン	嫌疑、機嫌	けんぎ、きげん	Verdacht、Stimmung; Verfassung
+1726	ケン	謙譲	けんじょう	Bescheidenheit
+1727	レン	廉売	れんばい	Ausverkauf
+1728	セイ、サイ	西洋、関西	せいよう、かんさい	der Westen; Okzident、das""Kansai"-Gebiet
+1729	カ	定価	ていか	Festpreis
+1730	ヨウ	需要	じゅよう	Nachfrage (zum "Angebot")
+1731	ヨウ	腰部	ようぶ	Lende; Hüftgelenk
+1732	ヒョウ	投票	とうひょう	Wahl; Abstimmung
+1733	ヒョウ	漂白	ひょうはく	Bleichen
+1734	ヒョウ	目標	もくひょう	Ziel
+1736	リツ	戦慄	せんりつ	Schaudern; Zittern
+1737	セン	変遷	へんせん	Wandel; Veränderungen
+1738	フク	覆面	ふくめん	Maskierung; Vermummung
+1739	エン	禁煙	きんえん	Rauchen verboten!
+1740	ナン、ナ	南北、南無阿弥陀仏	なんぼく、なむあみだぶつ	Nord und Süd、"Gepriesen sei der Amida-Buddha!"
+1742	ケン、コン	献身、一献	けんしん、いっこん	Hingabe; Aufopferung、1 Becher Sake (als Angebot)
+1743	モン	専門家	せんもんか	Fachmann
+1744	モン	質問	しつもん	Frage
+1745	エツ	閲覧室	えつらんしつ	Lesezimmer
+1746	バツ	派閥	はばつ	Clique; Faktion (Splittergruppe)
+1747	カン、ケン	時間、世間	じかん、せけん	Zeit; Stunde、Öffentlichkeit; Allgemeinheit
+1749	カン	簡単	かんたん	Einfachheit; Unkompliziertheit
+1750	カイ	打開	だかい	Durchbruch; Wendung
+1751	ヘイ	閉店	へいてん	Ladenschluss
+1752	カク	内閣	ないかく	Kabinett
+1753	テン	閑却	かんきゃく	Vernachlässigung; Versäumnis
+1754	ブン、モン	新聞、聴聞	しんぶん、ちょうもん	Zeitung、Anhörung
+1755	ジュン	潤色	じゅんしょく	Verschönerung; Geschnörkel
+1756	ラン	欄外	らんがい	Bundsteg (Druck)
+1757	トウ	戦闘	せんとう	Kampf
+1758	ソウ	倉庫	そうこ	Lagerhaus
+1759	ソウ	創造	そうぞう	Schöpfung
+1760	ヒ	非常	ひじょう	Notfall; Sonderfall
+1761	ハイ	俳句	はいく	Haiku (Gedicht)
+1762	ハイ	排水管	はいすいかん	Wasserrohr,-leitung
+1763	ヒ	悲観	ひかん	Pessimismus
+1764	ザイ	有罪	ゆうざい	Schuld
+1765	ハイ	先輩	せんぱい	Ältere; Senior
+1766	ヒ	門扉	もんぴ	Torflügel
+1767	コウ	王侯	おうこう	Könige und Prinzen
+1768	コウ	咽喉	いんこう	Kehle
+1769	コウ	候補	こうほ	Kandidatur
+1770	ケツ	決勝	けっしょう	Entscheidung; Finale
+1771	カイ	快活	かいかつ	Heiterkeit
+1772	イ	偉大	いだい	Großartigkeit; Gewaltigkeit
+1773	イ	相違	そうい	Unterschied
+1774	イ	経緯	いきさつ	Längen- und Breitengrad
+1775	エイ	防衛	ぼうえい	Verteidigung
+1776	カン	韓国	かんこく	Südkorea
+1777	カン	干潮	かんちょう	Ebbe
+1778	カン	肝要	かんよう	wesentlich
+1779	カン	週刊	しゅうかん	Wochenschrift
+1780	カン	汗顔	かんがん	Schwitzen
+1781	ケン	五軒	ごけん	fünf (Häuser, Gebäude)、5 (Häuser, Gebäude)
+1782	ガン	海岸	かいがん	Küste
+1783	カン	新幹線	しんかんせん	jap. Hochgeschwindigkeitszug、jap. Hichgeschwindigkeitszug
+1785	う・ウ	宇宙	うちゅう	Weltall; Universum
+1786	ヨ	余白	よはく	leerer Raum (auf einem Blatt, einer Seite)
+1787	ジ、ジョ	掃除、除外	そうじ、じょがい	Putzen; Saubermachen、Ausnahme; Ausschluss
+1788	ジョ	徐行	じょこう	"Bitte langsam fahren!"
+1789	ジョ	叙事詩	じょじし	Epos
+1790	ト	途中	とちゅう	auf halbem Weg; Unterwegs
+1791	シャ	斜面	しゃめん	(Ab-)hang
+1792	ト	塗装	とそう	Anmalen; Anstreichen
+1793	ソク	約束	やくそく	Versprechen
+1794	ライ	信頼	しんらい	vertrauen
+1796	チョク	詔勅	しょうちょく	kaiserliche Verkündung
+1797	ソ	疎外	そがい	Entfremdung
+1798	ラツ	辣腕	らつわん	Klugheit; Geschäftstüchtigkeit
+1799	ソク	高速道路	こうそくどうろ	Autobahn; Schnellstraße
+1800	セイ	調整	ちょうせい	Anpassung; Regeulierung
+1801	ケン	剣道	けんどう	jap. "Weg des Schwertes" (Kendo)
+1802	ケン	冒険	ぼうけん	Abenteuer
+1803	ケン	検査	けんさ	Untersuchung; Prüfung
+1804	ケン	倹約	けんやく	Sparsamkeit
+1805	ジュウ、チョウ	重要、尊重	じゅうよう、そんちょう	Wichtigkeit; Bedeutsamkeit、Wertschätzung; Respekt
+1806	ドウ	自動車	じどうしゃ	Kraftfahrzeug
+1807	シュ	腫瘍	しゅよう	Tumor
+1808	クン	勲功	くんこう	Verdienste
+1809	ドウ	労働	ろうどう	(körperliche) Arbeit
+1810	シュ	種類	しゅるい	Art; Sorte
+1811	ショウ	折衝	せっしょう	Verhandlungen
+1812	クン	薫風	くんぷう	leichte Sommerbrise; Zephir
+1813	ヘイ、ビョウ	疾病、病院	しっぺい、びょういん	Erkrankung、Krankenhaus
+1814	チ	痴漢	ちかん	Grabscher (bei Frauen)
+1815	トウ	天然痘	てんねんとう	Pocken
+1816	ショウ	病症	びょうしょう	Krankheits, -natur
+1817	ヨウ	潰瘍	かいよう	Geschwür
+1818	ソウ	痩身	そうしん	Schlanke Figur
+1819	シツ	疾風迅雷的	しっぷうじんらいてき	schnell wie Wind und Blitz
+1820	シツ	嫉妬	しっと	Eifersucht
+1821	リ	下痢	げり	Durchfall
+1822	コン	痕跡	こんせき	Überrest; Spur
+1823	ヒ	疲労	ひろう	Ermüdung; Erschöpfung
+1824	エキ、ヤク	疫病、疫病神	えきびょう、やくびょうがみ	Epidemie; Seuche、Pest-, Plagegeist
+1825	ツウ	腹痛	ふくつう	Bauchschmerzen
+1826	ヘキ	病癖	びょうへき	Absonderlichkeit; Manie
+1827	トク	隠匿	いんとく	Verbergen
+1828	ショウ	師匠	ししょう	Lehrmeister
+1829	イ	医療	いりょう	ärztliche Behandlung
+1830	ヒツ	匹敵	ひってき	Ebenbürtigkeit
+1831	ク	地区	ちく	Region; Distrikt
+1832	スウ	枢軸	すうじく	Angelpunkt
+1833	オウ	殴打	おうだ	Schlag; Tätlichkeit
+1834	オウ	欧州	おうしゅう	Europa
+1835	ヨク	抑揚	よくよう	Betonung; Kadenz
+1836	コウ、ギョウ	信仰、仰天	しんこう、ぎょうてん	Glaube、Erstaunen; Bestürzen
+1837	ゲイ	歓迎	かんげい	Willkommen
+1838	トウ・ト、トウ・ト	登録、登山	とうろく、とざん	Registrierung、Bergsteigen
+1839	チョウ	清澄	せいちょう	Durchsichtigkeit; Klarheit
+1840	ホッ、ハツ	発足、発音	はっそく、はつおん	Gründung; Eröffnung、Aussprache
+1841	ハイ	廃止	はいし	Abschaffung; Aufhebung
+1842	リョウ	官僚	かんりょう	Bürokratie
+1843	リョウ	明瞭	めいりょう	Klarheit; Deutlichkeit
+1844	リョウ	寮長	りょうちょう	Heimleiter
+1845	リョウ	療養	りょうよう	Heilbehandlung
+1846	チョウ	彫像	ちょうぞう	Skulptur; Statue
+1847	ギョウ、ケイ	人形、形式	にんぎょう、けいしき	Puppe、Form; Formalität
+1848	エイ	影響	えいきょう	Einfluss
+1850	サイ	彩色	さいしき	Färbung
+1851	ショウ	表彰	ひょうしょう	öffentliche Belobigung
+1853	ガン	童顔	どうがん	jungenhaftes Gesicht
+1854	ス	急須	きゅうす	Jap. Teekännchen aus Ton
+1855	ボウ	膨張	ぼうちょう	Inflation; Ausdehnung
+1856	サン	参加	さんか	Teilnahme
+1857	サン、ザン	悲惨、惨酷	ひさん、ざんこく	Elend; Not、Grausamkeit
+1858	シュウ、しゅ	修理、修行	しゅうり、しゅぎょう	Reparatur、asketische Übung (Buddh.)
+1859	チン	珍味	ちんみ	Delikatesse
+1860	シン	診察	しんさつ	Ärztliche Untersuchung
+1861	モン、ブン	文句、文法	もんく、ぶんぽう	Ausdruck; Beschwerde、Grammatik
+1862	タイ・ツイ、タイ・ツイ	反対、一対	はんたい、いっつい	Gegenteil; Opposition、ein Paar
+1863	モン	指紋	しもん	Fingeradruck
+1865	ハン	斑点	はんてん	Tüpfel; Sprenkel
+1866	せい	斉唱	せいしょう	Singen im Einklang
+1867	ザイ	洗剤	せんざい	Waschmittel
+1868	サイ	経済	けいざい	Wirtschaft; Ökonomie
+1869	サイ	書斎	しょさい	Studierzimmer
+1870	シュク	自粛	じしゅく	Selbstdisziplin
+1871	ルイ	盗塁	とうるい	gestohlenes Mal (Baseball)
+1872	ガク、ラク	音楽、楽観主義	おんがく、らっかんしゅぎ	Musik、Optimismus
+1873	ヤク	薬局	やっきょく	Apotheke
+1874	ソツ、リツ	率先、能率	そっせん、のうりつ	Pionier; Anstoßgeber、Effizienz; Effektivität
+1875	ジュウ	渋滞	じゅうたい	Stauung; Verzögerung
+1876	セツ	摂取	せっしゅ	Vorsehungoder Schutz durch einen Buddha oder Bodhisattva auf dem Weg zur Erlösung
+1877	オウ	中央	ちゅうおう	Mitte; Zentrum
+1878	エイ	英語	えいご	Englisch
+1879	エイ	映画	えいが	Film; Lichtspiel
+1880	セキ、シャク	赤飯、赤銅	せきはん、しゃくどう	Reis mit roten Bohnen、Legierung aus Gold und Kupfer
+1881	シャ	赦免	しゃめん	Begnadigung; Amnestie
+1882	ヘン	大変	たいへん	ungeheuer; schrecklich; schlimm
+1883	セキ	踪跡	そうせき	Spuren (hinsichtl. Aufenthalts)
+1884	バン	野蛮	やばん	Barbarei
+1885	レン	失恋	しつれん	unglückliche, verschmähte Liebe
+1886	ワン	台湾	たいわん	Taiwan
+1887	オウ、コウ	黄金、黄葉	おうごん、こうよう	Gold、Herbstfarben
+1888	オウ	横断	おうだん	Über-, Durchquerung
+1889	ハ	把握	はあく	Ergreifen; Fassen
+1890	シキ、ショク	色紙、特色	しきし、とくしょく	rechteckiges Papierstück für ein Gedicht oder Unterschrift、Eigenart; Charakteristikum
+1891	ゼツ	絶対	ぜったい	Absolutheit; Unbedingtheit
+1892	エン	艶聞	えんぶん	Liebesaffäre
+1893	ヒ	肥料	ひりょう	Dünger
+1894	カン	甘酸辛苦	かんさんしんく	süß, sauer, scharf, bitter
+1895	コン	紫紺	しこん	Purpurblau; Dunkellila
+1896	ボウ	某氏	ぼうし	eine gewisse Person
+1897	ボウ、ム	陰謀、謀反	いんぼう、むほん	Verschwörung; Komplott、Verschwörung; Rebellion
+1898	バイ	媒介	ばいかい	Vermittlung
+1899	ギ	詐欺	さぎ	Betrug; Schwindel
+1900	キ	将棋	しょうぎ	jap. Schachspiel (Shogi)
+1901	キ	国旗	こっき	Nationalflagge
+1902	キ、ゴ	学期、最期	がっき、さいご	Semester、Lebensende; Moment des Todes
+1903	ゴ	囲碁	いご	Go-Spiel
+1904	キ	基本	きほん	Grundlage
+1905	ジン	甚大	じんだい	enorm; groß
+1906	カン	勘定	かんじょう	Zahlung; Begleichung
+1907	カン	堪忍	かんにん	Verzeihung; Langmut
+1908	キ	貴族	きぞく	Adel
+1909	ユイ、イ	遺言、拾遺	ゆいごん、しゅうい	Testament; letzter Wille、Nachlese, Auslese (auflesen und hinterlassen)
+1910	ケン	派遣	はけん	Entsendung
+1911	カイ	潰瘍	かいよう	Geschwür
+1912	ブ	舞台	ぶたい	Bühne
+1913	ブ、ム	無礼、無理	ぶれい、むり	Unhöflichkeit; Frechheit;、Unmöglichkeit; Unvernunft
+1914	ソ	組織	そしき	Organisation; System; Struktur
+1915	ソ	粗末	そまつ	einfach; Ungeschliffen
+1916	ソ	租税	そぜい	Steuer; Abgabe
+1917	ソ	狙撃	そげき	Scharfschießen
+1918	ソ	祖先	そせん	Vorfahren; Ahnen
+1919	ソ	阻止	そし	Behinderung; Verhinderung
+1920	サ	調査	ちょうさ	Untersuchung; Nachforschung
+1921	ジョ	援助	えんじょ	(finanzielle) Unterstützung
+1922	ギ	便宜主義	べんぎしゅぎ	Opportunismus
+1923	ジョウ	八畳	はちじょう	8 Tatami Matten (groß)
+1924	ヘイ	並行	へいこう	Parallele; Gleichlauf
+1925	フ	普及	ふきゅう	Ausbreitung; Verbreitung
+1926	フ	楽譜	がくふ	Partitur
+1927	ケ	湿気	しっき	Feuchtigkeit
+1928	ケン	顕微鏡	けんびきょう	Mikroskop
+1929	セン	繊維	せんい	Faser; Textiles
+1930	レイ、リョウ	聖霊、怨霊	せいれい、おんりょう	der Heilige Geist、Rachegeist
+1931	ギョウ、ゴウ	営業中、宿業	えいぎょうちゅう、しゅくごう	"Geöffnet"、Karma
+1932	ボク	撲殺	ぼくさつ	Totschlag
+1933	ボク	僕	ぼく	Ich (Männersprache)
+1934	キョウ	共産主義	きょうさんしゅぎ	Kommunismus
+1935	キョウ、ク	供給、供養	きょうきゅう、くよう	Versorgung、buddhistische "Messe"
+1936	イ	異常	いじょう	Abnormität; Ungewöhnliches
+1937	ヨク	右翼	うよく	Rechter Flügel (Politisch)
+1938	タイ	戴冠式	たいかんしき	Krönungszeremonie
+1939	コウ	洪水	こうずい	Überschwemmung; Hochwasser
+1940	コウ	空港	くうこう	Flughafen
+1941	バク、ボウ	暴露、乱暴	ばくろ、らんぼう	Aufdeckung; Entlarvung、Wildheit; Gewalttätigkeit
+1942	バク	爆発	ばくはつ	Explosion
+1943	キョウ	恭敬	きょうけい	Ehrerbietung; Respekt
+1944	シュ	選手	せんしゅ	Sportler
+1945	デン、テン	宮殿、御殿	きゅうでん、ごてん	Palast; Schloss、Palast; Residenz
+1946	ヰ(ショウ)、ジョウ、セイ	井戸、天井、油井	いど、てんじょう、ゆせい	Brunnen、Zimmerdecke、Ölquelle
+1949	コウ	農耕	のうこう	Landwirtschaft
+1950	ア	東亜	とうあ	Ostasien
+1951	アク、オ	悪魔、憎悪	あくま、ぞうお	Teufel、Hass; Abscheu
+1952	エン	千円	せんえん	￥1,000
+1953	カク	兎に角	とにかく	jedenfalls; auf jeden Fall (Hörner auf dem Kaninchen)
+1954	ショク	接触	せっしょく	Kontakt
+1955	カイ、ゲ	解釈、解脱	かいしゃく、げだつ	Interpretation、Befreiung (i.S.v. Erlösung)
+1956	サイ、サ	再開、再来年	さいかい、さらいねん	Wiedereröffnung; Wiederaufnahme、Übernächstes Jahr
+1957	コウ	講義	こうぎ	Vorlesung
+1958	コウ	購入	こうにゅう	Einkauf; Ankauf
+1959	コウ	機構	きこう	Mechanismus; Gefüge; Struktur
+1960	コウ	排水溝	はいすいこう	Abflussgraben
+1961	ロン	勿論	もちろん	selbstverständlich; selbstredend
+1962	リン	倫理学	りんりがく	Ethik; Moralphilosophie
+1963	リン	五輪	ごりん	die Olympischen Spiele
+1964	ヘン	偏見	へんけん	Voreingenommenheit
+1965	ヘン	普遍	ふへん	Universelles
+1966	ヘン	編集	へんしゅう	Redaktion
+1967	サク、サツ	短冊、二冊	たんざく、にさつ	schmale Papierstreifen, auf die Gedichte geschrieben werden、zwei (Bände)
+1968	サク	鉄柵	てっさく	Eisenzaun; Geländer
+1969	テン	英和辞典	えいわじてん	Wörterbuch Englisch-Japanisch
+1970	シ	氏名	しめい	Vor- und Nachname
+1971	シ	紙幣	しへい	Papiergeld
+1972	コン	婚姻	こんいん	Eheschließung
+1973	テイ	低級	ていきゅう	niederer Rang; Vulagrität
+1974	テイ	大抵	たいてい	größtenteils; meistens
+1975	テイ	海底	かいてい	Meeresboden
+1976	ミン	国民	こくみん	Staatsvolk
+1977	ミン	安眠	あんみん	ruhiger Schlaf
+1978	ホ	逮捕	たいほ	Verhaftung; Festnahme
+1979	ホ	哺乳動物	ほにゅうどうぶつ	Säugetier
+1982	ほ	店舗	てんぽ	Laden; Geschäft
+1983	ホ	補助金	ほじょきん	Subvention
+1984	テイ	私邸	してい	privater Wohnsitz
+1985	カク	郭公	かっこう	Kuckuck
+1986	カイ	郡会	ぐんかい	Versammlung des Landkreises
+1987	コウ	郊外	こうがい	Vororte
+1988	へ、ブ	部屋、全部	へや、ぜんぶ	Zimmer、alles; gesamt
+1989	ト、ツ	京都、都合	きょうと、つごう	Kioto、Umstände; Gelegenheit
+1990	ユウ	郵便	ゆうびん	Post
+1991	ホウ	連邦	れんぽう	Bundesstaat
+1992	ナ	旦那	だんな	(Ehe-)mann; Patron
+1993	キョウ、ゴウ	故郷、郷社	ふるさと、ごうしゃ	Geburtsort; Heimat、Dorfschrein
+1994	キョウ	影響	えいきょう	Einfluss
+1995	ロウ	新郎	しんろう	Bräutigam
+1996	ロウ	画廊	がろう	Gemäldegalerie
+1997	ジュン	矛盾	むじゅん	Wiederspruch (wörtlicher)
+1998	ジュン	循環	じゅんかん	Kreislauf; Zirkulation
+1999	ハ	派遣	はけん	Entsendung
+2000	ミャク	動脈	どうみゃく	Arterie
+2001	シュウ、シュ	大衆、衆生	たいしゅう、しゅじょう	die Massen、empfindende Wesen
+2002	テイ	逓送	ていそう	Übermittlung; Beförderung
+2003	ダン	階段	かいだん	Treppe
+2004	タン	鍛錬	たんれん	Schmieden; Abhärten
+2005	コウ	皇后陛下	こうごうへいか	ihre Majestät, die Kaiserin
+2006	ゲン	幻想	げんそう	Illusion; Vision
+2007	シ	司会者	しかいしゃ	Vorsitzender; Showmaster
+2008	シ	伺候	しこう	Aufwartung; Höflichkeitsbesuch
+2009	シ	歌詞	かし	Liedtext
+2010	シ	飼育	しいく	Züchtung (von Tieren)
+2011	シ	嗣子	しし	Erbe; Stammhalter
+2012	シュウ	舟艇	しゅうてい	Wasserfahrzeug
+2013	ハク	舶来品	はくらいひん	Importware
+2014	コウ	航海	こうかい	Seefahrt; Navigation
+2015	ゲン	舷窓	げんそう	Bullauge
+2016	ハン	一般	いっぱん	Allgemeinheit; Üblichkeit
+2017	バン	円盤	えんばん	Scheibe; Diskus
+2018	パン	運搬	うんぱん	Beförderung; Transport
+2019	セン	船長	せんちょう	Kapitän (eines Schiffs)
+2020	カン	艦長	かんちょう	Kapitän (eines Kriegsschiffes)
+2021	テイ	艦艇	かんてい	Kriegsflotte
+2022	カ	西瓜	すいか	Wassermelone
+2023	コ	円弧	えんこ	Kreisbogen
+2024	コ	孤独	こどく	Einsamkeit; Verlassenheit
+2025	ケン	繭糸	けんし	Seidenfaden (eines Kokons)
+2026	エキ、ヤク	利益、御利益	りえき、ごりやく	Gewinn; Profit、Gnade des Buddhas
+2027	カ	余暇	よか	Muße
+2028	フ	敷設	ふせつ	Vorlegen (z.B. Schienen)
+2029	ライ	来年	らいねん	kommendes, nächstes Jahr
+2030	キ、シツ	天気、湿気	てんき、しっき	Wetter、Feuchtigkeit
+2031	キ	汽車	きしゃ	(Dampf-)Eisenbahn
+2032	ヒ	飛行機	ひこうき	Flugzeug
+2033	チン	沈黙	ちんもく	Schweigen; Stille
+2035	サイ	恐妻家	きょうさいか	Pantoffelheld
+2036	セイ	凄気	せいき	Gefühl von Empörung oder Furcht
+2037	スイ	衰弱	すいじゃく	Schwäche
+2038	チュウ	衷心	ちゅうしん	Herzensinneres; Herzensgrund
+2039	メン	面倒	めんどう	Scherereien
+2040	メン	麺類	めんるい	Nudeln
+2041	カク	改革	かいかく	Reform; Reformation
+2042	カ	製靴	せいか	Schuhmacherhandwerk
+2043	ハ	覇権	はけん	Vorherrschaft; Meisterschaft
+2044	セイ、ショウ	声明、大音声	せいめい、だいおんじょう	Erklärung; Kommuniqué、schallende Stimme
+2045	ビ、ミ	柳眉、眉間	りゅうび、みけん	schöne Augenbrauen、Stelle zwischen den Augenbrauen
+2046	ゴ	呉服	ごふく	Tuch; Seidenstoff (Seidenstoff für Kimonos)
+2047	ゴ	娯楽	ごらく	Vergnügung; unterhaltung
+2048	ゴ	誤解	ごかい	Missverständnis
+2049	ジョウ	蒸発	じょうはつ	Verdunstung
+2050	ショウ	承認	しょうにん	Anerkennung; Billigung
+2051	カン	青函トンネル	せいかんとんねる	Aomori-Hakodate (Zugtunnel)
+2052	キョク、ゴク	積極、極秘	せっきょく、ごくひ	Positivität、strenge Geheimhaltung
+2053	ガ、ゲ	牙城、象牙	がじょう、ぞうげ	Hochburg、Elfenbein
+2054	ガ	発芽	はつが	Keimen; Sprießen
+2055	ジャ	邪魔	じゃま	Störung; Hindernis
+2056	ガ	優雅	ゆうが	Eleganz, Grazie
+2057	シャク	解釈	かいしゃく	Interpretation
+2058	バン	電話番号	でんわばんごう	Telefonnummer
+2059	シン	陪審	ばいしん	Geschworene
+2060	ホン	翻訳	ほんやく	Übersetzung
+2061	ハン	廃藩	はいはん	Abschaffung des Feudalclans
+2062	モウ	毛布	もうふ	(Woll-)Decke
+2063	モウ、コウ	消耗、心神耗弱	しょうもう、しんしんこうじゃく	Konsum; Verbrauch、verminderte Schuldfähigkeit
+2064	ビ	尾行	びこう	Beschattung; Verfolgung
+2065	タク	自宅	じたく	(Privat-)Wohnung
+2066	タク	神託	しんたく	Orakelspruch
+2067	ゐ(イ)	行為	こうい	Betragen; Handlung; Tat
+2068	ギ	虚偽	きょぎ	Unwahrheit; falsche Aussage
+2069	イ	畏敬	いけい	Ehrfurcht
+2070	チョウ	社長	しゃちょう	Firmenchef
+2071	チョウ	主張	しゅちょう	Behauptung; Beteuerung
+2072	チョウ	通帳	つうちょう	Sparbuch; Kontobuch
+2073	チョウ	膨脹	ぼうちょう	Anschwellen; Inflation
+2074	ハシ	金髪	きんぱつ	blond
+2075	テン	発展	はってん	Entwicklung; Entfaltung
+2076	ソウ	喪失	そうしつ	Verlust; Einbuße
+2077	ソウ	卵巣	らんそう	Eierstock
+2078	タン	簡単	かんたん	Einfachheit; Unkompliziertheit
+2079	セン	戦争	せんそう	Krieg
+2080	ゼン	座禅	ざぜん	Zen-Meditation im Sitzen
+2081	ガン	弾丸列車	だんがんれっしゃ	Schnellzug
+2082	オウ	観桜会	かんおうかい	Feier zur Schau der Kirschblüten
+2083	ジュウ	獣医	じゅうい	Tierarzt
+2084	ノウ	首脳	しゅのう	Staatsführung; Spitze
+2085	ノウ	苦悩	くのう	Qual; Leiden
+2086	グン、ゴン	厳禁、華厳経	げんきん、けごんきょう	"Streng verboten!"、Die Avatamska-Sutra, ein insbesondere von der Kegon (huayen)-Sekte verehrter Buddhistischer Text
+2087	サ	鎖国	さこく	Isolierung eines Landes
+2088	キョ	選挙	せんきょ	wahlen (politisch)
+2089	ヨ	名誉教授	めいよきょうじゅ	Emeritus
+2090	リョウ	狩猟	しゅりょう	Jagd (auf Wild)
+2091	チョウ	白鳥	はくちょう	Schwan
+2092	メイ	悲鳴	ひめい	Aufschrei
+2094	ウ	烏竜茶	うーろんちゃ	dunkler chin. (Ulong) Tee
+2097	ケイ	鶏卵	けいらん	Hühner-Ei
+2098	トウ	半島	はんとう	Halbinsel
+2099	ダン	暖房	だんぼう	Heizung
+2100	エン	才媛	さいえん	begabte, gebildete Frau
+2101	エン	援助	えんじょ	(finanzielle) Unterstützung
+2102	カン	緩和	かんわ	MIlderung; Erleichterung
+2103	ゾク	所属	しょぞく	Angehörigkeit; Zugehörigkeit
+2104	ショク	委嘱	いしょく	Anvertrauen; Auftrag
+2105	グウ	偶像	ぐうぞう	Idol; Götterstatue
+2106	グウ	偶像	ぐうぞう	Begegnung
+2107	グ	愚痴	ぐち	Quengelei
+2108	グウ	一隅	いちぐう	Eine Ecke; Ein Winkel
+2109	ギャク	逆転	ぎゃくてん	Umkehrung; Wendung
+2110	ソ	塑像	そぞう	Ton-; Gipsfigur
+2111	ソ	遡及	そきゅう	Rückwirkung
+2113	コウ	鋼鉄	こうてつ	Stahl
+2114	コウ	綱領	こうりょう	Grundriss, Leitgedanke
+2115	ゴウ	剛健	ごうけん	Standhaftigkeit; Stärke
+2116	カン	缶	かん	Büchse; Blechdose
+2117	トウ、トウ	陶器、陶酔	とうき、とうすい	Töpferwaren; Keramik、Trunkenheit
+2118	ヨウ	動揺	どうよう	Rütteln; Erschütterung
+2119	ヨウ	民謡	みんよう	Volkslied
+2120	ウツ	鬱病	うつびょう	Depression
+2121	シュウ、ジュ	就職、成就	しゅうしょく、じょうじゅ	eine Tätigkeit aufnehmen、Erlangung; Erreichen
+2122	シュウ	蹴球	しゅうきゅう	Fußball (alte Bezeichnung)
+2123	コン	懇親会	こんしんかい	geselliges Beisammensein
+2124	コン	開墾	かいこん	Rodung; Urbarmachung
+2125	ボウ	全貌	ぜんぼう	Gesamtbild; voller Sachverhalt
+2126	メン	ご免	ごめん	"Ich bitte um Vergebung!"
+2127	イツ	秀逸	しゅういつ	Exzellenz
+2128	バン	晩御飯	ばんごはん	Abendessen
+2129	ベン	勉強	べんきょう	Studium; Lernen
+2130	ゾウ、ショウ	象、気象	ぞう、きしょう	Elefant、Wetter
+2131	ゾウ	想像	そうぞう	Vorstellung; Fantasie
+2132	バ	馬車	ばしゃ	Pferdefuhrwerk
+2134	ケン、ゲン	試験、霊験	しけん、れいげん	Prüfung; Examen、Wunder
+2135	キ	騎士	きし	Ritter
+2136	チュウ	駐車場	ちゅうしゃじょう	Parkplatz
+2137	ク	先駆	さきがけ	Vorbote
+2138	エキ	駅長	えきちょう	Bahnhofsvorsteher
+2139	ソウ	騒動	そうどう	Unruhe; Streit
+2140	タ・ダ、タ・ダ	下駄、無駄	げた、むだ	Holzpantoffeln、Nutzlosigkeit; Vergeblichkeit
+2141	キョウ	驚異	きょうい	Verwunderung; Erstaunen
+2142	トク	危篤	きとく	lebensgefährliche Erkrankung
+2143	バ	嘲罵	ちょうば	Verunglimpfung; Beleidigung
+2144	トウ	沸騰	ふっとう	Kochen; Sieden
+2145	コ	虎口	ここう	Fänge des Todes (Maul des Tigers)
+2146	リョ	捕虜	ほりょ	(Kriegs-)Gefanger
+2147	フ	皮膚	ひふ	Haut
+2148	キョ、コ	虚偽、虚空	きょぎ、こくう	Unwahrheit; falsche Aussage、Leere; Nichts
+2149	ギ	遊戯	ゆうぎ	Spiel; Unterhaltung
+2151	リョ	遠慮	えんりょ	Zurückhaltung; Beherrschung
+2152	ゲキ	劇場	げきじょう	Theater
+2153	ギャク	虐殺	ぎゃくさつ	Gemetzel; Massaker
+2155	ロク	山麓	さんろく	Fuß eines Berges
+2156	セン	推薦	すいせん	Empfehlung
+2157	応	慶応大学	けいおうだいがく	Keiō-Universität (in Tokio)
+2158	レイ	綺麗	きれい	schön; sauber; ordentlich
+2160	ノウ	芸能界	げいのうかい	Welt der Unterhaltung
+2161	タイ	態度	たいど	Einstellung; Haltung
+2163	エン	演説	えんぜつ	Ansprache; Rede
+2164	シン	辰宿	しんしゅく	Haus des Drachen (sinojapanischer Sternentierkreis)
+2165	ジョク	屈辱	くつじょく	Erniedrigung; Schande
+2166	シン	震動	しんどう	Beben; Erschütterung
+2167	シン	三振	さんしん	Strikeout (Beim Baseball)
+2168	シン	妊娠	にんしん	Schwangerschaft
+2169	シン	口唇	こうしん	Lippen
+2170	ノウ	農学校	のうがっこう	Landwirtschaftskunde
+2171	ノウ	濃厚	のうこう	Dicke; Dichte
+2172	ソウ	放送	ほうそう	Rundfunk
+2173	カン	玄関	げんかん	Eingang(sbereich)
+2175	キ	疑心暗鬼	ぎしんあんき	nagender Zweifel
+2176	シュウ	美醜	びしゅう	Schönheit und Hässlichkeit; persönliches Erscheinungsbild
+2177	コン	魂胆	こんたん	verborgene Absicht
+2178	マ	魔女	まじょ	Hexe
+2179	ミ	魅力	みりょく	Reiz; Charme
+2180	カイ	塊状	かいじょう	Massigkeit; Massivität
+2181	シュウ	襲撃	しゅうげき	Überfall; Angriff
+2182	カク	威嚇	いかく	Einschüchterung; Bedrohung
+2183	チン	朕	ちん	(erste Person Singular, dem Kaier vorbehalten und mit keinem anderen Kanji verbunden)
+2184	フン	雰囲気	ふんいき	Atmosphäre; Stimmung
+2185	カ	一箇月	いっかげつ	einen Monat
+2186	レン	錬金術	れんきんじゅつ	Alchemie
+2187	ジュン	遵法	じゅんぽう	Gesetzesztreue
+2188	ヒ	罷業	ひぎょう	Arbeitsniederlegung; Streik
+2189	トン	駐屯	ちゅうとん	Stationierung
+2191	ソウ	海藻	かいそう	Seetand; Algen
+2192	レイ	奴隷	どれい	Sklave
+2193	ユ	癒着	ゆちゃく	Verkleben; Verwachsen
+2194	ジ	国璽	こくじ	großes Staatssiegel
+2196	タン	丹誠	たんせい	Aufrichtigkeit
+2198	シュウ	羞恥	しゅうち	Scham(gefühl)

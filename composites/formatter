@@ -1,0 +1,57 @@
+#!/bin/bash
+kanji_ref="Kanji.txt"
+composite_ref="composites"
+
+countpipes(){
+	var="$1"
+	res="${var//[^|]}"
+	echo "${#res}"
+}
+
+for i in {1..2200}; do
+	kanji="$(grep -P "^$i\t" "$kanji_ref" | cut -f2)"
+	regexp_composites="^L-\d{1,4}\t$kanji"
+	composites_line="$(grep -P "$regexp_composites" "$composite_ref" )"
+	#echo "$composites_line"
+	ON_readings="$( echo "$composites_line" | cut -f3 |  tr '\n' '|' | uniq | sed 's/|$//')"
+	if [ "$ON_readings" = "" ]; then
+		#echo "No composites found for the kanji $kanji"
+		continue
+	fi
+	composites="$( echo "$composites_line" | cut -f4 | awk '!seen[$0]++' | tr '\n' '|' | sed 's/|$//')"
+	composites_kana="$( echo "$composites_line" | cut -f5 | awk '!seen[$0]++' | tr '\n' '|' | sed 's/|$//')"
+	composites_meaning="$( echo "$composites_line" | cut -f6 | awk '!seen[$0]++' | tr '\n' '|' | sed 's/|$//')"
+
+	#CHECK FOR CORRECT FORMATTING
+	if [ "$ON_readings" = "" ];then
+		echo missing on reading for no. $i
+	fi
+	if [ "$composites" = "" ];then
+		echo missing composites for no. $i
+	fi
+	if [ "$composites_kana" = "" ];then
+		echo missing composites kana no. $i
+	fi
+	if [ "$( echo "$composites_kana"  | grep -E '(\[|\])')" != "" ];then
+		echo composite likely in composites_kana for no.$i
+		echo "composite_kana: $composites_kana"
+	fi
+	if [ "$composites_meaning" = "" ];then
+		echo missing composite meaning for $i
+	fi
+	flag=0
+	if [ "$(countpipes "$ON_readings")" != "$(countpipes "$composites")" ]; then
+		flag=1
+	elif [ "$(countpipes "$composites")" != "$(countpipes "$composites_kana")" ]; then
+		flag=1
+	elif [ "$(countpipes "$composites_kana")" != "$(countpipes "$composites_meaning")" ]; then
+		flag=1
+	fi
+	if [ $flag -eq 1 ]; then
+		echo line-mismatch for kanji no.$i
+	fi
+
+	#WANTED OUTPUT
+		printf '%s\t%s\t%s\t%s\t%s\n' "$i" "$ON_readings" "$composites" "$composites_kana" "$composites_meaning"
+	#sleep 0.2
+done

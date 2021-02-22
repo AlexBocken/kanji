@@ -1,0 +1,23 @@
+#!/bin/bash
+
+for i in {1..3218}; do
+	reading_indexx="L-$i"
+	foreign_kanji="$(grep "${reading_indexx}$" kanji_behalten.txt | cut -f4 | grep -o '^.')"
+	personal_kanji="$(grep -P "${reading_indexx}," Kanji.txt | cut -f2 )"
+	if [ "$personal_kanji" = "" ]; then
+		personal_kanji="$(grep -P "${reading_indexx}$" Kanji.txt | cut -f2 )"
+	fi
+	#echo "personal: $personal_kanji"
+	#echo "foreign: $foreign_kanji"
+	if [ "$foreign_kanji" != "$personal_kanji" ]; then
+		[ "$foreign_kanji" != "" ] && printf 'Kanji mismatch for %s:\tP:%s\tF:%s\n' "$reading_index" "$personal_kanji" "$foreign_kanji"
+		#continue
+	fi
+	composite="$(grep "${reading_indexx}$" kanji_behalten.txt | cut -f1 )"
+	meaning_german="$(grep "${reading_indexx}$" kanji_behalten.txt | cut -f2 )"
+	composite_kana="$(grep "${reading_indexx}$" kanji_behalten.txt | cut -f3 | tr -d '"' | sed "s/^${composite}.* //" )"
+	#echo "composite_kana: $composite_kana"
+	kanji_kana="$(grep "${reading_indexx}$" kanji_behalten.txt | cut -f4 | perl -pe 's/^.*?\[(.*?)\]/\1/')"
+	printf '%s\t%s\t%s\t%s\t%s\t%s\n' "$reading_indexx" "$personal_kanji" "$kanji_kana" "$composite" "$composite_kana" "$meaning_german"
+	#sleep 2
+done;
