@@ -65,7 +65,7 @@
 74	シュ	首相	しゅしょう	Premieminister
 75	オツ	甲乙兵	こうおつへい	A, B, C (alte Aufzählweise)
 76	ラン	乱暴	らんぼう	Wildheit; Gewalttätigkeit
-77	チョク・ジキ、チョク・ジキ	直面、正直	ちょくめん、しょうじき	Konfrontation、Aufrichtigkeit; Ehrlichkeit
+77	チョク、ジキ	直面、正直	ちょくめん、しょうじき	Konfrontation、Aufrichtigkeit; Ehrlichkeit
 78	グ	家具	かぐ	Möbel
 79	シン	真実	しんじつ	Wahrheit; Tatsache
 80	コウ、ク	人工、大工	じんこう、だいく	Menschenwerk; Künstlichkeit、Zimmermann
@@ -90,12 +90,12 @@
 99	シ、ス	帽子、様子	ぼうし、ようす	Hut; Mütze、Zustand; Lage; Umstände
 100	コウ	孔子	こんつー	Konfuzius
 101	リョウ	終了	しゅうりょう	Abschluss; Beendigung
-102	め・メ(ジョ)、ジョ、ニョウ、ニョ	女神、女性、女房、天女	めがみ、じょせい、にょうぼう、てんにょ	Göttin、Frau; weibliches Geschlecht、(eigene) Ehefrau、Himmlisches Mädchen; Fee
+102	メ、ジョ、ニョウ、ニョ	女神、女性、女房、天女	めがみ、じょせい、にょうぼう、てんにょ	Göttin、Frau; weibliches Geschlecht、(eigene) Ehefrau、Himmlisches Mädchen; Fee
 103	コウ	好評	こうひょう	positive Kritik
 104	ジョ、ニョ	如才、如来	じょさい、にょらい	(welt)gewandt、der Tatagatha (ein Titel Buddhas)
 105	ボ	祖母	そぼ	Großmutter
 106	カン	貫通	かんつう	Durchbohren; Durchdringen
-107	ケイ・キョウ、ケイ・キョウ	父兄、兄弟	ふけい、きょうだい	der Vater und die älteren Brüder、Geschwister
+107	ケイ、キョウ	父兄、兄弟	ふけい、きょうだい	der Vater und die älteren Brüder、Geschwister
 108	ジュ	呪術	じゅじゅつ	Magie
 109	コク	克己	こっき	Selbstüberwindung
 110	ショウ	小学校	しょうがっこう	Grundschule
@@ -153,7 +153,7 @@
 163	アツ	圧迫	あっぱく	Unterdrückung
 166	テン	填補	てんぽ	Ausgleichen (Fehlbetrag)
 167	ケイ	圭子	けいこ	Keiko (weiblicher Vorname)
-168	フウ・ホウ、フウ・ホウ	封筒、封建	ふうとう、ほうけん	Umschlag、Feudalismus
+168	フウ、ホウ	封筒、封建	ふうとう、ほうけん	Umschlag、Feudalismus
 169	ガイ	生涯	しょうがい	Lebensdauer; das Leben
 170	ジ	寺内	じない	Innerhalb eines Tempelbezirks
 171	ジ、ジ	九時、時間	くじ、じかん	9 Uhr、Zeit; Stunde
@@ -290,7 +290,7 @@
 312	カク、コウ	性格、格子	せいかく、こうし	Charakter; Natur、Gitter
 313	ロ	賄賂	まいない	Bestechung
 314	リャク	略語	りゃくご	Abkürzung
-315	キャク、キャク・カク、キャク・カク	客、お客さん、旅客	きゃく、おきゃくさん、りょかく	Gast、Gast (höflich)、Fahrgast
+315	キャク、カク	客、お客さん、旅客	きゃく、おきゃくさん、りょかく	Gast、Gast (höflich)、Fahrgast
 316	ガク	全額	ぜんがく	Gesamtbetrag (Geld)
 317	カ、ゲ	夏期、夏至	かき、げし	Sommerszeit、Sommersonnenwende
 318	ショ	処分	しょぶん	Handhabung; Beharrlich
@@ -361,7 +361,7 @@
 383	サイ	記載	きさい	Bericht; Notiz (in der Presse)
 384	モ	繁茂	はんも	üppiges Wachstum (bei Bäumen)
 385	セキ	親戚	しんせき	Verwandte
-386	ジョウ・セイ、ジョウ・セイ	成功、成仏	せいこう、じょうぶつ	Erfolg、Erlangen der "Buddhaschaft"
+386	ジョウ、セイ	成功、成仏	せいこう、じょうぶつ	Erfolg、Erlangen der "Buddhaschaft"
 387	ジョウ	城内	じょうない	innerhalb einer Burg
 388	セイ	忠誠	ちゅうせい	Treue; Loyalität
 389	イ	威圧的	いあつてき	überwältigend
@@ -380,7 +380,7 @@
 402	レキ	歴史	れきし	Geschichte; Historie
 403	む(ム)、ブ	武者、武士	むしゃ、ぶし	Krieger、(Samurai-)Krieger
 404	フ	月賦	げっぷ	Monatsrate
-405	ショウ・セイ、ショウ・セイ	正月、正義	しょうがつ、せいぎ	Januar; Neujahrstag、Gerechtigkeit
+405	ショウ、セイ	正月、正義	しょうがつ、せいぎ	Januar; Neujahrstag、Gerechtigkeit
 406	ショウ	保証	ほしょう	Garantie
 407	セイ、ショウ	政府、摂政	せいふ、せっしょう	Regierung、Regent(-schaft)
 408	ジョウ、テイ	定紋、指定席	じょうもん、していせき	Familienwappen、reservierter Platz
@@ -411,7 +411,7 @@
 434	ハン	帆船	ほぶね	Segelboot
 435	フク	全幅	ぜんぷく	voller Umfang; alles
 436	ボウ	帽子	ぼうし	Hut; Mütze
-437	バク・マク、バク・マク	幕府、幕開	ばくふ、かいまく	Shogunat、Hochziehen des Vorhangs
+437	バク、マク	幕府、幕開	ばくふ、かいまく	Shogunat、Hochziehen des Vorhangs
 439	キン	錦鶏	きんけい	Goldfasan
 440	シ	市長	しちょう	Bürgermeister
 442	シ	姉妹	しまい	Schwestern
@@ -437,7 +437,7 @@
 462	リツ、リュウ	独立、建立	どくりつ、こんりゅう	Unabhängigkeit、Errichtung; Bauen
 463	キュウ	感泣	かんきゅう	zu tränen gerührt sein
 464	ショウ	文章	ぶんしょう	Abhandlung; Geschriebenes
-465	ケイ・キョウ、ケイ・キョウ	競馬、競争	けいば、きょうそう	Pferderennen、Konkurrenz; Wettbewerb
+465	ケイ、キョウ	競馬、競争	けいば、きょうそう	Pferderennen、Konkurrenz; Wettbewerb
 466	テイ	帝国	ていこく	Kaiserreich
 467	テイ	諦観	ていかん	Resignation; Einsicht
 469	ドウ	瞳孔	どうこう	Pupille
@@ -490,14 +490,14 @@
 521	シキ	知識	ちしき	Wissen; Kenntnis
 522	キョウ	鏡台	きょうだい	Spiegeltisch; Frisierkommode
 523	キョウ、ケイ	境界、境内	きょうかい、けいだい	Grenze、Anlage; Bezirk
-524	ボウ・モウ、ボウ・モウ	死亡、亡者	しぼう、毛じゃ	Tod、die Toten
+524	ボウ、モウ	死亡、亡者	しぼう、毛じゃ	Tod、die Toten
 525	モウ	盲目	もうもく	Blindheit
 526	モウ、ボウ	妄想、妄言	もうそう、ぼうげん	Wahn(vorstellung; -idee)、Geschwätz
 527	コウ	荒野	こうや	Ödnis
-528	ボウ・モウ、ボウ・モウ	希望、本望	きぼう、ほんもう	Hoffnung、lang gehegter Wunsch
+528	ボウ、モウ	希望、本望	きぼう、ほんもう	Hoffnung、lang gehegter Wunsch
 529	ホウ	方面	はうめん	Richtung
 530	ボウ	妨害	ぼうがい	Störung; Behinderung
-531	ボウ・ボツ、ボウ・ボツ	坊主、坊ちゃん	ぼうず、ぼうちゃん	buddh. Priester; Bonze、junger Herr; grüner Junge
+531	ボウ、ボツ	坊主、坊ちゃん	ぼうず、ぼうちゃん	buddh. Priester; Bonze、junger Herr; grüner Junge
 532	ホウ	芳志	ほうし	"ihre Liebenswürdigkeit"
 533	ボウ	脂肪	しぼう	Fett
 534	ホウ	訪問	ほうもん	Besuch; Aufwartung
@@ -529,7 +529,7 @@ composite_kana: 蛍光[けいこう] 電灯[でんとう]
 561	ドク	独立	どくりつ	Unabhängigkeit
 562	サン	養蚕	ようさん	Seidenanbau; Raupenzucht
 563	フウ、フ	台風、風呂	たいふう、ふろ	Taifun、heißes japanisches Bad
-564	コ、キ・コ	自己、知己	じこ、ちき	eigene Person; das Selbst、Bekanntschaft
+564	コ、キ	自己、知己	じこ、ちき	eigene Person; das Selbst、Bekanntschaft
 565	キ	起源	きげん	Ursprung; Quelle
 566	ヒ	王妃	おうひ	Königin
 567	カイ	改革	かいかく	Reform; Reformation
@@ -736,11 +736,11 @@ composite_kana: 憎心[ぞうしん]
 774	ケイ	軽食	けいしょく	Imbiss; leichte Mahlzeit
 775	シュク	叔父	しゅくふ	Onkel
 776	トク	監督	かんとく	Regisseur; Trainer
-777	ジャク・セキ、ジャク・セキ	静寂、寂静	せいじゃく、せきせい	Stille; Abgeschiedenheit、sich in Stille begeben
+777	ジャク、セキ	静寂、寂静	せいじゃく、せきせい	Stille; Abgeschiedenheit、sich in Stille begeben
 778	シュク	貞淑	ていしゅく	(weibliche) Keuschheit
-779	ハン・ホン・タン、ハン・ホン・タン、ハン・ホン・タン	反感、謀反、反物	はんかん、むほん、たんもの	Abneigung; Antipathie、Verschwörung; Rebellion、Stoff; Textilien
+779	ハン、ホン、タン	反感、謀反、反物	はんかん、むほん、たんもの	Abneigung; Antipathie、Verschwörung; Rebellion、Stoff; Textilien
 780	ハン	急坂	きゅうはん	Steiler Hügel
-781	ハン・バン	鉄板	てっぱん	Eisenplatte; -blech
+781	ハン	鉄板	てっぱん	Eisenplatte; -blech
 782	ヘン	返事	へんじ	Erwiderung; Antwort
 783	ハン	販売	はんばい	Verkauf; Absatz
 785	ダ	妥当	だとう	Angemessenheit
@@ -798,8 +798,8 @@ composite_kana: 憎心[ぞうしん]
 838	ミツ	蜜房	みつぼう	Honigwabe
 841	ガイ	断崖	だんがい	Abgrund
 842	ニュウ	入院	にゅういん	Aufnahme in ein Krankenhaus
-844	ブン、ブ、フン、フン・ブン・ブ	自分、大分、五分五秒、五分	じぶん、だいぶ、ごふんごびょう、ごふん	man (selbst)、erheblich; beträchtlich、5 Minuten, 5 sekunden、fünf Minuten
-845	ビン、ビン・ヒン	貧乏、貧富	びんぼう、ひんぷ	Armut; Mittellosigkeit、Arm(ut) und Reich(tum)
+844	ブン、ブ、フン	自分、大分、五分五秒、五分	じぶん、だいぶ、ごふんごびょう、ごふん	man (selbst)、erheblich; beträchtlich、5 Minuten, 5 sekunden、fünf Minuten
+845	ビン、ヒン	貧乏、貧富	びんぼう、ひんぷ	Armut; Mittellosigkeit、Arm(ut) und Reich(tum)
 846	ハン	頒布	はんぷ	Verteilung; Verbreitung
 847	コウ	公園	こうえん	(öffentlicher) Park
 848	ショウ	松竹梅	しょうちくばい	Kiefer; Bambus und Pflaume
@@ -885,7 +885,7 @@ composite_kana: 憎心[ぞうしん]
 929	ド	努力	どりょく	Anstrengung; Mühe
 930	ボツ	勃発	ぼっぱつ	Ausbruch; plötzliches Auftreten
 931	レイ	奨励金	しょうれいきん	Subvention
-932	か・カ、カ	加入、加入　かにゅう	かにゅう、Eintritt; Beitritt	Eintritt; Beitritt、
+932	カ、カ	加入、加入　かにゅう	かにゅう、Eintritt; Beitritt	Eintritt; Beitritt、
 933	ガ	祝賀会	しゅくがかい	festliche Versammlung
 934	カ	架空	かくう	Fiktion; aus der Luft
 936	キョウ	脅迫	きょうはく	Erpressung
@@ -907,14 +907,14 @@ composite_kana: 憎心[ぞうしん]
 952	チョウ	象徴	しょうちょう	Symbol; Sinnbild
 953	チョウ	懲罰	ちょうばつ	Disziplinarstrafe; Bestrafung
 954	ビ	微笑	びしょう	ein Lächeln
-955	ガイ・カイ、ガイ・カイ	商店街、街道	しょうてんがい、かいどう	Einkaufsstraße、Fernstraße; Überlandstraße
+955	ガイ、カイ	商店街、街道	しょうてんがい、かいどう	Einkaufsstraße、Fernstraße; Überlandstraße
 957	コウ	均衡	きんこう	Balance
 958	コウ	原稿	げんこう	Manuskript
 959	カ	稼動	かどう	Betrieb (einer Maschine); Arbeit
 960	テイ	程度	ていど	Ausmaß; Grad
 961	ゼイ	税金	ぜいきん	Steuern (Tribut)
 962	チ	幼稚園	ようちえん	Kindergarten
-963	わ・ワ、オ	平和、和尚	へいわ、おしょう	Friede、respektvoller Mönchstitel
+963	ワ、オ	平和、和尚	へいわ、おしょう	Friede、respektvoller Mönchstitel
 964	イ	移民	いみん	Auswandere; Einwanderer
 965	ビョウ、ビョウ	五分五秒、五秒	ごふんごびょう、ごびょう	5 Minuten, 5 sekunden、5 Sekunden
 966	シュウ	秋季	しゅうき	herbstliche Jahreszeit
@@ -1016,7 +1016,7 @@ composite_kana: 憎心[ぞうしん]
 1069	バツ	伐採	ばっさい	Abholzen; Abforsten
 1070	シュク	宿泊	しゅくはく	Unterkunft; Logis
 1071	ショウ	傷害	しょうがい	Verwundung; Verletzung
-1072	ほ・ホ	保安	ほあん	Sicherheit; Aufrechterhaltung der öffentlichen Ordnung
+1072	ホ	保安	ほあん	Sicherheit; Aufrechterhaltung der öffentlichen Ordnung
 1073	ホウ	過褒	かほう	übertriebenes Lob
 1074	ケツ	傑作	けっさく	Meisterwerk; grober Schnitzer
 1075	フ	付与	ふよ	Verleihung; Erteilung
@@ -1063,7 +1063,7 @@ composite_kana: 憎心[ぞうしん]
 1121	カン	召喚	しょうかん	Vorladung
 1122	カン	交換	こうかん	Tausch
 1123	ユウ	金融	きんゆう	Geldwesen; Finanz...
-1124	シ・セ、シ・セ	施行、布施	しこう、ふせ	Vollstreckung; Ausführung、Almosen; Kollekte
+1124	シ、セ	施行、布施	しこう、ふせ	Vollstreckung; Ausführung、Almosen; Kollekte
 1125	セン	旋回	せんかい	Drehung: Rotation
 1126	ユウ、ユ	遊女、遊山	ゆうじょ、ゆさん	Prostituierte、Ausflug im Gebirge
 1127	リョ	旅行	りょこう	Reise, Fahrt
@@ -1107,12 +1107,12 @@ composite_kana: 知識層[ちしきそう]
 1167	ジ、シ	指示、示唆	しじ、しさ	Hinweis; Anweisung、Andeutung
 1168	れ(レイ)、ライ	失礼、礼賛	しつれい、らいさん	Unöflichkeit; Unverschämtheit、Verherrlichung
 1169	ショウ	発祥地	はっしょうち	Wiege; Geburtsort
-1170	シュク・シュウ、シュク・シュウ	祝福、祝儀	しゅくふく、しゅうぎ	Segen、Feier
+1170	シュク、シュウ	祝福、祝儀	しゅくふく、しゅうぎ	Segen、Feier
 1171	フク	福祉	ふくし	soziale Wohlfahrt
 1172	シ	福祉	ふくし	(soziale) Wohlfahrt
 1173	シャ	会社	かいしゃ	Firma; Gesellschaft
 1174	シ	視察	しさつ	Inspektion; Besichtigung
-1175	な・ナ	奈良	なら	Nara (Ortsname)
+1175	ナ	奈良	なら	Nara (Ortsname)
 1176	イ	尉官	いかん	niederer Kompanieoffiziersrang
 1177	イ	慰安	いあん	Trost; Zerstreuung
 1178	カン	借款	しゃっかん	Darlehen
@@ -1204,7 +1204,7 @@ composite_kana: しつもん、しちや、げんち]
 1265	ヨウ	費用	ひよう	Kosten
 1266	ヨウ	中庸	ちゅうよう	der goldene Mittelweg
 1267	ビ	準備	じゅんび	Vorbereitungl Vorkehrung
-1268	セキ・シャク、セキ・シャク	昔日、今昔	せきじつ、こんじゃく	vergangene Tage、Gegenwart und Vergangenheit
+1268	セキ、シャク	昔日、今昔	せきじつ、こんじゃく	vergangene Tage、Gegenwart und Vergangenheit
 1269	サク	錯誤	さくご	Versehen; Fehler
 1270	シャク	借金	しゃっきん	Schulden
 1271	セキ	惜敗	せきはい	knappe Niederlage
@@ -1236,7 +1236,7 @@ composite_kana: しつもん、しちや、げんち]
 1298	ハン	出版社	しゅっぱんしゃ	Verlag
 1299	し	之字形	しじけい	Zickzack (wie das Kanji 之)
 1300	ボウ	貧乏	びんぼう	Armut; Mittellosigkeit
-1302	ふ・フ、ブ	不安、不用心	ふあん、ふようじん	Angst; Ungewissheit、Nachlässigkeit; Unsicherheit
+1302	フ、ブ	不安、不用心	ふあん、ふようじん	Angst; Ungewissheit、Nachlässigkeit; Unsicherheit
 1303	ヒ	否定	ひてい	Verneinung; Verleugnung
 1304	ハイ	一杯	いっぱい	1 Becher (voll mit...)
 1305	シ	一矢	いっし	ein einzelner Pfeil
@@ -1246,7 +1246,7 @@ composite_kana: しつもん、しちや、げんち]
 1309	チ	上智	じょうち	höchste Weisheit
 1310	アイ	挨拶	あいさつ	Gruß; Begrüßung
 1311	ム	矛盾	むじゅん	Widerspruch (logischer)
-1312	ジュウ、ジュウ・ニュウ	柔道、柔和	じゅうどう、にゅうわ	Judo、Sanftheit; Mut
+1312	ジュウ、ニュウ	柔道、柔和	じゅうどう、にゅうわ	Judo、Sanftheit; Mut
 1313	ム	事務	じむ	Büroarbeit
 1314	ム	霧散	むさん	Zerrinnen; Zerfließen
 1315	ハン	班長	はんちょう	Anführer eines Trupps
@@ -1491,7 +1491,7 @@ composite_kana: 跳躍板[ちょうやくばん]
 1564	カン	年鑑	ねんかん	Jahrbuch; Almanach
 1565	ラン	出藍	しゅつらん	Übertreffen
 1566	モウ	猛犬	もうけん	"Vorsicht, bissiger Hund!"
-1567	ジョウ・セイ、ジョウ・セイ	全盛、繫盛	ぜんせい、はんじょう	Blütezeit; in voller Pracht、Blühen
+1567	セイ、ジョウ	全盛、繫盛	ぜんせい、はんじょう	Blütezeit; in voller Pracht、Blühen
 1568	エン	食卓塩	しょくたくえん	Tafelsalz
 1569	ギン	銀行	ぎんこう	Bank
 1570	コン	悔恨	かいこん	Bedauern; Reue
@@ -1501,8 +1501,8 @@ composite_kana: 跳躍板[ちょうやくばん]
 1574	セチ、セツ	お節料理、季節	おせちりょうり、きせつ	(jap.) Neujahrsessen、Jahreszeit; Saison
 1575	タイ	撤退	てったい	Rückzug; Abzug
 1576	ゲン	無限	むげん	Unendlichkeit
-1577	ガン・ゲン、ガン・ゲン	眼球、開眼	がんきゅう、かいげん	Augapfel、buddhistische Weihfeier; öffnen der Augen
-1578	ら・ラ、リョウ	奈良、良心	なら、りょうしん	Nara (Ortsname)、Gewissen
+1577	ガン、ゲン	眼球、開眼	がんきゅう、かいげん	Augapfel、buddhistische Weihfeier; öffnen der Augen
+1578	ラ、リョウ	奈良、良心	なら、りょうしん	Nara (Ortsname)、Gewissen
 1579	ロウ	朗読	ろうどく	Vorlesen; Rezitation
 1580	ロウ	流浪	るろう	Umherziehen; Herumwandern
 1582	ショク、ジキ	食堂、断食	しょくどう、だんじき	Speisesaal; Refektorium、Fasten
@@ -1642,7 +1642,7 @@ composite_kana: ごはん、ご 飯[はん] ごはん
 1721	ヨ	預金	よきん	Bankguthaben
 1722	ヤ	野球	やきゅう	Baseball
 1723	ケン	兼任	けんにん	Doppelfunktion; zwei Ämter
-1724	ケン・ゲン、ケン・ゲン	嫌疑、機嫌	けんぎ、きげん	Verdacht、Stimmung; Verfassung
+1724	ケン、ゲン	嫌疑、機嫌	けんぎ、きげん	Verdacht、Stimmung; Verfassung
 1726	ケン	謙譲	けんじょう	Bescheidenheit
 1727	レン	廉売	れんばい	Ausverkauf
 1728	セイ、サイ	西洋、関西	せいよう、かんさい	der Westen; Okzident、das""Kansai"-Gebiet
@@ -1698,7 +1698,7 @@ composite_kana: ごはん、ご 飯[はん] ごはん
 1781	ケン	五軒	ごけん	fünf (Häuser, Gebäude)、5 (Häuser, Gebäude)
 1782	ガン	海岸	かいがん	Küste
 1783	カン	新幹線	しんかんせん	jap. Hochgeschwindigkeitszug、jap. Hichgeschwindigkeitszug
-1785	う・ウ	宇宙	うちゅう	Weltall; Universum
+1785	ウ	宇宙	うちゅう	Weltall; Universum
 1786	ヨ	余白	よはく	leerer Raum (auf einem Blatt, einer Seite)
 1787	ジ、ジョ	掃除、除外	そうじ、じょがい	Putzen; Saubermachen、Ausnahme; Ausschluss
 1788	ジョ	徐行	じょこう	"Bitte langsam fahren!"
@@ -1750,7 +1750,7 @@ composite_kana: ごはん、ご 飯[はん] ごはん
 1835	ヨク	抑揚	よくよう	Betonung; Kadenz
 1836	コウ、ギョウ	信仰、仰天	しんこう、ぎょうてん	Glaube、Erstaunen; Bestürzen
 1837	ゲイ	歓迎	かんげい	Willkommen
-1838	トウ・ト、トウ・ト	登録、登山	とうろく、とざん	Registrierung、Bergsteigen
+1838	トウ、ト	登録、登山	とうろく、とざん	Registrierung、Bergsteigen
 1839	チョウ	清澄	せいちょう	Durchsichtigkeit; Klarheit
 1840	ホッ、ハツ	発足、発音	はっそく、はつおん	Gründung; Eröffnung、Aussprache
 1841	ハイ	廃止	はいし	Abschaffung; Aufhebung
@@ -1772,7 +1772,7 @@ composite_kana: ごはん、ご 飯[はん] ごはん
 1859	チン	珍味	ちんみ	Delikatesse
 1860	シン	診察	しんさつ	Ärztliche Untersuchung
 1861	モン、ブン	文句、文法	もんく、ぶんぽう	Ausdruck; Beschwerde、Grammatik
-1862	タイ・ツイ、タイ・ツイ	反対、一対	はんたい、いっつい	Gegenteil; Opposition、ein Paar
+1862	タイ、ツイ	反対、一対	はんたい、いっつい	Gegenteil; Opposition、ein Paar
 1863	モン	指紋	しもん	Fingeradruck
 1865	ハン	斑点	はんてん	Tüpfel; Sprenkel
 1866	せい	斉唱	せいしょう	Singen im Einklang
@@ -2039,7 +2039,7 @@ composite_kana: ごはん、ご 飯[はん] ごはん
 2137	ク	先駆	さきがけ	Vorbote
 2138	エキ	駅長	えきちょう	Bahnhofsvorsteher
 2139	ソウ	騒動	そうどう	Unruhe; Streit
-2140	タ・ダ、タ・ダ	下駄、無駄	げた、むだ	Holzpantoffeln、Nutzlosigkeit; Vergeblichkeit
+2140	タ、ダ	下駄、無駄	げた、むだ	Holzpantoffeln、Nutzlosigkeit; Vergeblichkeit
 2141	キョウ	驚異	きょうい	Verwunderung; Erstaunen
 2142	トク	危篤	きとく	lebensgefährliche Erkrankung
 2143	バ	嘲罵	ちょうば	Verunglimpfung; Beleidigung
