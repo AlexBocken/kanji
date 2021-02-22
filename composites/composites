@@ -1336,7 +1336,7 @@ L-1261	洞	ドウ	洞察	どうさつ	Einblick; Einsicht
 L-1262	筒	トウ	水筒	すいとう	Reiseflasche; Feldflasche
 L-1263	桐	トウ	桐油	とうゆ	Kaiserbaumöl
 L-1264	兆	チョウ	兆候	ちょうこう	Anzeichen; Symptom
-L-1265	跳	チョウ	跳躍板	跳躍板[ちょうやくばん]	Sprungbrett
+L-1265	跳	チョウ	跳躍板	ちょうやくばん	Sprungbrett
 L-1266	挑	チョウ	挑戦	ちょうせん	Herausforderung
 L-1267	眺	チョウ	眺望	ちょうぼう	Ausblick; Aussicht
 L-1268	桃	トウ	桃源郷	とうげんきょう	Himmel auf Erden; Eden
@@ -1367,10 +1367,10 @@ L-1286	忙	ボウ	多忙	たぼう	schwer beschäftigt
 L-1287	網	モウ	放送網	ほうそうもう	Rundfunknetz
 L-1288	盲	モウ	盲目	もうもく	Blindheit
 L-1289	曽	ソ	中曽根	なかそね	Nakasone (Nachname)
-L-1290	層	ソウ	知識層	知識層[ちしきそう]	die Intellektuellen; die Intelligenzija
+L-1290	層	ソウ	知識層	ちしきそう	die Intellektuellen; die Intelligenzija
 L-1291	僧	ソウ	禅僧	ぜんそう	Zen-Priester
 L-1292	増	ゾウ	増加	ぞうか	Wachstum; Vermehrung
-L-1293	憎	ゾウ	憎心	憎心[ぞうしん]	Hass; Boshaftigkeit
+L-1293	憎	ゾウ	憎心	ぞうしん	Hass; Boshaftigkeit
 L-1294	贈	ソウ・ゾウ	奇贈	きそう	Gabe; Schenkung
 L-1294	贈	ソウ・ゾウ	贈呈	ぞうてい	Überreichung; Darbringung
 L-1295	共	キョウ	共産主義	きょうさんしゅぎ	Kommunismus
@@ -1419,7 +1419,7 @@ L-1332	板	ハン・バン	鉄板	てっぱん	Eisenplatte; -blech
 L-1333	販	ハン	販売	はんばい	Verkauf; Absatz
 L-1334	版	ハン	出版社	しゅっぱんしゃ	Verlag
 L-1335	阪	ハン	阪神	はんしん	Osaka und Kobe
-L-1336	飯	ハン	ご飯	ご 飯[はん] ごはん	Reis; Essen
+L-1336	飯	ハン	ご飯	ごはん	Reis; Essen
 L-1337	返	ヘン	返事	へんじ	Erwiderung; Antwort
 L-1338	仮	ヘン	仮面	かめん	Maske
 L-1339	矛	ム	矛盾	むじゅん	Widerspruch (logischer)
@@ -2259,7 +2259,7 @@ L-2064	竜	リュウ	竜頭	りゅうとう	(Aufzieh- und Stell)krone einer Tasc
 L-2065	酌	シャク	媒酌結婚	ばいしゃくけっこん	vermittelte Eheschließung
 L-2066	奔	ホン	東奔西走	とうほんせいそう	Ständiges Unterwegssein
 L-2067	亀	キ	亀鑑	きかん	Muster(-beispiel)
-L-2068	蛍	ケイ	蛍光電灯	蛍光[けいこう] 電灯[でんとう]	fluoreszierende Elektrolampe
+L-2068	蛍	ケイ	蛍光電灯	けいこうでんとう	fluoreszierende Elektrolampe
 L-2069	烏	ウ	烏竜茶	うーろんちゃ	dunkler chin. (Ulong) Tee
 L-2070	目	ボク	面目	めんぼく	Gesicht; Ehre
 L-2071	陰	イン	陰気	いんき	Düsternis
@@ -2566,7 +2566,7 @@ L-2356	紅	ク	真紅	しんく	Purpurrot
 L-2357	雪	セツ	積雪	せきせつ	liegender Schnee
 L-2358	仕	ジ	給仕	きゅうじ	Laufbursche
 L-2359	事	ズ	好事家	こうずか	Freund schöner Dinge; Dilletant
-L-2360	質	チ	言質	げんち]	Versprechen; Wortgeben
+L-2360	質	チ	言質	げんち	Versprechen; Wortgeben
 L-2361	読	トウ	句読点	くとうてん	Satz- und Lesezeichen
 L-2362	臣	シン	臣下	しんか	Gefolgsmann; Untertan
 L-2363	従	ショウ	従容	しょうよう	Ruhe; Gelassenheit

@@ -118,7 +118,7 @@
 128	ジュウ	悪臭	あくしゅう	Gestank; übler Geruch
 129	キュウ	嗅覚	きゅうかく	Geruchssinng
 130	ミョウ	奇妙	きみょう	Seltsamkeit; Merkwürdigkeit
-131	ショウ、ショウ、せい und Erziehungs Ministerium、Selbstreflektion; -kritik
+131	ショウ、せい	文科省、反省	ぶんかしょう、はんせい	Wissenschaft und Erziehungs Ministerium、Selbstreflektion; -kritik
 132	コウ	厚生	こうせい	Wohlfahrtswesen
 133	キ	奇数	きすう	ungerade Zahl
 134	セン	川上の嘆	せんじょうのたん	"Alles fließt"
@@ -521,9 +521,7 @@
 554	チ、ジ	地図、地震	ちず、じしん	Landkarte; (Stadt-)Plan、Erdbeben、Erbeben
 555	チ	電池	でんち	Batterie
 556	チュウ	昆虫	こんちゅう	Insekten
-composite likely in composites_kana for no.557
-composite_kana: 蛍光[けいこう] 電灯[でんとう]
-557	ケイ	蛍光電灯	蛍光[けいこう] 電灯[でんとう]	fluoreszierende Elektrolampe
+557	ケイ	蛍光電灯	けいこうでんとう	fluoreszierende Elektrolampe
 558	ジャ、ダ	蛇の目、蛇足	じゃのめ、だそく	Zielscheibe (Ringmuster)、Überschuss; Zuviel
 560	チョウ	蝶々夫人	ちょうちょうふじん	Madame Butterfly
 561	ドク	独立	どくりつ	Unabhängigkeit
@@ -576,7 +574,7 @@ composite_kana: 蛍光[けいこう] 電灯[でんとう]
 610	ゴ	午後	ごご	Nachmittag
 611	キョ	許可	きょか	Erlaubnis; Gestattung
 612	カン	交歓	こうかん	Austausch von Grüßen
-613	ケン、ゴン 権利、権現	Berechtigung、Avatar
+613	ケン、ゴン	権利、権現	けんり、ごんげん	Berechtigung、Avatar
 614	カン	観察	かんさつ	Beobachtung
 615	ウ	羽毛	うもう	Daunen
 616	シュウ	練習	れんしゅう	Übung; Training
@@ -633,9 +631,7 @@ composite_kana: 蛍光[けいこう] 電灯[でんとう]
 670	フ	恐怖	きょうふ	Furcht
 671	コウ	恐慌	きょうこう	Panik; Krise
 672	カイ	後悔	こうかい	Reue
-composite likely in composites_kana for no.673
-composite_kana: 憎心[ぞうしん]
-673	ゾウ	憎心	憎心[ぞうしん]	Hass; Boshaftigkeit
+673	ゾウ	憎心	ぞうしん	Hass; Boshaftigkeit
 674	カン	習慣	しゅうかん	Gewohnheit
 675	ユ	愉楽	ゆらく	Freude; Vergnügen
 676	ダ	惰気	だき	Trägheit; Faulheit
@@ -1081,9 +1077,7 @@ composite_kana: 憎心[ぞうしん]
 1140	クツ	退屈	たいくつ	Langeweile
 1141	クツ	採掘	さいくつ	Bergbau
 1143	キョ	居住	きょじゅう	Wohnung
-composite likely in composites_kana for no.1146
-composite_kana: 知識層[ちしきそう]
-1146	ソウ	知識層	知識層[ちしきそう]	die Intellektuellen; die Intelligenzija
+1146	ソウ	知識層	ちしきそう	die Intellektuellen; die Intelligenzija
 1147	ヤク	薬局	やっきょく	Apotheke
 1148	チ	遅々	ちち	träge; schwerfällig
 1149	ロウ	漏電	ろうでん	Kurzschluss
@@ -1153,9 +1147,7 @@ composite_kana: 知識層[ちしきそう]
 1216	ザン	暫定	ざんてい	vorläufig; provisorisch
 1217	ゼン	漸次	ぜんじ	allmählich; Schritt für Schritt
 1218	ダン	断食	だんじき	Fasten
-composite likely in composites_kana for no.1219
-composite_kana: しつもん、しちや、げんち]
-1219	シツ 、シチ、チ	質問、質屋、言質	しつもん、しちや、げんち]	Frage、Pfandleihhaus、Versprechen; Wortgeben
+1219	シツ 、シチ、チ	質問、質屋、言質	しつもん、しちや、げんち	Frage、Pfandleihhaus、Versprechen; Wortgeben
 1220	セキ	排斥	はいせき	Ächtung; Boykott; Ausschluss
 1221	ソ	起訴	きそ	Anklage
 1222	サク	昨年	さくねん	Vergangenes Jahr
@@ -1307,9 +1299,7 @@ composite_kana: しつもん、しちや、げんち]
 1375	キョ	距離	きょり	Entfernung
 1376	ロ	道路	どうろ	Straße
 1377	ロ、ロウ	露骨、披露宴	ろこつ、ひろうえん	offen; freimütig、Hochzeitsempfang
-composite likely in composites_kana for no.1378
-composite_kana: 跳躍板[ちょうやくばん]
-1378	チョウ	跳躍板	跳躍板[ちょうやくばん]	Sprungbrett
+1378	チョウ	跳躍板	ちょうやくばん]	Sprungbrett
 1379	ヤク	飛躍	ひやく	Sprung
 1380	セン	実践	じっせん	Praxis (i. Ggs. zur Theorie)
 1381	トウ	踏破	とうは	Durchquerung zu Fuß
@@ -1506,9 +1496,7 @@ composite_kana: 跳躍板[ちょうやくばん]
 1579	ロウ	朗読	ろうどく	Vorlesen; Rezitation
 1580	ロウ	流浪	るろう	Umherziehen; Herumwandern
 1582	ショク、ジキ	食堂、断食	しょくどう、だんじき	Speisesaal; Refektorium、Fasten
-composite likely in composites_kana for no.1583
-composite_kana: ごはん、ご 飯[はん] ごはん
-1583	ハン、ハン	御飯、ご飯	ごはん、ご 飯[はん] ごはん	gekocher Reis; Mahlzeit、Reis; Essen
+1583	ハン、ハン	御飯、ご飯	ごはん、ごはん	gekocher Reis; Mahlzeit、Reis; Essen
 1584	イン	飲食	いんしょく	Essen und Trinken
 1585	キ	飢餓	きが	Hunger(snot)
 1586	ガ	飢餓	きが	Hunger(snot)
