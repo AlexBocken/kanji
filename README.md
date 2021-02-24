@@ -63,9 +63,12 @@ For Kanjis I'm using the IPAGothic font, for the stroke order I'm using Timothy 
 The licenses for these fonts can also be found in the `licenses` folder of this git repository.
 I believe me distributing these fonts with this project is not a breach of contract, but I am also not a lawyer.
 
-Note: These fonts have been slightly alterated by me.
+Note: These fonts have been slightly altered by me.
 This is mostly done to add support for Heisig's primitives-system.
-Otherwise sometimes a Kanji might slightly differ from the original font to more accurately reflect the idea in the Merkhilfe.
+Otherwise, sometimes a Kanji might slightly differ from the original font to more accurately reflect how Heisig has the it written.
+This is mostly removing a single '丶' somwhere or similar.
+For example, Heisig does not seem to like to use '辶' and almost always uses '⻌'.
+
 
 ## License
 
