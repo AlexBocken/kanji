@@ -51,12 +51,12 @@ This means that the symbol displayed in Browse mode is incorrect for primitives.
 I have now implemented all composites from the 2nd book.
 The composites from the 3rd book should soon follow.
 The formatting of how these composites are represented will gradually be improved.
-Let's hope Javascript can wrangle these multiple fields into something coherent on the cards
+Let's hope Javascript can wrangle these multiple fields into something coherent on the cards.
 
 ## Readings
 I've pulled all available On- Kun- and Nanori-readings from http://nihongo.monash.edu/ using a script.
 These readings are not yet displayed on the cards themselves but are listed in the notes.
-If you want to see my awful coding practices for such one off stuff which just needs to generate a file once, look into the other branches of this git repository.
+If you want to see my awful coding practices for such one off stuff which just needs to generate a file once, look into the `scripts` branch of this git repository.
 
 ## Fonts
 For Kanjis I'm using the IPAGothic font, for the stroke order I'm using Timothy Eyre's (or is it Ulrich Apel's? It's not quite clear to me.) great font I found on [his website](https://www.nihilist.org.uk/).
@@ -64,10 +64,10 @@ The licenses for these fonts can also be found in the `licenses` folder of this 
 I believe me distributing these fonts with this project is not a breach of contract, but I am also not a lawyer.
 
 Note: These fonts have been slightly altered by me.
-This is mostly done to add support for Heisig's primitives-system.
-Otherwise, sometimes a Kanji might slightly differ from the original font to more accurately reflect how Heisig has the it written.
-This is mostly removing a single '丶' somwhere or similar.
-For example, Heisig does not seem to like to use '辶' and almost always uses '⻌'.
+This is mostly done to add support for Heisig's primitives system.
+Otherwise, sometimes, a Kanji might slightly differ from the original font to more accurately reflect how Heisig has it written.
+This is mostly removing a single drop of water or similar.
+For example, Heisig does not seem to like to use '辶' and almost always prefers '⻌'.
 
 
 ## License
