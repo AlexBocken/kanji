@@ -2806,87 +2806,159 @@ L-2507	霞	カ	霞む	かすむ	diesig sein; sich trüben
 L-2507	霞	カ	霞	かすみ	Dunst; Nebel
 L-2508	濠	ゴウ	濠州	ゴウシュウ	Australien
 L-2508	濠	ゴウ	濠	ほり	Graben; Kanal
-L-2509	壕
-L-2510	掻
-L-2511	蚤
-L-2512	槌
-L-2513	鎚
-L-2514	迂
-L-2515	丞
-L-2516	棉
-L-2517	莞
-L-2518	蘭
-L-2519	禦
-L-2520	煽
-L-2521	嬉
-L-2522	蔭
-L-2523	澱
-L-2524	杖
-L-2525	筑
-L-2526	赫
-L-2527	襖
-L-2528	謂
-L-2529	唖
-L-2530	蟹
-L-2531	誼
-L-2532	梱
-L-2533	纂
-L-2534	讃
-L-2535	偲
-L-2536	獅
-L-2537	蓮
-L-2538	隼
-L-2539	埠
-L-2540	睾
-L-2541	恕
-L-2542	廓
-L-2543	鋤
-L-2544	堰
-L-2545	瀕
-L-2546	靭
-L-2547	糠
-L-2548	訊
-L-2549	爾
-L-2550	瞑
-L-2551	暝
-L-2552	湊
-L-2553	淋
-L-2554	琳
-L-2555	唄
-L-2556	狽
-L-2557	鼻
-L-2558	紐
-L-2559	晃
-L-2560	幌
-L-2561	滉
-L-2562	昌
-L-2563	菖
-L-2564	娼
-L-2565	昏
-L-2566	檀
-L-2567	窺
-L-2568	槻
-L-2569	稀
-L-2570	鋸
-L-2571	兇
-L-2572	瑛
-L-2573	楕
-L-2574	芻
-L-2575	趨
-L-2576	雛
-L-2577	耶
-L-2578	爺
-L-2579	椰
-L-2580	鰐
-L-2581	曳
-L-2582	洩
-L-2583	秦
-L-2584	榛
-L-2585	凱
-L-2586	鎧
-L-2587	惚
-L-2588	忽
-L-2589	祐
+L-2509	壕	ゴウ	防空壕	ボウクウゴウ	Luftschutzbunker
+L-2509	壕	ゴウ	壕	ほり	Graben; Unterstand
+L-2510	掻	ソウ	掻痒	ソウヨウ	Kratzen von etwas Juckendem
+L-2510	掻	ソウ	掻く	かく	kratzen
+L-2511	蚤	ソウ	蚤起	ソウキ	Frühaufstehen
+L-2511	蚤	ソウ	蚤	のみ	Floh
+L-2512	槌	ツイ	鉄槌	テッツイ	Eisenhammer
+L-2512	槌	ツイ	槌	つら	Hammer
+L-2513	鎚	ツイ	鉄鎚	テッツイ	Eisenhammer
+L-2514	迂	ウ	迂回	ウカイ	Umleitung
+L-2515	丞	ジョウ	丞相	ジョウショウ	Kanzler; Premieminister
+L-2515	丞	ジョウ	丞む	すすむ	vorwärts gehen; voranschreiten
+L-2516	棉	メン	棉花	メンカ	Rohbaumwolle
+L-2516	棉	メン	棉	わた	Baumwolle
+L-2517	莞	カン	莞爾	カンジ	Lächeln
+L-2517	莞	カン	莞	いぐさ	Binsenart
+L-2518	蘭	ラン	蘭学	ランガク	Studieren westlicher Wissenschaft in holländischer Sprache
+L-2519	禦	ギョ	防禦	ボウギョ	Abwehr
+L-2519	禦	ギョ	禦ぐ	ふせぐ	abwehren
+L-2520	煽	セン	煽動	センドウ	Agitation; Demagogie
+L-2520	煽	セン	煽る	あおる	anfachen
+L-2520	煽	セン	煽てる	おだてる	aufhetzen
+L-2521	嬉	キ	嬉戲	キギ	Scherzen; Tollen
+L-2521	嬉	キ	嬉しい	うれしい	glücklich
+L-2521	嬉	キ	嬉しむ	たのしむ	sich freuen; genießen
+L-2522	蔭	イン	緑蔭	リョクイン	Schatten eines Wäldchens
+L-2522	蔭	イン	蔭	かげ	Schatten
+L-2523	澱	デン	澱粉	デンプン	Stärke (Kohlenhydrat)
+L-2523	澱	デン	澱	おり	Bodensatz; Sediment
+L-2523	澱	デン	澱む	よどむ	stagnieren
+L-2524	杖	ジョウ	杖罪	ジョウザイ	Prügelstrafe (mit einem Stock)
+L-2524	杖	ジョウ	杖	つえ	(Krück-)Stock
+L-2525	筑	チク	筑前	チクゼン	alter Name für den nordwestlichen Teil der Präfektur Fukuoka
+L-2526	赫	カク	赫々	カッカク	glorreich; angesehen
+L-2527	襖	オウ	襖子	オウシ	wattierte Baumwollkleidung
+L-2527	襖	オウ	襖	ふすま	Schiebtür oder Sichtschutz
+L-2528	謂	イ	謂う	いう	sagen
+L-2528	謂	イ	謂われ	いわれ	Ursache; Grund
+L-2529	唖	ア	唖然	アゼン	verblüfft
+L-2530	蟹	カイ	蟹行	カイコウ	Seitwärtsgehen
+L-2530	蟹	カイ	蟹	かに	Krebs; Krabbe
+L-2531	誼	ギ	交誼	コウギ	Freundschaft(lichkeit)
+L-2531	誼	ギ	誼み	よしみ	Wohlwollen; gute Beziehung
+L-2532	梱	コン	梱包	コンポウ	Packung; Verpackung
+L-2532	梱	コン	梱	こり	Ballen; Gepäck
+L-2533	纂	サン	編纂	ヘンサン	Kompilation; Redaktion
+L-2534	讃	サン	讃美歌	サンビカ	Hymne; Lobgesang
+L-2534	讃	サン	讃える	たたえる	loben; preisen
+L-2535	偲	シ	偲偲	シジ	gegenseitiges Ermutigen
+L-2535	偲	シ	偲ぶ	しのぶ	gedenken; sich erinnern
+L-2536	獅	シ	獅子	シシ	Löwe
+L-2537	蓮	レン	蓮根	レンコン	Lotoswurzel
+L-2537	蓮	レン	蓮	はらす	Lotos
+L-2537	蓮	レン	蓮	はす	Lotos
+L-2538	隼	ジュン・シュン	隼助	ジュンスケ	männlicher Vorname
+L-2538	隼	ジュン・シュン	隼助	シュンスケ	männlicher Vorname
+L-2538	隼	ジュン・シュン	隼	はやぶさ	Wanderfalke
+L-2539	埠	フ	埠頭	フトウ	Anleger; Kai
+L-2540	睾	コウ	睾丸	コウガン	Hoden
+L-2541	恕	ジョ	宥恕	ユウジョ	Vergebung; Verzeihung
+L-2541	恕	ジョ	恕す	ゆるす	verzeihen; vergeben
+L-2542	廓	カク	遊廓	ユウカク	Rotlichtbezirk
+L-2542	廓	カク	廓	くるわ	Rotlichtbezirk
+L-2543	鋤	ジョ	鋤簾	ジョレン	kleine Handschaufel
+L-2543	鋤	ジョ	鋤	すき	Pflug; Spaten
+L-2544	堰	エン	堰堤	エンテイ　Damm; Wehr
+L-2544	堰	エン	堤	せき	Damm; Deich
+L-2545	瀕	ヒン	瀕死状態	ヒンシジョウタイ	Todesnähe; moribunder Zustand
+L-2546	靭	ジン	靭帯	ジンタイ	Ligament; Band (anat.)
+L-2546	靭	ジン	靭	うつば	Köcher
+L-2547	糠	コウ	糟糠	ソウコウ	Reste und Kleie; Armut
+L-2547	糠	コウ	糠	ぬか	Reiskleie
+L-2548	訊	ジン	訊問	ジンチン	Verhör
+L-2548	訊	ジン	訊ねる	たずねる	befragen
+L-2549	爾	ジ・二	爾来	ジライ	seither
+L-2549	爾	ジ・二	自然法爾	ジネンホウニ	"Lass es, wie es ist." (buddh.)
+L-2549	爾	ジ・二	爾	なんじ	Du (veraltet)
+L-2550	瞑	メイ	瞑想	メイソウ	Meditation
+L-2551	暝	メイ	暝天	メイテン	dunkler Abendhimmel
+L-2552	湊	ソウ	湊太	ソウタ	Männername
+L-2552	湊	ソウ	湊	みなと	Hafen
+L-2553	淋	リン	淋巴腺	リンパセン	Lymphdrüse
+L-2553	淋	リン	淋しい	さびしい	einsam
+L-2554	琳	リン	琳宇	リンウ	taoistischer Tempel
+L-2555	唄	バイ	唄讃	バイサン	Loblief auf buddhistische Tugenden
+L-2555	唄	バイ	唄	うた	Lied; Gedicht
+L-2556	狽	バイ	狼狽	ロウバイ	Panik
+L-2557	丑	チュウ	己丑	キチュウ	2009 im alten Kalender
+L-2557	丑	チュウ	丑	うし	Zeichen des Ochsen
+L-2558	紐	チュウ	紐帯	チュウタイ	fest verbindendes Band
+L-2558	紐	チュウ	紐	ひも	Schnur
+L-2559	晃	コウ	晃晃	コウコウ	hell leuchtend
+L-2559	晃	コウ	晃	あきら	Namensbestandteil
+L-2560	幌	コウ	幌南	コウナン	Südstaat Sapporo
+L-2560	幌	コウ	幌	とばり	Vorhang
+L-2560	幌	コウ	幌	ほろ	Baldachin; Verdeck
+L-2561	滉	コウ	滉蕩	コウトウ	in weiter Entfernung
+L-2561	滉	コウ	滉	ひろし	Namensbestandteil
+L-2562	昌	ショウ	隆昌	リュウショウ	Gedeihen
+L-2562	昌	ショウ	昌らか	おきらか	klar; deutlich
+L-2562	昌	ショウ	昌ん	さかん	blühend; gedeihen
+L-2562	昌	ショウ	昌	おきら	männlicher Namensbestandteil
+L-2563	菖	ショウ	菖蒲	ショウブ	Iris(lilie)
+L-2564	娼	ショウ	娼婦	ショウフ	Prostituierte
+L-2565	昏	コン	昏睡	コンスイ	Koma
+L-2566	檀	ダン・タン	檀家	ダンカ	Gemeindemitglied eines Tempels
+L-2566	檀	ダン・タン	黒檀	コクタン	Ebenholz
+L-2566	檀	ダン・タン	檀	まゆみ	Spindelbaum
+L-2567	窺	キ	窺知	キチ	Wahrnehmung; Begreifen
+L-2567	窺	キ	窺う	うかがう	lugen; spähen
+L-2567	窺	キ	窺	うかがい	Anfrage
+L-2568	槻	キ	宝槻	ホウキ	Vorname (selten)
+L-2568	槻	キ	槻	つき	Zelkovenbaum
+L-2569	稀	キ・ケ	稀薄	キハク	Verdünnung
+L-2569	稀	キ・ケ	稀有	ケウ	selten; ungewöhnlich
+L-2569	稀	キ・ケ	稀	まれ	selten
+L-2570	鋸	キョ	鋸歯状	キョシジョウ　Auszackung; Sägezahnung
+L-2570	鋸	キョ	鋸	のこぎり	Säge
+L-2571	兇	キョウ	凶状	キョウジョウ	Verbrechen
+L-2571	兇	キョウ	凶れる	おそれる	fürchten
+L-2572	瑛	エイ	瑛子	エイこ	Eiko (Frauenname)
+L-2573	楕	ダ	楕円	ダエン	Ellipse
+L-2574	芻	スウ	反芻	ハンスウ	Wiederkäuen
+L-2575	趨	スウ	趨地性	スウチセイ	Geotropismus
+L-2575	趨	スウ	趨く	おもむく	sich begeben nach
+L-2576	雛	スウ	雛僧	スウソウ	junger Mönch
+L-2576	雛	スウ	雛	ひな	Küken
+L-2577	耶	ヤ	耶蘇	ヤソ	Jesus (alte Form)
+L-2577	耶	ヤ	耶	か	Fragezeichen
+L-2578	爺	ヤ	爺爺	ヤヤ	respektvoller Name für einen Vater
+L-2578	爺	ヤ	爺	じい	alter Mann
+L-2578	爺	ヤ	爺	じじ	alter Mann; Opa
+L-2579	椰	ヤ	椰子油	ヤシユ	Kokosnuss-Öl
+L-2579	椰	ヤ	椰	やし	Palme
+L-2580	鰐	ガク	鰐魚	ガクギョ	Krokodil; Alligator
+L-2580	鰐	ガク	鰐	わに	Krokodil; Alligator
+L-2581	曳	エイ	曳光弾	エイコウダン	Leuchtmunition
+L-2581	曳	エイ	曳く	ひく	ziehen
+L-2582	洩	エイ・セツ	漏洩	ロウエイ	Durchsickern; Geheimnisverrat
+L-2582	洩	エイ・セツ	洩れ	もれ	Leck
+L-2583	秦	シン	秦代	シンダイ	Qin-Dynastie (221-206 v. Chr.)
+L-2583	秦	シン	秦	はた	Stadt in der Präfektur Kanagawa
+L-2584	榛	シン	榛葉	シンバ	Shinba (Nachname)
+L-2584	榛	シン	榛	はしばみ	Haselstrauch
+L-2585	凱	ガイ	凱旋	ガイセン	triumphale Wiederkehr
+L-2585	凱	ガイ	凱	かちどき	Namensbestandteil
+L-2585	凱	ガイ	凱らぐ	やわらぐ	einen Siegesschrei ausstoßen
+L-2586	鎧	ガイ	鎧袖	ガイシュウ	gepanzerter Ärmel
+L-2586	鎧	ガイ	鎧	よろい	Ritterrüstung
+L-2587	惚	コツ	恍惚	コウコツ	Verzückung; Ekstase
+L-2588	忽	コツ	忽然	コツゼン	plötzlich
+L-2588	忽	コツ	忽ち	たちまち	auf einmal
+L-2589	祐	ユウ	祐筆	ユウヒツ	Sekretär; Schreiber
 L-2590	苓
 L-2591	怜
 L-2592	澪
