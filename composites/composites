@@ -2773,21 +2773,39 @@ L-2492	鷲	シュウ	双鷲	そうしゅう	Doppeladler
 L-2492	鷲	シュウ	鷲	わし	Adler
 L-2493	鑿	ソウ	一鑿	いっそう	ein Schiff
 L-2493	鑿	ソウ	鑿	ふね	Schiff
-L-2494	稜
-L-2495	凌
-L-2496	崚
-L-2497	綾
-L-2498	撰
-L-2499	鞠
-L-2500	麹
-L-2501	瑳
-L-2502	跨
-L-2503	袴
-L-2504	蛎
-L-2505	砺
-L-2506	蝦
-L-2507	霞
-L-2508	濠
+L-2494	稜	リョウ	山稜	サンリョウ	Gebirgskamm
+L-2494	稜	リョウ	稜	かど	Ecke
+L-2495	凌	リョウ	凌駕	リョウガ	Übertreffen; Überflügeln
+L-2495	凌	リョウ	凌ぐ	しんぐ	aushalten; ertragen
+L-2496	崚	リョウ	崚層	リョウソウ	hoch und überragend
+L-2497	綾	リョウ　綾南町	リョウナンチョウ	Stadt in der Präfektur Kagawa
+L-2498	撰	セン	撰集	センシュウ	Anthologie
+L-2498	撰	セン	選ぶ	えらぶ	auwählen; auslesen
+L-2499	鞠	キク	鞠問	キクチン	Verhör eines Kriminellen
+L-2499	鞠	キク	鞠	まり	Ball; Namensbestandteil
+L-2499	鞠	キク	鞠ぐ	つぐ	folgen; Namensbestandteil
+L-2499	鞠	キク	鞠	みつ	Namensbestandteil
+L-2500	麹	キク	麹室	キクシツ	Lagerschuppen für Reismalz
+L-2500	麹	キク	麹	こうじ	Reismalz
+L-2501	瑳	サ	瑳々	ササ	weiß (z.B. Steine)
+L-2501	瑳	サ	瑳く	みがく	polieren (Steine)
+L-2502	跨	コ	跨線橋	コセンキョウ	Überführung (Brücke)
+L-2502	跨	コ	跨ぐ	またぐ	rittlings sitzen; überspannen
+L-2503	袴	コ	着袴	チャッコ	Ausstatten eines Kindes (3 oder 5 Jahre alt) mit seinem ersten Hakama-Rock
+L-2503	袴	コ	袴	はかま	Hakama (Rockhose)
+L-2504	蛎	レイ	牡蛎	ボレイ・かき	Auster
+L-2504	蛎	レイ	蛎	かき	Auster
+L-2505	砺	レイ	磨砺	マレイ	Messerschleifen
+L-2505	砺	レイ	砺	と	Wetzstein
+L-2505	砺	レイ	砺く	みがく	polieren
+L-2505	砺	レイ	砺ぐ	とぐ	wetzen; schleifen
+L-2506	蝦	カ	蝦蟹	カガイ	Flusskrebs
+L-2506	蝦	カ	蝦	えび	Garnele
+L-2507	霞	カ	煙霞	エンカ	Rauch und Dunst; diesige Szenerie
+L-2507	霞	カ	霞む	かすむ	diesig sein; sich trüben
+L-2507	霞	カ	霞	かすみ	Dunst; Nebel
+L-2508	濠	ゴウ	濠州	ゴウシュウ	Australien
+L-2508	濠	ゴウ	濠	ほり	Graben; Kanal
 L-2509	壕
 L-2510	掻
 L-2511	蚤
