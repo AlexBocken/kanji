@@ -2959,108 +2959,175 @@ L-2587	惚	コツ	恍惚	コウコツ	Verzückung; Ekstase
 L-2588	忽	コツ	忽然	コツゼン	plötzlich
 L-2588	忽	コツ	忽ち	たちまち	auf einmal
 L-2589	祐	ユウ	祐筆	ユウヒツ	Sekretär; Schreiber
-L-2590	苓
-L-2591	怜
-L-2592	澪
-L-2593	玲
-L-2594	嶺
-L-2595	狡
-L-2596	菰
-L-2597	狐
-L-2598	賑
-L-2599	晨
-L-2600	屏
-L-2601	夥
-L-2602	芙
-L-2603	窄
-L-2604	綸
-L-2605	頚
-L-2606	勁
-L-2607	脛
-L-2608	潅
-L-2609	綺
-L-2610	棲
-L-2611	玖
-L-2612	灸
-L-2613	燐
-L-2614	鱗
-L-2615	麟
-L-2616	憐
-L-2617	峻
-L-2618	悛
-L-2619	竣
-L-2620	駿
-L-2621	喋
-L-2622	牒
-L-2623	諜
-L-2624	隕
-L-2625	朔
-L-2626	楓
-L-2627	颯
-L-2628	劉
-L-2629	溜
-L-2630	訣
-L-2631	抉
-L-2632	溌
-L-2633	狼
-L-2634	樽
-L-2635	鱒
-L-2636	狒
-L-2637	渥
-L-2638	倦
-L-2639	跪
-L-2640	脆
-L-2641	隈
-L-2642	猥
-L-2643	嵌
-L-2644	柑
-L-2645	坦
-L-2646	翠
-L-2647	倅
-L-2648	瞥
-L-2649	笥
-L-2650	梵
-L-2651	膏
-L-2652	嵩
-L-2653	芥
-L-2654	蔚
-L-2655	楯
-L-2656	遁
-L-2657	炬
-L-2658	矩
-L-2659	砥
-L-2660	擾
-L-2661	坤
-L-2662	嘘
-L-2663	舵
-L-2664	陀
-L-2665	稔
-L-2666	廟
-L-2667	詢
-L-2668	洵
-L-2669	絢
-L-2670	宏
-L-2671	紘
-L-2672	肱
-L-2673	鯉
-L-2674	浬
-L-2675	狸
-L-2676	哩
-L-2677	裡
-L-2678	奄
-L-2679	掩
-L-2680	庵
-L-2681	葺
-L-2682	輯
-L-2683	揖
-L-2684	贋
-L-2685	雁
-L-2686	鷹
-L-2687	箭
-L-2688	剪
-L-2689	揃
-L-2690	狗
-L-2691	垢
+L-2590	苓	レイ	苓北町	レイホクチョウ	Stadt in der Präfektur Kumamoto
+L-2591	怜	レイ	怜悧	レイリ	Klugheit
+L-2591	怜	レイ	怜い	さとい	gescheit
+L-2592	澪	レイ	作澪	サクレイ	Leiten von Wasser auf Trockenland
+L-2592	澪	レイ	澪	みお	Fahrrinne; Fahrwasser
+L-2593	玲	レイ・リョウ	玲子	レイこ	Reiko (Frauenname)
+L-2593	玲	レイ・リョウ	玲子	リョウイこ	Ryōko (Frauenname)
+L-2594	嶺	レイ	山嶺	サンレイ	Bergspitze
+L-2594	嶺	レイ	嶺	みね	Bergspitze; Gipfel
+L-2595	狡	コウ	狡智	コウチ	Verschlagenheit
+L-2595	狡	コウ	狡い	こすい	verschlagen
+L-2595	狡	コウ	狡い	ずるい	listig; schlau
+L-2596	菰	コ	菰米	コベイ	Wassereis
+L-2596	菰	コ	菰	こも	Wassereis; Mattenstroh
+L-2597	狐	コ	狐狸	コリ	Füchse und Dachse
+L-2597	狐	コ	狐	きつね	Fuchs
+L-2598	賑	シン	賑救	シンキュウ	Spenden für Opfer oder die Armen
+L-2598	賑	シン	賑やか	にぎやか	lebhaft; fröhlich; belebt
+L-2598	賑	シン	賑わう	にぎわう	belebt sein
+L-2599	晨	シン	晨明	シンメイ	Morgendämmerung
+L-2600	屏	ヘイ・ビョウ	屏息	ヘイソク	Anhalten den Atems
+L-2600	屏	ヘイ・ビョウ	屏風	ビョウブ	japanischer Windschirm
+L-2601	夥	カ	夥多	カタ	völliger Überfluss
+L-2601	夥	カ	夥しい	おびただしい	enorm viel
+L-2602	芙	フ	芙蓉	フヨウ	Lotos; Mandeleibisch
+L-2602	芙	フ	芙	はす	Lotos
+L-2603	窄	サク	狭窄	キョウサク	Verengung
+L-2603	窄	サク	窄む	すばむ	verengen
+L-2603	窄	サク	窄む	つばむ	sich zusammenziehen
+L-2604	綸	リン	綸言	リンゲン	keiserlicher Erlass (China)
+L-2604	綸	リン	綸	いと	Satin-Stoff
+L-2605	頚	ケイ	頚動脈	ケイドウミャク	Halsschlagader
+L-2605	頚	ケイ	頚	くび	Nacken
+L-2606	勁	ケイ	勁草	ケイソウ	wetterfeste Pflanzen
+L-2606	勁	ケイ	勁い	つよい	widerstandsfähig
+L-2607	脛	ケイ	脛骨	ケイコツ	Schienbein
+L-2607	脛	ケイ	脛	すね	Unterschenkel
+L-2607	脛	ケイ	脛	はぎ	Unterschenkel
+L-2608	潅	カン	潅水	カンスイ	Besprengen; Bewässerung
+L-2609	綺	キ	綺麗	Schönheit
+L-2609	綺	キ	綺	あや	Namensbestandteil
+L-2610	棲	セイ	同棲	ドウセイ	Zusammenleben
+L-2610	棲	セイ	棲む	すむ	(be)wohnen; leben
+L-2611	玖	キュウ	玖	キュウ	Edelstein
+L-2612	灸	キュウ　灸	キュウ	Moxibustion
+L-2613	燐	リン	燐酸	リンサン	Phosphorsäure
+L-2614	鱗	リン	鱗族	リンゾク	geschuppte Tiere; die Fische
+L-2614	鱗	リン	鱗	うろこ	Fischschuppe
+L-2614	鱗	リン	鱗	こけ	Fischschuppe
+L-2615	麟	リン	麒麟	キリン	Giraffe
+L-2616	憐	レン	哀憐	アイレン	Mitleid; Mitgefühl
+L-2616	憐	レン	憐れむ	あわれむ	Mitleid haben
+L-2617	峻	シュン	峻拒	シュンキョ	glatte Ablehnung
+L-2617	峻	シュン	峻る	おわる	zum Abschluss kommen
+L-2617	峻	シュン	峻える	おえる	zum Abschluss bringen
+L-2618	悛	シュン	改悛	カイシュン	Reue
+L-2619	竣	シュン	竣工	シュンコウ	Fertigstellung eines Bauwerks
+L-2620	駿	シュン	駿馬	シュンメ	flinkes Pferd
+L-2621	喋	チョウ	喋々	チョウチョウ	Geschwätzigkeit
+L-2621	喋	チョウ	喋る	しゃべる	schwatzen
+L-2622	牒	チョウ	符牒	フチョウ	Zeichen; Symbol; Code
+L-2623	諜	チョウ	防諜	ボウチョウ	Spionageabwehr
+L-2624	隕	イン	隕石	インセキ	Meteorit
+L-2625	朔	サク	朔風	サクフウ	Nordwind
+L-2625	朔	サク	朔	ついたち	erster Tag des Monats
+L-2626	楓	フウ	楓子香	フウシコウ	Galbanum (Mutterharz)
+L-2626	楓	フウ	楓	かえで	Ahorn
+L-2627	颯	サツ	颯爽	サッソウ	imposant; schneidig
+L-2628	劉	リュウ	劉邦	リュウホウ	Name eines Kaisers der Frühen Han-Dynastie
+L-2629	溜	リュウ	蒸溜	ジョウリュウ	Destillation
+L-2629	溜	リュウ	溜める	ためる	anhäufen
+L-2630	訣	ケツ	訣別	ケツベツ	Abschied
+L-2631	抉	ケツ	抉出	ケッシュツ	Aushöhlen; -stechen
+L-2631	抉	ケツ	抉る	えぐる	aushöhlen; -drücken
+L-2632	溌	ハツ	溌剌	ハツラツ	munter; lebhaft
+L-2633	狼	ロウ	狼星	ロウセイ	Sirius; Hundestern
+L-2633	狼	ロウ	狼	おおかみ	Wolf
+L-2634	樽	ソン	樽酒	ソンシュ	Sake im Fass
+L-2634	樽	ソン	樽	たる	Fass; Tonne
+L-2635	鱒	ソン	養鱒	ヨウソン	Forellenzucht
+L-2635	鱒	ソン	鱒	ます	Forelle
+L-2636	狒	ヒ	狒々	ヒヒ	Pavian
+L-2637	渥	アク	優渥	ユウアク	Freundlichkeit; menschl. Wärme
+L-2637	渥	アク	渥い	あつい	warmherzig; herzlich
+L-2638	倦	ケン	倦怠	ケンタイ	Erschöpfung; Müdigkeit
+L-2638	倦	ケン	倦む	うむ	müde, überdrüssig werden
+L-2639	跪	キ	跪坐	キザ	Kniefall; Knien
+L-2639	跪	キ	跪く	ひざまずく	niederknien
+L-2640	脆	ゼイ	脆性	ゼイセイ	Sprödigkeit; Brüchigkeit
+L-2641	隈	ワイ	界隈	カイワイ	Nachbarschaft; Umgebung
+L-2642	猥	ワイ	猥雑	ワイザツ	Unanständigkeit; Lüsternheit
+L-2642	猥	ワイ	猥ら	みだら	Obszönität
+L-2643	嵌	カン	金象嵌	キンゾウガン	Einlegen mit Gold
+L-2643	嵌	カン	嵌める	はめる	einlegen; einfügen; einstecken
+L-2644	柑	カン	蜜柑	ミカン	Mandarine
+L-2645	坦	タン	平坦	ヘイタン	eben; flach
+L-2646	翠	スイ	翠玉	スイギョク	Smaragd; Jade
+L-2647	倅	ソツ	卒然	ソツゼン	plötzlich
+L-2647	倅	ソツ	卒	せがれ	mein Sohn
+L-2648	瞥	ベツ	瞥見	ベッケン	flüchtiger Blick
+L-2649	笥	ス・シ	箪笥	タンス	Kommode
+L-2649	笥	ス・シ	笥金	シキン	Gold in einer Kiste
+L-2649	笥	ス・シ	笥	け	Essensgefäß
+L-2650	梵	ボン	梵語	ボンゴ	Sanskrit
+L-2651	膏	コウ	絆創膏	バンソウコウ	Heftpflaster
+L-2652	嵩	スウ	崇呼	スウコ	anschwellender Schrei
+L-2652	嵩	スウ	崇	たかし	Namensbestandteil
+L-2653	芥	カイ・ケ	塵芥	ジンカイ	Abfall; Müll
+L-2653	芥	カイ・ケ	芥子粒	ケシつぶ	Mohnsaat
+L-2653	芥	カイ・ケ	芥	あくた	Schmutz; Abfall
+L-2654	蔚	ウツ	鬱然	ウツゼン	üppiges Wachstum
+L-2655	楯	ジュン	楯軒	ジュンケン	Geländer
+L-2655	楯	ジュン	楯	たて	Schild; Deckung
+L-2656	遁	トン	遁辞	トンジ	Ausrede; Ausflucht
+L-2657	炬	キョ・コ	炬火	キョカ	Signalfeuer
+L-2657	炬	キョ・コ	炬	のり	Regel; Gesetz
+L-2658	矩	ク	矩形	クケイ	Rechteck
+L-2659	砥	シ	砥磨	シマ	Schärfen und Polieren
+L-2659	砥	シ	砥石	といし	Schleifstein; Wetzstein
+L-2660	擾	ジョウ	擾乱	ジョウラン	Unruhe; Tumult
+L-2661	坤	コン	坤軸	コンジク	Erdachse (altes China)
+L-2662	嘘	キョ	嘘言	キョゲン	Lüge; Unwahrheit
+L-2662	嘘	キョ	嘘	うそ	Lüge; Unwahrheit
+L-2663	舵	ダ	舵輪	ダリン	Lenkrad; Steuerrad
+L-2663	舵	ダ	舵	かじ	Steuer; Ruder
+L-2664	陀	ダ	仏陀	ブッダ	Buddha
+L-2665	稔	ジン	稔熟	ジンジュク	vollreif
+L-2666	廟	ビョウ	廟堂	ビョウドウ	Hof; Ort religiöser Handlungen
+L-2667	詢	ジュン	諮詢	シジュン	Beratung; Befragung
+L-2667	詢	ジュン	詢る	はかる	beraten
+L-2668	洵	ジュン	洵涕	ジュンテイ	stilles Weinen
+L-2669	絢	ケン	絢爛	ケンラン	glänzend; prächtig; prunkvoll
+L-2669	絢	ケン	絢	あや	Namensbestandteil
+L-2670	宏	コウ	宏大	コウダイ	Weite; Ausdehnung
+L-2671	紘	コウ	八紘一宇	ハッコウイチウ	"alles vereint unter einem Dach"
+L-2672	肱	コウ	股肱	ココウ	jemandes "rechte Hand" (Person)
+L-2672	肱	コウ	肱	ひじ	Ellbogen
+L-2673	鯉	リ	鯉庭	リテイ	Ort, an dem Vater sein Kind lehrt
+L-2673	鯉	リ	鯉	こい	Karpfen
+L-2674	浬	リ	三浬	サンリ	3 Seemeilen
+L-2675	狸	リ	狐狸	コリ	Füchse und Dachse
+L-2675	狸	リ	狸	たぬき	japanischer Tanuki (Dachs)
+L-2676	哩	リ	五哩	ゴリ	5 Meilen
+L-2676	哩	リ	哩	マイル	Meile
+L-2677	裡	リ	裡面	リメン	Rückseite; Kehrseite
+L-2677	裡	リ	裡	うら	Rückseite (alte Form)
+L-2678	奄	エン	気息奄々	キソクエンエン	Ringen nach Atem; schwerer Atem
+L-2679	掩	エン	掩蔽	エンペイ	Tarnung; Verfinsterung
+L-2679	掩	エン	掩う	おおう	bedecken
+L-2680	庵	アン	庵室	アンシツ	Klause eines Einsiedlers
+L-2680	庵	アン	庵	いおり	Eremitage
+L-2681	葺	シュウ	葺屋	シュウオク	reetgedecktes Dach
+L-2681	葺	シュウ	葺く	ふく	decken (Dach); schindeln
+L-2682	輯	シュウ	輯録	シュウロク	Kompilation; Sammlung
+L-2683	揖	ユウ	揖拝	ユウハイ	Sichverbeugen mit verschränkten Armen
+L-2684	贋	ガン	贋造	ガンゾウ	Fälschung
+L-2685	雁	ガン	雁行	ガンコウ	Formation, wie bei Fluggänsen
+L-2686	鷹	ヨウ	鷹眼	ヨウガン	Falkenauge
+L-2686	鷹	ヨウ	鷹	たか	Falke
+L-2687	箭	セン	箭書	センショ	Nachricht an einem Pfeil
+L-2687	箭	セン	箭	や	Pfeil
+L-2688	剪	セン	剪定	センテイ	Beschneiden
+L-2689	揃	セン	揃平	センペイ	flachgeschnitten
+L-2689	揃	セン	揃える	そろえる	zusammenstellen; aufstellen
+L-2690	狗	ク	天狗	テング	langnasiger Kobold
+L-2690	狗	ク	狗	いぬ	Welpe
+L-2691	垢	コウ・ク	垢塵	コウジン	Dreck; Schmutz
+L-2691	垢	コウ・ク	無垢	ムク	rein; unbefleckt
+L-2691	垢	コウ・ク	垢	あか	Schmutz; Dreck
 L-2692	痺
 L-2693	婢
 L-2694	牌
