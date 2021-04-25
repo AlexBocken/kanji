@@ -3128,168 +3128,299 @@ L-2690	狗	ク	狗	いぬ	Welpe
 L-2691	垢	コウ・ク	垢塵	コウジン	Dreck; Schmutz
 L-2691	垢	コウ・ク	無垢	ムク	rein; unbefleckt
 L-2691	垢	コウ・ク	垢	あか	Schmutz; Dreck
-L-2692	痺
-L-2693	婢
-L-2694	牌
-L-2695	稗
-L-2696	鋪
-L-2697	圃
-L-2698	蒲
-L-2699	葡
-L-2700	輔
-L-2701	譬
-L-2702	婉
-L-2703	椀
-L-2704	碗
-L-2705	槃
-L-2706	磐
-L-2707	疹
-L-2708	滲
-L-2709	謬
-L-2710	絆
-L-2711	剃
-L-2712	悌
-L-2713	梯
-L-2714	簾
-L-2715	鎌
-L-2716	沌
-L-2717	噸
-L-2718	捧
-L-2719	猾
-L-2720	煤
-L-2721	鉦
-L-2722	銚
-L-2723	噌
-L-2724	晟
-L-2725	鼾
-L-2726	旱
-L-2727	竿
-L-2728	栞
-L-2729	殆
-L-2730	苔
-L-2731	姑
-L-2732	賎
-L-2733	葦
-L-2734	箕
-L-2735	艘
-L-2736	碇
-L-2737	嘉
-L-2738	茄
-L-2739	迦
-L-2740	珈
-L-2741	駕
-L-2742	伽
-L-2743	袈
-L-2744	槙
-L-2745	顛
-L-2746	哉
-L-2747	截
-L-2748	甥
-L-2749	笙
-L-2750	甦
-L-2751	皓
-L-2752	輻
-L-2753	逼
-L-2754	汀
-L-2755	釘
-L-2756	庇
-L-2757	屁
-L-2758	枇
-L-2759	琵
-L-2760	箆
-L-2761	鞘
-L-2762	哨
-L-2763	屑
-L-2764	埴
-L-2765	煉
-L-2766	諌
-L-2767	筈
-L-2768	鴎
-L-2769	痔
-L-2770	蒔
-L-2771	斐
-L-2772	緋
-L-2773	誹
-L-2774	琲
-L-2775	頗
-L-2776	簸
-L-2777	挽
-L-2778	寓
-L-2779	萬
-L-2780	邁
-L-2781	逗
-L-2782	耀
-L-2783	燿
-L-2784	蕃
-L-2785	播
-L-2786	楊
-L-2787	暢
-L-2788	莫
-L-2789	蹟
-L-2790	漬
-L-2791	渚
-L-2792	曙
-L-2793	薯
-L-2794	藷
-L-2795	躇
-L-2796	儲
-L-2797	堵
-L-2798	屠
-L-2799	洛
-L-2800	烙
-L-2801	椋
-L-2802	諒
-L-2803	惹
-L-2804	奎
-L-2805	畦
-L-2806	鮭
-L-2807	蛙
-L-2808	娃
-L-2809	妓
-L-2810	桔
-L-2811	冴
-L-2812	幟
-L-2813	痒
-L-2814	暈
-L-2815	渾
-L-2816	暉
-L-2817	註
-L-2818	巴
-L-2819	琶
-L-2820	芭
-L-2821	杷
-L-2822	凋
-L-2823	鯛
-L-2824	亥
-L-2825	咳
-L-2826	弛
-L-2827	馳
-L-2828	晦
-L-2829	紬
-L-2830	迪
-L-2831	柚
-L-2832	扮
-L-2833	痰
-L-2834	嘗
-L-2835	恰
-L-2836	閤
-L-2837	淳
-L-2838	醇
-L-2839	惇
-L-2840	敦
-L-2841	糊
-L-2842	瑚
-L-2843	醐
-L-2844	胡
-L-2845	叛
-L-2846	此
-L-2847	柴
-L-2848	砦
-L-2849	些
-L-2850	鞭
-L-2851	蕩
-L-2852	裟
-L-2853	祇
+L-2692	痺	ヒ	麻痺	マヒ	Lähmung
+L-2692	痺	ヒ	痺れる	しびれる	"einschlafen" (taub werden)
+L-2693	婢	ヒ	奴婢	ヌヒ	Gesinde
+L-2694	牌	ハイ	賞牌	ショウハイ	Medaille
+L-2694	牌	ハイ	牌	パイ	Mah-Jongg-Steine (China)
+L-2695	稗	ハイ	稗史	ハイシ	Legende; Fiktion
+L-2695	稗	ハイ	稗	ひえ	japanische Hühnerhirse
+L-2696	鋪	ホ	鋪道	ホドウ	gepflasterte Straße
+L-2697	圃	ホ	圃畦	ホケイ	Furchen in Feldern
+L-2698	蒲	ホ	樗簿一	チョボイチ	mit einem einzelnen Würfel gespieltes Spiel
+L-2699	葡	ブ・ホ	葡萄	ブドウ	Traube; Rebe
+L-2699	葡	ブ・ホ	ニ葡	二ッポ	Japan und Portugal
+L-2700	輔	フ・ホ	輔佐	フサ・ホサ	Assistent; Ratgeber
+L-2700	輔	フ・ホ	輔く	たすく	retten; helfen
+L-2701	譬	ヒ	譬喩	ヒユ	Metapher; Gleichnis
+L-2701	譬	ヒ	譬える	たとえる	vergleichen
+L-2702	婉	エン	婉曲	エンキョク	euphemistisch; beschönigend
+L-2703	椀	ワン	椀	ワン	Holzschale
+L-2704	碗	ワン	茶碗	チャワン	Teetasse
+L-2705	槃	ハン	涅槃	ネハン	Nirvana
+L-2706	磐	バン	盤石	バンジャク	großer Felsen
+L-2706	磐	バン	盤	いわ	Felsen
+L-2707	疹	シン	麻疹	マシン	Masern
+L-2708	滲	シン	滲出	シンシュツ	Versickern; Exsudation
+L-2708	滲	シン	滲む	にじむ	durchsickern; durchdringen
+L-2708	滲	シン	滲る	しみる	durchdringen; auslaufen
+L-2709	謬	ビュウ	無謬性	ムビュウセイ	Unfehlbarkeit
+L-2710	絆	ハン・バン	脚絆	キャハン	Gamaschen
+L-2710	絆	ハン・バン	絆創膏	バンソウコウ	Heftpflaster
+L-2710	絆	ハン・バン	絆	きずな	Band; Bände; Verbindung
+L-2710	絆	ハン・バン	絆ぐ	つなぐ	verbinden; festbinden
+L-2711	剃	テイ	剃髪	テイハツ	Tonsur; Haare abschneiden
+L-2711	剃	テイ	剃る	そる	rasieren
+L-2712	悌	テイ	悌順	テイジュン	Gehorsam
+L-2713	梯	テイ	階梯	カイテイ	Stufen; Leiter; Leitfaden
+L-2713	梯	テイ	梯	はしご	Leiter
+L-2714	簾	レン	暖簾	ノレン	Vorhang am Ladeneingang
+L-2714	簾	レン	簾	すだれ	Bambusjalousie
+L-2715	鎌	レン	鎌府	レンプ	alter Name für Kamakura
+L-2715	鎌	レン	鎌	かま	Sense
+L-2716	沌	トン	混沌	コントン	Choas; Wirrwarr
+L-2717	噸	トン	噸	トン	eine Tonne
+L-2718	捧	ホウ	捧持	ホウジ	Tragen; Präsentieren
+L-2718	捧	ホウ	捧げる	さげる	darbringen
+L-2719	猾	カツ	狡猾	コウカツ	Durchtriebenheit
+L-2719	猾	カツ	猾い	ずるい	schlau
+L-2720	煤	バイ	煤煙	バイエン	Ruß und Rauch
+L-2720	煤	バイ	煤	すす	Ruß
+L-2721	鉦	ショウ	鉦鼓	ショウコ	Glocke und Trommel
+L-2721	鉦	ショウ	鉦	かれ	Glocke in Form einer Schale
+L-2722	銚	チョウ	銚子	ショウシ	Sakeflasche
+L-2723	噌	ソ	味噌	ミソ	vergorene Sojapaste
+L-2724	晟	セイ・ジョウ	晟一	セイイチ	Männername
+L-2724	晟	セイ・ジョウ	晟一	ジョウイチ	Männername
+L-2724	晟	セイ・ジョウ	晟らか　あきらか	klar
+L-2725	鼾	カン	鼾声	カンセイ	Schnarchlaute
+L-2725	鼾	カン	鼾	いびき	Schnarchen
+L-2726	旱	カン	旱害	カンガイ	Schaden infolge einer Dürre
+L-2726	旱	カン	旱	ひでり	Dürre
+L-2727	竿	カン	竿頭	カントウ	Spitze einer Stange
+L-2727	竿	カン	竿	さお	Stange
+L-2728	栞	カン	栞菜	カンナ	Frauenname
+L-2728	栞	カン	栞	しおり	Lesezeichen
+L-2729	殆	タイ	殆危	タイキ	Gefahr
+L-2729	殆	タイ	殆ど	ほとんど	fast; beinahe
+L-2730	苔	タイ	蘚苔	センタイ	Moose
+L-2730	苔	タイ	苔	こけ	Moos
+L-2730	苔	タイ	海苔	のり	Seetang
+L-2731	姑	コ	姑息	コソク	Provisiorium; Behelf
+L-2731	姑	コ	姑	しゅうと	Schwiegermutter
+L-2731	姑	コ	姑	しゅうとめ	Schwiegermutter
+L-2732	賎	セン	貴賎	キセン	Oben und Unten (soz. Stellung)
+L-2732	賎	セン	賎しい	いやしい	niedrig; gemein
+L-2733	葦	イ	一葦	イチイ	ein einzelnes Schilfrohr
+L-2733	葦	イ	葦	あし	Schilf
+L-2733	葦	イ	葦	よし	Schilf
+L-2734	箕	キ	簸箕	ハキ	Getreideschwinge
+L-2734	箕	キ	箕	み	Worfschaufel; Getreideschwinge
+L-2735	麟	キ	麒麟	キリン	Giraffe
+L-2736	碇	テイ	碇泊地	テイハクチ	Verankerung; Vertäuung
+L-2736	碇	テイ	碇	いかり	Anker
+L-2737	嘉	カ	嘉納	カノウ	Zustimmung; Einverständnis
+L-2737	嘉	カ	嘉す	よみす	loben
+L-2738	茄	カ	茄子	カシ	Aubergine
+L-2738	茄	カ	茄	なす	Aubergine
+L-2739	迦	カ	釈迦	シャカ	der Buddha Shakyamuni
+L-2740	珈	カ	珈琲	カヒ・コ一ヒ一	Kaffee
+L-2741	駕	カ・ガ	駕篭	カゴ	Sänfte; Trage
+L-2741	駕	カ・ガ	車駕	シャガ	kaiserlicher Wagen
+L-2742	伽	カ・ガ	伽陀	カダ	Lobgesang auf den Buddha (Gatha)
+L-2742	伽	カ・ガ	伽藍	ガラン	Tempel; Kloster
+L-2742	伽	カ・ガ	伽	とぎ	Krankenpflege
+L-2743	袈	ケ	袈裟	ケサ	Mönchsstola
+L-2744	槙	シン	槙柏	シンパク	eine Art Bonsai-Wacholderbaum
+L-2744	槙	シン	槙	まき	Steineibe
+L-2745	顛	テン	顛末	テンマツ	Details; Hergang
+L-2746	哉	サイ	快哉	カイサイ	Ausruf der Freude
+L-2746	哉	サイ	哉	か	Fragezeichen; Namensbestandteil
+L-2746	哉	サイ	哉	かな	in der Tat!
+L-2747	截	セツ	截然	セツゼン	Klarheit; Deutlichkeit
+L-2747	截	セツ	截る	きる	abtreten; abschneiden
+L-2748	甥	セイ	甥姪	セイテツ	Nichten und Neffen
+L-2748	甥	セイ	甥	おい	Neffe
+L-2749	笙	ショウ	笙鼓	ショウコ	Flöten und Trommeln
+L-2749	笙	ショウ	笙	しょうのふえ	13- oder 19- rohrige Panflöte
+L-2750	甦	ソ	甦生	ソセイ	Wiederauferstehung; Wiedergeburt
+L-2750	甦	ソ	甦る	よみがえる	wiederbeleben
+L-2751	皓	コウ	皓歯	コウシ	strahlend weiße Zähne
+L-2752	輻	フク	輻射	フクシャ	Strahlung (von Hitze, Licht etc.)
+L-2752	輻	フク	輻	や	Speiche eines Rades
+L-2753	逼	ヒッ	逼塞	ヒッソク	nach einem Misserfolg in Vergessenheit fallen
+L-2754	汀	テイ	汀線	テイセン	Uferlinie
+L-2754	汀	テイ	汀	なぎさ	Strand
+L-2754	汀	テイ	汀	みぎわ	Küste
+L-2755	釘	テイ	装釘	ソウテイ	Ausstattung eines Buches
+L-2755	釘	テイ	釘	くぎ	Nagel
+L-2756	庇	ヒ	庇護	ヒゴ	Obhut; Schutz
+L-2756	庇	ヒ	庇う	かばう	beschützen; Schutz gewähren
+L-2756	庇	ヒ	庇	ひさし	Vordach; Baldachin
+L-2757	屁	ヒ	放屁	ホウヒ	Blähungen
+L-2757	屁	ヒ	屁	へ	Furz
+L-2758	枇	ビ	枇杷	ビワ	japanische Mispel
+L-2759	琵	ビ	琵琶	ビワ	Laute
+L-2760	箆	ヘイ	竹箆	シッペイ	Bambusleiste zum Wecken schläfriger Meditierender
+L-2760	箆	ヘイ	箆	へら	Spachtel; Spatel
+L-2761	鞘	ショウ	髄鞘	ズイイショウ	Myelinscheide
+L-2761	鞘	ショウ	鞘	さや	Futteral; Scheide
+L-2762	哨	ショウ	哨戒	ショウカイ	Patroulle; Aufklärer
+L-2763	屑	セツ	鋸屑	キョセツ	Sägespäne
+L-2763	屑	セツ	屑	くず	Abfall; Müll
+L-2764	埴	ショク	埴土	ショクド	Lehm
+L-2764	埴	ショク	埴	はに	Lehm
+L-2765	煉	レン	煉瓦	レンガ	Ziegel
+L-2765	煉	レン	煉る	ねる	kneten; tempern
+L-2766	諌	カン	諌言	カンゲン	Zurechtweisung
+L-2766	諌	カン	諌める	いさめる	tadeln
+L-2767	筈	カツ	筈	はず	Erwartung; sollte
+L-2768	鴎	オウ	鴎沙	オウサ	Sand, auf dem Möwen spielen
+L-2768	鴎	オウ	鴎	かもめ	Möwe
+L-2769	痔	ジ	痔	ジ	Hämorrhoiden
+L-2770	蒔	ジ	蒔植	ジショク	Gemüsepflanzung
+L-2770	蒔	ジ	蒔く	まく	säen
+L-2770	蒔	ジ	蒔える	うえる	anpflanzen
+L-2771	斐	ヒ	斐川町	ヒカワチョウ	Stadt in der Präfektur Shimane
+L-2771	斐	ヒ	生甲斐	いきがい	Lebenssinn
+L-2772	緋	ヒ	緋鯉	ヒゴイ	Purpur- (Gold-) Karpfen
+L-2772	緋	ヒ	緋	あか	Purpur
+L-2772	緋	ヒ	緋	あけ	Scharlachrot
+L-2773	誹	ヒ	誹謗	ヒボウ	Verleumdung; üble Nachrede
+L-2773	誹	ヒ	誹る	そしる	vorwerfen; verleumden
+L-2774	琲	ヒ	珈琲	コ一ヒ一	Kaffee
+L-2775	頗	ハ	偏頗	ヘンパ	Parteilichkeit; Bevorzugung
+L-2775	頗	ハ	頗る	すこぶる	äußerst; extrem
+L-2776	簸	ハ	簸箕	ハキ	Getreideschwinge
+L-2777	挽	バン	挽歌	バンカ	Grablied; Totenklage
+L-2777	挽	バン	挽く	ひく	mahlen
+L-2778	寓	グウ	寓話	グウワ	Allegorie; Fabel
+L-2779	萬	マン	二萬	ニマン	20.000 (alte Form)
+L-2780	邁	マイ	高邁	コウマイ	erhaben; edel
+L-2781	逗	トウ・ズ	逗留	トウリュウ	Aufenthalt; Bleiben
+L-2781	逗	トウ・ズ	逗子市	ズシシ	Stadt nahe Nakamura
+L-2782	耀	ヨウ	耀電	ヨウデン	Blitzen
+L-2782	耀	ヨウ	耀く	カガヤク	scheinen; funkeln
+L-2783	燿	ヨウ	燿光	ヨウコウ	helle Strahlen
+L-2783	燿	ヨウ	燿く	かがやく	hell werden
+L-2784	蕃	バン	蕃椒	バンショウ	roter Pfeffer
+L-2785	播	ハ	播種	ハシュ	Säen; Aussat
+L-2785	播	ハ	播く	まく	säen
+L-2786	楊	ヨウ	楊枝	ヨウジ	Zahnstocher
+L-2786	楊	ヨウ	楊	やなぎ	Weide
+L-2787	暢	チョウ	流暢	リュウチョウ	fließendes Sprechen
+L-2788	莫	バク	莫大	バクダイ	riesengroß; ungeheuer
+L-2788	莫	バク	莫れ	なかれ	nicht dürfen
+L-2789	蹟	セキ	手蹟	シュセキ	Hanschriftprobe
+L-2790	漬	シ	浸漬	シンシ	Tränken
+L-2790	漬	シ	漬かる	つかる	(gut) gewürzt sein
+L-2790	漬	シ	漬ける	つける	einlegen; einweichen
+L-2791	渚	ショ	州渚	シュウショ	Wasser am Rande einer Sandbank
+L-2791	渚	ショ	渚	なぎさ	Strand; Ufer
+L-2792	曙	ショ	曙光	ショコウ	Morgenrot; erstes Tageslicht
+L-2792	曙	ショ	曙	あけばの	Morgendämmerung
+L-2793	薯	ショ	甘薯	カンショ	Süßkartoffel
+L-2793	薯	ショ	薯	いも	Kartoffel
+L-2794	藷	ショ	甘藷	カンショ	Süßkartoffel
+L-2794	藷	ショ	藷	いも	Kartoffel
+L-2795	躇	チョ	躊躇	チュウチョ	Zaudern; Unentschlossenheit
+L-2796	儲	チョ	儲利	チョリ	Gewinne; Profite
+L-2796	儲	チョ	儲け	もうけ	Profit
+L-2796	儲	チョ	儲ける	もうける	profitieren; Gewinn machen
+L-2797	堵	ト	安堵	アンド	Erleichterung
+L-2798	屠	ト	屠場	トジョウ	Schlachthof
+L-2798	屠	ト	屠る	ほふる	abschlachten
+L-2799	洛	ラク	洛中	ラクチュウ	in Kioto
+L-2800	烙	ラク	烙印	ラクイン	Brandmal; Brandzeichen
+L-2800	烙	ラク	烙く	やく	brennen
+L-2801	椋	リョウ	椋木	リョウボク	asiat. Ulmenart (Aphananthe)
+L-2801	椋	リョウ	椋	もく(のき)	Star (Vogelart); Aphananthe
+L-2802	諒	リョウ	諒闇	リョウアン	(nationale) Hoftrauer
+L-2803	惹	ジャク	惹起	ジャッキ	Hervorrufen
+L-2803	惹	ジャク	惹く	ひく	anziehen; ziehen
+L-2804	奎	ケイ	奎運	ケイウン	wissenschaftliche Neigung
+L-2805	畦	ケイ	畦畔	ケイハン	feldteilende Dämme
+L-2805	畦	ケイ	畦	あぜ	Furchenrücken zwischen Reisfeldern
+L-2805	畦	ケイ	畦	うれ	Rücken; Furche
+L-2806	鮭	ケイ	鮭鱒	ケイソン	Lachs und Forelle
+L-2806	鮭	ケイ	鮭 鮭鱒	さけ・しゃけ	Lachs
+L-2807	蛙	ア	蛙声	アセイ		raue Stimme
+L-2807	蛙	ア	蛙	かえる	Frosch
+L-2808	娃	アイ	娃	アイ	Frauenname
+L-2808	娃	アイ	娃しい	うつくしい	schön
+L-2809	妓	ギ	妓楼	ギロウ	Bordell
+L-2810	桔	キチ・キ	桔梗	キ　(チ)　キョウ	chin. Glockenblume
+L-2811	冴	ゴ	冴寒	ゴカン	extrem kalt
+L-2811	冴	ゴ	冴え	さえ	Scharfsinn
+L-2811	冴	ゴ	冴える	さえる	klar sein; heiter sein
+L-2812	幟	シ	旗幟	キシ	Flagge; Banner; Standpunkt
+L-2812	幟	シ	幟	のぼり	Banner; Wimpel
+L-2813	痒	ヨウ	痛痒	ツウヨウ	Rührung; Interesse
+L-2813	痒	ヨウ	痒い	かゆい	juckend
+L-2814	暈	ウン	眩暈	ゲンウン	Schwindel; -gefühl
+L-2814	暈	ウン	暈	かさ	Strahlenkranz
+L-2814	暈	ウン	暈す	ぼかす	schattieren; vage machen
+L-2814	暈	ウン	暈ける	ぼける	verschwimmen; verblassen
+L-2815	渾	コン	渾天儀	コンテンギ	Armillarsphäre (astron.)
+L-2816	暉	キ	清暉	セイキ	klare, schräge Lichstrahlen
+L-2816	暉	キ	暉き	かがやき	Glanz; Schimmer
+L-2816	暉	キ	暉る	てる	scheinen; glänzen
+L-2816	暉	キ	暉	ひかり	Lichtstrahl
+L-2817	註	チュウ	註釈	チュウシャク	Anmerkung
+L-2818	巴	ハ	淋巴腺	リンパセン	Lymphdrüsen
+L-2818	巴	ハ	巴	うず	Wirbel
+L-2819	琶	ハ	琵琶	ビワ	japanische Laute
+L-2820	芭	バ	芭蕉	バショウ	Bashō (Haikudichter, 1644-1694); Banane
+L-2821	杷	ワ	枇杷	ビワ	Mispel
+L-2822	凋	チョウ	凋落	チョウラク	Verwelken; Ablehnen
+L-2822	凋	チョウ	凋む	しぼむ	welken
+L-2823	鯛	チョウ	鯛魚	チョウギョ	Sebrasse
+L-2823	鯛	チョウ	鯛	たい	Sebrasse
+L-2824	亥	ガイ	亥月	ガイゲツ	Oktober im Mondkalender
+L-2824	亥	ガイ	亥	い	Zeichen des Wildschweins
+L-2825	咳	ガイ	咳唾	ガイダ	Husten und Speichel; Führung
+L-2825	咳	ガイ	咳	せき	Husten
+L-2826	弛	チ・シ	弛緩	チカン・シカン	Entspannung; Schlaffheit
+L-2826	弛	チ・シ	弛張	シチョウ	Entspannung
+L-2826	弛	チ・シ	弛む	たるむ	erschlaffen
+L-2826	弛	チ・シ	弛む	ゆるむ	weich werden
+L-2827	馳	チ	馳走	チソウ	Leckerbissen; Bewirtung
+L-2827	馳	チ	馳せる	はせる	laufen; galoppieren
+L-2828	晦	カイ	晦渋	カイジュウ	Obskurität; Verworrenheit
+L-2828	晦	カイ	晦日	みそか	letzter Tag des Monats
+L-2829	紬	チュウ	紬布	チュウフ	Pongéstoff
+L-2829	紬	チュウ	紬	つむぎ	Pongé
+L-2830	迪	テキ	啓迪	ケイテキ	Aufklärung; Anleitung
+L-2831	柚	ユ	柚(子)	ユズ	Zitrone
+L-2832	扮	フン	扮装	フンソウ	Aufmachung; Verkleidung
+L-2833	痰	タン	血痰	ケッタン	blutiger Schleim; Auswurf
+L-2834	嘗	ジョウ	大嘗祭	ダイジョウサイ	Dankefest nach der Krönung eines Kaisers
+L-2835	恰	コウ・カッ	恰好	カッコウ	Gestalt; Form
+L-2835	恰	コウ・カッ	恰も	あたかも	gleichsam; als ob
+L-2836	閤	コウ	太閤	タイコウ	Vater des kaiserlichen Ratgebers
+L-2837	淳	ジュン	淳心	ジュンシン	reines und unbeflecktes Herz
+L-2838	醇	ジュン	醇化	ジュンカ	Verfeinerung; Veredelung
+L-2838	醇	ジュン	醇い	あつい	warm; herzlich
+L-2839	惇	ジュン・トン	惇い	あつい	warm; herzlich
+L-2839	惇	ジュン・トン	淳朴	ジュンボク	Ehrlichkeit
+L-2839	惇	ジュン・トン	淳厚	トンコウ	ehrlich und hilfreich
+L-2840	敦	トン	敦厚	トンコウ	Einfachheit; Naivität
+L-2841	糊	コ	糊塗	コト	Beschönigung; Vertuschung
+L-2841	糊	コ	糊	のり	Klebe; Leim
+L-2842	瑚	ゴ	珊瑚	サンゴ	Koralle
+L-2843	醐	ゴ	醍醐味	ダイゴミ	der wahre Genuss, Reiz
+L-2844	胡	コ・ゴ・ウ	胡椒	コショウ	Pfeffer
+L-2844	胡	コ・ゴ・ウ	胡麻	ゴマ	Sesam
+L-2844	胡	コ・ゴ・ウ	胡散	ウサン	verdächtig
+L-2844	胡	コ・ゴ・ウ	胡	えびす	Barbaren
+L-2845	叛	ホン・ハン	謀叛	ムホン	Rebellion; Aufstand
+L-2845	叛	ホン・ハン	叛服	ハンプク	Gehorsam und Ungehorsam
+L-2845	叛	ホン・ハン	叛く	そむく	ungehorsam sein
+L-2846	此	シ	此岸	シガン	diese Welt (Diesseits)
+L-2846	此	シ	此	これ	dieser; diese; dieses
+L-2847	柴	サイ	柴戸	サイコ	Tür und Reisig
+L-2847	柴	サイ	柴	しば	Reisig
+L-2848	砦	サイ	城砦	ジョウサイ	Feste; Burg
+L-2848	砦	サイ	砦	とりで	Festung; Schanze
+L-2849	些	サ	些細	ササイ	Geringfügigkeit
+L-2849	些	サ	些か	いささか	ein wenig
+L-2849	些	サ	些し	すこし	ein bisschen
+L-2850	鞭	べん	教鞭	キョウベン	Rute eines Lehrers
+L-2850	鞭	べん	鞭	むち	Peitsche
+L-2851	蕩	トウ	蕩尽	トウジン	Verschwenung; Vergeuden
+L-2851	蕩	トウ	蕩ける	とろける	bezaubert sein
+L-2852	裟	サ	袈裟	ケサ	Mönchsstola
+L-2853	祇	ギ	祇園	ギオン	Amüsierviertel in Kioto
 L-2854	雉
 L-2855	錐
 L-2856	惟
