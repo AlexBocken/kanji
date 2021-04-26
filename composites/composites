@@ -3893,112 +3893,145 @@ L-3108	鼈	ベツ	鼈甲	ベッコウ	Schildkrötenpanzer
 L-3108	鼈	ベツ	鼈	すっぽん	chinesische Weichschildkröte
 L-3109	倭	ワ	倭人	ワジン	Name, den die alten Chinesen für die Japaner verwendeten
 L-3109	倭	ワ	倭	やまと	alter Name für Japan oder das Nara-Becken
-L-3110	鮫
-L-3111	鰹
-L-3112	鱈
-L-3113	鮪
-L-3114	鮒
-L-3115	鮎
-L-3116	鯵
-L-3117	鰍
-L-3118	鮨
-L-3119	鯖
-L-3120	鰯
-L-3121	楢
-L-3122	橿
-L-3123	橇
-L-3124	樋
-L-3125	樫
-L-3126	榊
-L-3127	柾
-L-3128	栂
-L-3129	椙
-L-3130	梶
-L-3131	榎
-L-3132	柘
-L-3133	釦
-L-3134	鑓
-L-3135	鋏
-L-3136	蛸
-L-3137	蛭
-L-3138	蝿
-L-3139	蛤
-L-3140	苺
-L-3141	苫
-L-3142	韮
-L-3143	苅
-L-3144	薙
-L-3145	蓑
-L-3146	蒜
-L-3147	藁
-L-3148	蕨
-L-3149	囁
-L-3150	噂
-L-3151	噛
-L-3152	噺
-L-3153	喰
-L-3154	轡
-L-3155	凪
-L-3156	凧
-L-3157	辿
-L-3158	迄
-L-3159	姥
-L-3160	姐
-L-3161	侭
-L-3162	做
-L-3163	瀞
-L-3164	泪
-L-3165	淀
-L-3166	捌
-L-3167	摺
-L-3168	碓
-L-3169	磯
-L-3170	籾
-L-3171	粥
-L-3172	匂
-L-3173	孕
-L-3174	宍
-L-3175	晒
-L-3176	袷
-L-3177	秤
-L-3178	畠
-L-3179	畷
-L-3180	崇
-L-3181	竪
-L-3182	篠
-L-3183	縞
-L-3184	詫
-L-3185	貰
-L-3186	覗
-L-3187	躾
-L-3188	飴
-L-3189	髭
-L-3190	鞄
-L-3191	或
-L-3192	疋
-L-3193	幡
-L-3194	雫
-L-3195	鵜
-L-3196	麿
-L-3197	莨
-L-3198	粍
-L-3199	糎
-L-3200	粁
-L-3201	吋
-L-3202	呎
-L-3203	藝
-L-3204	嘔
-L-3205	壽
-L-3206	國
-L-3207	嶋
-L-3208	薗
-L-3209	龍
-L-3210	檜
-L-3211	燈
-L-3212	嶽
-L-3213	什
-L-3214	伍
-L-3215	峯
-L-3216	慾
-L-3217	淵
-L-3218	埜
+L-3110	鮫		鮫	さめ	Hai
+L-3111	鰹		鰹	かつお	Bonito (Fisch)
+L-3112	鱈		鱈	たら	Kabeljau
+L-3113	鮪		鮪	まぐろ	Thunfisch
+L-3114	鮒		鮒	ふな	Karausche; Schneiderkarpfen
+L-3115	鮎		鮎	あゆ	Ayu (Fisch)
+L-3116	鯵		鯵	あじ	Rossmakrele
+L-3117	鰍		鰍	かじか	jap. Groppe (Kaulkopf)
+L-3118	鮨		鮨	すし	Sushi
+L-3119	鯖		鯖	さば	Makrele
+L-3120	鰯		鰯	いわし	Sardine
+L-3121	楢		楢	なら	jap. Eiche
+L-3122	橿		橿	かし	jap. Blaueiche
+L-3123	橇		橇	かんじき	Schneeschuhe
+L-3123	橇		橇	そり	Schlitten
+L-3124	樋		樋	ひ	Rinne; Fallrohr; Wasserleitung
+L-3124	樋		樋	とい	Rinne; Fallrohr; Wasserleitung
+L-3125	樫		樫	かし	immergrüne Eiche
+L-3126	榊		榊	さかき	heiliger Baum
+L-3127	柾		柾	まさき	Spindelbaum
+L-3128	栂		栂	つが	Hemlocktanne
+L-3128	栂		栂	とが	Hemlocktanne
+L-3129	椙		椙	すぎ	japanische Zeder
+L-3130	梶		梶	かじ	Paddel; Ruder
+L-3131	榎		榎	えのき	chin. Zürgelbaum
+L-3132	柘		柘	やまぐわ	Buchsbaum
+L-3132	柘		柘	つげ	Buchsbaum
+L-3133	釦		釦	ぼたん	Knopf
+L-3134	鑓		鑓	やり	Speer; Lanze
+L-3135	鋏		鋏	はさみ	Schere
+L-3136	蛸		蛸	たこ	Oktopus
+L-3137	蛭		蛭	ひる	Egel
+L-3138	蝿		蝿	はえ	Fliege
+L-3139	蛤		蛤	はまぐり	Venusmuschel
+L-3140	苺		苺	いちご	Erdbeere
+L-3141	苫		苫	とま	Schilfmatte
+L-3142	韮		韮	にら	Schnittlauch
+L-3143	苅		苅	かる	mähen (Gras)
+L-3144	薙		薙ぐ	なぐ	niedermähen
+L-3145	蓑		蓑	みの	Regenmantel aus Stroh
+L-3146	蒜		蒜	ひる	Knoblauch
+L-3146	蒜		人蒜	にんいく	Knoblauch
+L-3147	藁		藁	わら	Stroh
+L-3148	蕨		蕨	わらび	Farnkraut
+L-3149	囁		囁く	ささやく	flüstern
+L-3150	噂		噂	うわさ	Gerüchte; Tratsch
+L-3151	噛		噛む	かむ	kauen; beißen
+L-3152	噺		噺	はなし	Gespräch; Erzählung; Rede
+L-3153	喰		喰う	くう	verschlingen; Schlag einstecken
+L-3153	喰		喰らう	くらう	verschlingen; Schlag einstecken
+L-3154	轡		轡	くつわ	Trense; Zaumzeug (Pferd)
+L-3155	凪		凪	なぎ	Windstille; Flaute
+L-3155	凪		凪ぐ	なぐ	ruhig werden; sich legen
+L-3156	凧		凧	たこ	Flugdrachen
+L-3157	辿		辿る	たどる	einen Weg entlanggehen
+L-3158	迄		迄	まで	bis; bis zu
+L-3159	姥		姥	うば	alte Frau
+L-3160	姐		姐	あね	ältere Schwester
+L-3160	姐		姐	ねえさん	junge Dame
+L-3161	侭		侭	まま	wie es ist; wie man mag
+L-3162	做		做す	なす	vollbringen; schaffen
+L-3163	瀞		瀞	とろ	Untiefe (in einem Fluss)
+L-3164	泪	ルイ	泪	なみだ	Träne; Zähne
+L-3165	淀		淀	よど	stehendes Wasser; Stauung
+L-3165	淀		淀む	よどむ	stocken; stauen
+L-3166	捌		捌き	さばき	Verkauf; Absatz
+L-3166	捌		捌く	さばく	behandeln; verfahren mit
+L-3167	摺		摺る	する	Abzug machen; drucken
+L-3168	碓		碓	うす	pedalbetriebener Mörser
+L-3169	磯		磯	いそ	Felsenküste
+L-3170	籾		籾	もみ	ungeschälter Reis
+L-3171	粥		粥	かゆ	Reisgrütze
+L-3172	匂		匂う	におう	riechen
+L-3172	匂		匂い	におい	Geruch; Duft
+L-3173	孕		孕む	はらむ	empfangen; schwanger werden
+L-3174	宍		宍	しし	Fleisch
+L-3175	晒		晒す	さらす	bleichen; (luft)trocknen
+L-3175	晒		晒	さらし	Bleichen; gebleichte Baumwolle
+L-3176	袷		袷	あわせ	gefütterter Kimono
+L-3177	秤		秤	はかり	Waage
+L-3178	畠		畠	はたけ	Feld; Acker
+L-3179	畷		畷	なわて	Pfad zwischen Reisfeldern
+L-3180	崇		崇る	たたる	verfluchen; heimsuchen
+L-3181	竪		竪	たて	senkrecht; vertikal
+L-3182	篠		篠	しの	kleine Bambusart
+L-3183	縞		縞	しま	Streifen
+L-3184	詫		詫び	わび	Entschuldigung; Abbitte
+L-3184	詫		詫びる	わびる	Abbitte tun; sich entschuldigen
+L-3185	貰		貰う	もらう	bekommen; empfangen; kriegen
+L-3185	貰		貰	もらい	Trinkgeld; Zuwendung
+L-3186	覗		覗う	うかがう	ausspähen
+L-3186	覗		覗き	のぞき	Lugen; kurzer Blick
+L-3186	覗		覗く	のぞく	gucken; blicken; spähen
+L-3187	躾		躾	しつけ	Zucht; Disziplin; Erziehung
+L-3188	飴		飴	あめ	Bonbon; Reisgelee
+L-3189	髭		髭	ひげ	Bart
+L-3190	鞄		鞄	かばん	(Akten-)Tasche
+L-3191	或		或る	ある	ein gewisser
+L-3192	疋		疋	ひき	Zählwort für Tiere
+L-3193	幡		幡	はた	Banner
+L-3194	雫		雫	しずく	Tropfen
+L-3195	鵜		鵜	う	Kormoran
+L-3196	麿		麿	まろ	Bestandteil von Vornamen
+L-3197	莨		莨	たばこ	Tabak
+L-3198	粍		粍	ミリめ一トル	Millimeter
+L-3199	糎		糎	センチめ一トル	Zentimeter
+L-3200	粁		粁	キロチめ一トル	Kilometer
+L-3201	吋		吋	インチ	Zoll
+L-3202	呎		呎	フィット	Fuß (Maßeinheit)
+L-3203	藝	ゲイ	文藝	ブンゲイ	Literatur; Schreibkunst
+L-3203	藝	ゲイ	藝	わざ	Kunst(fertigkeit); Leistung
+L-3204	嘔	オウ	嘔吐	オウト	Erbrechen
+L-3204	嘔	オウ	嘔く	はく	speien; spucken
+L-3205	壽	ジュ・シュウ	長壽	チョウジュ	Langlebigkeit
+L-3205	壽	ジュ・シュウ	壽	ことぶき	Glückwünsche
+L-3206	國	コ・ク	國家	コッカ	Nation; Heimatland
+L-3206	國	コ・ク	國	クに	Land (Staat)
+L-3207	嶋	トウ	列嶋	レットウ	Inselkette; Archipel
+L-3207	嶋	トウ	嶋	しま	Insel
+L-3208	薗	エン	公薗	コウエン	öffentlicher Park
+L-3208	薗	エン	薗	その	Park; Garten
+L-3209	龍	リュウ・リョウ	龍頭蛇尾	リュウトウダビ	gut gestartet; schlecht beendet; Antiklimax
+L-3209	龍	リュウ・リョウ	龍安寺	リョウアンジ	Tempel des ruhenden Drachen (berühmt für seinen Steingarten)
+L-3210	檜	カイ	桧	かい	Jungenname (selten)
+L-3211	燈	トウ	燈台	トウダイ	Leuchtturm
+L-3211	燈	トウ	燈	あかり	helles Licht
+L-3211	燈	トウ	燈す	ともす	anzünden
+L-3211	燈	トウ	燈	ひ	Feuer; Flamme
+L-3212	嶽	ガク	山嶽	サンガク	Gebirge
+L-3212	嶽	ガク	嶽	たけ	Gipfel; Bergspitze
+L-3213	什	ジュウ・ジュッ	伍什	ゴジュウ	fünfzig
+L-3213	什	ジュウ・ジュッ	什点	ジュッテン	zehn Punkte
+L-3214	伍	ゴ	伍什	ゴジュウ	fünfzig
+L-3214	伍	ゴ	伍	くみ	Schwadron; Namensbestandteil
+L-3215	峯	ホウ	峯頂	ホウチョウ	Spitze einer Anhöhe
+L-3215	峯	ホウ	峯	みね	Berggipfel
+L-3216	慾	ヨク	慾望	ヨクボウ	Gelüste; Appetit
+L-3216	慾	ヨク	慾する	ほっする	begehren
+L-3216	慾	ヨク	慾しい	ほしい	gewünscht; begehren
+L-3217	淵	エン	淵底	エンテイ	Boden des Abgrunds
+L-3218	埜	ヤ	埜心	ヤシン	wild; ungezähmt
+L-3218	埜	ヤ	埜	の	Feld; Flur
