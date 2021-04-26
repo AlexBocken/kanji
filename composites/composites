@@ -2771,8 +2771,8 @@ L-2491	坐	ザ	座禅	ざぜん	Zen-Meditation
 L-2491	坐	ザ	座る	ざわる	sitzen
 L-2492	鷲	シュウ	双鷲	そうしゅう	Doppeladler
 L-2492	鷲	シュウ	鷲	わし	Adler
-L-2493	鑿	ソウ	一鑿	いっそう	ein Schiff
-L-2493	鑿	ソウ	鑿	ふね	Schiff
+L-2493	艘	ソウ	一艘	いっそう	ein Schiff
+L-2493	艘	ソウ	艘	ふね	Schiff
 L-2494	稜	リョウ	山稜	サンリョウ	Gebirgskamm
 L-2494	稜	リョウ	稜	かど	Ecke
 L-2495	凌	リョウ	凌駕	リョウガ	Übertreffen; Überflügeln
@@ -3206,7 +3206,7 @@ L-2733	葦	イ	葦	あし	Schilf
 L-2733	葦	イ	葦	よし	Schilf
 L-2734	箕	キ	簸箕	ハキ	Getreideschwinge
 L-2734	箕	キ	箕	み	Worfschaufel; Getreideschwinge
-L-2735	麟	キ	麒麟	キリン	Giraffe
+L-2735	麒	キ	麒麟	キリン	Giraffe
 L-2736	碇	テイ	碇泊地	テイハクチ	Verankerung; Vertäuung
 L-2736	碇	テイ	碇	いかり	Anker
 L-2737	嘉	カ	嘉納	カノウ	Zustimmung; Einverständnis
@@ -3421,262 +3421,478 @@ L-2851	蕩	トウ	蕩尽	トウジン	Verschwenung; Vergeuden
 L-2851	蕩	トウ	蕩ける	とろける	bezaubert sein
 L-2852	裟	サ	袈裟	ケサ	Mönchsstola
 L-2853	祇	ギ	祇園	ギオン	Amüsierviertel in Kioto
-L-2854	雉
-L-2855	錐
-L-2856	惟
-L-2857	仇
-L-2858	齟
-L-2859	齬
-L-2860	佃
-L-2861	廻
-L-2862	屍
-L-2863	洸
-L-2864	胱
-L-2865	仔
-L-2866	歎
-L-2867	箪
-L-2868	汝
-L-2869	沐
-L-2870	栖
-L-2871	洒
-L-2872	涜
-L-2873	贖
-L-2874	斡
-L-2875	灘
-L-2876	馨
-L-2877	硯
-L-2878	乖
-L-2879	鴻
-L-2880	馴
-L-2881	蝉
-L-2882	斧
-L-2883	杓
-L-2884	灼
-L-2885	鵡
-L-2886	頌
-L-2887	碧
-L-2888	蕊
-L-2889	聯
-L-2890	惣
-L-2891	綜
-L-2892	尖
-L-2893	焔
-L-2894	蒐
-L-2895	彊
-L-2896	彬
-L-2897	恢
-L-2898	晋
-L-2899	翰
-L-2900	籤
-L-2901	疏
-L-2902	於
-L-2903	蝕
-L-2904	兎
-L-2905	醍
-L-2906	宥
-L-2907	禽
-L-2908	檎
-L-2909	櫓
-L-2910	竺
-L-2911	云
-L-2912	匙
-L-2913	絨
-L-2914	脩
-L-2915	紗
-L-2916	欣
-L-2917	悉
-L-2918	芹
-L-2919	燦
-L-2920	雀
-L-2921	豹
-L-2922	衿
-L-2923	濾
-L-2924	怯
-L-2925	劫
-L-2926	厨
-L-2927	赳
-L-2928	聾
-L-2929	胚
-L-2930	芦
-L-2931	桶
-L-2932	茸
-L-2933	繋
-L-2934	柊
-L-2935	吃
-L-2936	帖
-L-2937	捷
-L-2938	嚢
-L-2939	叢
-L-2940	鍾
-L-2941	孜
-L-2942	駁
-L-2943	卿
-L-2944	腔
-L-2945	牟
-L-2946	眸
-L-2947	彗
-L-2948	慧
-L-2949	祢
-L-2950	菩
-L-2951	歪
-L-2952	焚
-L-2953	毅
-L-2954	梁
-L-2955	粟
-L-2956	妾
-L-2957	珊
-L-2958	琢
-L-2959	亮
-L-2960	鄭
-L-2961	牽
-L-2962	捺
-L-2963	套
-L-2964	呑
-L-2965	耽
-L-2966	繍
-L-2967	綴
-L-2968	而
-L-2969	螺
-L-2970	杵
-L-2971	寵
-L-2972	叩
-L-2973	宋
-L-2974	牢
-L-2975	姦
-L-2976	啄
-L-2977	吠
-L-2978	叡
-L-2979	厭
-L-2980	鳳
-L-2981	昂
-L-2982	靄
-L-2983	壷
-L-2984	酋
-L-2985	燭
-L-2986	浩
-L-2987	櫛
-L-2988	蝋
-L-2989	穿
-L-2990	碍
-L-2991	夙
-L-2992	牝
-L-2993	牡
-L-2994	癌
-L-2995	蛋
-L-2996	渕
-L-2997	溢
-L-2998	萌
-L-2999	萄
-L-3000	罫
-L-3001	錫
-L-3002	塵
-L-3003	橘
-L-3004	蘇
-L-3005	鼎
-L-3006	舅
-L-3007	禿
-L-3008	薮
-L-3009	吻
-L-3010	嬰
-L-3011	侃
-L-3012	撒
-L-3013	叉
-L-3014	轟
-L-3015	臥
-L-3016	薩
-L-3017	悶
-L-3018	讐
-L-3019	肋
-L-3020	燕
-L-3021	閃
-L-3022	糞
-L-3023	屡
-L-3024	胤
-L-3025	夷
-L-3026	鹵
-L-3027	茜
-L-3028	烹
-L-3029	茅
-L-3030	擢
-L-3031	騨
-L-3032	穎
-L-3033	鴬
-L-3034	尤
-L-3035	匡
-L-3036	穆
-L-3037	肇
-L-3038	樗
-L-3039	皐
-L-3040	杜
-L-3041	纏
-L-3042	蒙
-L-3043	餐
-L-3044	肴
-L-3045	碩
-L-3046	斯
-L-3047	湛
-L-3048	犀
-L-3049	姪
-L-3050	倶
-L-3051	諺
-L-3052	喧
-L-3053	掴
-L-3054	魁
-L-3055	輿
-L-3056	已
-L-3057	蟄
-L-3058	祀
-L-3059	祓
-L-3060	棘
-L-3061	躓
-L-3062	厖
-L-3063	咎
-L-3064	站
-L-3065	鼠
-L-3066	巫
-L-3067	憑
-L-3068	梟
-L-3069	凛
-L-3070	昴
-L-3071	懺
-L-3072	翔
-L-3073	撞
-L-3074	漱
-L-3075	漉
-L-3076	呆
-L-3077	躊
-L-3078	祷
-L-3079	仄
-L-3080	吊
-L-3081	叶
-L-3082	邑
-L-3083	庄
-L-3084	涅
-L-3085	捏
-L-3086	鋲
-L-3087	葱
-L-3088	葵
-L-3089	這
-L-3090	瑞
-L-3091	畢
-L-3092	竃
-L-3093	聘
-L-3094	諄
-L-3095	訝
-L-3096	駈
-L-3097	驢
-L-3098	鳶
-L-3099	鰭
-L-3100	鸚
-L-3101	鴨
-L-3102	兜
-L-3103	虔
-L-3104	黎
-L-3105	麒
-L-3106	黍
-L-3107	李
-L-3108	鼈
-L-3109	倭
+L-2854	雉	チ	白雉	ハクチ	Weißfasan
+L-2854	雉	チ	雉(子)	きじ	Fasan
+L-2855	錐	スイ	錐形	スイケイ	Pyramidenform
+L-2855	錐	スイ	錐	きり	Bohrer; Pfriem
+L-2856	惟	イ・ユイ	惟惟	イイ	Zustimmung ausdrückender Laut
+L-2856	惟	イ・ユイ	惟みる	おもんみる	bedenken
+L-2857	仇	キュウ	仇敵	キュウテキ	Erzfeind; Todfeind
+L-2857	仇	キュウ	仇	あだ	Feind; Feindseligkeit
+L-2858	齟	ソ	齟齬	ソゴ	Diskrepanz; Widerspruch
+L-2859	齬	ゴ	齟齬	ソゴ	Diskrepanz; Widerspruch
+L-2860	佃	デン	佃作	デンサク	Ackerbau
+L-2860	佃	デン	佃	つくだ	bebautes Feld
+L-2861	廻	カイ	廻船	カイセン	Barkasse; Frachtschiff
+L-2861	廻	カイ	廻る	まわる	kreisen
+L-2862	屍	シ	屍骸	シガイ	Leiche; sterbliche Überreste
+L-2862	屍	シ	屍	しかばれ	Leiche; sterbliche Überreste
+L-2862	屍	シ	屍	かばれ	Leiche; sterbliche Überreste
+L-2863	洸	コウ	洸々	コウコウ	wacker; tapfer
+L-2864	胱	コウ	膀胱	ボウコウ	Harnblase
+L-2865	仔	シ	仔細	シサイ	die Umstände; Einzelheiten
+L-2866	歎	タン	歎異抄	タンイショウ	<i>Aufzeichnungen zum Bedauern über den abweichenden Glauben</i> (berühmtes Büchlein über Diskussionen mit Schinran, dem buddhistischen Reformator)
+L-2866	歎	タン	歎く	なげく	trauern; beklagen
+L-2867	箪	タン	箪笥	タンス	Kommode; Schrank
+L-2868	汝	ジョ	爾汝	ジジョ	Du
+L-2868	汝	ジョ	汝	なんじ	Du
+L-2869	沐	チク	沐浴	チクヨク	Bad; Waschung
+L-2870	栖	セイ	隠栖	インセイ	Abgeschiedenheit; Einsamkeit
+L-2870	栖	セイ	栖	す	Nest
+L-2870	栖	セイ	栖む	すむ	leben; bewohnen
+L-2871	洒	シャ・サイ	洒脱	シャダツ	ungezwungen; frei
+L-2871	洒	シャ・サイ	洒掃	サイソウ	Saubermachen
+L-2872	涜	トク	冒涜	ボウトク	Blasphemie
+L-2873	贖	ショク	贖罪	ショクザイ	Sühne
+L-2873	贖	ショク	贖う	あがなう	wiedergutmachen
+L-2874	斡	アッ	斡旋	アッセン	Vermittlung; Führbitte
+L-2875	灘	タン	急灘	キュウタン	Stromschnellen
+L-2875	灘	タン	灘	なだ	offene See
+L-2876	馨	キョウ・ケイ	馨香	ケイコウ・ケイキョウ	Duft
+L-2876	馨	キョウ・ケイ	馨	かおり	Duft; Geruch
+L-2877	硯	ケン	唐硯	トウケン	chinesischer Tuscheblock
+L-2877	硯	ケン	硯	すずり	Tuschestein
+L-2878	乖	カイ	乖離	カイリ	Entfremdung; Ablösung
+L-2879	鴻	コウ	鴻毛	コウモウ	Gänsedaunen
+L-2879	鴻	コウ	鴻	おおとり	Saatgans
+L-2880	馴	ジュン	馴養	ジュンヨウ	eingewöhnt
+L-2880	馴	ジュン	馴れる	なれる	sich gewöhnen
+L-2881	蝉	セン	蝉吟	センギン	Zirpen einer Grille
+L-2881	蝉	セン	蝉	せみ	Grille
+L-2882	斧	フ	石斧	セキフ	Steinaxt
+L-2882	斧	フ	斧	おの	Axt
+L-2883	杓	シャク	杓子	シャクシ	Schöpflöffel; Kelle
+L-2884	灼	シャク	灼熱	シャクネツ	Glut
+L-2884	灼	シャク	灼く	やく	(ver)brennen
+L-2885	鵡	ム	鸚鵡	オウム	Papagei
+L-2886	頌	ショウ	頌歌	ショウカ	Lobgesang
+L-2886	頌	ショウ	頌える	たたえる	preisen
+L-2886	頌	ショウ	頌める	ほめる	loben
+L-2887	碧	ヘキ	碧巌禄	ヘキガンロク	<i>Niederschrift von der smaragdgrünen Felswand</i> (klassische Sammlung von Zen-Kōans)
+L-2888	蕊	ズイ	雌蕊	シズイ	Pistill
+L-2889	聯	レン	聨隊	レンタイ	Regiment
+L-2890	惣	ソウ	惣菜	ソウザイ	Nebenspeise; Beilage
+L-2891	綜	ソウ	綜合	ソウゴウ	Zusammenfassung; Synthese
+L-2891	綜	ソウ	綜べる	すべる	beherrschen; kontrollieren
+L-2892	尖	セン	尖頭	セントウ	Spitze; spitz zulaufendes Ende
+L-2892	尖	セン	尖る	とがる	spitz zulaufen
+L-2893	焔	エン	火焔	カエン	Flamme; Feuer
+L-2893	焔	エン	焔	ほのお	Flamme
+L-2893	焔	エン	焔	ほむら	Flamme
+L-2894	蒐	シュウ	蒐集家	シュウシュウカ	Sammler
+L-2895	彊	キョウ	彊供	ジキョウ	Anstrengung
+L-2896	彬	ヒン	彬々	ビンビン	tolle Form
+L-2897	恢	カイ	恢復	カイフク	Besserung; Heilung
+L-2898	晋	シン	晋山	シンザン	Übernahme eines Tempels durch einen neuen Oberpriester
+L-2898	晋	シン	晋む	すすむ	voranschreiten
+L-2899	翰	カン	翰墨	カンボク	Pinsel und Tusche
+L-2899	翰	カン	翰	やまどり	japanischer Kupferfasan
+L-2900	籤	セン	牙籤	ゲセン	kleiner Anhänger aus Elfenbein
+L-2900	籤	セン	籤	くじ	Lotterie
+L-2900	籤	セン	籤	かずとり	Zählung
+L-2901	疏	ソ・ショ	諌疏	カンソ	schriftlicher Rat an den Throninhaber
+L-2901	疏	ソ・ショ	義疏	ギショ	Text, der eine Sutra auslegt
+L-2901	疏	ソ・ショ	疏い	うとい	nicht vertraut mit, entfremdet
+L-2902	於	オ	於血	オケツ	Krankheit des Blutkreislaufes
+L-2902	於	オ	於いて	おいて	in; bei; betreffend
+L-2903	蝕	ショク	月蝕	ゲッショク	Mondfinsternis
+L-2903	蝕	ショク	蝕む	むしばむ	zerfressen (z.B. von Würmern)
+L-2904	兎	ト	兎に角	トにカク	sowieso; jedenfalls
+L-2904	兎	ト	兎	うさぎ	Hase; Kaninchen
+L-2905	醍	ダイ	醍醐味	ダイゴミ	der wahre Genuss; Reiz
+L-2906	宥	ユウ	宥恕	ユウジョ	Vergebung
+L-2906	宥	ユウ	宥める	なだめる	besänftigen; beschwichtigen
+L-2906	宥	ユウ	宥す	ゆるす	verzeihen
+L-2907	禽	キン	禽獣	キンジュウ	Vögel und Tiere
+L-2907	禽	キン	禽	とり	Vogel
+L-2908	檎	ゴ	林檎	リンゴ	Apfel
+L-2909	櫓	ロ	櫓櫂	ロカイ	Paddel
+L-2909	櫓	ロ	櫓	やぐら	Turm
+L-2910	竺	ジク	天竺	テンジク	Indien; fremdes Land
+L-2911	云	ウン	云々	ウンウン・ウンヌン	und so weiter, etc.
+L-2912	匙	シ・ヒ	円匙	エンシ・エンビ	kleine Schaufel
+L-2912	匙	シ・ヒ	匙	さじ	Löffel
+L-2913	絨	ジュウ	絨毯	ジュウタン	Teppich
+L-2914	脩	シュウ	束脩	ソクシュウ	Bündel getrocknetes Fleisch
+L-2914	脩	シュウ	脩める	おさめる	sich ausbilden; lernen
+L-2915	紗	サ・シャ	薄紗	ハクサ	Gaze; hauchdünner Stoff
+L-2915	紗	サ・シャ	金紗	キンシャ	goldbestickte Seide
+L-2915	紗	サ・シャ	紗	うすぎめ	Seidengaze
+L-2916	欣	キン	欣々然	キンキンゼン	freudig
+L-2917	悉	シツ	知悉	チシツ	vollständige Kenntnis
+L-2918	芹	キン	献芹	ケンキン	Kleinigkeit (hinsichtlich etwas Angebotenem)
+L-2918	芹	キン	芹	せり	Petersilie
+L-2919	燦	サン	燦然	サンゼン	Strahlenheit; Glanz
+L-2919	燦	サン	燦らか	あきらか	klar
+L-2920	雀	ジャク	孔雀	クジャク	Pfau
+L-2920	雀	ジャク	雀	すずめ	Spatz; Sperling
+L-2921	豹	ヒョウ	豹変	ヒョウヘン	plötzliche Veränderung
+L-2922	衿	キン	開衿	カイキン	offener Kragen
+L-2922	衿	キン	衿	えり	Kragen
+L-2923	濾	ロ	濾過	ロカ	Filterung
+L-2924	怯	キョウ	卑怯	ヒキョウ	Ängstlichkeit; Feigheit
+L-2924	怯	キョウ	怯れる	おそれる	befürchten
+L-2925	劫	ゴウ	劫火	ゴウカ	weltverschlingendes Feuer
+L-2926	厨	ズ・チュウ	厨子	ズシ	kleiner Altar
+L-2926	厨	ズ・チュウ	厨房	チュウボウ	Küche
+L-2927	赳	キュウ	赳赳	キュウキュウ	furchtlos
+L-2928	聾	ロウ	聾学校	ロウガッコウ	Schule für Gehörlose
+L-2929	胚	ハイ	胚芽	ハイガ	Keim(knospe)
+L-2930	芦	ロ	芦汀	ロテイ	Küstenstreifen mit Schilf
+L-2930	芦	ロ	芦	あし	Schilf; Ried
+L-2931	桶	トウ	鉄桶	テットウ	Eimer aus Eisen
+L-2931	桶	トウ	桶	おけ	Eimer
+L-2932	茸	ジョウ	毛茸	モウジョウ	austretendes Pflanzenhärchen
+L-2932	茸	ジョウ	茸	たけ	Pilz
+L-2933	繋	ケイ	繋留	ケイリュウ	Verankern; Festmachen
+L-2933	繋	ケイ	繋ぐ	つなぐ	festmachen; anbinden
+L-2934	柊	シュウ	柊二	シュウジ	Männername
+L-2934	柊	シュウ	柊	ひいらぎ	Stechpalme
+L-2935	吃	キツ	吃音	キツオン	Stottern
+L-2935	吃	キツ	吃る	どもる	stottern; stammeln
+L-2936	帖	チョウ	帖	チョウ	Notizbuch; Heft
+L-2937	捷	ショウ	捷径	ショウケイ	Abkürzung
+L-2937	捷	ショウ	捷い	はやい	schnell
+L-2938	嚢	ノウ	胆嚢	タンノウ	Gallenblase
+L-2938	嚢	ノウ	嚢	ふくろ	Sack; Beutel
+L-2939	叢	ソウ	叢書	ソウショ	Anthologie; Buchsammlung
+L-2939	叢	ソウ	叢	くさむら	Gebüsch; Dickicht
+L-2940	鍾	ショウ	鍾乳石	ショウニュウセキ	Stalaktiten
+L-2940	鍾	ショウ	鍾まる	あつまる	sich sammeln
+L-2941	孜	シ	孜々	シシ	eifrig; fleißig
+L-2941	孜	シ	孜める	つとめる	fleißig arbeiten
+L-2942	駁	バク	反駁	ハンバク	Widerlegung
+L-2943	卿	ケイ・キョウ	卿等	ケイラ	hohe Hofbeamte
+L-2943	卿	ケイ・キョウ	枢機卿	スウキキョウ	Kardinal (katholisch)
+L-2944	腔	コウ	口腔	コウコウ	Mundhöhle (anat.)
+L-2944	腔	コウ	腔	から	leer; hohl
+L-2944	腔	コウ	腔	からだ	Körper
+L-2945	牟	ム	釈迦牟尼	シャカムニ	der Buddha Shakyamuni
+L-2945	牟	ム	牟ぼる	むさぼる	begehren; gieren nach
+L-2946	眸	ボウ	双眸	ソウボウ	beide Augen
+L-2946	眸	ボウ	眸	ひとみ	Pupille
+L-2947	彗	スイ	彗星	スイセイ	Komet
+L-2947	彗	スイ	彗	ほうき	Komet
+L-2948	慧	エ・ケイ	慧業	エゴウ	Üben buddhistischer Disziplin
+L-2948	慧	エ・ケイ	慧眼	ケイガン	Scharfblick
+L-2949	祢	ネ	祢宜	ネギ	ritueller Shintopriester
+L-2950	菩	ボ	菩提	ボダイ	Erleuchtung (<i>Bodhi</i>)
+L-2951	歪	ワイ	歪曲	ワイキョク	Verzerrung; Verdrehung
+L-2951	歪	ワイ	歪む	ゆがむ	sich verbiegen; sich verzerren
+L-2952	焚	フン	焚書坑儒	フンショウコウジュ	Verbrennung chin. Klassiker und Lebendigbegraben konuzianischer Gelehrter
+L-2952	焚	フン	焚く	たく	Feuer machen
+L-2952	焚	フン	焚く	やく	verbrennen
+L-2953	毅	キ	毅然	キゼン	unerschrocken; entschlossen
+L-2954	梁	リョウ	棟梁	トウリョウ	Säule; Hauptstütze
+L-2954	梁	リョウ	梁	はり	Balken; Tragbalken
+L-2955	粟	ゾク	粟粒	ゾクリュウ	Hirsekörner
+L-2956	妾	ショウ	妾腹	ショウフク	außereheliches Kind mit einer Konkubine
+L-2956	妾	ショウ	妾	めかけ	Konkubine; Mätresse
+L-2957	珊	サン	珊瑚	サンゴ	Koralle
+L-2958	琢	タク	琢磨	タクマ	fleißiges Tun (Arbeit, Studieren)
+L-2959	亮	リョウ	亮然	リョウゼン	klar
+L-2960	鄭	テイ	鄭重	テイチョウ	Höflichkeit; Freundlichkeit
+L-2961	牽	ケン	牽制	ケンセイ	Hinder; Abhalten
+L-2962	捺	ナツ	捺印	ナツイン	besiegeln
+L-2962	捺	ナツ	捺す	おす	drücken
+L-2963	套	トウ	常套	ジョウトウ	Abgedroschenheit
+L-2964	呑	ドン	併呑	ヘイドン	Annexion; Einverleibung
+L-2964	呑	ドン	呑む	のむ	trinken
+L-2965	耽	タン	耽美主義	タンビシュギ	Ästhetizismus
+L-2966	繍	シュウ	刺繍	シシュウ	Stickerei
+L-2966	繍	シュウ	繍	めいとり	Stickerei
+L-2967	綴	テイ	点綴	テンテイ	Verteilung
+L-2967	綴	テイ	綴じる	とじる	heften; zunähen
+L-2967	綴	テイ	綴る	つづる	buchstabieren
+L-2968	而	ジ	形而上学	ケイジジョウガク	Metaphysik
+L-2969	螺	ラ	螺旋形	ラセンケイ	spiralförmig; schraubenförmig
+L-2970	杵	ショ	銅杵	ドウショ	Bronzestößel
+L-2970	杵	ショ	杵	きれ	Pistill; Stößel
+L-2971	寵	チョウ	恩寵	オンチョウ	Gunst; göttliche Gnade
+L-2972	叩	コウ	叩頭	コウトウ	Kotau; tiefe Verbeugung
+L-2972	叩	コウ	叩く	たたく	hauen; schlagen; niedermachen
+L-2973	宋	ソウ	宋朝	ソウチョウ	Song-Dynastie
+L-2974	牢	ロウ	牢屋	ロウヤ	Gefängnis; Kerker
+L-2974	牢	ロウ	牢	ひとや	Gefängnis
+L-2975	姦	カン	姦通	カンツウ	Ehebruch
+L-2975	姦	カン	姦しい	かしましい	lärmend
+L-2976	啄	タク	啄木	タクボク	Specht
+L-2976	啄	タク	啄む	ついばむ	picken
+L-2976	啄	タク	啄く	たたく	hauen; schlagen; niedermachen
+L-2977	吠	ハイ	吠声	ハイセイ	bellende Stimme
+L-2977	吠	ハイ	吠える	はえる	bellen
+L-2978	叡	エイ	叡智	エイチ	Weisheit; Intellekt
+L-2978	叡	エイ	叡らか	あきらか	klar
+L-2979	厭	エン	厭世	エンセイ	Pessimismus; Weltschmerz
+L-2979	厭	エン	厭きる	あきる	überdrüssig sein; satt haben
+L-2979	厭	エン	厭う	いとう	hassen; verabscheuen
+L-2980	鳳	ホウ	鳳仙花	ホウセンカ	Balsam; Springkraut
+L-2980	鳳	ホウ	鳳	おおとり	großer Vogel; Schwan
+L-2981	昂	コウ	昂然	コウゼン	gehobene Stimmung; Stolz
+L-2982	靄	アイ	靄然	アイゼン	dunstig; diesig
+L-2982	靄	アイ	靄	もや	leichter Nebel
+L-2982	靄	アイ	靄る	もやる	dunstig werden
+L-2983	壷	コ	銅壷	ドウコ	Kupferkessel
+L-2983	壷	コ	壷	つぼ	Topf
+L-2984	酋	シュウ	酋長	シュウチョウ	Häuptling; Stammesoberhaupt
+L-2984	酋	シュウ	酋	おさ	Häuptling; Oberhaupt
+L-2984	酋	シュウ	酋	かしら	Kopf; Haupt
+L-2985	燭	ショク・ソク	燭光	ショッコウ	Kerzenstärke (Candela)
+L-2985	燭	ショク・ソク	蝋燭	ロウソク	Kerze
+L-2985	燭	ショク・ソク	燭	ともしび	Licht; Lampe
+L-2986	浩	コウ	浩然	コウゼン	groß(artig); freisinnig
+L-2987	櫛	シツ	櫛比	シッピ	enges Zusammenstehen
+L-2987	櫛	シツ	櫛	くし	Kamm
+L-2988	蝋	ロウ	蝋燭	ロウソク	Kerze
+L-2989	穿	セン	穿孔機	センコウキ	Bohrmaschine
+L-2989	穿	セン	穿	うがつ	bohren; graben
+L-2990	碍	ガイ	碍子	ガイシ	Isolator
+L-2990	碍	ガイ	碍げる	さまたげる	behindern; hemmen
+L-2991	夙	シュク	碍夜	シュクヤ	von morgens bis abends
+L-2991	夙	シュク	碍に	つとに	früh am Morgen
+L-2991	夙	シュク	碍い	はやい	früh
+L-2992	牝	ヒン	牝馬	ヒンバ	Stute
+L-2992	牝	ヒン	牝	めす	Weibchen
+L-2993	牡	ボ	牡丹	ボタン	Pfigstrose
+L-2993	牡	ボ	牡	おす	Männchen
+L-2994	癌	ガン	肺癌	ハイガン	Lungenkrebs
+L-2995	蛋	タン	蛋白質	タンパクシツ	Protein; Eiweiss
+L-2996	渕	エン	渕底	エンテイ	Boden des Abgrunds
+L-2996	渕	エン	渕	ふち	Abgrund; Untiefe
+L-2997	溢	イツ	溢血	イッケツ	interne Blutung
+L-2997	溢	イツ	溢れる	あふれる	überlaufen; überfließen
+L-2998	萌	ホウ	萌芽	ホウガ	Keimung; Spross
+L-2998	萌	ホウ	萌す	きざす	Symptome zeigen
+L-2998	萌	ホウ	萌	めばえ	Knospe
+L-2998	萌	ホウ	萌える	もえる	sprießen; knospen
+L-2999	萄	ドウ	葡萄	ブドウ	Trauben
+L-3000	罫	ケイ	罫紙	ケイシ	liniiertes Papier
+L-3001	錫	シャク	錫杖	シャクジョウ	Stab eines Priesers
+L-3001	錫	シャク	錫	すず	Zinn
+L-3002	塵	ジン	塵芥	ジンカイ	Kehricht; Müll
+L-3002	塵	ジン	塵	ちり	Staub
+L-3003	橘	キツ	柑橘類	カンキツルイ	Zitrusfrüchte
+L-3003	橘	キツ	橘	たちばな	Mandarine
+L-3004	蘇	ソ	蘇生	ソセイ	Wiederbelebung; -auferstehung
+L-3005	鼎	テイ	鼎談	テイダン	Dreiparteiengespräche
+L-3005	鼎	テイ	鼎	かなえ	Dreibein
+L-3006	舅	ソ	舅径	ソケイ	Leiste (anat.)
+L-3006	舅	ソ	舅	れずみ	Ratte
+L-3007	禿	トク	禿頭	トクトウ	Kahlkopf; Glatzkopf
+L-3007	禿	トク	禿	はげ	Kahlköpfigkeit
+L-3007	禿	トク	禿	かむろ	kurzes Haar eines Kindes
+L-3008	薮	ソウ	淵薮	エンソウ	Zentrum einer Aktivität
+L-3008	薮	ソウ	薮	やぶ	Gestrüpp; Dickicht
+L-3009	吻	フン	接吻	セップン	Kuss
+L-3010	嬰	エイ	嬰児	エイジ	Säugling
+L-3011	侃	カン	侃々諤々	カンカンガクガク	Unverblümtheit; Offenheit
+L-3011	侃	カン	侃い	つよい	stark und kraftvoll
+L-3012	撒	サン	撒水	サンスイ	Bewässerung; Besprengung
+L-3012	撒	サン	撒く	まく	streuen
+L-3013	叉	サ・シャ	音叉	オンサ	Stimmgabel
+L-3013	叉	サ・シャ	夜叉	ヤシャ	Teufelin
+L-3013	叉	サ・シャ	叉	また	Gabelung; Schritt
+L-3014	轟	ゴウ	轟音	ゴウオン	donnerndes Getöse
+L-3014	轟	ゴウ	轟く	とどろく	donnern; dröhnen
+L-3015	臥	ガ	行住臥座	ギョウシュウガザ	die vier buddhistischen Hauptaktivitäten: Gehen, Stehen, Sitzen, Liegen
+L-3015	臥	ガ	臥す	ふす	sich hinlegen
+L-3016	薩	サツ	薩摩薯	サツマいも	Süßkartoffel
+L-3017	悶	モン	悶絶	モンゼツ	Ohnmächtigwerden (vor Schmerz)
+L-3017	悶	モン	悶える	もだえる	sich vor Schmerzen quälen
+L-3018	讐	シュウ	復讐	フクシュウ	Rache
+L-3018	讐	シュウ	讐	あだ	Feind
+L-3019	肋	ロク	肋骨	ロッコツ	Rippe
+L-3019	肋	ロク	肋	あばら	Rippe
+L-3020	燕	エン	燕尾服	エンビフク	Frack mit Schwalbenschwanz
+L-3020	燕	エン	燕	つばめ	Schwalbe
+L-3021	閃	セン	閃光	センコウ	Lichtblitz
+L-3021	閃	セン	閃く	ひらめく	(auf)blitzen
+L-3022	糞	フン	糞便	フンベン	Exkrement; Kot
+L-3022	糞	フン	糞	くそ	Mist; Kot
+L-3023	屡	ル	屡次	ルジ	wiederholt
+L-3023	屡	ル	屡	しばしば	oft; häufig
+L-3024	胤	イン	後胤	コウイン	Nachkomme
+L-3024	胤	イン	胤	たね	Saat; Nachwuchs
+L-3025	夷	イ	東夷	トウイ	östliche Barbaren
+L-3025	夷	イ	夷	えびす	Barbar
+L-3026	鹵	ロ	鹵獲	ロカク	Erbeuten
+L-3026	鹵	ロ	鹵	しお	Steinsalz
+L-3027	茜	セン	茜草	センソウ	<i>Rubia Akane</i> (Blume)
+L-3027	茜	セン	茜	あかね	Krapprot
+L-3028	烹	ホウ	割烹	カッポウ	Kochen
+L-3029	茅	ボウ	茅屋	ボウオク	Hütte mit Schilfrohrdach
+L-3029	茅	ボウ	茅	かや	Miscanthusgras
+L-3030	擢	テキ	抜擢	バッテキ	Auslese; Auswahl
+L-3030	擢	テキ	擢んでる	めきんでる	übertreffen; überragen
+L-3031	騨	ダ	飛騨	ヒダ	Gebiet in der Präfektur Gifu
+L-3032	穎	エイ	穎脱	エイダツ	Finden von Anerkennung
+L-3033	鴬	オウ	鴬語	オウゴ	Ruf der jap. Nachtigall
+L-3033	鴬	オウ	鴬	うぐいす	jap. Buschsänger (Nachtigall)
+L-3034	尤	ユウ	尤物	ユウブツ	etwas Hervorragendes
+L-3034	尤	ユウ	尤も	もっとも	vernünftig; (selbst)verständlich
+L-3035	匡	キョウ	匡正	キョウセイ	Berichtigung; Korrektur
+L-3036	穆	ボク	穆々	ボクボク	still; gehorsam
+L-3037	肇	チョウ	肇国	チョウコク	Staatsgründung
+L-3038	樗	チョ	樗蒲一	チョボイチ	mit einem einzelnen Würfel gespieltes Spiel
+L-3039	皐	コウ	九皐	キュウコウ	tiefer; gewundener Sumpf
+L-3039	皐	コウ	皐	さつき	fünfter Mondmonat; Regenzeit
+L-3040	杜	ト	杜氏	トジ・トウジ	Hersteller von Sake
+L-3040	杜	ト	杜	もり	Forst
+L-3040	杜	ト	杜	とじる	schließen
+L-3041	纏	テン	纏綿	テンメン	Verstrickung; Verwicklung
+L-3041	纏	テン	纏わる	まつわる	sich ranken um; nachlaufen
+L-3041	纏	テン	纏う	まとう	sich kleiden
+L-3042	蒙	モウ	啓蒙主義	ケイモウシュギ	Aufklärung (die europäische)
+L-3042	蒙	モウ	蒙る	こうむる	ausgesetzt sein; erleiden
+L-3043	餐	サン	粗餐	ソサン	einfaches Mahl
+L-3044	肴	コウ	酒肴	シュコウ	Speise und Trank
+L-3044	肴	コウ	肴	さかな	Appetithappen; Leckerbissen
+L-3045	碩	セキ	碩学	セキガク	großer Gelehrter
+L-3046	斯	シ	斯界	シカイ	dieses (Fach-)Gebiet; dieses Feld
+L-3046	斯	シ	斯	この	dieser; diese; dieses
+L-3047	湛	タン・チン	湛然	タンセン	Überschwemmung
+L-3047	湛	タン・チン	湛える	たたえる	voll sein
+L-3048	犀	サイ・セイ	犀	サイ	Rhinozeros
+L-3048	犀	サイ・セイ	木犀	モクセイ	Osmanthus-Baum (Duftblüten)
+L-3049	姪	テツ	姪孫	テッソン	Großnichte
+L-3049	姪	テツ	姪	めい	Nichte
+L-3050	倶	ク	倶楽部	クラブ	Club
+L-3051	諺	ゲン	俗諺	ゾクゲン	Redensart
+L-3051	諺	ゲン	諺	ことわざ	Maxime; Sprichwort
+L-3052	喧	ケン	喧嘩	ケンカ	Streit; Zank
+L-3052	喧	ケン	喧しい	かまびすしい	laut; lärmend
+L-3052	喧	ケン	喧しい	やかましい	laut; lärmend
+L-3053	掴	カク	掴裂	カクレツ	Zerreißen
+L-3053	掴	カク	掴む	つかむ	greifen; packen
+L-3053	掴	カク	掴み	つかみ	eine Faustvoll
+L-3054	魁	カイ	首魁	シュカイ	Rädelsführer
+L-3054	魁	カイ	魁	さきがけ	Avantgarde; Vorhut
+L-3054	魁	カイ	魁	かしら	Oberhaupt; Anführer
+L-3055	輿	ヨ	輿論	ヨロン	öffentliche Meinung
+L-3055	輿	ヨ	輿	こし	Sänfte; Tragstuhl
+L-3056	已	イ	已往	イオウ	von dann an
+L-3056	已	イ	已に	すでに	bereits; schon
+L-3056	已	イ	已む	やむ	stoppen; aufhören
+L-3057	蟄	チツ	蟄居	チッキョ	Zurückgezogenheit zu Hause
+L-3058	祀	シ	祭祀	サイシ	religiöse Zeremonie
+L-3058	祀	シ	祀る	まつる	verehren; anbeten
+L-3059	祓	フツ	修祓	シュウフツ	rituelle Reinigung im Shinto
+L-3059	祓	フツ	祓う	はらう	reinigen; austreiben
+L-3060	棘	キョク	荊棘	ケイキョク	Dornen; Dornendickicht
+L-3060	棘	キョク	棘	とげ	Dornen
+L-3061	躓	チ	顛躓	テンチ	Hals-über-Kopf-Fallen
+L-3061	躓	チ	躓く	つまずく	stolpern; straucheln
+L-3062	厖	ボウ	厖大	ボウダイ	Riesigkeit
+L-3062	厖	ボウ	厖きい	おおきい	groß
+L-3063	咎	キュウ	咎戒	キュウカイ	Ermahnung; Warnung
+L-3063	咎	キュウ	咎める	とがめる	tadeln; kritisieren; vorwerfen
+L-3063	咎	キュウ	咎	とが	Schuld; Fehler
+L-3064	站	タン	兵站	ヘイタン	Etappe (milit. Ausrüstungsort)
+L-3064	站	タン	站つ	たつ	zum Stehen kommen
+L-3065	鑿	サク	穿鑿	センサク	gründliche Untersuchung
+L-3065	鑿	サク	鑿	のみ	Meißel
+L-3066	巫	フ	巫術	フジュツ	Schamnismus
+L-3066	巫	フ	巫	みこ	Schinto-Priesterin
+L-3067	憑	ヒョウ	憑依	ヒョウイ	Besessenheit (von einem Geist)
+L-3067	憑	ヒョウ	憑かれる	つかれる	besessen sein
+L-3067	憑	ヒョウ	憑く	つく	Besitz ergreifen; einfahren
+L-3068	梟	キョウ	梟首	キョウシュ	Ausstellen eines Enthaupteten
+L-3068	梟	キョウ	梟	ふくろう	Eule
+L-3069	凛	リン	凛々	リンリン	beherzt
+L-3069	凛	リン	凛しい	きびしい	streng
+L-3069	凛	リン	凛い	さむい	kalt
+L-3070	昴	ボウ	昴宿	ボウシュク	Sternbild der Sieben Schwestern
+L-3070	昴	ボウ	昴	すばる	die Plejaden
+L-3071	懺	サン・ザン	懺悔	サンゲ・ザンゲ	Beichte; Buße
+L-3072	翔	ショウ	翔破	ショウハ	einen Flug beenden
+L-3072	翔	ショウ	翔る	かける	fliegen
+L-3073	撞	ドウ・トウ・シュ	撞球	ドウキュウ	Billiard
+L-3073	撞	ドウ・トウ・シュ	撞木	シュモク	Klöppel zum Glockenschlagen
+L-3073	撞	ドウ・トウ・シュ	撞く	つく	schlagen; stoßen
+L-3074	漱	ソウ	含漱	ガンソウ	Gurgeln
+L-3074	漱	ソウ	漱ぐ	くちそそぐ	spülen (den Mund)
+L-3074	漱	ソウ	漱ぐ	すすぐ	ausspülen
+L-3075	漉	ロク	漉酒	ロクシュ	Filterung von Sake
+L-3075	漉	ロク	漉	こし	Filter
+L-3075	漉	ロク	漉す	こす	seihen; filtern
+L-3075	漉	ロク	漉く	すく	Papier herstellen
+L-3076	呆	ボウ・ホウ	呆然	ボウゼン	Fassungslosigkeit
+L-3076	呆	ボウ・ホウ	阿呆	アホ	Idiot; Schwachkopf
+L-3076	呆	ボウ・ホウ	呆れる	あきれる	verblüfft sein
+L-3077	躊	チュウ	躊躇	チュウチョ	Unentschlossenheit; Zaudern
+L-3078	祷	トウ	祈祷	キトウ	Gebet
+L-3078	祷	トウ	祈る	いのる	beten
+L-3079	仄	ソク	仄聞	ソクブン	Hörensagen
+L-3079	仄	ソク	仄か	ほのか	vage; undeutlich
+L-3080	吊	チョウ	吊架線	チョウカセン	Oberleitung
+L-3080	吊	チョウ	吊り	つり	Hänge- (-brücke, -lampe etc.)
+L-3080	吊	チョウ	吊る	つる	aufhängen; tragen
+L-3081	叶	キョウ	叶韻	キョウイン	Klangharmonie
+L-3081	叶	キョウ	叶う	かなう	in Erfüllung gehen
+L-3082	邑	ユウ	邑人	ユウジン	Dorfbewohner
+L-3082	邑	ユウ	邑	むら	Dorf
+L-3083	庄	ショウ	庄屋	ショウや	Dorfschulz
+L-3084	涅	ネ	涅槃	ネハン	Nirvana
+L-3085	捏	ネツ	捏造	ネツゾウ	Lügengeschichte; Erfindung
+L-3085	捏	ネツ	捏ねる	こねる	kneten
+L-3086	鋲	ビョウ	鋲	ビョウ	Niete; Reißzwecke
+L-3087	葱	ソウ	海葱	カイソウ	Meerzwiebel
+L-3087	葱	ソウ	葱	ねぎ	Frühlingszwiebel; Lauch
+L-3088	葵	キ	紅蜀葵	コウショクキ	Malvenart (<i>Hibiscus coccineus</i>)
+L-3088	葵	キ	葵	あおい	Malve
+L-3089	這	シャ	這般	シャハン	derart; diesr Art
+L-3089	這	シャ	這う	はう	kriechen
+L-3090	瑞	ズイ	瑞祥	ズイショウ	gutes Omen
+L-3090	瑞	ズイ	瑞	みず	Wasser
+L-3091	畢	ヒツ	畢竟	ヒッキョウ	letzten Endes; schließlich
+L-3091	畢	ヒツ	畢に	ついに	schließlich
+L-3091	畢	ヒツ	畢わる	おわる	enden
+L-3092	竃	ソウ	病竃	ビョウソウ	Krankheitsherd
+L-3092	竃	ソウ	竃	かまど	Herd; Ofen
+L-3092	竃	ソウ	竃	かま	Küchenherd
+L-3092	竃	ソウ	竃	へっつい	Kochstelle
+L-3093	聘	ヘイ	招聘	ショウヘイ	Ruf; Einladung
+L-3093	聘	ヘイ	聘	めす	(ein)berufen
+L-3094	諄	ジュン	諄々	ジュンジュン	wiederholt; gründlich
+L-3094	諄	ジュン	諄ろ	ねんごろ	freundlich
+L-3095	訝	ガ・ゲ	怪訝	カイガ	Fragwürdigkeit; Dubiosität
+L-3095	訝	ガ・ゲ	怪訝	ケゲン	zweifelnd; fragend
+L-3095	訝	ガ・ゲ	訝る	いぶかる	argwöhnen; bezweifeln
+L-3096	駈	ク	先駆	センク	Vorläufer; Verbote
+L-3096	駈	ク	駆ける	かける	losgaloppieren
+L-3097	驢	ロ	驢馬	ロバ	Esel
+L-3098	鳶	エン	鳶目	エンモク	Adlerauge
+L-3098	鳶	エン	鳶	と(ん)び	Milan
+L-3099	鰭	キ	担鰭骨	タンキコツ	flossenstützende Gräten (Fisch)
+L-3099	鰭	キ	鰭	ひれ	Flosse
+L-3100	鸚	オウ・ヨウ	鸚鵡	オウム	Papagei
+L-3101	鴨	オウ	鴨頭	オウトウ	オウトウ	Entenkopf
+L-3101	鴨	オウ	鴨	かも	Ente
+L-3102	兜	ト	兜巾	トキン	unter dem dem Kinn zusammengebundene Kappe (buddhistischer Bergasketen)
+L-3102	兜	ト	兜	かぶと	Helm
+L-3103	虔	ケン	敬虔	ケイケン	Frömmigkeit
+L-3104	黎	レイ	黎明	レイメイ	Morgendämmerung
+L-3104	黎	レイ	黎い	おおい	Hülle; Bedeckung
+L-3105	舅	キュウ	国舅	コッキュウ	Schwäger eines Königs oder Prinzen
+L-3105	舅	キュウ	舅	しゅうと	Schwiegervater
+L-3106	黍	ショ	黍離	ショリ	wildwachsende Hirse
+L-3106	黍	ショ	黍	きび	(chinesiche) Hirse
+L-3107	李	リ	李下	リカ	unter einem Pflaumenbaum; verdächtig
+L-3107	李	リ	李	すもも	japanische Pflaume
+L-3108	鼈	ベツ	鼈甲	ベッコウ	Schildkrötenpanzer
+L-3108	鼈	ベツ	鼈	すっぽん	chinesische Weichschildkröte
+L-3109	倭	ワ	倭人	ワジン	Name, den die alten Chinesen für die Japaner verwendeten
+L-3109	倭	ワ	倭	やまと	alter Name für Japan oder das Nara-Becken
 L-3110	鮫
 L-3111	鰹
 L-3112	鱈
