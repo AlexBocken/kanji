@@ -72,6 +72,6 @@ For example, Heisig does not seem to like to use '辶' and almost always prefers
 
 ## License
 
-MIT
+GPL3 Affero
 
 (Fonts seperate)
