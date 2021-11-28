@@ -37,10 +37,8 @@ This deck is maintained using the [CrowdAnki](https://github.com/Stvad/CrowdAnki
 
 ### Disclaimer
 
-Hints are now implemented, but need correct formatting to highlight meaning and primitives in the sentences.
-The correct formatting is as of today (20210111) at no.1005 and will gain roughly ten new correctly formatted hints per day.
-To get the Kanji unicode characters I used this [Kanji recognition site](https://kanji.sljfaq.org/draw-canvas.html).
-Seems a lot faster than having to rely on Google Translate (plus I don't have to use Google, which is a benefit in itself.)
+Hints are now been mostly implemented, but need correct formatting to highlight meaning and primitives in the sentences.
+The correct formatting (and german sentences) are as of today (20211128) at no.2308.
 
 ## Primitves
 I'm mapping primitives which cannot be found in the Unicode standard to a section of the Ethiopian Alphabet.
@@ -48,14 +46,12 @@ My custom fonts then display these primitives instead of the ethiopian letters.
 This means that the symbol displayed in Browse mode is incorrect for primitives.
 
 ## Composites
-I have now implemented all composites from the 2nd book.
-The composites from the 3rd book should soon follow.
-The formatting of how these composites are represented will gradually be improved.
-Let's hope Javascript can wrangle these multiple fields into something coherent on the cards.
+All composites of the 2nd and 3rd book have now been implemented.
+Formatting on the cards has been improved. As can be seen in the above pictures.
 
 ## Readings
 I've pulled all available On- Kun- and Nanori-readings from http://nihongo.monash.edu/ using a script.
-These readings are not yet displayed on the cards themselves but are listed in the notes.
+These readings are not (yet?) displayed on the cards themselves but are listed in the notes.
 If you want to see my awful coding practices for such one off stuff which just needs to generate a file once, look into the `scripts` branch of this git repository.
 
 ## Fonts
@@ -72,6 +68,6 @@ For example, Heisig does not seem to like to use '辶' and almost always prefers
 
 ## License
 
-GPL3 Affero
+AGPL3
 
 (Fonts seperate)
