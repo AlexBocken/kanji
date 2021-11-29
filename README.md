@@ -10,18 +10,18 @@ All in all it includes 3000 Kanjis and 171 primitives.
 Since I'm using the German version of the book (and my native language is German) the cards are Japanese-German.
 Most of the hints I have gotten from [another Deck for the same book](https://ankiweb.net/shared/info/1354129669) (probably should have looked for something like this earlier).
 A big thanks to the contributors of that deck for sharing their work.
-These have not yet been formatted corrected (i.e. bold for the word in question and italics for components of the kanji).
+For hints from the 3rd book I have found mostly English sentences online. These are still in the process of being translated in to German (if applicable) or being replaced by better sentences.
 
 Feel free to base your vocab list off of mine via a fork, that's probably the best way to go ahead.
 
 ## Import
 
-I'm using Anki as my vocab program with the Addon [CrowdAnki](https://github.com/Stvad/CrowdAnki) to export in a diff-friendly json-file.
-You can easily add it to yout Anki setup via the code given on [its AnkiWeb page](https://ankiweb.net/shared/info/1788670778).
+I'm using Anki as my vocab program with the Addon [CrowdAnki](https://github.com/Stvad/CrowdAnki) to export in a diff-friendly Json-file.
+You can easily add it to your Anki setup via the code given on [its AnkiWeb page](https://ankiweb.net/shared/info/1788670778).
 From there it's a simple `File -> CrowdAnki: Import git repository`.
 
 If you're using different Anki applications, please see the release section for `.apkg` files.
-These will not be as up to date as the `json` files used by CrowndAnki.
+These will not be as up-to-date as the `json` files used by CrowndAnki.
 
 ## Contributing
 
@@ -38,11 +38,11 @@ This deck is maintained using the [CrowdAnki](https://github.com/Stvad/CrowdAnki
 ### Disclaimer
 
 Hints are now been mostly implemented, but need correct formatting to highlight meaning and primitives in the sentences.
-The correct formatting (and german sentences) are as of today (20211128) at no.2308.
+The correct formatting (and German sentences) are as of today (20211128) at no.2308.
 
-## Primitves
+## Primitives
 I'm mapping primitives which cannot be found in the Unicode standard to a section of the Ethiopian Alphabet.
-My custom fonts then display these primitives instead of the ethiopian letters.
+My custom fonts then display these primitives instead of the Ethiopian letters.
 This means that the symbol displayed in Browse mode is incorrect for primitives.
 
 ## Composites
@@ -70,4 +70,4 @@ For example, Heisig does not seem to like to use '辶' and almost always prefers
 
 AGPL3
 
-(Fonts seperate)
+(Fonts separate)
