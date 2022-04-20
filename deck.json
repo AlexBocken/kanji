@@ -34,7 +34,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 10
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -47,7 +47,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 9999,
+                "perDay": 200,
                 "useGeneralTimeoutSettings": false
             },
             "reviewOrder": 0,
@@ -68,9 +68,10 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
-            "css": "@font-face {\n   font-family: 'kanji_strokeorder';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_KanjiStrokeOrders.ttf) format('truetype');\n }\n@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\n:root{\n\t--highlight: #5E81AC;\n\t--least-important:#4C566A;\n\t--highlight2: #BF616A;\n\t--slight_highlight: #434C5E;\n\t--default: #2E3440;\n\t--hint: #5E81AC;\n\t--dark_hint:#B48EAD;\n\t--dark_default:#E5E9F0;\n\t--dark_highlight:#5E81AC;\n\t--dark_slight_highlight: #88C0D0;\n}\n\nbody {\nmargin: 0;\n}\n.container {\ndisplay: flex;\nflex-direction: column;\nheight: 100vh;\n}\n\n.temp{\n\tdisplay:flex;\n\talign-items: left;\n\tflex-direction: column;\n\twidth:90vw;\n}\n.card-content {\nflex: 1;\npadding: 20px;\npadding-top:0;\n}\n.footer {\n\tpadding: 20px;\n\tpadding-bottom: 5px;\n\tpadding-top:0px;\n}\n.card {\n\tmargin-top: 0px;\n\theight: 100%;\n\tfont-family:  Helvetica, IPAGothic, Arial,Verdana,sans-serif;\n}\n.card p{\n\tpadding: 0;\n\tposition: relative;\n}\n.kanji{\n\tmargin-top:30vh;\n\tfont-size: 120px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:20vh;\n\tline-height:10px;\n}\n.nightMode .kanji{\n\tcolor: var(--dark_highlight);\n}\n.kanji i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--least_important);\n\tfont-size: 20px;\n\tpadding-left: 5px;\n\tfont-style: normal;\n}\n.kanji b{\n\tfont-family: Helvetica;\n\tfont-size: 20px;\n\tcolor:var(--least-important);\n\tfont-weight:normal;\n}\n.nightMode .kanji b{\n\tcolor: (--least_important);\n}\n.nightMode .kanji i{\n\tcolor: var(--least_important);\n}\n.kanji_card2{\n\tpadding-top: 70px;\n\tfont-size: 70px;\n\tline-height:15px;\n\tfont-family:IPAGothic;\n\tcolor:var(--highlight);\n}\n.nightMode .kanji_card2{\n\tcolor: var(--dark_highlight);\n}\n.kanji_card2 i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:var(--least-important);\n\tfont-size: 16px;\n\tpadding-left: 5px;\n\tfont-style: normal;\n\tline-height:10px;\n}\n.nightMode .kanji_card2 i{\n\tcolor: var(--least_important);\n}\n.kanji_card2 b {\n\tfont-family: Helvetica;\n\tcolor:var(--least-important);\n\tfont-size: 20px;\n\tfont-weight:normal;\n}\n.nightMode .kanji_card2 b {\n\tcolor:var(--least-important);\n}\np.kanji_back{\n\tfont-size: 30px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--slight_highlight);\n\tpadding-top:10px;\n\tline-height:0px;\n\theight:5vh;\n}\n.nightMode p.kanji_back{\n\tcolor: var(--dark_slight_highlight);\n}\np.kanji_back i {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:var(--least-important);\n\tfont-size: 16px;\n\tfont-style: normal;\n}\n.nightMode p.kanji_back i{\n\tcolor: var(--least-important);\n}\np.kanji_back b {\n\tfont-family: Helvetica;\n\tcolor:var(--least-important);\n\tfont-size: 16px;\n\tfont-weight: normal;\n}\n.nightMode p.kanji_back b{\n\tcolor: var(--least-important);\n}\n#composites_meaning{\n\ttext-align:left;\n\tcolor: var(--slight_highlight);\n}\n\n.nightMode #composites_meaning{\n\tcolor: var(--dark_slight_highlight);\n}\n\n.temp_meaning{\n\thyphens: auto;\n\tmax-width: 70vw;\n\tmargin-top: 20px;\n\tpadding-left: 10px;\n\ttext-align: left;\n\tfont-size:20px;\n}\n\n.row{\n\tdisplay:grid;\n\talign-items: left;\n\twidth=100vw;\n\tgrid-template-columns: 30fr 70fr;\n\ttop:0;\n}\n\n#compounds {\n\twhite-space: nowrap;\n\tfont-size: 40px;\n\tcolor: var(--slight_highlight);\n}\n\n#compounds_only{\n\twhite-space: nowrap;\n\tmargin-bottom:10px;\n\tfont-size: 40px;\n\tcolor: var(--slight_highlight);\n}\n\n.nightMode #compounds_only{\n\tcolor: var(--dark_slight_highlight);\n}\n\n.nightMode #compounds {\n\tcolor: var(--dark_slight_highlight);\n}\n#explanation{\n\tmin-height:15vh;\n\tfont-size: 20px;\n\ttext-align:left;\n\tcolor:var(--default);\n\thyphens:auto;\n}\n.nightMode #explanation{\n\tcolor:var(--dark_default);\n}\n#explanation i{\n\tfont-style:normal;\n\tcolor: var(--hint);\n}\n.nightMode #explanation i{\n\tcolor:var(--dark_hint);\n}\n#explanation b{\n\tfont-weight:normal;\n\tcolor:var(--highlight);\n}\n.nightMode #explanation b{\n\tcolor:var(--dark_highlight);\n}\n#notes {\n\tfont-size:16px;\n\tcolor:var(--least-important);\n}\n#notes a {\n\tcolor:var(--least-important);\n    text-decoration: underline;\n}\n.nightMode #notes{\n\t.color:var(--least_important);\n}\n#notes u{\n\tfont-size:20px;\n\ttext-decoration: none;\n}\n.meaning {\n\tfont-size: 40px;\n\tcolor:var(--highlight);\n\tmargin: 0px;\n\tpadding:0px;\n\tmargin-top:20vh;\n\tborder:0px;\n}\n.nightMode .meaning{\n\tcolor: var(--dark_highlight);\n}\n.meaning i {\n\tfont-style: normal;\n \tfont-size: 15px;\n\tline-height:15px;\n\tcolor:var(--default);\n}\n.nightMode .meaning i{\n\tcolor:var(--dark_default);\n}\n.meaning_back_card1 {\n\tfont-size: 40px;\n\tcolor: var(--highlight);\n\thyphens:auto;\n\tmargin: 0px;\n\tpadding:0px;\n\tborder:0px;\n}\n.nightMode .meaning_back_card1{\n\tcolor: var(--dark_highlight);\n}\n.meaning_back_card1 i{\n\tfont-style: normal;\n \tfont-size: 15px;\n\tline-height:15px;\n\tcolor:var(--least-important);\n}\n.nightMode .meaning_back_card1 i{\n\tcolor: var(--least-important);\n}\n.meaning_back{\n\tfont-size: 25px;\n\tfont-family: Helvetica, IPAGothic, Arial;\n\tcolor: var(--slight_highlight);\n\tpadding-top:10px;\n}\n.nightMode .meaning_back{\n\tcolor: var(--dark_slight_highlight);\n}\n.primitives_back {\n\tfont-family: Helvetica, IPAGothic;\n\tcolor:var(--least-important);\n\tfont-size: 20px;\n}\n.nightMode .primitives_back{\n\tcolor: var(--least-important);\n}\n#no {\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n}\n.nightMode #no {\n\tcolor var(--least_important);\n}\n#links a{\n\ttext-style:normal;\n\ttop:0;\n\ttext-decoration:none;\n\tpadding-left:10px;\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n\tpadding-top:2px;\n}\n.nightMode #links a{\n\tcolor: var(--least-important);\n}\n#lesson {\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:left;\n\tfloat:left;\n}\n.nightMode #lesson{\n\tcolor: var(--least-important);\n}\n.readings_index{\n\tcolor: var(--least-important);\n\tmargin-top: -7px;\n\tfont-size: 18px;\n}\n\n.nightMode .readings_index{\n\tcolor: var(--least-important);\n}\n/* ANDROID SETTINGS */\n.android .container {\n\theight: 97vh; /*AnkiDroid seems to calculate vh with area below buttons*/\n}\n.android p.kanji{\n\tfont-size:120px;\n}\n.android .nightMode {\n\tbackground-color:#000000;\n}\n.android p.kanji_card2{\n\tfont-size:120px;\n}",
+            "css": "@font-face {\n   font-family: 'kanji_strokeorder';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_KanjiStrokeOrders.ttf) format('truetype');\n }\n@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\n:root{\n\t--highlight: #5E81AC;\n\t--least-important:#4C566A;\n\t--highlight2: #BF616A;\n\t--slight_highlight: #434C5E;\n\t--default: #2E3440;\n\t--hint: #5E81AC;\n\t--dark_hint:#B48EAD;\n\t--dark_default:#E5E9F0;\n\t--dark_highlight:#5E81AC;\n\t--dark_slight_highlight: #88C0D0;\n\t--japfont: IPAGothic;\n\t--sans-serif: Helvetica,Arial,Verdana,sans-serif;\n\t--prefer-jap: Helvetica, var(--japfont), sans-serif;\n}\n.low-prio,\n.nightMode .low-prio{\n\tcolor: var(--least-important);\n\tfont-size: 2rem;\n}\nhtml{\n\tfont-size: 10px;\n}\n.card{\n\tmax-width: 800px;\n\thyphens: auto;\n\tmargin: 0 auto;\n\tfont-family: var(--sans-serif);\n\tcolor: var(--default);\n\n}\n.container{\n\tdisplay: flex;\n\tflex-direction: column;\n\tmin-height: 100vh;\n}\n\n.jap{\n\tfont-family: var(--japfont);\n}\na{\n\tcolor: inherit;\n}\n\nmain{\n\tflex-grow: 1;\n\tpadding: 20px;\n\tpadding-top:0;\n}\n\n.kanji_front{\n\theight: 2ch;\n\tmargin-top:25vh;\n\tmargin-bottom: 8rem;\n\tfont-size: 12rem;\n}\n.high{\n\tcolor: var(--highlight);\n}\n.nightMode .high{\n\tcolor: var(--dark_highlight);\n}\n.strokes{\n\tfont-family: var(--sans-serif);\n\tfont-size: 2rem;\n\tcolor:var(--least-important);\n}\n.med{\n\tcolor: var(--slight_highlight);\n}\n.nightMode .med{\n\tcolor: var(--dark_slight_highlight);\n}\n#English{\n\tdisplay:none;\n}\n.kanji_back_large{\n\tfont-size: 7rem;\n\tpadding-top:2rem;\n\theight: 2ch;\n}\n\n.kanji_back_small{\n\tfont-size: 5rem;\n\theight: 2ch;\n}\n\n.nightMode #composites_meaning{\n\tcolor: var(--dark_slight_highlight);\n}\n\n.comp_meaning{\n\tmargin-top: 2rem;\n\tfont-size:2rem;\n}\n\n.row{\n\tdisplay:grid;\n\talign-items: left;\n\twidth:100%;\n\tgrid-template-columns: 3fr 7fr;\n\tgap: 2rem;\n\t\n\tmargin-top: 2rem;\n}\n\nruby{\n\truby-position: over;\n}\n.compounds {\n\twhite-space: nowrap;\n\tfont-size: 4rem;\n}\n\n.compounds_only{\n\tdisplay:flex;\n\tflex-direction: column;\n\tgap: 2rem;\n}\n\n.explanation{\n\tmin-height:15vh;\n\tfont-size: 2rem;\n}\n.explanation i{\n\tfont-style:normal;\n\tcolor: var(--hint);\n}\n.nightMode .explanation i{\n\tcolor:var(--dark_hint);\n}\n.explanation b{\n\tfont-weight:normal;\n\tcolor:var(--highlight);\n}\n.nightMode .explanation b{\n\tcolor:var(--dark_highlight);\n}\n.notes {\n\tfont-size:1.6rem;\n\tfont-family: var(--prefer-jap);\n}\n.notes a{\n    \ttext-decoration: underline;\n}\n.notes u{\n\tfont-size:2rem;\n\ttext-decoration: none;\n}\n.meaning_front {\n\tfont-size: 4rem;\n\tmargin-top: 20vh;\n}\n.meaning_back_card1 {\n\tfont-size: 4rem;\n\tmargin: 0;\n}\n.meaning_back{\n\tfont-size: 25px;\n\tfont-family: var(--prefer-jap);\n\tcolor: var(--slight_highlight);\n\tpadding-top:10px;\n}\n.nightMode .meaning_back{\n\tcolor: var(--dark_slight_highlight);\n}\n.primitives_back {\n\tfont-family: var(--prefer-jap);\n\tfont-size: 2rem;\n}\n\n.links{\n\tdisplay: flex;\n\tflex-direction: row;\n\tjustify-content: flex-end;\n\talign-items: center;\n\tgap: 2ch;\n}\n.links a{\n\ttext-decoration:none;\n\tfont-size: 20px;\n\tpadding-top:2px;\n}\n.readings_index{\n\tmargin-top: -0.7rem;\n\tfont-size: 1.8rem;\n}\n\n.nightMode .readings_index{\n\tcolor: var(--least-important);\n}\n/* ANDROID SETTINGS */\n.android .container {\n\tmin-height: 97vh; /*AnkiDroid seems to calculate vh with area below buttons*/\n}\n.android p.kanji{\n\tfont-size:120px;\n}\n.android .nightMode {\n\tbackground-color: black;\n}\n.android p.kanji_card2{\n\tfont-size:120px;\n}\n\nfooter{\n\tdisplay: flex;\n\tjustify-content: space-between;\n\tpadding-inline: 1rem;\n\tpadding-bottom: 1rem;\n}",
             "flds": [
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "media": [],
                     "name": "Index",
@@ -80,6 +81,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "IPAGothic",
                     "media": [],
                     "name": "Kanji",
@@ -89,6 +91,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "media": [],
                     "name": "Bedeutung",
@@ -98,6 +101,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "media": [],
                     "name": "Merksatz",
@@ -107,6 +111,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "media": [],
                     "name": "Primitive",
@@ -116,6 +121,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "media": [],
                     "name": "Komposita",
@@ -125,6 +131,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "IPAGothic",
                     "name": "Komposita_Kana",
                     "ord": 6,
@@ -133,6 +140,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "media": [],
                     "name": "Kompositabedeutung",
@@ -142,6 +150,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "name": "Notiz",
                     "ord": 8,
@@ -150,6 +159,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "media": [],
                     "name": "Lektion",
@@ -159,6 +169,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "name": "EUC-JP",
                     "ord": 10,
@@ -167,6 +178,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "name": "Englische_Bedeutung",
                     "ord": 11,
@@ -175,6 +187,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "name": "Strichanzahl",
                     "ord": 12,
@@ -183,6 +196,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "IPAGothic",
                     "name": "ON-Lesung",
                     "ord": 13,
@@ -191,6 +205,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "IPAGothic",
                     "name": "KUN-Lesung",
                     "ord": 14,
@@ -199,6 +214,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "IPAGothic",
                     "name": "Nanori-Lesung",
                     "ord": 15,
@@ -207,6 +223,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Helvetica",
                     "name": "Index_Lesungen",
                     "ord": 16,
@@ -246,7 +263,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "<div class=\"container\">\n\t<div class=\"card-content\" lang=de>\n\t\t{{#EUC-JP}}\n\t\t\t<div id=\"links\">\n\t\t\t\t<a href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t{{/EUC-JP}}\n\t\t<p class='kanji_back' id=Kanji>\n\t\t\t<span onclick=\"show_stroke_order();\">\n\t\t\t\t{{Kanji}}<b>[{{Strichanzahl}}]</b>\n\t\t\t</span>\n\t\t</p>\n\n\t\t<span onclick=\"toggle_language();\" style=\"display:block;\" id=German>\n\t\t\t<div class='meaning_back_card1' id=Meaning lang=de>{{Bedeutung}}</div>\n\t\t</span>\n\t\t<span onclick=\"toggle_language();\" id=English style=\"display:none;\">\n\t\t\t<div class='meaning_back_card1' id=Meaning lang=en>\n\t\t\t\t{{^Englische_Bedeutung}}{{Bedeutung}}{{/Englische_Bedeutung}}{{#Englische_Bedeutung}}{{Englische_Bedeutung}}{{/Englische_Bedeutung}}\n\t\t\t</div>\n\t\t</span>\n\t\t{{#Primitive}}\n\t\t\t<div class='primitives_back'>\n\t\t\t\tPrimitive: {{Primitive}}\n\t\t\t</div>\n\t\t{{/Primitive}}\n\t\t{{#Merksatz}}\n\t\t\t<hr>\n\t\t\t<div id='explanation' lang=de>\n\t\t\t\t{{Merksatz}}\n\t\t\t</div>\n\t\t{{/Merksatz}}\n\n\t\t{{#Notiz}}\n\t\t\t<div id='notes'>\n\t\t\t\t<u>Notiz:</u>\n\t\t\t\t{{Notiz}}\n\t\t\t</div>\n\t\t{{/Notiz}}\n\t{{#Komposita}}\n\t\t\t<div class=temp id=fill_composites_here style></div>\n\t{{/Komposita}}\n\n\t</div> <!-- card-content-->\n\t<div class=\"footer\">\n\t\t<div id=\"lesson\">Lektion {{Lektion}}</div>\n\t\t\t<div id=\"no\">\n\t\t\t\t{{#EUC-JP}}\n\t\t\t\t\t{{Index}}\n\t\t\t\t{{/EUC-JP}}\n\t\t\t\t{{^EUC-JP}}\n\t\t\t\t\t*\n\t\t\t\t{{/EUC-JP}}\n\t\t\t</div><!--no-->\n\t</div><!--footer-->\n</div><!--container-->\n<script><!-- script to dynamically generate composites layout-->\ngenerate_vocab();\n\nfunction generate_vocab(){\n\tlet composites = \"{{Komposita}}\".split(\"、\");\n\tlet readings = \"{{Komposita_Kana}}\".split(\"、\");\n\tlet meanings = \"{{Kompositabedeutung}}\".split(\"、\");\n\tlet readings_index = \"{{Index_Lesungen}}\".split(\", \");\t\n\n\t\tlet start = new String('<div class=row><span id=\"compounds\"><ruby style=\"ruby-position: over;\"><rb>');\nacc = \" \";\n\n\tfor (let i = 0;  i < composites.length; i++){\n\t\t\tacc += start  + composites[i] + '</rb><rt>' + readings[i] + '</rt></ruby><div class=readings_index>' + readings_index[i] +'</div></span><span id=\"composites_meaning\" class=temp_meaning lang=de>' + meanings[i] + '</span></div>';\n\t};\n\tdocument.getElementById('fill_composites_here').innerHTML= acc;\n};\n</script>\n\n\n<script><!--change colour of Kanji and Meaning if it's a primitive  symbol-->\n\t{{^EUC-JP}}\n\t\tdocument.getElementById(\"Kanji\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\ndocument.getElementById(\"Meaning\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t{{/EUC-JP}}\n</script>\n<script><!--toggle language on click on meaning -->\n\tfunction toggle_language() {\n\t{{#Englische_Bedeutung}} <!-- only switch to english meaning if there is one available (primitives don't have it sometimes)-->\n\t\tif(document.getElementById(\"English\").style.display == 'none'){\n\t\tdocument.getElementById(\"English\").style.display = \"block\";\n\t\tdocument.getElementById(\"German\").style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"German\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"English\").style.display = \"none\";\n\t\t}\n\t{{/Englische_Bedeutung}}\n\t}\n</script>\n\n<script><!-- change font type to show stroke order when clicking on kanji -->\n\tfunction show_stroke_order() {\n\t\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t\t}\n\t}\n</script>",
+                    "afmt": "<div class=\"container\" lang=de>\n\t<main>\n\t\t{{#EUC-JP}}\n\t\t\t<div class=\"links low-prio\">\n\t\t\t\t<a href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t{{/EUC-JP}}\n\t\t<div class='kanji_back_large'>\n\t\t\t<span class=\"med jap\" onclick=\"show_stroke_order();\" id=Kanji>{{Kanji}}</span><span class=\"strokes low-prio\">[{{Strichanzahl}}]</span>\n\t\t</div>\n\t\t<div id=German onclick=\"toggle_language();\"\n\t\t\t       class='meaning_back_card1 high meaning'>\n\t\t\t{{Bedeutung}}\n\t\t</div>\n\t\t<div id=English onclick=\"toggle_language();\"  lang=en\n\t\t\tclass='meaning_back_card1 high meaning'>\n\t\t\t\t{{Englische_Bedeutung}}\n\t\t</div>\n\t\t{{#Primitive}}\n\t\t<div class='primitives_back low-prio'>\n\t\t\tPrimitive: {{Primitive}}\n\t\t</div>\n\t\t{{/Primitive}}\n\t\t\t{{#Merksatz}}\n\t\t\t<hr>\n\t\t\t<div class='explanation'>\n\t\t\t\t{{Merksatz}}\n\t\t\t</div>\n\t\t{{/Merksatz}}\n\n\t\t{{#Notiz}}\n\t\t\t<div class='notes low-prio'>\n\t\t\t\t<u>Notiz:</u>\n\t\t\t\t{{Notiz}}\n\t\t\t</div>\n\t\t{{/Notiz}}\n\t\t{{#Komposita}}\n\t\t\t<div id=fill_composites_here></div>\n\t\t{{/Komposita}}\n\n\t</main>\n\t<footer class=low-prio>\n\t\t<div>Lektion {{Lektion}}</div>\n\t\t<div>\n\t\t\t{{#EUC-JP}}\n\t\t\t\t{{Index}}\n\t\t\t{{/EUC-JP}}\n\t\t\t{{^EUC-JP}}\n\t\t\t\t*\n\t\t\t{{/EUC-JP}}\n\t\t</div>\n\t</footer>\n</div><!--container-->\n\n<script>/*script to dynamically generate composites layout*/\ngenerate_vocab();\n\nfunction generate_vocab(){\n\tlet composites = \"{{Komposita}}\".split(\"、\");\n\tlet readings = \"{{Komposita_Kana}}\".split(\"、\");\n\tlet meanings = \"{{Kompositabedeutung}}\".split(\"、\");\n\tlet readings_index = \"{{Index_Lesungen}}\".split(\", \");\n\n\tlet start = new String('<div class=row><span class=\"compounds med\"><ruby style=\"ruby-position: over;\"><rb>');\n\tacc = \" \";\n\n\tfor (let i = 0;  i < composites.length; i++){\n\t\t\tacc += start  + composites[i] + '</rb><rt>' + readings[i] + '</rt></ruby><div class=\"readings_index low-prio\">' + readings_index[i] +'</div></span><span class=\"med comp_meaning\" lang=de>' + meanings[i] + '</span></div>';\n\t};\n\tdocument.getElementById('fill_composites_here').innerHTML= acc;\n};\n</script>\n\n<script>/*change colour of Kanji and Meaning if it's a primitive  symbol*/\n\t{{^EUC-JP}}\n\t\tdocument.getElementById(\"Kanji\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n       var meaning_els = document.getElementsByClassName(\"meaning\");\nfor(var i = 0; i < meaning_els.length; i++){\n\tmeaning_els[i].style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n}\n\t{{/EUC-JP}}\n</script>\n<script>/*toggle language on click on meaning*/\n\tfunction toggle_language() {\n\t{{#Englische_Bedeutung}} /* only switch to english meaning if there is one available (primitives don't have it sometimes)*/\n\t\tif(document.getElementById(\"English\").style.display == 'none'){\n\t\tdocument.getElementById(\"English\").style.display = \"block\";\n\t\tdocument.getElementById(\"German\").style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"German\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"English\").style.display = \"none\";\n\t\t}\n\t{{/Englische_Bedeutung}}\n\t}\n</script>\n\n<script>/* change font type to show stroke order when clicking on kanji */\n\tfunction show_stroke_order() {\n\t\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t\t}\n\t}\n</script>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -254,10 +271,10 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "<div class=\"container\">\n\t<div class=\"card-content\">\n\t\t{{#EUC-JP}}\n\t\t\t<div id=\"links\">\n\t\t\t\t<a  href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t{{/EUC-JP}}\n\t\t<div class='kanji'>\n\t\t\t<span onclick=\"ShowStrokeOrder();\" id=\"Kanji\">\n\t\t\t\t{{Kanji}}<b>[{{Strichanzahl}}]</b>\n\t\t\t</span>\n\t\t</div>\n\t\t<div class=temp id=fill_composites_here style>\n\t\t</div>\t\n</div>\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{#EUC-JP}}\n\t\t\t\t{{Index}}\n\t\t\t{{/EUC-JP}}\n\t\t\t{{^EUC-JP}}\n\t\t\t\t*\n\t\t\t{{/EUC-JP}}\n\t\t</div><!-- no-->\n\t\t<div id=\"lesson\">Lektion {{Lektion}}</div>\n\t</div><!-- footer -->\n</div><!-- container -->\n\n<script><!-- dynamically generate composite layout for front -->\ngenerate_vocab();\n\nfunction generate_vocab(){\n\tlet composites = \"{{Komposita}}\".split(\"、\");\n\n\tstart= '<div id=\"compounds_only\"><ruby><rb>';\n\tacc = \"\";\n\n\tfor (let i = 0;  i < composites.length; i++){\n\t\tacc += start + composites[i] + '</rb></ruby></div>';\n\t};\n\tdocument.getElementById('fill_composites_here').innerHTML= acc;\n};\n</script>\n\n<script><!-- display primitives in a greyed out colour -->\n\t{{^EUC-JP}}\n\t\tdocument.getElementById(\"Kanji\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t{{/EUC-JP}}\n</script>\n\n<script><!-- show stroke order when clicking on kanji -->\n\tfunction ShowStrokeOrder() {\n\t\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t\t}\n\t}\n</script>"
+                    "qfmt": "<div class=\"container\" lang=de>\n\t<main>\n\t\t{{#EUC-JP}}\n\t\t\t<div class=\"links low-prio\">\n\t\t\t\t<a href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t{{/EUC-JP}}\n\t\t<div class='kanji_front'>\n\t\t\t<span class=\"jap high\"  onclick=\"show_stroke_order();\" id=\"Kanji\">{{Kanji}}</span><span class=\"strokes low-prio\">[{{Strichanzahl}}]</span>\n\t\t</div>\n\t<div class=\"compounds_only jap\" id=fill_composites_here></div>\n\t</main>\n\t<footer class=low-prio>\n\t\t<div>Lektion {{Lektion}}</div>\n\t\t<div>\n\t\t\t{{#EUC-JP}}\n\t\t\t\t{{Index}}\n\t\t\t{{/EUC-JP}}\n\t\t\t{{^EUC-JP}}\n\t\t\t\t*\n\t\t\t{{/EUC-JP}}\n\t\t</div>\n\t</footer>\n</div><!-- container -->\n\n<script>/* dynamically generate composite layout for front */\ngenerate_vocab();\n\nfunction generate_vocab(){\n\tlet composites = \"{{Komposita}}\".split(\"、\");\n\n\tstart= '<div class=\"compounds med\"><ruby><rb>';\n\tacc = \"\";\n\n\tfor (let i = 0;  i < composites.length; i++){\n\t\tacc += start + composites[i] + '</rb></ruby></div>';\n\t};\n\tdocument.getElementById('fill_composites_here').innerHTML= acc;\n};\n</script>\n\n<script>/* display primitives in a greyed out colour */\n\t{{^EUC-JP}}\n\t\tdocument.getElementById(\"Kanji\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t{{/EUC-JP}}\n</script>\n\n<script>/* show stroke order when clicking on kanji */\n\tfunction show_stroke_order() {\n\t\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t\t}\n\t}\n</script>\n"
                 },
                 {
-                    "afmt": "<div class=\"container\">\n\t<div class=\"card-content\" lang=de>\n\t\t{{#EUC-JP}}\n\t\t\t<div id=\"links\">\n\t\t\t\t<a href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t{{/EUC-JP}}\n\n\t\t<span onclick=\"toggle_language();\" style=\"display:block;\" id=German>\n\t\t\t<div class='meaning_back' id=Meaning>{{Bedeutung}}<br>\n\t\t\t\t{{#Primitive}} \n\t\t\t\t\t<span class=primitives_back>Primitive: {{Primitive}}</span>\n\t\t\t\t{{/Primitive}}\n\t\t\t</div>\n\t\t</span>\n\t\t<span onclick=\"toggle_language();\" id=English style=\"display:none;\">\n\t\t\t<div class='meaning_back' id=Meaning>{{Englische_Bedeutung}}<br>\n\t\t\t\t{{#Primitive}} \n\t\t\t\t\t\t<span class=primitives_back><i>Primitive: {{Primitive}}</i></span>\n\t\t\t\t{{/Primitive}}\n\t\t\t</div>\n\t\t</span>\n\n\t\t<div class='kanji_card2'>\n\t\t\t<span onclick=\"show_stroke_order();\" id=\"Kanji\">\n\t\t\t\t{{Kanji}}<b>[{{Strichanzahl}}]</b>\n\t\t\t</span>\n\t\t</div>\n\n\t\t{{#Merksatz}}\n\t\t\t<hr>\n\t\t{{/Merksatz}}\n\t\t<div id='explanation' lang=de>\n\t\t\t{{Merksatz}}\n\t\t</div>\n\n\t\t{{#Notiz}}\n\t\t\t<div id='notes'>\n\t\t\t\t<u>Notiz:</u>\n\t\t\t\t{{Notiz}}\n\t\t\t</div>\n\t\t{{/Notiz}}\n\n\t{{#Komposita}}\n\t\t\t<div class=temp id=fill_composites_here style></div>\n\t{{/Komposita}}\n\t</div>\n\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{#EUC-JP}}\n\t\t\t\t{{Index}}\n\t\t\t{{/EUC-JP}}\n\t\t\t{{^EUC-JP}}\n\t\t\t\t*\n\t\t\t{{/EUC-JP}}\n\t\t</div>\n\t\t<div id=\"lesson\">Lektion {{Lektion}}</div>\n\t</div>\n</div>\n\n\n<script><!-- script to dynamically generate composites layout-->\ngenerate_vocab();\n\nfunction generate_vocab(){\n\tlet composites = \"{{Komposita}}\".split(\"、\");\n\tlet readings = \"{{Komposita_Kana}}\".split(\"、\");\n\tlet meanings = \"{{Kompositabedeutung}}\".split(\"、\");\n\tlet readings_index = \"{{Index_Lesungen}}\".split(\", \");\t\n\n\t\tlet start = new String('<div class=row><span id=\"compounds\"><ruby style=\"ruby-position: over;\"><rb>');\nacc = \" \";\n\n\tfor (let i = 0;  i < composites.length; i++){\n\t\t\tacc += start  + composites[i] + '</rb><rt>' + readings[i] + '</rt></ruby><div class=readings_index>' + readings_index[i] +'</div></span><span id=\"composites_meaning\" class=temp_meaning lang=de>' + meanings[i] + '</span></div>';\n\t};\n\tdocument.getElementById('fill_composites_here').innerHTML= acc;\n};\n</script>\n\n\n<script><!--change colour of Kanji and Meaning if it's a primitive  symbol-->\n\t{{^EUC-JP}}\n\t\tdocument.getElementById(\"Kanji\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\ndocument.getElementById(\"Meaning\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t{{/EUC-JP}}\n</script>\n<script><!--toggle language on click on meaning -->\n\tfunction toggle_language() {\n\t{{#Englische_Bedeutung}} <!-- only switch to english meaning if there is one available (primitives don't have it sometimes)-->\n\t\tif(document.getElementById(\"English\").style.display == 'none'){\n\t\tdocument.getElementById(\"English\").style.display = \"block\";\n\t\tdocument.getElementById(\"German\").style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"German\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"English\").style.display = \"none\";\n\t\t}\n\t{{/Englische_Bedeutung}}\n\t}\n</script>\n\n<script><!-- change font type to show stroke order when clicking on kanji -->\n\tfunction show_stroke_order() {\n\t\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t\t}\n\t}\n</script>",
+                    "afmt": "<div class=\"container\" lang=de>\n\t<main>\n\t\t{{#EUC-JP}}\n\t\t\t<div class=\"links low-prio\">\n\t\t\t\t<a href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t{{/EUC-JP}}\n\n\t\t<div onclick=\"toggle_language();\" id=German class=\"meaning_back meaning\">\n\t\t\t{{Bedeutung}}\n\t\t</div>\n\t\t<div onclick=\"toggle_language();\" id=English class=\"meaning_back meaning\" lang=en>\n\t\t\t\t{{Englische_Bedeutung}}\n\t\t</div>\n\t\t{{#Primitive}}\n\t\t\t<div class=primitives_back>Primitive: {{Primitive}}</div>\n\t\t{{/Primitive}}\n\n\t\t<div class=\"kanji_back_large\">\n\t\t\t<span class=\"high jap\" id=\"Kanji\" onclick=\"show_stroke_order();\">{{Kanji}}</span><span class=\"strokes low-prio\">[{{Strichanzahl}}]</span>\n\t\t</div>\n\t\t{{#Merksatz}}\n\t\t\t<hr>\n\t\t{{/Merksatz}}\n\t\t<div class='explanation'>\n\t\t\t{{Merksatz}}\n\t\t</div>\n\n\t\t{{#Notiz}}\n\t\t\t<div class='notes low-prio'>\n\t\t\t\t<u>Notiz:</u>\n\t\t\t\t{{Notiz}}\n\t\t\t</div>\n\t\t{{/Notiz}}\n\n\t\t{{#Komposita}}\n\t\t\t<div id=fill_composites_here style></div>\n\t\t{{/Komposita}}\n\t</main>\n\n\t<footer class=low-prio>\n\t\t<div>Lektion {{Lektion}}</div>\n\t\t<div>\n\t\t\t{{#EUC-JP}}\n\t\t\t\t{{Index}}\n\t\t\t{{/EUC-JP}}\n\t\t\t{{^EUC-JP}}\n\t\t\t\t*\n\t\t\t{{/EUC-JP}}\n\t\t</div>\n\t</footer>\n</div>\n\n<script>/*script to dynamically generate composites layout*/\ngenerate_vocab();\n\nfunction generate_vocab(){\n\tlet composites = \"{{Komposita}}\".split(\"、\");\n\tlet readings = \"{{Komposita_Kana}}\".split(\"、\");\n\tlet meanings = \"{{Kompositabedeutung}}\".split(\"、\");\n\tlet readings_index = \"{{Index_Lesungen}}\".split(\", \");\n\n\tlet start = new String('<div class=row><span class=\"compounds med\"><ruby><rb>');\n\tacc = \" \";\n\n\tfor (let i = 0;  i < composites.length; i++){\n\t\t\tacc += start  + composites[i] + '</rb><rt>' + readings[i] + '</rt></ruby><div class=\"readings_index low-prio\">' + readings_index[i] +'</div></span><span class=\"med comp_meaning\" lang=de>' + meanings[i] + '</span></div>';\n\t};\n\tdocument.getElementById('fill_composites_here').innerHTML= acc;\n};\n</script>\n\n<script>/*change colour of Kanji and Meaning if it's a primitive  symbol*/\n\t{{^EUC-JP}}\n\t\tdocument.getElementById(\"Kanji\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t\tvar meaning_els = document.getElementsByClassName(\"meaning\");\n\t\tfor(var i = 0; i < meaning_els.length; i++){\n\t\t\tmeaning_els[i].style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t\t}\n\t{{/EUC-JP}}\n</script>\n<script>/*toggle language on click on meaning */\n\tfunction toggle_language() {\n\t{{#Englische_Bedeutung}} /* only switch to english meaning if there is one available (primitives don't have it sometimes)*/\n\t\tif(document.getElementById(\"English\").style.display == 'none'){\n\t\tdocument.getElementById(\"English\").style.display = \"block\";\n\t\tdocument.getElementById(\"German\").style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"German\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"English\").style.display = \"none\";\n\t\t}\n\t{{/Englische_Bedeutung}}\n\t}\n</script>\n\n<script>/* change font type to show stroke order when clicking on kanji */\n\tfunction show_stroke_order() {\n\t\tif(document.getElementById(\"Kanji\").style.fontFamily == 'kanji_strokeorder'){\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"IPAGothic\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"Kanji\").style.fontFamily=\"kanji_strokeorder\";\n\t\t}\n\t}\n</script>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -265,7 +282,7 @@
                     "did": null,
                     "name": "Card 2",
                     "ord": 1,
-                    "qfmt": "<div class=\"container\">\n\t<div class=\"card-content\" lang=de>\n\t\t{{#EUC-JP}}\n\t\t\t<div id=\"links\">\n\t\t\t\t<a href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t{{/EUC-JP}}\n\t\t<span onclick=\"toggle_language();\" style=\"display:block;\" id=German>\n\t\t\t<div class=meaning id=Meaning>{{Bedeutung}}</div>\n\t\t</span>\n\t\t<span onclick=\"toggle_language();\" id=English style=\"display:none;\">\n\t\t\t<div class='meaning' id=Meaning>{{^Englische_Bedeutung}}{{Bedeutung}}{{/Englische_Bedeutung}}{{#Englische_Bedeutung}}{{Englische_Bedeutung}}{{/Englische_Bedeutung}}\n\t\t\t</div>\n\t\t</span>\n\t</div>\n\t<div class=\"footer\">\n\t\t<div id=\"no\">\n\t\t\t{{#EUC-JP}}\n\t\t\t\t{{Index}}\n\t\t\t{{/EUC-JP}}\n\t\t\t{{^EUC-JP}}\n\t\t\t\t*\n\t\t\t{{/EUC-JP}}\n\t\t</div>\n\t\t<div id=\"lesson\">Lektion {{Lektion}}</div>\n\t</div>\n</div>\n<script> <!-- grey out primitives to destinguish them from actual kanjis -->\n\t{{^EUC-JP}}\tdocument.getElementById(\"Meaning\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t{{/EUC-JP}}\n</script>\n\n<script><!-- toggle language when clicking on meaning -->\n\tfunction toggle_language() {\n\t{{#Englische_Bedeutung}}\n\t\tif(document.getElementById(\"English\").style.display == 'none'){\n\t\t\tdocument.getElementById(\"English\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"German\").style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"German\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"English\").style.display = \"none\";\n\t\t}\n\t{{/Englische_Bedeutung}}\n\t{{^EUC-JP}}\tdocument.getElementById(\"Meaning\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t{{/EUC-JP}}\n\t}\n</script>"
+                    "qfmt": "<div class=\"container\">\n\t<main>\n\t\t{{#EUC-JP}}\n\t\t\t<div class=\"links low-prio\">\n\t\t\t\t<a href=\"http://jisho.org/search/{{Kanji}}\">jisho</a>\n\t\t\t\t<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?1MDJ{{EUC-JP}}\">JDIC</a>\n\t\t\t\t<a href=\"https://kanji.koohii.com/study/kanji/{{Kanji}}\">koohii</a>\n\t\t\t</div>\n\t\t\t{{/EUC-JP}}\n\t\t<span onclick=\"toggle_language();\" id=German>\n\t\t\t<div class=\"high meaning_front\">{{Bedeutung}}</div>\n\t\t</span>\n\t\t<span onclick=\"toggle_language();\" id=English style=\"display:none;\">\n\t\t\t<div class='high meaning_front'>{{Englische_Bedeutung}}\n\t\t\t</div>\n\t\t</span>\n\t</main>\n\t<footer class=low-prio>\n\t\t<div>Lektion {{Lektion}}</div>\n\t\t<div>\n\t\t\t{{#EUC-JP}}\n\t\t\t\t{{Index}}\n\t\t\t{{/EUC-JP}}\n\t\t\t{{^EUC-JP}}\n\t\t\t\t*\n\t\t\t{{/EUC-JP}}\n\t\t</div>\n\t</footer>\n</div>\n<script>/*change colour of Meaning if it's a primitive  symbol*/\n\t{{^EUC-JP}}\n       var meaning_els = document.getElementsByClassName(\"meaning_front\");\nfor(var i = 0; i < meaning_els.length; i++){\n\tmeaning_els[i].style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n}\n\t{{/EUC-JP}}\n</script>\n\n<script>/* toggle language when clicking on meaning */\n\tfunction toggle_language() {\n\t{{#Englische_Bedeutung}}\n\t\tif(document.getElementById(\"English\").style.display == 'none'){\n\t\t\tdocument.getElementById(\"English\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"German\").style.display = \"none\";\n\t\t}\n\t\telse{\n\t\t\tdocument.getElementById(\"German\").style.display = \"block\";\n\t\t\tdocument.getElementById(\"English\").style.display = \"none\";\n\t\t}\n\t{{/Englische_Bedeutung}}\n\t{{^EUC-JP}}\tdocument.getElementById(\"Meaning\").style.color=getComputedStyle(document.documentElement).getPropertyValue('--least-important');\n\t{{/EUC-JP}}\n\t}\n</script>\n"
                 }
             ],
             "type": 0,
@@ -7133,7 +7150,7 @@
                 "",
                 "狩猟",
                 "しゅりょう",
-                "Jagd (auf wild)",
+                "Jagd (auf Wild)",
                 "",
                 "11",
                 "%BC%ED",
@@ -7458,7 +7475,7 @@
                 "",
                 "都合、合戦",
                 "つごう、かっせん",
-                "Umstände; Gelegenheit、Schlacth; Kampf",
+                "Umstände; Gelegenheit、Schlacht; Kampf",
                 "",
                 "12",
                 "%B9%E7",
@@ -20758,7 +20775,7 @@
                 "",
                 "捕獲",
                 "ほかく",
-                "Fange (eines Tiers)",
+                "Fang (z.B. eines Tiers)",
                 "",
                 "23",
                 "%B3%CD",
@@ -23236,7 +23253,7 @@
                 "訴訟",
                 "そしょう",
                 "Prozess; Rechtsstreit",
-                "<ruby>訴<rt>うった</rt></ruby>える ist jedoch das gängige Verb für \"verklagen\".",
+                "<ruby>訴<rt>うった</rt></ruby>える ist jedoch das gängige Verb für <q>verklagen</q>",
                 "24",
                 "%BE%D9",
                 "sue",
@@ -25383,9 +25400,9 @@
                 "hinzufügen",
                 "Der menschliche <i>Mund</i> ist eine so organisch gewachsene, mimisch-kulturell so gefestigte Einheit, dass das <b>Hinzufügen</b> eines <i>Muskels</i> wirken würde, als wäre er völlig fehl am Platz (z.B. wie hier im Kanji auf der völlig ungeeigneten linken Seite - dem <i>Mund</i> ist nichts <b>hinzuzufügen</b>).",
                 "",
-                "加入、加入　かにゅう",
-                "かにゅう、Eintritt; Beitritt",
-                "Eintritt; Beitritt、",
+                "加入",
+                "かにゅう",
+                "Eintritt; Beitritt",
                 "",
                 "25",
                 "%B2%C3",
@@ -25394,7 +25411,7 @@
                 "か、カ",
                 "くわ.える、くわ.わる",
                 "",
-                "L-25, L-891"
+                "L-25/L-891"
             ],
             "guid": "LZ+2gsPzhH",
             "note_model_uuid": "1d40ef02-c9ff-11ea-ab22-9cb6d013a4a3",
@@ -35706,7 +35723,7 @@
                 "97*",
                 "弗",
                 "Dollar",
-                "<i>Pikgtogramm</i>. <i>Zwei Spazierstöcke</i> durch einen <i>Bogen</i>.",
+                "<i>Piktogramm</i>. <i>Zwei Spazierstöcke</i> durch einen <i>Bogen</i>.",
                 "",
                 "",
                 "",
@@ -37931,7 +37948,7 @@
                 "1408",
                 "隣",
                 "nebenan",
-                "Wenn der <i>Burgherr</i> nach <b>nebenan</b> geht, um beim Nachbarn nach etwas <i>Reis</i> zu fragen, benutzt er immer die <i>Sonnenbrille</i>, in der - naiven - Hoffnung, er werde nicht erkannt.",
+                "Wenn der <i>Burg</i>herr nach <b>nebenan</b> geht, um beim Nachbarn nach etwas <i>Reis</i> zu fragen, benutzt er immer die <i>Sonnenbrille</i>, in der - naiven - Hoffnung, er werde nicht erkannt.",
                 "",
                 "隣人",
                 "りんじん",
@@ -38335,7 +38352,7 @@
                 "",
                 "困窮",
                 "こんきゅう",
-                "Armut; bedürftigkeit",
+                "Armut; Bedürftigkeit",
                 "",
                 "35",
                 "%B5%E7",
@@ -39260,7 +39277,7 @@
                 "",
                 "経験、華厳経",
                 "けいけん、けごんきょう",
-                "Erfahrung、Die Avatamska-Sutra, ein insbesondere von der Kegon (huayen)-Sekte verehrter Buddhistischer Text",
+                "Erfahrung、Die <i>Avatamska</i>-Sutra, ein insbesondere von der Kegon (Huayen)-Sekte verehrter Buddhistischer Text",
                 "",
                 "36",
                 "%B7%D0",
