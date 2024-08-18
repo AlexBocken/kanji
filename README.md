@@ -25,7 +25,7 @@ These will not be as up-to-date as the `json` files used by CrowndAnki.
 
 ## Contributing
 
-If you find a mistake, or have other ideas on how to improve the deck, please don't hesitate to [open a new issue](https://github.com/blinry/anki-fonts/issues)!
+If you find a mistake, or have other ideas on how to improve the deck, please don't hesitate to [open a new issue](https://github.com/AlexBocken/kanji/issues)!
 
 This deck is maintained using the [CrowdAnki](https://github.com/Stvad/CrowdAnki) add-on. If you want to contribute corrections or improvements yourself, follow these steps:
 
@@ -51,7 +51,6 @@ Formatting on the cards has been improved. As can be seen in the above pictures.
 
 ## Readings
 I've pulled all available On- Kun- and Nanori-readings from http://nihongo.monash.edu/ using a script.
-These readings are not (yet?) displayed on the cards themselves but are listed in the notes.
 If you want to see my awful coding practices for such one off stuff which just needs to generate a file once, look into the `scripts` branch of this git repository.
 
 ## Fonts
